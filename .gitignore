@@ -1,0 +1,6 @@
+# Feedback queue (runtime data)
+.feedback/
+
+# OS files
+.DS_Store
+Thumbs.db
