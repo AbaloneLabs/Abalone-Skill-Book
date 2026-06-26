@@ -11,32 +11,92 @@ Each skill is a concise checklist of invariants, common traps, and a self-check 
 ## Structure
 
 ```
-<role>/<stack>/<domain>/<skill-name>/SKILL.md
+<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md
 ```
 
 - **role** - the agent's responsibility (e.g. `programmer`)
 - **stack** - the technology (e.g. `rust`)
-- **domain** - the area of work (e.g. `programming`, `tauri`, `web`, `security`)
+- **domain** - the area of work (e.g. `core`, `web`, `gamedev`)
+- **framework** *(optional)* - when a domain splits by framework (e.g. `axum`, `bevy`)
 - **skill** - the specific concern (e.g. `ownership-and-borrowing`)
 
-Example:
+## How It Works
+
+When an agent works on a task, it loads the skills relevant to that task. For example, working on a Solana program loads everything under `programmer/rust/blockchain/solana/`. The skills remind the agent of invariants and pitfalls specific to that context.
+
+## Current Coverage
+
+### `programmer/rust/`
 
 ```
-programmer/rust/
-├── programming/
-│   ├── ownership-and-borrowing/SKILL.md
-│   ├── error-handling/SKILL.md
-│   ├── concurrency/SKILL.md
-│   └── unsafe-rust/SKILL.md
-├── tauri/
-│   ├── ipc/SKILL.md
-│   └── permissions/SKILL.md
-├── web/
-│   ├── async-handlers/SKILL.md
-│   └── error-responses/SKILL.md
-└── security/
-    ├── input-validation/SKILL.md
-    └── cryptography/SKILL.md
+rust/
+├── core/                    # Language fundamentals (all domains share these)
+│   ├── ownership-and-borrowing/
+│   ├── error-handling/
+│   ├── concurrency/
+│   ├── unsafe-rust/
+│   ├── cryptography/
+│   └── input-validation/
+│
+├── testing/                 # Cross-cutting
+├── observability/           # Cross-cutting (tracing, logging, metrics)
+├── serialization/           # Cross-cutting (serde, formats)
+├── config/                  # Cross-cutting
+├── build/                   # Cargo, workspaces, feature flags
+├── ffi/                     # Foreign function interface
+│   ├── c/
+│   ├── python/
+│   └── node/
+│
+├── web/                     # Web backend
+│   ├── axum/
+│   ├── actix-web/
+│   └── rocket/
+├── cli/                     # Command-line tools
+├── gui/                     # Native desktop GUI
+│   ├── egui/
+│   ├── iced/
+│   ├── slint/
+│   └── dioxus/
+├── tauri/                   # Web-based desktop apps
+│   ├── ipc/
+│   └── permissions/
+├── mobile/                  # Android / iOS
+├── wasm/                    # WebAssembly target
+├── embedded/                # no_std, microcontrollers
+├── systems/                 # OS / kernel / drivers
+│
+├── gamedev/                 # Game development
+│   ├── bevy/
+│   ├── godot/
+│   ├── macroquad/
+│   └── fyrox/
+├── graphics/                # GPU / rendering
+│   ├── wgpu/
+│   └── vulkano/
+├── audio/                   # Audio processing
+├── networking/              # Network protocols
+│   ├── tokio/
+│   ├── hyper/
+│   └── tonic/
+├── database/                # DB clients (sqlx, diesel)
+├── blockchain/              # Smart contracts / chains
+│   ├── solana/
+│   ├── substrate/
+│   └── cosmwasm/
+├── ml-ai/                   # Machine learning
+│   ├── burn/
+│   ├── candle/
+│   ├── tch-rs/
+│   └── ort/
+├── parser/                  # Parsers / compilers
+│   ├── nom/
+│   ├── pest/
+│   ├── lalrpop/
+│   └── winnow/
+├── scientific/              # Numerical / scientific computing
+├── robotics/                # Robotics (ROS2)
+└── cloud/                   # Cloud-native (k8s operators)
 ```
 
 ## Skill Format
@@ -48,6 +108,6 @@ Every skill is a single `SKILL.md` with YAML frontmatter (`name`, `description`)
 
 ## How to Add a Skill
 
-1. Create `<role>/<stack>/<domain>/<skill-name>/SKILL.md`
+1. Create `<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md`
 2. Write the frontmatter `name` and `description` (this is how the skill is discovered and triggered)
 3. Write the body as a reminder checklist, not a tutorial
