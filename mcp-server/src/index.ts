@@ -21,8 +21,8 @@ import {
   updateSkill,
   deleteSkill,
   isValidPath,
+  searchSkills,
 } from "./skills.js";
-import { submitFeedback } from "./feedback.js";
 
 /**
  * Abalone Skills MCP Server
@@ -163,17 +163,19 @@ const TOOLS = [
     },
   },
   {
-    name: "submit_feedback",
+    name: "search_skills",
     description:
-      "Submit feedback or a correction for a skill. Feedback is queued for review and does not modify the skill directly. Use this to report issues, suggest improvements, or note missing pitfalls.",
+      "Search skills by keyword across name, description, path, and body content. Use this when you don't know the exact path. Returns matching skills ranked by relevance.",
     inputSchema: {
       type: "object",
       properties: {
-        path: { type: "string", description: "The skill path the feedback relates to." },
-        content: { type: "string", description: "The feedback content." },
+        query: {
+          type: "string",
+          description: "The search query (matched against name, description, path, and body).",
+        },
         __sessionId: { type: "string" },
       },
-      required: ["path", "content"],
+      required: ["query"],
     },
   },
 ];
@@ -276,10 +278,22 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
         return text(`Skill deleted at ${args.path}`);
       }
 
-      case "submit_feedback": {
-        const fb = await submitFeedback(String(args.path), String(args.content));
+      case "search_skills": {
+        const query = String(args.query ?? "").trim();
+        if (!query) {
+          return error("A search query is required.");
+        }
+        const results = await searchSkills(query);
+        if (results.length === 0) {
+          return text(`No skills matched '${query}'.`);
+        }
         return text(
-          `Feedback submitted (id: ${fb.id}). It has been queued for review and will be considered for inclusion. Thank you!`
+          results
+            .map(
+              (s) =>
+                `**${s.path}** (${s.score} match${s.score > 1 ? "es" : ""})\n  ${s.name}: ${s.description}`
+            )
+            .join("\n\n")
         );
       }
 

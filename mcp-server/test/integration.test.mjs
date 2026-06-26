@@ -8,7 +8,8 @@
  *   3. list_skills with session          -> should work
  *   4. get_skill                         -> should return content
  *   5. create_skill + get_skill + delete -> round-trip
- *   6. submit_feedback                   -> should succeed
+ *   6. search_skills                          -> should find relevant skills
+ *   7. search_skills (no matches)             -> empty result message
  */
 
 import { spawn } from "node:child_process";
@@ -196,21 +197,37 @@ async function main() {
     );
   }
 
-  console.log("\n6. submit_feedback (should succeed)");
+  console.log("\n6. search_skills (should find relevant skills)");
   {
     const res = await client.send("tools/call", {
-      name: "submit_feedback",
+      name: "search_skills",
       arguments: {
         __sessionId: sessionId,
-        path: "programmer/rust/core/concurrency",
-        content: "Test feedback from integration test.",
+        query: "ownership",
       },
     });
     const text = res.result?.content?.[0]?.text ?? "";
-    assert(text.includes("Feedback submitted"), "Feedback accepted");
+    assert(
+      text.includes("ownership-and-borrowing"),
+      "Search finds ownership-and-borrowing skill"
+    );
+    assert(!res.result?.isError, "No error");
   }
 
-  console.log("\n7. Invalid path rejection");
+  console.log("\n7. search_skills with no matches");
+  {
+    const res = await client.send("tools/call", {
+      name: "search_skills",
+      arguments: {
+        __sessionId: sessionId,
+        query: "nonexistent-term-xyz123",
+      },
+    });
+    const text = res.result?.content?.[0]?.text ?? "";
+    assert(text.includes("No skills matched"), "Empty search returns no-match message");
+  }
+
+  console.log("\n8. Invalid path rejection");
   {
     const res = await client.send("tools/call", {
       name: "create_skill",

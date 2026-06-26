@@ -97,18 +97,14 @@ Example:
 delete_skill(path: "programmer/rust/core/old-skill")
 \`\`\`
 
-### submit_feedback
-Submit feedback or a correction for a skill. Feedback is queued for review and does not modify the skill directly.
+### search_skills
+Search skills by keyword across name, description, path, and body content. Use this when you don't know the exact path. Results are ranked by relevance.
 
 Example:
 \`\`\`
-submit_feedback(
-  path: "programmer/rust/core/concurrency",
-  content: "The deadlock section should mention tokio::sync::Mutex as an alternative when locks must be held across await points."
-)
+search_skills(query: "deadlock")
 \`\`\`
 
 ## Session Requirement
-
 You must read this guide (via the \`get_usage_guide\` tool) at least once before using other tools. This requirement resets every ${"3 days"}, so re-read periodically to stay current.
 `;
