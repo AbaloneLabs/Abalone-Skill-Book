@@ -4,8 +4,8 @@ import type { Dirent } from "node:fs";
 import { join, dirname } from "node:path";
 import matter from "gray-matter";
 
-/** Absolute path to the skills repository root. */
-const SKILLS_ROOT = join(import.meta.dirname, "..", "..");
+/** Absolute path to the skills repository root (the `skills/` directory). */
+const SKILLS_ROOT = join(import.meta.dirname, "..", "..", "skills");
 
 const SKILL_FILENAME = "SKILL.md";
 

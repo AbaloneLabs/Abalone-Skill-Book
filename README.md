@@ -11,7 +11,7 @@ Each skill is a concise checklist of invariants, common traps, and a self-check 
 ## Structure
 
 ```
-<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md
+skills/<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md
 ```
 
 - **role** - the agent's responsibility (e.g. `programmer`)
@@ -22,11 +22,11 @@ Each skill is a concise checklist of invariants, common traps, and a self-check 
 
 ## How It Works
 
-When an agent works on a task, it loads the skills relevant to that task. For example, working on a Solana program loads everything under `programmer/rust/blockchain/solana/`. The skills remind the agent of invariants and pitfalls specific to that context.
+When an agent works on a task, it loads the skills relevant to that task. For example, working on a Solana program loads everything under `skills/programmer/rust/blockchain/solana/`. The skills remind the agent of invariants and pitfalls specific to that context.
 
 ## Current Coverage
 
-### `programmer/rust/`
+### `skills/programmer/rust/`
 
 ```
 rust/
@@ -108,6 +108,6 @@ Every skill is a single `SKILL.md` with YAML frontmatter (`name`, `description`)
 
 ## How to Add a Skill
 
-1. Create `<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md`
+1. Create `skills/<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md`
 2. Write the frontmatter `name` and `description` (this is how the skill is discovered and triggered)
 3. Write the body as a reminder checklist, not a tutorial
