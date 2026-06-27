@@ -1,3 +1,19 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Rust build artifacts
+mcp-server/target/
+target/
+
+# Local embedding model assets
+models/
+
+# SQLite database files (runtime data)
+.abalone/
+*.db
+*.db-wal
+*.db-shm
+
+# Embedding index cache (runtime data)
+.skill-index.json

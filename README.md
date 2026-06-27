@@ -1,113 +1,151 @@
-# Abalone Skills
+# Abalone Skill Book
 
-A library of skills that remind AI agents what to watch for when performing specific tasks.
+`abalone-skill-book` is an MCP server for agents, built under the Abalone brand.
+
+It recommends guidance documents before an agent starts meaningful work, records which guidance documents the agent actually opens, and returns completion self-checks from those opened documents before the agent claims the work is done.
 
 ## Purpose
 
-Agents already know *how* to do things. These skills exist to **remind** them what to be careful about and what to follow - the pitfalls and rules that are easy to lose track of while juggling complex work.
+Agents often know how to execute a task but miss constraints while working.
 
-Each skill is a concise checklist of invariants, common traps, and a self-check section. Not a tutorial.
+Examples:
 
-## Structure
+- API work can accidentally expose private persistence fields.
+- Investment analysis can skip downside scenarios or liquidity conditions.
+- UI work can miss accessibility, state, or touch target constraints.
 
+Abalone Skill Book stores those easy-to-miss considerations as reusable skills and serves them at the right point in the agent workflow.
+
+## Runtime Flow
+
+```text
+recommend_skills(intent, context?, domain?, domain_mode?, stack?, changed_files?, limit?)
+get_skill(path)
+get_completion_checklist(recommendation_id?)
 ```
-skills/<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md
-```
 
-- **role** - the agent's responsibility (e.g. `programmer`)
-- **stack** - the technology (e.g. `rust`)
-- **domain** - the area of work (e.g. `core`, `web`, `gamedev`)
-- **framework** *(optional)* - when a domain splits by framework (e.g. `axum`, `bevy`)
-- **skill** - the specific concern (e.g. `ownership-and-borrowing`)
+The recommendation call returns a ranked list of up to 8 skill summaries. It does not return skill bodies.
 
-## How It Works
+The agent chooses which skills to open. `get_skill(path)` returns the full `SKILL.md` and records that the skill was opened in the active MCP session.
 
-When an agent works on a task, it loads the skills relevant to that task. For example, working on a Solana program loads everything under `skills/programmer/rust/blockchain/solana/`. The skills remind the agent of invariants and pitfalls specific to that context.
-
-## Current Coverage
-
-### `skills/programmer/rust/`
-
-```
-rust/
-├── core/                    # Language fundamentals (all domains share these)
-│   ├── ownership-and-borrowing/
-│   ├── error-handling/
-│   ├── concurrency/
-│   ├── unsafe-rust/
-│   ├── cryptography/
-│   └── input-validation/
-│
-├── testing/                 # Cross-cutting
-├── observability/           # Cross-cutting (tracing, logging, metrics)
-├── serialization/           # Cross-cutting (serde, formats)
-├── config/                  # Cross-cutting
-├── build/                   # Cargo, workspaces, feature flags
-├── ffi/                     # Foreign function interface
-│   ├── c/
-│   ├── python/
-│   └── node/
-│
-├── web/                     # Web backend
-│   ├── axum/
-│   ├── actix-web/
-│   └── rocket/
-├── cli/                     # Command-line tools
-├── gui/                     # Native desktop GUI
-│   ├── egui/
-│   ├── iced/
-│   ├── slint/
-│   └── dioxus/
-├── tauri/                   # Web-based desktop apps
-│   ├── ipc/
-│   └── permissions/
-├── mobile/                  # Android / iOS
-├── wasm/                    # WebAssembly target
-├── embedded/                # no_std, microcontrollers
-├── systems/                 # OS / kernel / drivers
-│
-├── gamedev/                 # Game development
-│   ├── bevy/
-│   ├── godot/
-│   ├── macroquad/
-│   └── fyrox/
-├── graphics/                # GPU / rendering
-│   ├── wgpu/
-│   └── vulkano/
-├── audio/                   # Audio processing
-├── networking/              # Network protocols
-│   ├── tokio/
-│   ├── hyper/
-│   └── tonic/
-├── database/                # DB clients (sqlx, diesel)
-├── blockchain/              # Smart contracts / chains
-│   ├── solana/
-│   ├── substrate/
-│   └── cosmwasm/
-├── ml-ai/                   # Machine learning
-│   ├── burn/
-│   ├── candle/
-│   ├── tch-rs/
-│   └── ort/
-├── parser/                  # Parsers / compilers
-│   ├── nom/
-│   ├── pest/
-│   ├── lalrpop/
-│   └── winnow/
-├── scientific/              # Numerical / scientific computing
-├── robotics/                # Robotics (ROS2)
-└── cloud/                   # Cloud-native (k8s operators)
-```
+Before finishing, the agent calls `get_completion_checklist()`. Abalone Skill Book returns exact `## Self-Check` sections from the skills that were actually opened, ordered by open time.
 
 ## Skill Format
 
-Every skill is a single `SKILL.md` with YAML frontmatter (`name`, `description`) and a markdown body containing:
-- Core rules / invariants to never violate
-- Common traps with brief examples
-- A self-check checklist
+One leaf folder is one skill package:
 
-## How to Add a Skill
+```text
+skills/<role>/<area>/<subject>/[optional-context...]/<skill-name>/SKILL.md
+```
 
-1. Create `skills/<role>/<stack>/<domain>/[<framework>/]<skill-name>/SKILL.md`
-2. Write the frontmatter `name` and `description` (this is how the skill is discovered and triggered)
-3. Write the body as a reminder checklist, not a tutorial
+Each `SKILL.md` is a substantial guidance document, not a tiny reminder. Preferred size is roughly A4 2-5 pages. Tiny checklist fragments should be merged into broader skills.
+
+Required frontmatter:
+
+```yaml
+---
+name: market_analysis.md
+description: Use when the agent needs to analyze a market, market regime, asset-class backdrop, macro environment, sector cycle, or broad investment context before forming a view on risk, opportunity, timing, valuation pressure, liquidity, or portfolio exposure.
+---
+```
+
+Required headings must be spelled exactly:
+
+```markdown
+## Core Rules
+
+## Common Traps
+
+## Self-Check
+```
+
+`Self Check`, `Checklist`, translated headings, or other variants are invalid because runtime extraction depends on exact section names.
+
+## Validation
+
+Skill creation and update must pass validation before the filesystem or index changes.
+
+Core validation rules:
+
+- valid path taxonomy;
+- valid YAML frontmatter;
+- required `name` and trigger-oriented `description`;
+- exact required headings;
+- substantive minimum size;
+- no tiny standalone checklist fragments.
+
+Validation failures return structured `errors`, `rules`, and `fix` text so an agent can rewrite the skill correctly.
+
+## Search And Ranking
+
+Abalone Skill Book uses both semantic and deterministic signals:
+
+- local embeddings over `path + name + description`;
+- SQLite FTS5 over trigger metadata and body text;
+- path/domain/stack signals;
+- deterministic evidence in recommendation results.
+
+The embedding model is downloaded locally and is not committed to the repository.
+
+## Implementation
+
+The server is a clean Rust rewrite in `mcp-server/`.
+
+Filesystem is the source of truth for skills. SQLite is used for indexing, embedding cache, recommendation sessions, and opened-skill tracking.
+
+Run checks:
+
+```bash
+cd mcp-server
+cargo test
+```
+
+Run as an MCP stdio server:
+
+```bash
+cd mcp-server
+cargo run --quiet
+```
+
+By default the server loads local BGE-M3 assets from `models/bge-m3`. Override paths with:
+
+```bash
+ABALONE_SKILLS_ROOT=/path/to/skills
+ABALONE_DATABASE_PATH=/path/to/abalone.sqlite3
+ABALONE_MODEL_DIR=/path/to/bge-m3
+```
+
+## Model Assets
+
+Embedding model files are intentionally excluded from Git. Download them after cloning:
+
+```bash
+python -m pip install -U huggingface_hub
+
+hf download BAAI/bge-m3 \
+  --local-dir models/bge-m3 \
+  --include "config.json" \
+  --include "tokenizer.json" \
+  --include "tokenizer_config.json" \
+  --include "special_tokens_map.json" \
+  --include "sentencepiece.bpe.model" \
+  --include "onnx/model_fp16.onnx"
+```
+
+The default runtime expects this layout:
+
+```text
+models/bge-m3/
+  config.json
+  tokenizer.json
+  tokenizer_config.json
+  special_tokens_map.json
+  sentencepiece.bpe.model
+  onnx/model_fp16.onnx
+```
+
+For tests or local protocol checks that should not load the large model, set:
+
+```bash
+ABALONE_EMBEDDING_PROVIDER=deterministic
+```
