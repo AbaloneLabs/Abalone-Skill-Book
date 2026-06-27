@@ -301,10 +301,15 @@ http://127.0.0.1:8732/mcp
 Mounted paths:
 
 ```text
-./skills  -> /app/skills
-./models  -> /models
-volume    -> /data
+./skills    -> /app/skills
+./models    -> /models
+./.abalone  -> /data
 ```
+
+The SQLite database, WAL files, and runtime index state are written under
+`./.abalone/` on the host. This directory is ignored by Git and excluded from
+Docker build context, so it can be backed up or inspected locally without being
+published with the image.
 
 ## Model Assets
 

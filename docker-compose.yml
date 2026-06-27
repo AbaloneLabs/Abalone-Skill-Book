@@ -17,13 +17,10 @@ services:
     volumes:
       - ./skills:/app/skills
       - ./models:/models:ro
-      - abalone-data:/data
+      - ./.abalone:/data
     healthcheck:
       test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8732/healthz"]
       interval: 30s
       timeout: 5s
       retries: 3
       start_period: 20s
-
-volumes:
-  abalone-data:
