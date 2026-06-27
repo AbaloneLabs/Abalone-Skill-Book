@@ -324,7 +324,7 @@ mod tests {
 
     #[test]
     fn recommends_market_skill_for_broad_investing_intent() {
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let temp = TempDir::new().unwrap();
         let skill_dir = temp
             .path()

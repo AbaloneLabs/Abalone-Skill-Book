@@ -28,7 +28,7 @@ The recommendation call returns a ranked list of up to 8 skill summaries. It doe
 
 The agent chooses which skills to open. `get_skill(path)` returns the full `SKILL.md` and records that the skill was opened in the active MCP session.
 
-Before finishing, the agent calls `get_completion_checklist()`. Abalone Skill Book returns exact `## Self-Check` sections from the skills that were actually opened, ordered by open time.
+Before finishing, the agent calls `get_completion_checklist()`. Abalone Skill Book returns exact `## Self-Check` sections from the skills that were actually opened, ordered by open order.
 
 ## Recommended AGENTS.md Pattern
 
@@ -211,6 +211,8 @@ The server is a clean Rust rewrite in `mcp-server/`.
 
 Filesystem is the source of truth for skills. SQLite is used for indexing, embedding cache, recommendation sessions, and opened-skill tracking.
 
+The primary runtime is a central MCP Streamable HTTP server. Multiple programs and agents can connect to the same endpoint while sharing the same skill library and search index. Per-agent workflow state is separated by the MCP HTTP session id.
+
 Run checks:
 
 ```bash
@@ -218,19 +220,90 @@ cd mcp-server
 cargo test
 ```
 
-Run as an MCP stdio server:
+Run the central HTTP MCP server:
 
 ```bash
 cd mcp-server
-cargo run --quiet
+cargo run --quiet -- serve
 ```
 
-By default the server loads local BGE-M3 assets from `models/bge-m3`. Override paths with:
+Default endpoint:
+
+```text
+http://127.0.0.1:8732/mcp
+```
+
+Run the stdio compatibility mode for local subprocess clients:
+
+```bash
+cd mcp-server
+cargo run --quiet -- stdio
+```
+
+By default the server loads local BGE-M3 assets from `models/bge-m3`. Override paths and HTTP settings with:
 
 ```bash
 ABALONE_SKILLS_ROOT=/path/to/skills
 ABALONE_DATABASE_PATH=/path/to/abalone.sqlite3
 ABALONE_MODEL_DIR=/path/to/bge-m3
+ABALONE_HTTP_HOST=127.0.0.1
+ABALONE_HTTP_PORT=8732
+ABALONE_MCP_PATH=/mcp
+ABALONE_HTTP_ALLOWED_HOSTS=localhost,127.0.0.1
+ABALONE_HTTP_ALLOWED_ORIGINS=http://localhost:3000
+```
+
+For local use, keep `ABALONE_HTTP_HOST=127.0.0.1`. If binding to `0.0.0.0`, set explicit allowed hosts and put the server behind normal network controls.
+
+## Concurrency
+
+Abalone Skill Book is designed for several agents using one central server.
+
+Shared state:
+
+- `skills/`;
+- SQLite skill index;
+- embedding cache;
+- FTS search index.
+
+Session-separated state:
+
+- active recommendation;
+- opened skills;
+- completion checklist source.
+
+The HTTP transport issues an MCP session id and clients send it back as `Mcp-Session-Id`. Abalone uses that id internally, so two agents connected to the same `/mcp` endpoint do not share opened-skill or completion-check state.
+
+SQLite concurrency safeguards:
+
+- one in-process mutex serializes access to the shared `rusqlite` connection;
+- file-backed databases use WAL mode;
+- SQLite busy timeout is set to 5 seconds;
+- recommendation creation and skill-open tracking use immediate write transactions;
+- opened skill order is stored as an integer sequence, not inferred from timestamp precision.
+
+If one logical agent sends overlapping `recommend_skills` calls in the same MCP session, the most recent committed recommendation becomes that session's active recommendation. Use the returned `recommendation_id` with `get_completion_checklist(recommendation_id)` when an agent intentionally keeps multiple recommendation flows alive.
+
+## Docker Compose
+
+Download the embedding model first, then start the central server:
+
+```bash
+docker compose up --build
+```
+
+The compose service exposes:
+
+```text
+http://127.0.0.1:8732/mcp
+```
+
+Mounted paths:
+
+```text
+./skills  -> /app/skills
+./models  -> /models
+volume    -> /data
 ```
 
 ## Model Assets

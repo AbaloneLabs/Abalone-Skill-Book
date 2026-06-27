@@ -1,9 +1,10 @@
 use std::collections::HashSet;
 use std::fs;
 use std::path::{Path, PathBuf};
+use std::time::Duration;
 
 use anyhow::{Context, Result};
-use rusqlite::{params, Connection, OptionalExtension};
+use rusqlite::{params, Connection, OptionalExtension, Transaction, TransactionBehavior};
 use serde::Serialize;
 use sha2::{Digest, Sha256};
 use walkdir::WalkDir;
@@ -63,7 +64,7 @@ impl SkillStore {
         }
 
         let conn = Connection::open(path)?;
-        conn.pragma_update(None, "foreign_keys", "ON")?;
+        configure_connection(&conn, true)?;
         let store = Self { conn };
         store.migrate()?;
         Ok(store)
@@ -71,7 +72,7 @@ impl SkillStore {
 
     pub fn in_memory() -> Result<Self> {
         let conn = Connection::open_in_memory()?;
-        conn.pragma_update(None, "foreign_keys", "ON")?;
+        configure_connection(&conn, false)?;
         let store = Self { conn };
         store.migrate()?;
         Ok(store)
@@ -135,15 +136,32 @@ impl SkillStore {
                 score             REAL,
                 reason            TEXT,
                 opened_at         TEXT,
+                opened_order      INTEGER,
                 PRIMARY KEY (recommendation_id, skill_path)
             );
+
+            ",
+        )?;
+        ensure_column(
+            &self.conn,
+            "recommendation_session_skills",
+            "opened_order",
+            "INTEGER",
+        )?;
+        self.conn.execute_batch(
+            "
+            CREATE INDEX IF NOT EXISTS idx_recommendation_sessions_mcp_session_key
+                ON recommendation_sessions(mcp_session_key, created_at);
+
+            CREATE INDEX IF NOT EXISTS idx_recommendation_session_skills_opened
+                ON recommendation_session_skills(recommendation_id, opened_order, opened_at);
             ",
         )?;
         Ok(())
     }
 
     pub fn sync_filesystem(
-        &self,
+        &mut self,
         skills_root: &Path,
         embedder: Option<&dyn EmbeddingProvider>,
     ) -> Result<SyncReport> {
@@ -196,7 +214,7 @@ impl SkillStore {
         })
     }
 
-    pub fn upsert_skill(&self, document: &SkillDocument) -> Result<()> {
+    pub fn upsert_skill(&mut self, document: &SkillDocument) -> Result<()> {
         let content_hash = hash_text(&document.source);
         let file_path = document.file_path.to_string_lossy().to_string();
         self.conn.execute(
@@ -246,7 +264,7 @@ impl SkillStore {
     }
 
     pub fn upsert_embedding_if_needed(
-        &self,
+        &mut self,
         document: &SkillDocument,
         embedder: &dyn EmbeddingProvider,
     ) -> Result<()> {
@@ -426,7 +444,7 @@ impl SkillStore {
         Ok(rows)
     }
 
-    pub fn delete_skill(&self, path: &str) -> Result<bool> {
+    pub fn delete_skill(&mut self, path: &str) -> Result<bool> {
         let normalized =
             normalize_skill_path(path).map_err(|issue| anyhow::anyhow!(issue.message))?;
         self.conn.execute(
@@ -440,13 +458,16 @@ impl SkillStore {
     }
 
     pub fn create_recommendation_session(
-        &self,
+        &mut self,
         session_key: &SessionKey,
         request: &RecommendRequest,
         results: &[RecommendationResult],
     ) -> Result<String> {
         let recommendation_id = format!("rec_{}", uuid::Uuid::new_v4());
-        self.conn.execute(
+        let tx = self
+            .conn
+            .transaction_with_behavior(TransactionBehavior::Immediate)?;
+        tx.execute(
             "
             INSERT INTO recommendation_sessions (
                 id, mcp_session_key, intent, context, domain, stack, created_at
@@ -464,12 +485,12 @@ impl SkillStore {
         )?;
 
         for result in results {
-            self.conn.execute(
+            tx.execute(
                 "
                 INSERT INTO recommendation_session_skills (
-                    recommendation_id, skill_path, rank, score, reason, opened_at
+                    recommendation_id, skill_path, rank, score, reason, opened_at, opened_order
                 )
-                VALUES (?1, ?2, ?3, ?4, ?5, NULL)
+                VALUES (?1, ?2, ?3, ?4, ?5, NULL, NULL)
                 ON CONFLICT(recommendation_id, skill_path) DO UPDATE SET
                     rank = excluded.rank,
                     score = excluded.score,
@@ -485,12 +506,13 @@ impl SkillStore {
             )?;
         }
 
-        self.set_active_recommendation(session_key, Some(&recommendation_id))?;
+        set_active_recommendation_tx(&tx, session_key, Some(&recommendation_id))?;
+        tx.commit()?;
         Ok(recommendation_id)
     }
 
     pub fn set_active_recommendation(
-        &self,
+        &mut self,
         session_key: &SessionKey,
         recommendation_id: Option<&str>,
     ) -> Result<()> {
@@ -521,19 +543,31 @@ impl SkillStore {
     }
 
     pub fn mark_skill_opened(
-        &self,
+        &mut self,
         session_key: &SessionKey,
         path: &str,
     ) -> Result<OpenSkillOutcome> {
         let normalized =
             normalize_skill_path(path).map_err(|issue| anyhow::anyhow!(issue.message))?;
-        let recommendation_id = self.active_recommendation_id(session_key)?;
+        let tx = self
+            .conn
+            .transaction_with_behavior(TransactionBehavior::Immediate)?;
+        let recommendation_id = active_recommendation_id_tx(&tx, session_key)?;
 
-        if self.get_skill(&normalized)?.is_none() {
+        let skill_exists = tx
+            .query_row(
+                "SELECT 1 FROM skills WHERE path = ?1",
+                params![&normalized],
+                |_| Ok(()),
+            )
+            .optional()?
+            .is_some();
+        if !skill_exists {
             anyhow::bail!("skill not found: {normalized}");
         }
 
         let Some(recommendation_id) = recommendation_id else {
+            tx.commit()?;
             return Ok(OpenSkillOutcome {
                 path: normalized,
                 tracked: false,
@@ -541,21 +575,31 @@ impl SkillStore {
             });
         };
 
-        self.conn.execute(
+        tx.execute(
             "
             INSERT INTO recommendation_session_skills (
-                recommendation_id, skill_path, rank, score, reason, opened_at
+                recommendation_id, skill_path, rank, score, reason, opened_at, opened_order
             )
             VALUES (?1, ?2, NULL, NULL, 'opened outside recommendation list',
-                    strftime('%Y-%m-%dT%H:%M:%fZ', 'now'))
+                    strftime('%Y-%m-%dT%H:%M:%fZ', 'now'),
+                    COALESCE((
+                        SELECT MAX(opened_order) + 1
+                        FROM recommendation_session_skills
+                        WHERE recommendation_id = ?1
+                    ), 1))
             ON CONFLICT(recommendation_id, skill_path) DO UPDATE SET
                 opened_at = COALESCE(
                     recommendation_session_skills.opened_at,
                     strftime('%Y-%m-%dT%H:%M:%fZ', 'now')
+                ),
+                opened_order = COALESCE(
+                    recommendation_session_skills.opened_order,
+                    excluded.opened_order
                 )
             ",
             params![&recommendation_id, &normalized],
         )?;
+        tx.commit()?;
 
         Ok(OpenSkillOutcome {
             path: normalized,
@@ -589,7 +633,7 @@ impl SkillStore {
             JOIN skills s ON s.path = rss.skill_path
             WHERE rss.recommendation_id = ?1
               AND rss.opened_at IS NOT NULL
-            ORDER BY rss.opened_at ASC, rss.skill_path ASC
+            ORDER BY rss.opened_order ASC, rss.opened_at ASC, rss.skill_path ASC
             ",
         )?;
 
@@ -634,7 +678,7 @@ impl SkillStore {
         })
     }
 
-    fn delete_missing(&self, seen: &HashSet<String>) -> Result<usize> {
+    fn delete_missing(&mut self, seen: &HashSet<String>) -> Result<usize> {
         let existing = self.existing_paths()?;
         let mut removed = 0;
         for path in existing {
@@ -657,6 +701,70 @@ impl SkillStore {
 
 pub fn open_database(path: &Path) -> Result<Connection> {
     SkillStore::open(path).map(|store| store.conn)
+}
+
+fn configure_connection(conn: &Connection, file_backed: bool) -> Result<()> {
+    conn.busy_timeout(Duration::from_secs(5))?;
+    conn.pragma_update(None, "foreign_keys", "ON")?;
+    if file_backed {
+        conn.pragma_update(None, "journal_mode", "WAL")?;
+        conn.pragma_update(None, "synchronous", "NORMAL")?;
+    }
+    Ok(())
+}
+
+fn ensure_column(
+    conn: &Connection,
+    table: &str,
+    column: &str,
+    column_definition: &str,
+) -> Result<()> {
+    let mut stmt = conn.prepare(&format!("PRAGMA table_info({table})"))?;
+    let columns = stmt
+        .query_map([], |row| row.get::<_, String>(1))?
+        .collect::<rusqlite::Result<Vec<_>>>()?;
+    if columns.iter().any(|existing| existing == column) {
+        return Ok(());
+    }
+
+    conn.execute(
+        &format!("ALTER TABLE {table} ADD COLUMN {column} {column_definition}"),
+        [],
+    )?;
+    Ok(())
+}
+
+fn set_active_recommendation_tx(
+    tx: &Transaction<'_>,
+    session_key: &SessionKey,
+    recommendation_id: Option<&str>,
+) -> Result<()> {
+    tx.execute(
+        "
+        INSERT INTO mcp_session_state (
+            mcp_session_key, active_recommendation_id, updated_at
+        )
+        VALUES (?1, ?2, datetime('now'))
+        ON CONFLICT(mcp_session_key) DO UPDATE SET
+            active_recommendation_id = excluded.active_recommendation_id,
+            updated_at = datetime('now')
+        ",
+        params![session_key.as_str(), recommendation_id],
+    )?;
+    Ok(())
+}
+
+fn active_recommendation_id_tx(
+    tx: &Transaction<'_>,
+    session_key: &SessionKey,
+) -> Result<Option<String>> {
+    tx.query_row(
+        "SELECT active_recommendation_id FROM mcp_session_state WHERE mcp_session_key = ?1",
+        params![session_key.as_str()],
+        |row| row.get(0),
+    )
+    .optional()
+    .map_err(Into::into)
 }
 
 pub fn hash_text(text: &str) -> String {
@@ -736,7 +844,7 @@ mod tests {
 
     #[test]
     fn sync_indexes_valid_skills_and_embeddings() {
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let temp = TempDir::new().unwrap();
         let skill_dir = temp
             .path()
@@ -767,7 +875,7 @@ mod tests {
 
     #[test]
     fn sync_excludes_invalid_skills() {
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let temp = TempDir::new().unwrap();
         let skill_dir = temp
             .path()
@@ -808,7 +916,7 @@ Two.
 
     #[test]
     fn fts_search_returns_indexed_skill() {
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let temp = TempDir::new().unwrap();
         let skill_dir = temp
             .path()
@@ -830,7 +938,7 @@ Two.
 
     #[test]
     fn completion_checklist_uses_opened_skills_only() {
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let temp = TempDir::new().unwrap();
         let skill_dir = temp
             .path()

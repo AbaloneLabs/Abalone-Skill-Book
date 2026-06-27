@@ -1,0 +1,10 @@
+.git/
+.abalone/
+docs/
+models/
+plans/
+target/
+mcp-server/target/
+
+.DS_Store
+Thumbs.db

@@ -1,4 +1,5 @@
-use std::sync::Arc;
+use std::sync::{Arc, Mutex};
+use std::time::Duration;
 
 use abalone_mcp_server::config::ServerConfig;
 use abalone_mcp_server::embedding::{
@@ -7,7 +8,17 @@ use abalone_mcp_server::embedding::{
 use abalone_mcp_server::storage::SkillStore;
 use abalone_mcp_server::tools::AbaloneServer;
 use anyhow::{Context, Result};
-use rmcp::{transport::stdio, ServiceExt};
+use axum::{routing::get, Router};
+use rmcp::{
+    transport::{
+        stdio,
+        streamable_http_server::{
+            session::local::LocalSessionManager, StreamableHttpServerConfig, StreamableHttpService,
+        },
+    },
+    ServiceExt,
+};
+use tokio_util::sync::CancellationToken;
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -16,6 +27,7 @@ async fn main() -> Result<()> {
         .with_writer(std::io::stderr)
         .init();
 
+    let run_mode = RunMode::from_args()?;
     let config = ServerConfig::from_env()?;
     tracing::info!(
         skills_root = %config.skills_root.display(),
@@ -31,7 +43,7 @@ async fn main() -> Result<()> {
         "loaded embedding provider"
     );
 
-    let store = SkillStore::open(&config.database_path).with_context(|| {
+    let mut store = SkillStore::open(&config.database_path).with_context(|| {
         format!(
             "failed to open database at {}",
             config.database_path.display()
@@ -59,9 +71,87 @@ async fn main() -> Result<()> {
         );
     }
 
-    let server = AbaloneServer::new(config.skills_root.clone(), store, embedder);
-    server.serve(stdio()).await?.waiting().await?;
+    let server = AbaloneServer::from_shared_store(
+        config.skills_root.clone(),
+        Arc::new(Mutex::new(store)),
+        embedder,
+    );
+
+    match run_mode {
+        RunMode::Serve => serve_http(config, server).await?,
+        RunMode::Stdio => {
+            server.serve(stdio()).await?.waiting().await?;
+        }
+    }
     Ok(())
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+enum RunMode {
+    Serve,
+    Stdio,
+}
+
+impl RunMode {
+    fn from_args() -> Result<Self> {
+        match std::env::args().nth(1).as_deref() {
+            None | Some("serve") | Some("http") => Ok(Self::Serve),
+            Some("stdio") => Ok(Self::Stdio),
+            Some("-h") | Some("--help") | Some("help") => {
+                print_help();
+                std::process::exit(0);
+            }
+            Some(other) => anyhow::bail!(
+                "unknown command `{other}`; expected `serve` for HTTP or `stdio` for subprocess mode"
+            ),
+        }
+    }
+}
+
+async fn serve_http(config: ServerConfig, server: AbaloneServer) -> Result<()> {
+    let cancellation_token = CancellationToken::new();
+    let service: StreamableHttpService<AbaloneServer, LocalSessionManager> =
+        StreamableHttpService::new(
+            move || Ok(server.clone()),
+            Arc::new(LocalSessionManager::default()),
+            StreamableHttpServerConfig::default()
+                .with_allowed_hosts(config.http.allowed_hosts.clone())
+                .with_allowed_origins(config.http.allowed_origins.clone())
+                .with_sse_keep_alive(Some(Duration::from_secs(15)))
+                .with_cancellation_token(cancellation_token.child_token()),
+        );
+
+    let app = Router::new()
+        .route("/healthz", get(|| async { "ok" }))
+        .nest_service(&config.http.path, service);
+
+    let listener = tokio::net::TcpListener::bind(config.http.bind_addr())
+        .await
+        .with_context(|| format!("failed to bind {}", config.http.bind_addr()))?;
+    let local_addr = listener.local_addr()?;
+    tracing::info!(
+        endpoint = %format!("http://{local_addr}{}", config.http.path),
+        allowed_hosts = ?config.http.allowed_hosts,
+        allowed_origins = ?config.http.allowed_origins,
+        "serving Abalone MCP Streamable HTTP"
+    );
+
+    axum::serve(listener, app)
+        .with_graceful_shutdown(shutdown_signal(cancellation_token))
+        .await
+        .context("HTTP server failed")?;
+    Ok(())
+}
+
+async fn shutdown_signal(cancellation_token: CancellationToken) {
+    let _ = tokio::signal::ctrl_c().await;
+    cancellation_token.cancel();
+}
+
+fn print_help() {
+    eprintln!(
+        "Usage:\n  abalone_mcp_server serve   # Streamable HTTP MCP server (default)\n  abalone_mcp_server stdio   # stdio MCP server for local subprocess clients"
+    );
 }
 
 fn load_embedding_provider(config: &ServerConfig) -> Result<Arc<dyn EmbeddingProvider>> {

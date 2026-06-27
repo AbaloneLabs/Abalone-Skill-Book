@@ -8,7 +8,8 @@ use anyhow::{Context, Result};
 use rmcp::{
     handler::server::{router::tool::ToolRouter, wrapper::Parameters},
     model::{ServerCapabilities, ServerInfo},
-    tool, tool_handler, tool_router, ServerHandler,
+    service::RequestContext,
+    tool, tool_handler, tool_router, RoleServer, ServerHandler,
 };
 use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
@@ -26,7 +27,7 @@ pub struct AbaloneServer {
     skills_root: PathBuf,
     store: Arc<Mutex<SkillStore>>,
     embedder: Arc<dyn EmbeddingProvider>,
-    session_key: SessionKey,
+    fallback_session_key: SessionKey,
     tool_router: ToolRouter<Self>,
 }
 
@@ -34,7 +35,7 @@ impl fmt::Debug for AbaloneServer {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         f.debug_struct("AbaloneServer")
             .field("skills_root", &self.skills_root)
-            .field("session_key", &self.session_key)
+            .field("fallback_session_key", &self.fallback_session_key)
             .finish_non_exhaustive()
     }
 }
@@ -49,13 +50,27 @@ impl AbaloneServer {
             skills_root,
             store: Arc::new(Mutex::new(store)),
             embedder,
-            session_key: SessionKey("stdio".to_string()),
+            fallback_session_key: SessionKey("stdio".to_string()),
+            tool_router: Self::tool_router(),
+        }
+    }
+
+    pub fn from_shared_store(
+        skills_root: PathBuf,
+        store: Arc<Mutex<SkillStore>>,
+        embedder: Arc<dyn EmbeddingProvider>,
+    ) -> Self {
+        Self {
+            skills_root,
+            store,
+            embedder,
+            fallback_session_key: SessionKey("stdio".to_string()),
             tool_router: Self::tool_router(),
         }
     }
 
     pub fn with_session_key(mut self, session_key: SessionKey) -> Self {
-        self.session_key = session_key;
+        self.fallback_session_key = session_key;
         self
     }
 
@@ -94,6 +109,89 @@ impl AbaloneServer {
             );
         }
         Ok(())
+    }
+
+    fn session_key_from_context(&self, context: &RequestContext<RoleServer>) -> SessionKey {
+        context
+            .extensions
+            .get::<http::request::Parts>()
+            .and_then(|parts| parts.headers.get("mcp-session-id"))
+            .and_then(|value| value.to_str().ok())
+            .map(str::trim)
+            .filter(|value| !value.is_empty())
+            .map(|value| SessionKey(format!("http:{value}")))
+            .unwrap_or_else(|| self.fallback_session_key.clone())
+    }
+
+    fn recommend_skills_for_session(
+        &self,
+        session_key: &SessionKey,
+        params: RecommendSkillsParams,
+    ) -> Result<String, String> {
+        if params.intent.trim().is_empty() {
+            return Err("intent must not be empty".to_string());
+        }
+
+        let request = RecommendRequest {
+            intent: params.intent.trim().to_string(),
+            context: non_empty(params.context),
+            domain: normalize_optional_scope(params.domain.as_deref())?,
+            domain_mode: parse_domain_mode(params.domain_mode.as_deref())?,
+            stack: non_empty(params.stack),
+            changed_files: params.changed_files.unwrap_or_default(),
+            limit: params.limit.unwrap_or(8).clamp(1, 8),
+        };
+
+        let mut store = self.store()?;
+        let results = {
+            let engine = RecommendationEngine::new(&store, self.embedder.as_ref());
+            engine.recommend(&request).map_err(to_tool_err)?
+        };
+        let recommendation_id = store
+            .create_recommendation_session(session_key, &request, &results)
+            .map_err(to_tool_err)?;
+
+        json_response(json!({
+            "recommendation_id": recommendation_id,
+            "limit": request.limit,
+            "results": results
+        }))
+    }
+
+    fn get_skill_for_session(
+        &self,
+        session_key: &SessionKey,
+        params: GetSkillParams,
+    ) -> Result<String, String> {
+        let normalized = normalize_skill_path(&params.path).map_err(|issue| issue.message)?;
+        let mut store = self.store()?;
+        let record = store
+            .get_skill(&normalized)
+            .map_err(to_tool_err)?
+            .ok_or_else(|| format!("skill not found: {normalized}"))?;
+        let opened = store
+            .mark_skill_opened(session_key, &normalized)
+            .map_err(to_tool_err)?;
+
+        json_response(json!({
+            "path": record.path,
+            "name": record.name,
+            "description": record.description,
+            "source": record.source,
+            "opened": opened
+        }))
+    }
+
+    fn get_completion_checklist_for_session(
+        &self,
+        session_key: &SessionKey,
+        params: GetCompletionChecklistParams,
+    ) -> Result<String, String> {
+        let checklist = self
+            .store()?
+            .completion_checklist(session_key, params.recommendation_id.as_deref())
+            .map_err(to_tool_err)?;
+        json_response(checklist)
     }
 }
 
@@ -159,34 +257,11 @@ impl AbaloneServer {
     )]
     pub fn recommend_skills(
         &self,
+        context: RequestContext<RoleServer>,
         Parameters(params): Parameters<RecommendSkillsParams>,
     ) -> Result<String, String> {
-        if params.intent.trim().is_empty() {
-            return Err("intent must not be empty".to_string());
-        }
-
-        let request = RecommendRequest {
-            intent: params.intent.trim().to_string(),
-            context: non_empty(params.context),
-            domain: normalize_optional_scope(params.domain.as_deref())?,
-            domain_mode: parse_domain_mode(params.domain_mode.as_deref())?,
-            stack: non_empty(params.stack),
-            changed_files: params.changed_files.unwrap_or_default(),
-            limit: params.limit.unwrap_or(8).clamp(1, 8),
-        };
-
-        let store = self.store()?;
-        let engine = RecommendationEngine::new(&store, self.embedder.as_ref());
-        let results = engine.recommend(&request).map_err(to_tool_err)?;
-        let recommendation_id = store
-            .create_recommendation_session(&self.session_key, &request, &results)
-            .map_err(to_tool_err)?;
-
-        json_response(json!({
-            "recommendation_id": recommendation_id,
-            "limit": request.limit,
-            "results": results
-        }))
+        let session_key = self.session_key_from_context(&context);
+        self.recommend_skills_for_session(&session_key, params)
     }
 
     #[tool(
@@ -194,25 +269,11 @@ impl AbaloneServer {
     )]
     pub fn get_skill(
         &self,
+        context: RequestContext<RoleServer>,
         Parameters(params): Parameters<GetSkillParams>,
     ) -> Result<String, String> {
-        let normalized = normalize_skill_path(&params.path).map_err(|issue| issue.message)?;
-        let store = self.store()?;
-        let record = store
-            .get_skill(&normalized)
-            .map_err(to_tool_err)?
-            .ok_or_else(|| format!("skill not found: {normalized}"))?;
-        let opened = store
-            .mark_skill_opened(&self.session_key, &normalized)
-            .map_err(to_tool_err)?;
-
-        json_response(json!({
-            "path": record.path,
-            "name": record.name,
-            "description": record.description,
-            "source": record.source,
-            "opened": opened
-        }))
+        let session_key = self.session_key_from_context(&context);
+        self.get_skill_for_session(&session_key, params)
     }
 
     #[tool(
@@ -220,13 +281,11 @@ impl AbaloneServer {
     )]
     pub fn get_completion_checklist(
         &self,
+        context: RequestContext<RoleServer>,
         Parameters(params): Parameters<GetCompletionChecklistParams>,
     ) -> Result<String, String> {
-        let checklist = self
-            .store()?
-            .completion_checklist(&self.session_key, params.recommendation_id.as_deref())
-            .map_err(to_tool_err)?;
-        json_response(checklist)
+        let session_key = self.session_key_from_context(&context);
+        self.get_completion_checklist_for_session(&session_key, params)
     }
 
     #[tool(
@@ -334,7 +393,7 @@ impl AbaloneServer {
         atomic_write(&file_path, &source).map_err(to_tool_err)?;
 
         let index_result = {
-            let store = self.store()?;
+            let mut store = self.store()?;
             store
                 .upsert_skill(&document)
                 .and_then(|_| store.upsert_embedding_if_needed(&document, self.embedder.as_ref()))
@@ -388,7 +447,7 @@ impl AbaloneServer {
         atomic_write(&file_path, &source).map_err(to_tool_err)?;
 
         let index_result = {
-            let store = self.store()?;
+            let mut store = self.store()?;
             store
                 .upsert_skill(&document)
                 .and_then(|_| store.upsert_embedding_if_needed(&document, self.embedder.as_ref()))
@@ -396,7 +455,7 @@ impl AbaloneServer {
         if let Err(err) = index_result {
             let _ = atomic_write(&file_path, &old_source);
             if let Ok(old_doc) = self.parse_document(&normalized, old_source) {
-                if let Ok(store) = self.store.lock() {
+                if let Ok(mut store) = self.store.lock() {
                     let _ = store.upsert_skill(&old_doc);
                     let _ = store.upsert_embedding_if_needed(&old_doc, self.embedder.as_ref());
                 }
@@ -427,10 +486,10 @@ impl AbaloneServer {
         if file_path.exists() {
             fs::remove_file(&file_path).map_err(to_tool_err)?;
         }
-        let deleted = self
-            .store()?
-            .delete_skill(&normalized)
-            .map_err(to_tool_err)?;
+        let deleted = {
+            let mut store = self.store()?;
+            store.delete_skill(&normalized).map_err(to_tool_err)?
+        };
 
         json_response(json!({
             "deleted": deleted,
@@ -685,15 +744,24 @@ mod tests {
     use std::time::Duration;
 
     use rmcp::model::{CallToolRequestParams, ClientInfo};
+    use rmcp::transport::{
+        streamable_http_client::StreamableHttpClientTransportConfig,
+        streamable_http_server::{
+            session::local::LocalSessionManager, StreamableHttpServerConfig, StreamableHttpService,
+        },
+        StreamableHttpClientTransport,
+    };
     use rmcp::ServiceExt;
     use serde_json::Value;
     use tempfile::TempDir;
+    use tokio_util::sync::CancellationToken;
 
     use super::{
         AbaloneServer, CreateSkillParams, GetCompletionChecklistParams, GetSkillParams,
         ListSkillsParams, RecommendSkillsParams, UpdateSkillParams,
     };
     use crate::embedding::DeterministicEmbeddingProvider;
+    use crate::session::SessionKey;
     use crate::storage::SkillStore;
 
     #[test]
@@ -712,12 +780,13 @@ mod tests {
         )
         .unwrap();
 
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let embedder = Arc::new(DeterministicEmbeddingProvider::new(32));
         store
             .sync_filesystem(temp.path(), Some(embedder.as_ref()))
             .unwrap();
         let server = AbaloneServer::new(temp.path().to_path_buf(), store, embedder);
+        let session = SessionKey("test-tool-flow".to_string());
 
         let listed: Value = serde_json::from_str(
             &server
@@ -733,7 +802,8 @@ mod tests {
 
         let recommended: Value = serde_json::from_str(
             &server
-                .recommend_skills(rmcp::handler::server::wrapper::Parameters(
+                .recommend_skills_for_session(
+                    &session,
                     RecommendSkillsParams {
                         intent: "what to consider before investing in stocks".to_string(),
                         context: None,
@@ -743,7 +813,7 @@ mod tests {
                         changed_files: None,
                         limit: None,
                     },
-                ))
+                )
                 .unwrap(),
         )
         .unwrap();
@@ -754,9 +824,12 @@ mod tests {
 
         let opened: Value = serde_json::from_str(
             &server
-                .get_skill(rmcp::handler::server::wrapper::Parameters(GetSkillParams {
-                    path: "investor/analyze/market/market-analysis".to_string(),
-                }))
+                .get_skill_for_session(
+                    &session,
+                    GetSkillParams {
+                        path: "investor/analyze/market/market-analysis".to_string(),
+                    },
+                )
                 .unwrap(),
         )
         .unwrap();
@@ -764,11 +837,12 @@ mod tests {
 
         let checklist: Value = serde_json::from_str(
             &server
-                .get_completion_checklist(rmcp::handler::server::wrapper::Parameters(
+                .get_completion_checklist_for_session(
+                    &session,
                     GetCompletionChecklistParams {
                         recommendation_id: None,
                     },
-                ))
+                )
                 .unwrap(),
         )
         .unwrap();
@@ -883,6 +957,7 @@ mod tests {
         let store = SkillStore::in_memory().unwrap();
         let embedder = Arc::new(DeterministicEmbeddingProvider::new(32));
         let server = AbaloneServer::new(temp.path().to_path_buf(), store, embedder);
+        let session = SessionKey("test-open-order".to_string());
 
         create_valid_test_skill(
             &server,
@@ -900,7 +975,8 @@ mod tests {
         );
 
         server
-            .recommend_skills(rmcp::handler::server::wrapper::Parameters(
+            .recommend_skills_for_session(
+                &session,
                 RecommendSkillsParams {
                     intent: "API response and database persistence work".to_string(),
                     context: None,
@@ -910,26 +986,33 @@ mod tests {
                     changed_files: None,
                     limit: None,
                 },
-            ))
+            )
             .unwrap();
         server
-            .get_skill(rmcp::handler::server::wrapper::Parameters(GetSkillParams {
-                path: "programmer/api/response/data-minimization".to_string(),
-            }))
+            .get_skill_for_session(
+                &session,
+                GetSkillParams {
+                    path: "programmer/api/response/data-minimization".to_string(),
+                },
+            )
             .unwrap();
         server
-            .get_skill(rmcp::handler::server::wrapper::Parameters(GetSkillParams {
-                path: "programmer/database/schema/query-safety".to_string(),
-            }))
+            .get_skill_for_session(
+                &session,
+                GetSkillParams {
+                    path: "programmer/database/schema/query-safety".to_string(),
+                },
+            )
             .unwrap();
 
         let checklist: Value = serde_json::from_str(
             &server
-                .get_completion_checklist(rmcp::handler::server::wrapper::Parameters(
+                .get_completion_checklist_for_session(
+                    &session,
                     GetCompletionChecklistParams {
                         recommendation_id: None,
                     },
-                ))
+                )
                 .unwrap(),
         )
         .unwrap();
@@ -958,7 +1041,7 @@ mod tests {
         )
         .unwrap();
 
-        let store = SkillStore::in_memory().unwrap();
+        let mut store = SkillStore::in_memory().unwrap();
         let embedder = Arc::new(DeterministicEmbeddingProvider::new(32));
         store
             .sync_filesystem(temp.path(), Some(embedder.as_ref()))
@@ -1020,6 +1103,130 @@ mod tests {
 
         client.close().await?;
         tokio::time::timeout(Duration::from_secs(5), server_handle).await???;
+        Ok(())
+    }
+
+    #[tokio::test]
+    async fn http_transport_separates_opened_skills_by_mcp_session() -> anyhow::Result<()> {
+        let temp = TempDir::new().unwrap();
+        let store = SkillStore::in_memory().unwrap();
+        let embedder = Arc::new(DeterministicEmbeddingProvider::new(32));
+        let server = AbaloneServer::new(temp.path().to_path_buf(), store, embedder);
+
+        create_valid_test_skill(
+            &server,
+            "programmer/api/response/data-minimization",
+            "data_minimization.md",
+            "Use when the agent is designing API response fields before exposing private persistence data, authorization-sensitive fields, or derived user profile information.",
+            "API Response Data Minimization",
+        );
+        create_valid_test_skill(
+            &server,
+            "programmer/database/schema/query-safety",
+            "query_safety.md",
+            "Use when the agent is changing database schema, query behavior, persistence boundaries, indexing, or data access paths before implementing storage work.",
+            "Database Query Safety",
+        );
+
+        let ct = CancellationToken::new();
+        let service: StreamableHttpService<AbaloneServer, LocalSessionManager> =
+            StreamableHttpService::new(
+                move || Ok(server.clone()),
+                Arc::new(LocalSessionManager::default()),
+                StreamableHttpServerConfig::default()
+                    .with_sse_keep_alive(None)
+                    .with_cancellation_token(ct.child_token()),
+            );
+        let router = axum::Router::new().nest_service("/mcp", service);
+        let listener = tokio::net::TcpListener::bind("127.0.0.1:0").await?;
+        let addr = listener.local_addr()?;
+        let server_ct = ct.clone();
+        let server_handle = tokio::spawn(async move {
+            axum::serve(listener, router)
+                .with_graceful_shutdown(async move { server_ct.cancelled_owned().await })
+                .await
+        });
+
+        let uri = format!("http://{addr}/mcp");
+        let transport_a = StreamableHttpClientTransport::from_config(
+            StreamableHttpClientTransportConfig::with_uri(uri.clone()),
+        );
+        let transport_b = StreamableHttpClientTransport::from_config(
+            StreamableHttpClientTransportConfig::with_uri(uri),
+        );
+        let mut client_a = ClientInfo::default().serve(transport_a).await?;
+        let mut client_b = ClientInfo::default().serve(transport_b).await?;
+
+        for client in [&mut client_a, &mut client_b] {
+            client
+                .call_tool(
+                    CallToolRequestParams::new("recommend_skills").with_arguments(
+                        serde_json::json!({
+                            "intent": "API response and database persistence work",
+                            "domain": "programmer",
+                            "domain_mode": "boost"
+                        })
+                        .as_object()
+                        .unwrap()
+                        .clone(),
+                    ),
+                )
+                .await?;
+        }
+
+        client_a
+            .call_tool(
+                CallToolRequestParams::new("get_skill").with_arguments(
+                    serde_json::json!({
+                        "path": "programmer/api/response/data-minimization"
+                    })
+                    .as_object()
+                    .unwrap()
+                    .clone(),
+                ),
+            )
+            .await?;
+        client_b
+            .call_tool(
+                CallToolRequestParams::new("get_skill").with_arguments(
+                    serde_json::json!({
+                        "path": "programmer/database/schema/query-safety"
+                    })
+                    .as_object()
+                    .unwrap()
+                    .clone(),
+                ),
+            )
+            .await?;
+
+        let checklist_a = tool_result_json(
+            client_a
+                .call_tool(CallToolRequestParams::new("get_completion_checklist"))
+                .await?,
+        )?;
+        let checklist_b = tool_result_json(
+            client_b
+                .call_tool(CallToolRequestParams::new("get_completion_checklist"))
+                .await?,
+        )?;
+
+        let checks_a = checklist_a["checks"].as_array().unwrap();
+        let checks_b = checklist_b["checks"].as_array().unwrap();
+        assert_eq!(checks_a.len(), 1);
+        assert_eq!(checks_b.len(), 1);
+        assert_eq!(
+            checks_a[0]["path"],
+            "programmer/api/response/data-minimization"
+        );
+        assert_eq!(
+            checks_b[0]["path"],
+            "programmer/database/schema/query-safety"
+        );
+
+        client_a.close().await?;
+        client_b.close().await?;
+        ct.cancel();
+        server_handle.await??;
         Ok(())
     }
 

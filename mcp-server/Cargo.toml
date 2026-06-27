@@ -5,13 +5,15 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1"
+axum = "0.8"
 chrono = { version = "0.4", features = ["serde"] }
 half = "2"
+http = "1"
 ndarray = "0.17"
 ort = { version = "2.0.0-rc.12", features = ["half"] }
 pulldown-cmark = "0.13"
 regex = "1"
-rmcp = { version = "1.8", features = ["client", "server", "transport-io"] }
+rmcp = { version = "1.8", features = ["client", "server", "transport-io", "transport-streamable-http-client-reqwest", "transport-streamable-http-server"] }
 rusqlite = { version = "0.40", features = ["bundled"] }
 schemars = "1"
 serde = { version = "1", features = ["derive"] }
@@ -20,6 +22,7 @@ serde_yaml = "0.9"
 sha2 = "0.10"
 tokenizers = "0.23"
 tokio = { version = "1", features = ["full"] }
+tokio-util = "0.7"
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 uuid = { version = "1", features = ["v4"] }
