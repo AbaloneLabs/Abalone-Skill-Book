@@ -9,6 +9,10 @@ target/
 # Local embedding model assets
 models/
 
+# Local planning and draft docs
+plans/
+docs/
+
 # SQLite database files (runtime data)
 .abalone/
 *.db
