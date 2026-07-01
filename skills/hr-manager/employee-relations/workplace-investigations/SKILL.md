@@ -1,220 +1,139 @@
 ---
 name: workplace_investigations.md
-description: Use when the agent is responding to an employee complaint, planning or conducting a workplace investigation into harassment, discrimination, bullying, retaliation, theft, policy violation, or misconduct, deciding on interim measures, reaching findings, determining corrective action, or assessing fairness and legal risk in the investigation process.
+description: Use when the agent is conducting or overseeing a workplace investigation into harassment, discrimination, retaliation, bullying, safety complaints, policy violations, or other misconduct allegations, deciding who investigates, how to gather evidence, how to interview parties, how to assess credibility, how to document findings, and how to conclude without exposing the organization to retaliation claims or due-process failures.
 ---
 
 # Workplace Investigations
 
-A workplace investigation is the process by which an organization determines what happened, whether policy or law was violated, and what to do about it. The investigation itself becomes evidence: of whether the organization took the concern seriously, acted fairly, protected the parties, and responded proportionately. A poorly run investigation often becomes the basis of a claim that is stronger than the original complaint. Agents often treat investigations as conversations to resolve a misunderstanding and miss that delay, bias, retaliation during the process, and undocumented findings are the failures that create liability.
+Workplace investigations are among the highest-stakes activities in HR. A mishandled investigation, whether too slow, too shallow, biased, leaked, or retaliatory, can convert a manageable complaint into a lawsuit, destroy evidence, harm the complainant, or wrongfully discipline an innocent employee. Investigations must be prompt, thorough, impartial, and documented. The agent must understand that an investigation is not a search for confirmation of a predetermined outcome; it is a good-faith effort to determine what happened, based on evidence, with protection for all parties throughout the process.
 
-Use this skill before responding to a complaint, planning an investigation, interviewing parties, reaching findings, or deciding corrective action. The goal is to make the agent run a prompt, fair, thorough, well-documented investigation that protects the parties and produces defensible findings. This skill is decision support, not legal advice; route legally significant matters to employment counsel.
+Use this skill before launching, conducting, or concluding any workplace investigation. The goal is to make the agent structure the investigation to withstand legal scrutiny, protect the parties, and reach defensible findings.
 
 ## Core Rules
 
-### Trigger The Investigation As Soon As The Employer Knows Or Should Know
+### Act Promptly And Establish The Scope Immediately
 
-The duty to investigate arises the moment the organization knows or should know of potential harassment, discrimination, retaliation, or serious misconduct. There is no duty only when a formal written complaint is filed.
+Delay is one of the most common and damaging errors. From the moment a complaint or allegation surfaces, the clock is running. Prompt action preserves evidence, protects the complainant, and demonstrates good faith.
 
-Recognize triggers from:
+- Acknowledge receipt of the complaint immediately, in writing, to the complainant.
+- Assess urgency: allegations of ongoing harm (physical threats, ongoing harassment, safety) require immediate interim measures, potentially including separation of the parties, paid administrative leave, or schedule changes.
+- Define the scope of the investigation: what specific allegations, what time period, what conduct. A vague scope leads to scope creep or missed issues.
+- Assign an investigator within 24 to 48 hours of receiving the complaint.
+- Do not wait for the complaint to escalate or for more evidence to appear before starting.
 
-- a direct complaint from an employee;
-- an anonymous report or hint that warrants follow-up;
-- a manager observing or overhearing concerning conduct;
-- patterns in exit interviews, engagement surveys, or absenteeism;
-- complaints from customers, vendors, or external parties;
-- social media or public allegations;
-- legal demands or agency charges.
+Interim measures must not be punitive toward the complainant. Separating the complainant from their duties involuntarily, or changing their schedule to their disadvantage, can itself be retaliation. If separation is necessary, place the respondent on leave rather than burdening the complainant.
 
-Delay in responding is itself a failure. Acknowledge the complaint promptly, communicate next steps, and begin scoping the investigation without unnecessary lag. The longer the gap between knowledge and action, the harder it is to defend the organization's response.
+### Select An Impartial, Qualified Investigator
 
-### Define Scope And Preserve Evidence Before Interviewing
+The investigator's impartiality is the foundation of the investigation's credibility. An investigator with a conflict of interest, or who lacks the skill to investigate, taints the findings.
 
-Before talking to witnesses, determine what the investigation needs to establish and secure the evidence. Witnesses who learn they will be interviewed may alter their accounts, and electronic evidence can be overwritten.
+- The investigator must have no personal or reporting relationship with the parties.
+- The investigator must have no stake in the outcome.
+- For complex or high-risk matters (executive misconduct, class allegations, legal exposure), use an external investigator (outside counsel or a professional investigator) for independence.
+- The investigator must understand evidence preservation, interview technique, credibility assessment, and documentation.
+- Document the rationale for the investigator selection.
 
-Define scope:
+### Preserve Evidence And Maintain Confidentiality To The Extent Possible
 
-- the specific allegations and the policies or laws potentially implicated;
-- the time period, locations, and conduct in scope;
-- the questions the investigation must answer;
-- who the complainant, respondent, and relevant witnesses are;
-- what documents, communications, and records are relevant.
+Evidence can disappear quickly: emails are deleted, messages vanish, memories fade. Preserve evidence early and systematically.
 
-Preserve evidence:
+- Issue a litigation hold or evidence preservation notice if litigation is foreseeable.
+- Collect relevant documents, emails, messages, badge records, schedules, and policies before they are altered or destroyed.
+- Store evidence securely, with a chain of custody.
+- Maintain confidentiality: instruct all parties and witnesses not to discuss the investigation. However, do not promise absolute confidentiality, which is neither realistic nor lawful; the NLRB has held that blanket gag orders can violate labor rights.
+- Limit knowledge of the investigation to those with a need to know.
 
-- place holds on relevant emails, messages, files, and system logs;
-- collect and secure physical evidence;
-- document the current state before it changes;
-- identify the systems and custodians who may hold relevant information.
+### Interview The Complainant, Respondent, And Witnesses Methodically
 
-A scoped investigation stays focused and defensible. An unscoped investigation drifts, misses key issues, or expands uncontrollably.
+Interviews are the core of the investigation. Conduct them in a structured, neutral manner.
 
-### Select An Impartial, Competent Investigator
+- Interview the complainant first to understand the allegations in detail: who, what, when, where, witnesses, evidence.
+- Interview witnesses identified by the complainant, then the respondent, then witnesses identified by the respondent.
+- Interview the respondent after gathering the complainant's evidence, so the respondent can respond to specific allegations. Provide enough detail for the respondent to respond, but do not reveal confidential information unnecessarily.
+- Use open-ended questions first, then follow up with specific questions.
+- Ask for documents, names of witnesses, and other evidence during each interview.
+- Document each interview contemporaneously, with the interviewer's notes, and consider written statements from the parties.
+- Do not coach witnesses, suggest answers, or signal the desired outcome.
 
-The investigator's credibility is the credibility of the findings. An investigator who is biased, lacks authority, or is too close to a party undermines the entire process.
+### Assess Credibility Without Bias
 
-Ensure the investigator:
+Credibility assessment is where investigations often fail. The investigator must assess credibility based on evidence, not on stereotypes, demeanor biases, or the relative status of the parties.
 
-- has no personal or reporting relationship with the parties that creates bias or its appearance;
-- has appropriate seniority and authority to access people and records;
-- has training or experience in workplace investigations;
-- can be perceived as fair by both complainant and respondent;
-- is separate from the person who will decide corrective action, to preserve impartiality, though in smaller organizations roles may combine with disclosure.
+- Assess credibility based on: plausibility of the account, corroboration from other evidence or witnesses, consistency over time, demeanor (with caution, as demeanor is an unreliable indicator), motive to fabricate, and prior consistent or inconsistent statements.
+- Do not assume that a calm, articulate respondent is more credible than an emotional complainant, or vice versa.
+- Do not require corroboration for every allegation; many forms of harassment occur without witnesses. A credible complainant's account, uncontradicted, can support a finding.
+- Document the credibility assessment and the reasoning behind it.
 
-When the matter is serious, involves senior leaders, or carries significant legal risk, consider an external investigator for independence and credibility. The accused's direct manager should not investigate their own report.
+### Reach Findings Based On The Preponderance Of The Evidence
 
-### Take Interim Measures That Protect Without Penalizing The Complainant
+The standard of proof in workplace investigations is typically the preponderance of the evidence: more likely than not, based on the totality of the evidence. This is a lower standard than beyond a reasonable doubt.
 
-While the investigation proceeds, assess whether steps are needed to separate parties, prevent recurrence, or protect the complainant and witnesses.
+- Weigh all evidence, not just the evidence that supports one side.
+- Distinguish between substantiated, unsubstantiated, and inconclusive findings.
+- Do not force a conclusion when the evidence is genuinely inconclusive; document what was found and what was not.
+- Apply the standard consistently, regardless of who the parties are.
 
-Interim measures may include:
+### Document The Investigation Thoroughly
 
-- changing reporting lines, schedules, or work locations;
-- placing the respondent on investigative leave, paid where appropriate;
-- adjusting the complainant's assignments only if requested and not to their disadvantage;
-- reinforcing no-retaliation expectations with all parties;
-- providing the complainant with support resources such as an employee assistance program.
+Documentation is the investigation's permanent record and the organization's defense if the findings are challenged.
 
-Interim measures must not penalize the complainant. Moving the complainant to a worse assignment, shift, or location while the respondent continues unchanged can itself be adverse action or retaliation. Choose measures that burden the respondent or are neutral, not the complainant.
+- Prepare a written report including: the scope, the methodology, the evidence reviewed, the interviews conducted, the credibility assessments, the findings, and the rationale.
+- Attach all exhibits and evidence.
+- Be factual and neutral in the report; avoid editorializing.
+- Maintain the report securely, with restricted access.
+- Do not destroy investigation notes; they are part of the record.
 
-### Interview Complainant, Respondent, And Witnesses Thoroughly
+### Take Appropriate Corrective Action And Close The Loop
 
-The interviews are the core of the investigation. Conduct them in a sequence and manner that elicits accurate information without contaminating accounts.
+Once findings are reached, take action proportional to the findings.
 
-Interview effectively:
-
-- start with the complainant to understand the full scope of allegations;
-- interview witnesses identified by the complainant, then those identified by the respondent;
-- interview the respondent after witnesses, so they cannot tailor their account to others;
-- ask open questions before leading ones, and avoid revealing other witnesses' accounts prematurely;
-- probe for specifics: what, when, where, who was present, what was said, what happened next;
-- ask about documents or evidence that supports or contradicts the account;
-- give the respondent a fair opportunity to respond to each specific allegation;
-- document each interview contemporaneously, capturing what was said, not conclusions.
-
-Avoid interviewing parties together, which can intimidate or escalate. Avoid promising confidentiality the investigator cannot guarantee; offer privacy and discretion, and explain that information will be shared only as needed.
-
-### Document The Investigation Consistently And Contemporaneously
-
-The investigation file is the evidence of a fair process. It must be created during the investigation, not reconstructed later.
-
-Maintain:
-
-- the original complaint and how it was received;
-- the scope and plan;
-- the evidence preservation steps;
-- interview notes, dated and attributable;
-- documents, communications, and records reviewed;
-- the investigator's analysis and reasoning;
-- the findings of fact, separated from conclusions;
-- the conclusions on policy or law violations;
-- the corrective action decision and its rationale;
-- communications to the parties about outcomes.
-
-Separate findings of fact, what the evidence establishes happened, from conclusions, whether that conduct violated policy or law. This discipline makes the reasoning transparent and testable. Vague conclusions without underlying facts are weak.
-
-### Reach Findings Based On The Evidence, Applying The Right Standard
-
-Investigators reach findings based on the evidence collected, applying an appropriate standard of proof. The standard in workplace investigations is typically a preponderance of the evidence, meaning more likely than not, not beyond reasonable doubt.
-
-In reaching findings:
-
-- weigh the credibility of each party and witness, considering consistency, detail, corroboration, motive, and demeanor;
-- assess corroboration from documents, timestamps, and independent witnesses;
-- consider whether accounts are internally consistent and consistent with other evidence;
-- acknowledge what the evidence establishes, what it does not, and what remains unknown;
-- avoid filling gaps with assumption;
-- apply the organization's policy definitions, not only legal definitions, since conduct may violate policy even when it does not meet a legal threshold.
-
-It is acceptable to reach a finding of unsubstantiated if the evidence does not support a conclusion. A fair investigation that cannot confirm an allegation is more defensible than a forced conclusion either way.
-
-### Take Corrective Action Proportionate To The Findings
-
-Once findings are reached, the response must be proportionate to the conduct, consistent with how similar cases were handled, and focused on preventing recurrence.
-
-Calibrate corrective action by considering:
-
-- the severity and frequency of the conduct;
-- the respondent's role and seniority;
-- whether the respondent has been warned previously;
-- the impact on the complainant and the workplace;
-- consistency with prior outcomes for similar conduct;
-- whether the conduct violated policy, law, or both;
-- the need to deter recurrence and reassure the workforce.
-
-Corrective action may range from coaching and a documented warning, to reassignment, suspension, or termination. Inconsistency, where similar conduct yields very different outcomes, undermines the organization's position and can itself be evidence of discrimination. Document the rationale for the level of action chosen.
-
-### Communicate Outcomes And Close The Loop
-
-The parties are entitled to know the outcome, within the limits of privacy. Failing to communicate leaves the complainant feeling ignored and the respondent uncertain.
-
-Communicate:
-
-- to the complainant: whether the investigation found a violation and what corrective action was taken, without necessarily disclosing specific discipline of the respondent;
-- to the respondent: the findings and the corrective action, and expectations going forward;
-- to the broader team: only what is necessary, without breaching privacy or disparaging;
-- the no-retaliation expectation, reinforced to all parties;
-- how to raise concerns if retaliation or recurrence occurs.
-
-Close the loop by monitoring the situation after the investigation. Retaliation and recurrence often happen after the investigation closes, and the organization's ongoing attention is part of a complete response.
-
-### Protect Against Retaliation Throughout And After
-
-Retaliation is a separate violation from the underlying conduct and can exist even when the original complaint was unsubstantiated. The investigation period and its aftermath are peak retaliation risk windows.
-
-Protect parties by:
-
-- explicitly warning the respondent and their associates against retaliation;
-- defining retaliation broadly, including subtle exclusion, schedule changes, or cold treatment;
-- monitoring the complainant's and witnesses' treatment after the investigation;
-- documenting legitimate, independent reasons for any personnel action affecting a party;
-- acting promptly if retaliation is reported or suspected;
-- recognizing that isolation or sidelining of the complainant as a protective measure can feel punitive and itself be adverse action.
-
-Coordinate with the separation skill if termination of any party is contemplated, since the proximity to protected activity elevates the documentation standard.
+- For substantiated misconduct, take corrective action consistent with policy and past practice, ranging from coaching to termination.
+- For unsubstantiated allegations, close the investigation and document the basis.
+- Communicate the outcome to the complainant and the respondent. Tell the complainant whether the allegation was substantiated and what corrective action was taken, without disclosing disproportionate detail about discipline of the respondent.
+- Remind both parties of the anti-retaliation policy and the channels for reporting retaliation.
+- Monitor the situation after the investigation to detect retaliation or recurrence.
 
 ## Common Traps
 
-### Delaying The Investigation
+### Delay In Launching The Investigation
 
-Slow response signals that the organization does not take the concern seriously, allows evidence to degrade, and is itself a defensibility weakness. Act promptly.
+Waiting days or weeks to start, allowing evidence to disappear and the complainant to feel ignored. Start within 48 hours.
 
-### Investigator Bias Or Apparent Bias
+### Conflicted Or Unqualified Investigator
 
-Using the respondent's manager, a close colleague, or someone with a stake in the outcome destroys credibility. Use an impartial, trained investigator.
+Using a manager with a relationship to the parties, or someone who lacks investigation skill. Select an impartial, qualified investigator.
 
-### Penalizing The Complainant Through Interim Measures
+### Promising Absolute Confidentiality
 
-Moving the complainant to a worse role or schedule while the respondent is unaffected can be retaliation or adverse action. Protect without penalizing.
+Telling the complainant that nothing will be shared, which cannot be guaranteed and can create a breach-of-contract claim or violate labor rights. Promise confidentiality to the extent possible.
 
-### Failing To Document
+### Interim Measures That Punish The Complainant
 
-An investigation with no contemporaneous record cannot be defended. The file must be built during the process, with facts separated from conclusions.
+Moving the complainant off their duties or schedule involuntarily, constituting retaliation. Place the respondent on leave if separation is needed.
 
-### Reaching Conclusions Without Underlying Facts
+### Coaching Witnesses Or Signaling Outcomes
 
-Vague findings like "conduct occurred" without the supporting evidence and reasoning are weak and hard to defend. Show the analysis.
+Suggesting answers, expressing a desired conclusion, or leaking the investigator's leanings. Interview neutrally.
 
-### Inconsistent Corrective Action
+### Demeanor-Based Credibility Errors
 
-Disciplining one employee severely for conduct that others committed with lesser consequence shows the stated reason is unreliable. Maintain consistency.
+Judging credibility based on who seems calmer or more articulate, which favors high-status parties and biases against emotional or less-articulate complainants. Assess credibility on evidence.
 
-### Overpromising Confidentiality
+### Requiring Corroboration For Every Allegation
 
-Promising complete confidentiality that cannot be guaranteed creates a breach of trust when information must be shared. Offer discretion and explain limits.
+Dismissing uncorroborated but credible accounts, which is inappropriate for conduct that typically has no witnesses. A credible uncontradicted account can support a finding.
 
-### Ignoring Post-Investigation Retaliation
+### Failing To Close The Loop
 
-Retaliation often occurs after the investigation closes. Without monitoring and follow-up, the organization completes the investigation but fails to protect the parties.
+Not communicating the outcome to the complainant, leaving them to assume nothing was done, and not monitoring for retaliation. Close the loop and monitor.
 
 ## Self-Check
 
-- [ ] Was the investigation triggered promptly once the organization knew or should have known of the concern?
-- [ ] Was scope defined and evidence preserved before interviews began?
-- [ ] Is the investigator impartial, competent, appropriately senior, and free of bias or its appearance?
-- [ ] Do interim measures protect the complainant and witnesses without penalizing them?
-- [ ] Were complainant, witnesses, and respondent interviewed thoroughly, with open questions, specific probing, and the respondent given a fair chance to respond?
-- [ ] Is the investigation documented contemporaneously, with findings of fact separated from conclusions?
-- [ ] Are findings based on the evidence, applying a preponderance standard, with credibility assessed and gaps acknowledged rather than assumed?
-- [ ] Is corrective action proportionate to the findings, consistent with prior outcomes, and documented with rationale?
-- [ ] Are outcomes communicated to the parties appropriately, with privacy respected and the no-retaliation expectation reinforced?
-- [ ] Is retaliation monitored and addressed during and after the investigation, with personnel actions affecting parties independently documented?
+- [ ] Was the investigation launched promptly, with interim measures that protected the complainant without burdening them?
+- [ ] Is the investigator impartial, qualified, and free of conflicts of interest?
+- [ ] Has evidence been preserved, and has confidentiality been maintained to the extent possible without promising the impossible?
+- [ ] Were the complainant, respondent, and witnesses interviewed methodically, with open-ended questions and neutral conduct?
+- [ ] Was credibility assessed based on evidence and reasoning, not demeanor or status?
+- [ ] Are findings based on the preponderance of the evidence, with substantiated, unsubstantiated, and inconclusive outcomes distinguished?
+- [ ] Is the investigation documented in a written report with all evidence and reasoning?
+- [ ] Has corrective action been taken, the outcome communicated to both parties, and the situation monitored for retaliation?
