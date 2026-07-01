@@ -13,6 +13,9 @@ models/
 plans/
 docs/
 
+# Internal documents
+AGENTS.md
+
 # SQLite database files (runtime data)
 .abalone/
 *.db
