@@ -8,6 +8,8 @@ pub struct ServerConfig {
     pub database_path: PathBuf,
     pub model_dir: PathBuf,
     pub http: HttpConfig,
+    pub session_retention_days: u64,
+    pub gc_interval_hours: u64,
 }
 
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -42,12 +44,17 @@ impl ServerConfig {
         let model_dir = env_path("ABALONE_MODEL_DIR")
             .unwrap_or_else(|| repo_root.join("models").join("bge-m3"));
         let http = HttpConfig::from_env()?;
+        let session_retention_days =
+            env_parse("ABALONE_SESSION_RETENTION_DAYS")?.unwrap_or(7);
+        let gc_interval_hours = env_parse("ABALONE_GC_INTERVAL_HOURS")?.unwrap_or(6);
 
         Ok(Self {
             skills_root,
             database_path,
             model_dir,
             http,
+            session_retention_days,
+            gc_interval_hours,
         })
     }
 }

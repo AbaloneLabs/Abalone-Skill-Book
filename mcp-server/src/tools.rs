@@ -16,6 +16,7 @@ use serde::{Deserialize, Serialize};
 use serde_json::json;
 
 use crate::embedding::EmbeddingProvider;
+use crate::embedding_cache::EmbeddingCache;
 use crate::recommendation::{DomainMode, RecommendRequest, RecommendationEngine};
 use crate::session::SessionKey;
 use crate::skill::{SkillDocument, SkillFrontmatter, SkillSummary};
@@ -26,6 +27,7 @@ use crate::validation::{normalize_scope_path, normalize_skill_path, validate_ski
 pub struct AbaloneServer {
     skills_root: PathBuf,
     store: Arc<Mutex<SkillStore>>,
+    cache: Arc<Mutex<EmbeddingCache>>,
     embedder: Arc<dyn EmbeddingProvider>,
     fallback_session_key: SessionKey,
     tool_router: ToolRouter<Self>,
@@ -46,13 +48,14 @@ impl AbaloneServer {
         store: SkillStore,
         embedder: Arc<dyn EmbeddingProvider>,
     ) -> Self {
-        Self {
+        let cache = EmbeddingCache::build(&store, embedder.as_ref())
+            .expect("failed to build embedding cache from store");
+        Self::from_shared(
             skills_root,
-            store: Arc::new(Mutex::new(store)),
+            Arc::new(Mutex::new(store)),
+            Arc::new(Mutex::new(cache)),
             embedder,
-            fallback_session_key: SessionKey("stdio".to_string()),
-            tool_router: Self::tool_router(),
-        }
+        )
     }
 
     pub fn from_shared_store(
@@ -60,15 +63,41 @@ impl AbaloneServer {
         store: Arc<Mutex<SkillStore>>,
         embedder: Arc<dyn EmbeddingProvider>,
     ) -> Self {
+        let cache = {
+            let store = store
+                .lock()
+                .expect("skill store lock is poisoned while building cache");
+            EmbeddingCache::build(&store, embedder.as_ref())
+                .expect("failed to build embedding cache from shared store")
+        };
+        Self::from_shared(
+            skills_root,
+            store,
+            Arc::new(Mutex::new(cache)),
+            embedder,
+        )
+    }
+
+    /// Build a server from already-shared store and cache handles.
+    ///
+    /// This is the common path used by the constructors above and by the HTTP
+    /// transport, where the cache is built once at startup and shared across
+    /// cloned server instances.
+    pub fn from_shared(
+        skills_root: PathBuf,
+        store: Arc<Mutex<SkillStore>>,
+        cache: Arc<Mutex<EmbeddingCache>>,
+        embedder: Arc<dyn EmbeddingProvider>,
+    ) -> Self {
         Self {
             skills_root,
             store,
+            cache,
             embedder,
             fallback_session_key: SessionKey("stdio".to_string()),
             tool_router: Self::tool_router(),
         }
     }
-
     pub fn with_session_key(mut self, session_key: SessionKey) -> Self {
         self.fallback_session_key = session_key;
         self
@@ -78,6 +107,35 @@ impl AbaloneServer {
         self.store
             .lock()
             .map_err(|_| "skill store lock is poisoned".to_string())
+    }
+
+    fn cache(&self) -> Result<MutexGuard<'_, EmbeddingCache>, String> {
+        self.cache
+            .lock()
+            .map_err(|_| "embedding cache lock is poisoned".to_string())
+    }
+
+    /// Incrementally refresh a single skill entry in the embedding cache after
+    /// a create or update. Failures are logged but do not fail the tool call,
+    /// because the on-disk index is already authoritative.
+    fn refresh_cache_entry(&self, path: &str) {
+        let store = match self.store() {
+            Ok(store) => store,
+            Err(err) => {
+                tracing::warn!(path, error = %err, "failed to lock store for cache refresh");
+                return;
+            }
+        };
+        match self.cache() {
+            Ok(mut cache) => {
+                if let Err(err) = cache.refresh_entry(&store, path) {
+                    tracing::warn!(path, error = %err, "failed to refresh embedding cache entry");
+                }
+            }
+            Err(err) => {
+                tracing::warn!(path, error = %err, "failed to lock cache for refresh");
+            }
+        }
     }
 
     fn skill_file_path(&self, normalized_path: &str) -> PathBuf {
@@ -144,7 +202,8 @@ impl AbaloneServer {
 
         let mut store = self.store()?;
         let results = {
-            let engine = RecommendationEngine::new(&store, self.embedder.as_ref());
+            let cache = self.cache()?;
+            let engine = RecommendationEngine::new(&store, &cache, self.embedder.as_ref());
             engine.recommend(&request).map_err(to_tool_err)?
         };
         let recommendation_id = store
@@ -402,6 +461,7 @@ impl AbaloneServer {
             let _ = fs::remove_file(&file_path);
             return Err(err.to_string());
         }
+        self.refresh_cache_entry(&normalized);
 
         json_response(json!({
             "created": true,
@@ -462,6 +522,7 @@ impl AbaloneServer {
             }
             return Err(err.to_string());
         }
+        self.refresh_cache_entry(&normalized);
 
         json_response(json!({
             "updated": true,
@@ -490,6 +551,11 @@ impl AbaloneServer {
             let mut store = self.store()?;
             store.delete_skill(&normalized).map_err(to_tool_err)?
         };
+        if deleted {
+            if let Ok(mut cache) = self.cache.lock() {
+                cache.remove(&normalized);
+            }
+        }
 
         json_response(json!({
             "deleted": deleted,
@@ -771,12 +837,11 @@ mod tests {
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
 
@@ -819,7 +884,7 @@ mod tests {
         .unwrap();
         assert_eq!(
             recommended["results"][0]["path"],
-            "investor/analyze/market/market-analysis"
+            "investor/analyze/market-analysis"
         );
 
         let opened: Value = serde_json::from_str(
@@ -827,7 +892,7 @@ mod tests {
                 .get_skill_for_session(
                     &session,
                     GetSkillParams {
-                        path: "investor/analyze/market/market-analysis".to_string(),
+                        path: "investor/analyze/market-analysis".to_string(),
                     },
                 )
                 .unwrap(),
@@ -879,7 +944,7 @@ mod tests {
         let embedder = Arc::new(DeterministicEmbeddingProvider::new(32));
         let server = AbaloneServer::new(temp.path().to_path_buf(), store, embedder);
 
-        let path = "programmer/api/response/data-minimization";
+        let path = "programmer/api/data-minimization";
         let invalid_body = "# Tiny\n\n## Core Rules\nShort.\n\n## Common Traps\nShort.\n\n## Self-Check\n- [ ] Short.";
         let create_response: Value = serde_json::from_str(
             &server
@@ -895,7 +960,7 @@ mod tests {
         assert_eq!(create_response["created"], false);
         assert!(!temp
             .path()
-            .join("programmer/api/response/data-minimization/SKILL.md")
+            .join("programmer/api/data-minimization/SKILL.md")
             .exists());
         assert!(server.store().unwrap().get_skill(path).unwrap().is_none());
 
@@ -915,7 +980,7 @@ mod tests {
 
         let file_path = temp
             .path()
-            .join("programmer/api/response/data-minimization/SKILL.md");
+            .join("programmer/api/data-minimization/SKILL.md");
         let old_file_source = fs::read_to_string(&file_path).unwrap();
         let old_index_source = server
             .store()
@@ -961,7 +1026,7 @@ mod tests {
 
         create_valid_test_skill(
             &server,
-            "programmer/api/response/data-minimization",
+            "programmer/api/data-minimization",
             "data_minimization.md",
             "Use when the agent is designing API response fields before exposing private persistence data, authorization-sensitive fields, or derived user profile information.",
             "API Response Data Minimization",
@@ -992,7 +1057,7 @@ mod tests {
             .get_skill_for_session(
                 &session,
                 GetSkillParams {
-                    path: "programmer/api/response/data-minimization".to_string(),
+                    path: "programmer/api/data-minimization".to_string(),
                 },
             )
             .unwrap();
@@ -1020,7 +1085,7 @@ mod tests {
         assert_eq!(checks.len(), 2);
         assert_eq!(
             checks[0]["path"],
-            "programmer/api/response/data-minimization"
+            "programmer/api/data-minimization"
         );
         assert_eq!(checks[1]["path"], "programmer/database/schema/query-safety");
     }
@@ -1032,12 +1097,11 @@ mod tests {
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
 
@@ -1073,14 +1137,14 @@ mod tests {
         let recommended = tool_result_json(recommended)?;
         assert_eq!(
             recommended["results"][0]["path"],
-            "investor/analyze/market/market-analysis"
+            "investor/analyze/market-analysis"
         );
 
         let opened = client
             .call_tool(
                 CallToolRequestParams::new("get_skill").with_arguments(
                     serde_json::json!({
-                        "path": "investor/analyze/market/market-analysis"
+                        "path": "investor/analyze/market-analysis"
                     })
                     .as_object()
                     .unwrap()
@@ -1115,7 +1179,7 @@ mod tests {
 
         create_valid_test_skill(
             &server,
-            "programmer/api/response/data-minimization",
+            "programmer/api/data-minimization",
             "data_minimization.md",
             "Use when the agent is designing API response fields before exposing private persistence data, authorization-sensitive fields, or derived user profile information.",
             "API Response Data Minimization",
@@ -1178,7 +1242,7 @@ mod tests {
             .call_tool(
                 CallToolRequestParams::new("get_skill").with_arguments(
                     serde_json::json!({
-                        "path": "programmer/api/response/data-minimization"
+                        "path": "programmer/api/data-minimization"
                     })
                     .as_object()
                     .unwrap()
@@ -1216,7 +1280,7 @@ mod tests {
         assert_eq!(checks_b.len(), 1);
         assert_eq!(
             checks_a[0]["path"],
-            "programmer/api/response/data-minimization"
+            "programmer/api/data-minimization"
         );
         assert_eq!(
             checks_b[0]["path"],

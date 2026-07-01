@@ -4,6 +4,7 @@ use std::path::{Path, PathBuf};
 use std::time::Duration;
 
 use anyhow::{Context, Result};
+use chrono::Utc;
 use rusqlite::{params, Connection, OptionalExtension, Transaction, TransactionBehavior};
 use serde::Serialize;
 use sha2::{Digest, Sha256};
@@ -37,6 +38,17 @@ pub struct InvalidSkill {
     pub report: ValidationReport,
 }
 
+/// Report from a session garbage-collection pass.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize)]
+pub struct PruneReport {
+    /// Recommendation sessions older than the retention window.
+    pub deleted_sessions: usize,
+    /// `mcp_session_state` rows whose active recommendation no longer exists.
+    pub orphaned_state: usize,
+    /// `mcp_session_state` rows older than the retention window.
+    pub stale_state: usize,
+}
+
 #[derive(Debug, Clone, PartialEq)]
 pub struct SkillRecord {
     pub path: String,
@@ -55,6 +67,15 @@ pub struct FtsMatch {
     pub name: String,
     pub description: String,
     pub lexical_score: f32,
+}
+
+#[derive(Debug, Clone)]
+pub struct EmbeddingRow {
+    pub skill_path: String,
+    pub model: String,
+    pub dimension: i64,
+    pub embedded_text_hash: String,
+    pub vector: Vec<u8>,
 }
 
 impl SkillStore {
@@ -402,13 +423,20 @@ impl SkillStore {
         Ok(rows)
     }
 
-    pub fn all_embeddings(&self) -> Result<Vec<(String, String, i64, Vec<u8>)>> {
+    pub fn all_embeddings(&self) -> Result<Vec<EmbeddingRow>> {
         let mut stmt = self.conn.prepare(
-            "SELECT skill_path, model, dimension, vector FROM embeddings ORDER BY skill_path",
+            "SELECT skill_path, model, dimension, embedded_text_hash, vector
+             FROM embeddings ORDER BY skill_path",
         )?;
         let rows = stmt
             .query_map([], |row| {
-                Ok((row.get(0)?, row.get(1)?, row.get(2)?, row.get(3)?))
+                Ok(EmbeddingRow {
+                    skill_path: row.get(0)?,
+                    model: row.get(1)?,
+                    dimension: row.get(2)?,
+                    embedded_text_hash: row.get(3)?,
+                    vector: row.get(4)?,
+                })
             })?
             .collect::<rusqlite::Result<Vec<_>>>()?;
         Ok(rows)
@@ -427,6 +455,22 @@ impl SkillStore {
         rows.into_iter()
             .map(|(path, blob)| Ok((path, blob_to_vector(&blob)?)))
             .collect()
+    }
+
+    /// Return the embedding vector for a single skill path, if present.
+    ///
+    /// Used by the in-memory embedding cache for incremental updates after a
+    /// single skill is created or updated, avoiding a full reload.
+    pub fn embedding_for_path(&self, path: &str) -> Result<Option<Vec<f32>>> {
+        self.conn
+            .query_row(
+                "SELECT vector FROM embeddings WHERE skill_path = ?1",
+                params![path],
+                |row| row.get::<_, Vec<u8>>(0),
+            )
+            .optional()?
+            .map(|blob| blob_to_vector(&blob))
+            .transpose()
     }
 
     pub fn all_skill_records(&self) -> Result<Vec<SkillRecord>> {
@@ -678,6 +722,57 @@ impl SkillStore {
         })
     }
 
+    /// Delete recommendation sessions and MCP session state older than the
+    /// retention window, plus orphaned state rows.
+    ///
+    /// This is the garbage-collection entry point. It removes:
+    ///
+    /// 1. `recommendation_sessions` rows whose `created_at` is older than the
+    ///    cutoff. The linked `recommendation_session_skills` rows are removed
+    ///    automatically via `ON DELETE CASCADE`.
+    /// 2. `mcp_session_state` rows whose `active_recommendation_id` points to a
+    ///    recommendation session that no longer exists (orphaned references).
+    /// 3. `mcp_session_state` rows whose `updated_at` is older than the cutoff.
+    ///
+    /// All three steps run in a single transaction so the database is never
+    /// left in a partially pruned state.
+    pub fn prune_stale_sessions(&mut self, retention: Duration) -> Result<PruneReport> {
+        let cutoff = Utc::now() - chrono::Duration::from_std(retention)
+            .unwrap_or_else(|_| chrono::Duration::days(7));
+        let cutoff_str = cutoff.format("%Y-%m-%d %H:%M:%S").to_string();
+
+        let tx = self
+            .conn
+            .transaction_with_behavior(TransactionBehavior::Immediate)?;
+
+        let deleted_sessions = tx.execute(
+            "DELETE FROM recommendation_sessions WHERE created_at < ?1",
+            params![cutoff_str],
+        )?;
+
+        let orphaned_state = tx.execute(
+            "DELETE FROM mcp_session_state
+             WHERE active_recommendation_id IS NOT NULL
+               AND active_recommendation_id NOT IN (
+                   SELECT id FROM recommendation_sessions
+               )",
+            [],
+        )?;
+
+        let stale_state = tx.execute(
+            "DELETE FROM mcp_session_state WHERE updated_at < ?1",
+            params![cutoff_str],
+        )?;
+
+        tx.commit()?;
+
+        Ok(PruneReport {
+            deleted_sessions,
+            orphaned_state,
+            stale_state,
+        })
+    }
+
     fn delete_missing(&mut self, seen: &HashSet<String>) -> Result<usize> {
         let existing = self.existing_paths()?;
         let mut removed = 0;
@@ -839,8 +934,10 @@ mod tests {
 
     use super::SkillStore;
     use crate::embedding::DeterministicEmbeddingProvider;
+    use crate::embedding_cache::EmbeddingCache;
     use crate::recommendation::{DomainMode, RecommendRequest, RecommendationEngine};
     use crate::session::SessionKey;
+    use rusqlite::params;
 
     #[test]
     fn sync_indexes_valid_skills_and_embeddings() {
@@ -850,12 +947,11 @@ mod tests {
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
 
@@ -867,7 +963,7 @@ mod tests {
         assert_eq!(report.indexed, 1);
         assert!(report.invalid.is_empty());
         assert!(store
-            .get_skill("investor/analyze/market/market-analysis")
+            .get_skill("investor/analyze/market-analysis")
             .unwrap()
             .is_some());
         assert_eq!(store.all_embeddings().unwrap().len(), 1);
@@ -881,7 +977,6 @@ mod tests {
             .path()
             .join("programmer")
             .join("api")
-            .join("response")
             .join("tiny");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
@@ -909,7 +1004,7 @@ Two.
         assert_eq!(report.indexed, 0);
         assert_eq!(report.invalid.len(), 1);
         assert!(store
-            .get_skill("programmer/api/response/tiny")
+            .get_skill("programmer/api/tiny")
             .unwrap()
             .is_none());
     }
@@ -922,18 +1017,17 @@ Two.
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
         store.sync_filesystem(temp.path(), None).unwrap();
 
         let results = store.search_fts("market valuation liquidity", 5).unwrap();
-        assert_eq!(results[0].path, "investor/analyze/market/market-analysis");
+        assert_eq!(results[0].path, "investor/analyze/market-analysis");
     }
 
     #[test]
@@ -944,12 +1038,11 @@ Two.
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
 
@@ -965,7 +1058,8 @@ Two.
             changed_files: Vec::new(),
             limit: 8,
         };
-        let results = RecommendationEngine::new(&store, &embedder)
+        let cache = EmbeddingCache::build(&store, &embedder).unwrap();
+        let results = RecommendationEngine::new(&store, &cache, &embedder)
             .recommend(&request)
             .unwrap();
         let session = SessionKey("test-session".to_string());
@@ -981,7 +1075,7 @@ Two.
         assert!(empty.checks.is_empty());
 
         let opened = store
-            .mark_skill_opened(&session, "investor/analyze/market/market-analysis")
+            .mark_skill_opened(&session, "investor/analyze/market-analysis")
             .unwrap();
         assert!(opened.tracked);
 
@@ -989,9 +1083,147 @@ Two.
         assert_eq!(checklist.checks.len(), 1);
         assert_eq!(
             checklist.checks[0].path,
-            "investor/analyze/market/market-analysis"
+            "investor/analyze/market-analysis"
         );
         assert!(checklist.checks[0].self_check.starts_with("## Self-Check"));
         assert!(checklist.errors.is_empty());
+    }
+
+    #[test]
+    fn prune_removes_old_sessions_and_orphaned_state() {
+        let mut store = SkillStore::in_memory().unwrap();
+        let temp = TempDir::new().unwrap();
+        let skill_dir = temp
+            .path()
+            .join("investor")
+            .join("analyze")
+            .join("market-analysis");
+        fs::create_dir_all(&skill_dir).unwrap();
+        fs::write(
+            skill_dir.join("SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
+        )
+        .unwrap();
+
+        let embedder = DeterministicEmbeddingProvider::new(32);
+        store.sync_filesystem(temp.path(), Some(&embedder)).unwrap();
+
+        let request = RecommendRequest {
+            intent: "Analyze market risks before investing".to_string(),
+            context: None,
+            domain: Some("investor/analyze".to_string()),
+            domain_mode: DomainMode::Boost,
+            stack: None,
+            changed_files: Vec::new(),
+            limit: 8,
+        };
+        let cache = EmbeddingCache::build(&store, &embedder).unwrap();
+        let results = RecommendationEngine::new(&store, &cache, &embedder)
+            .recommend(&request)
+            .unwrap();
+
+        // Create an old session by backdating its created_at.
+        let old_session = SessionKey("old-session".to_string());
+        let old_rec_id = store
+            .create_recommendation_session(&old_session, &request, &results)
+            .unwrap();
+        store
+            .connection()
+            .execute(
+                "UPDATE recommendation_sessions SET created_at = datetime('now', '-30 days') WHERE id = ?1",
+                params![old_rec_id],
+            )
+            .unwrap();
+
+        // Create a recent session that should survive.
+        let recent_session = SessionKey("recent-session".to_string());
+        let recent_rec_id = store
+            .create_recommendation_session(&recent_session, &request, &results)
+            .unwrap();
+
+        // Prune with a 7-day retention.
+        let report = store
+            .prune_stale_sessions(std::time::Duration::from_secs(7 * 24 * 60 * 60))
+            .unwrap();
+
+        assert_eq!(report.deleted_sessions, 1);
+        // The old session's active_recommendation_id in mcp_session_state becomes orphaned.
+        assert!(report.orphaned_state >= 1);
+
+        // The old recommendation session is gone.
+        let still_exists: bool = store
+            .connection()
+            .query_row(
+                "SELECT EXISTS(SELECT 1 FROM recommendation_sessions WHERE id = ?1)",
+                params![old_rec_id],
+                |row| row.get(0),
+            )
+            .unwrap();
+        assert!(!still_exists);
+
+        // The recent recommendation session survives.
+        let recent_exists: bool = store
+            .connection()
+            .query_row(
+                "SELECT EXISTS(SELECT 1 FROM recommendation_sessions WHERE id = ?1)",
+                params![recent_rec_id],
+                |row| row.get(0),
+            )
+            .unwrap();
+        assert!(recent_exists);
+    }
+
+    #[test]
+    fn prune_keeps_recent_sessions() {
+        let mut store = SkillStore::in_memory().unwrap();
+        let temp = TempDir::new().unwrap();
+        let skill_dir = temp
+            .path()
+            .join("investor")
+            .join("analyze")
+            .join("market-analysis");
+        fs::create_dir_all(&skill_dir).unwrap();
+        fs::write(
+            skill_dir.join("SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
+        )
+        .unwrap();
+
+        let embedder = DeterministicEmbeddingProvider::new(32);
+        store.sync_filesystem(temp.path(), Some(&embedder)).unwrap();
+
+        let request = RecommendRequest {
+            intent: "Analyze market risks before investing".to_string(),
+            context: None,
+            domain: Some("investor/analyze".to_string()),
+            domain_mode: DomainMode::Boost,
+            stack: None,
+            changed_files: Vec::new(),
+            limit: 8,
+        };
+        let cache = EmbeddingCache::build(&store, &embedder).unwrap();
+        let results = RecommendationEngine::new(&store, &cache, &embedder)
+            .recommend(&request)
+            .unwrap();
+        let session = SessionKey("fresh-session".to_string());
+        let rec_id = store
+            .create_recommendation_session(&session, &request, &results)
+            .unwrap();
+
+        let report = store
+            .prune_stale_sessions(std::time::Duration::from_secs(7 * 24 * 60 * 60))
+            .unwrap();
+
+        assert_eq!(report.deleted_sessions, 0);
+
+        let still_exists: bool = store
+            .connection()
+            .query_row(
+                "SELECT EXISTS(SELECT 1 FROM recommendation_sessions WHERE id = ?1)",
+                params![rec_id],
+                |row| row.get(0),
+            )
+            .unwrap();
+        assert!(still_exists);
     }
 }

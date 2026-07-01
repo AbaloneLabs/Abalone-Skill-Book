@@ -5,6 +5,7 @@ use abalone_mcp_server::config::ServerConfig;
 use abalone_mcp_server::embedding::{
     BgeM3EmbeddingProvider, DeterministicEmbeddingProvider, EmbeddingProvider,
 };
+use abalone_mcp_server::embedding_cache::EmbeddingCache;
 use abalone_mcp_server::storage::SkillStore;
 use abalone_mcp_server::tools::AbaloneServer;
 use anyhow::{Context, Result};
@@ -71,9 +72,67 @@ async fn main() -> Result<()> {
         );
     }
 
-    let server = AbaloneServer::from_shared_store(
+    let store = Arc::new(Mutex::new(store));
+    let cache = {
+        let store = store
+            .lock()
+            .expect("skill store lock is poisoned while building cache");
+        EmbeddingCache::build(&store, embedder.as_ref())
+            .context("failed to build embedding cache from store")?
+    };
+    tracing::info!(cached_embeddings = cache.len(), "embedding cache built");
+
+    let cache = Arc::new(Mutex::new(cache));
+
+    // Watch the skills directory for external changes and re-sync the index
+    // and cache automatically. Skill changes are infrequent, so a 2-second
+    // debounce coalesces bursts into a single re-sync.
+    let _watcher = abalone_mcp_server::watcher::SkillWatcher::spawn(
         config.skills_root.clone(),
-        Arc::new(Mutex::new(store)),
+        Arc::clone(&store),
+        Arc::clone(&cache),
+        Arc::clone(&embedder),
+        Duration::from_secs(2),
+    )
+    .context("failed to start filesystem skill watcher")?;
+
+    // Periodically prune stale recommendation sessions and MCP session state.
+    // Sessions older than the retention window are removed to bound database
+    // growth over long-running deployments.
+    let gc_store = Arc::clone(&store);
+    let gc_retention = Duration::from_secs(config.session_retention_days * 24 * 60 * 60);
+    let gc_interval = Duration::from_secs(config.gc_interval_hours * 60 * 60);
+    tokio::spawn(async move {
+        loop {
+            tokio::time::sleep(gc_interval).await;
+            match gc_store.lock() {
+                Ok(mut store) => {
+                    match store.prune_stale_sessions(gc_retention) {
+                        Ok(report) => {
+                            tracing::info!(
+                                deleted_sessions = report.deleted_sessions,
+                                orphaned_state = report.orphaned_state,
+                                stale_state = report.stale_state,
+                                "session GC complete"
+                            );
+                        }
+                        Err(err) => {
+                            tracing::error!(error = %err, "session GC failed");
+                        }
+                    }
+                }
+                Err(_) => {
+                    tracing::error!("skill store lock is poisoned during session GC");
+                    break;
+                }
+            }
+        }
+    });
+
+    let server = AbaloneServer::from_shared(
+        config.skills_root.clone(),
+        store,
+        cache,
         embedder,
     );
 

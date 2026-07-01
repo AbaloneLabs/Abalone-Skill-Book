@@ -174,9 +174,9 @@ mod tests {
 
     #[test]
     fn parses_frontmatter_and_exact_h2_sections() {
-        let source = include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md");
+        let source = include_str!("../../skills/investor/analyze/market-analysis/SKILL.md");
         let doc = SkillDocument::parse(
-            "investor/analyze/market/market-analysis".to_string(),
+            "investor/analyze/market-analysis".to_string(),
             PathBuf::from("SKILL.md"),
             source.to_string(),
         )

@@ -249,7 +249,7 @@ pub fn cosine_similarity(left: &[f32], right: &[f32]) -> f32 {
 }
 
 pub fn vector_to_blob(vector: &[f32]) -> Vec<u8> {
-    let mut bytes = Vec::with_capacity(vector.len() * std::mem::size_of::<f32>());
+    let mut bytes = Vec::with_capacity(std::mem::size_of_val(vector));
     for value in vector {
         bytes.extend_from_slice(&value.to_le_bytes());
     }
@@ -257,7 +257,7 @@ pub fn vector_to_blob(vector: &[f32]) -> Vec<u8> {
 }
 
 pub fn blob_to_vector(bytes: &[u8]) -> Result<Vec<f32>> {
-    if bytes.len() % std::mem::size_of::<f32>() != 0 {
+    if !bytes.len().is_multiple_of(std::mem::size_of::<f32>()) {
         anyhow::bail!("embedding blob byte length is not divisible by 4");
     }
 
@@ -319,8 +319,8 @@ fn mean_pool_f32(
 
     let mut pooled = vec![0.0_f32; hidden];
     let mut token_count = 0.0_f32;
-    for token_idx in 0..sequence_len {
-        if attention_mask[token_idx] == 0 {
+    for (token_idx, &mask_value) in attention_mask.iter().enumerate().take(sequence_len) {
+        if mask_value == 0 {
             continue;
         }
         token_count += 1.0;

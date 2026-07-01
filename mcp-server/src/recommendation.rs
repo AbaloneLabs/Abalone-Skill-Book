@@ -1,10 +1,12 @@
 use std::collections::{HashMap, HashSet};
 
-use anyhow::{Context, Result};
+use anyhow::Result;
 use serde::Serialize;
 
+use crate::embedding_cache::CachedRecord;
 use crate::embedding::{cosine_similarity, EmbeddingProvider};
-use crate::storage::{FtsMatch, SkillRecord, SkillStore};
+use crate::embedding_cache::EmbeddingCache;
+use crate::storage::{FtsMatch, SkillStore};
 
 #[derive(Debug, Clone, PartialEq, Serialize)]
 pub struct RecommendationResult {
@@ -54,7 +56,9 @@ impl RecommendRequest {
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Default)]
 pub enum DomainMode {
+    #[default]
     Boost,
     Filter,
     None,
@@ -70,39 +74,39 @@ impl DomainMode {
     }
 }
 
-impl Default for DomainMode {
-    fn default() -> Self {
-        Self::Boost
-    }
-}
 
 pub struct RecommendationEngine<'a> {
     store: &'a SkillStore,
+    cache: &'a EmbeddingCache,
     embedder: &'a dyn EmbeddingProvider,
 }
 
 impl<'a> RecommendationEngine<'a> {
-    pub fn new(store: &'a SkillStore, embedder: &'a dyn EmbeddingProvider) -> Self {
-        Self { store, embedder }
+    pub fn new(
+        store: &'a SkillStore,
+        cache: &'a EmbeddingCache,
+        embedder: &'a dyn EmbeddingProvider,
+    ) -> Self {
+        Self {
+            store,
+            cache,
+            embedder,
+        }
     }
 
     pub fn recommend(&self, request: &RecommendRequest) -> Result<Vec<RecommendationResult>> {
         let query = request.query_text();
         let query_embedding = self.embedder.embed(&query)?;
-        let embedding_map = self
-            .store
-            .embeddings_for_model(&self.embedder.spec().name)?
-            .into_iter()
-            .collect::<HashMap<_, _>>();
 
-        let records = self.store.all_skill_records()?;
-        let considered = records
-            .into_iter()
-            .filter(|record| !record.disable_model_invocation)
-            .filter(|record| domain_allows(record, request))
+        let considered = self
+            .cache
+            .entries()
+            .values()
+            .filter(|entry| !entry.record.disable_model_invocation)
+            .filter(|entry| domain_allows(&entry.record, request))
             .collect::<Vec<_>>();
 
-        if !considered.is_empty() && embedding_map.is_empty() {
+        if !considered.is_empty() && self.cache.is_empty() {
             anyhow::bail!(
                 "recommendation index has no embeddings for model {}",
                 self.embedder.spec().name
@@ -119,27 +123,22 @@ impl<'a> RecommendationEngine<'a> {
         let query_terms = query_terms(&query);
         let mut scored = Vec::new();
 
-        for record in considered {
-            let embedding = embedding_map.get(&record.path).with_context(|| {
-                format!(
-                    "missing embedding for {} with model {}",
-                    record.path,
-                    self.embedder.spec().name
-                )
-            })?;
+        for entry in considered {
+            let record = &entry.record;
+            let embedding = &entry.vector;
 
             let semantic_score = cosine_similarity(&query_embedding, embedding).max(0.0) * 100.0;
             let fts_match = fts_matches.get(&record.path);
-            let field_score = lexical_field_score(&record, &query_terms);
+            let field_score = lexical_field_score(record, &query_terms);
             let fts_score = fts_match
                 .map(|matched| matched.lexical_score)
                 .unwrap_or(0.0);
             let lexical_score = field_score + fts_score;
-            let scope_score = scope_score(&record, request);
+            let scope_score = scope_score(record, request);
 
             let final_score = semantic_score * 0.65 + lexical_score * 1.5 + scope_score;
-            let matched_fields = matched_fields(&record, &query_terms, fts_match);
-            let matched_terms = matched_terms(&record, &query_terms);
+            let matched_fields = matched_fields(record, &query_terms, fts_match);
+            let matched_terms = matched_terms(record, &query_terms);
 
             if final_score <= 0.0 {
                 continue;
@@ -151,7 +150,7 @@ impl<'a> RecommendationEngine<'a> {
                 name: record.name.clone(),
                 description: record.description.clone(),
                 score: final_score,
-                reason: reason_for(&record, semantic_score, lexical_score, scope_score),
+                reason: reason_for(record, semantic_score, lexical_score, scope_score),
                 evidence: RecommendationEvidence {
                     lexical_score,
                     semantic_score,
@@ -179,7 +178,7 @@ impl<'a> RecommendationEngine<'a> {
     }
 }
 
-fn domain_allows(record: &SkillRecord, request: &RecommendRequest) -> bool {
+fn domain_allows(record: &CachedRecord, request: &RecommendRequest) -> bool {
     match (request.domain_mode, request.domain.as_deref()) {
         (DomainMode::Filter, Some(domain)) => {
             record.path == domain || record.path.starts_with(&format!("{domain}/"))
@@ -188,7 +187,7 @@ fn domain_allows(record: &SkillRecord, request: &RecommendRequest) -> bool {
     }
 }
 
-fn scope_score(record: &SkillRecord, request: &RecommendRequest) -> f32 {
+fn scope_score(record: &CachedRecord, request: &RecommendRequest) -> f32 {
     let mut score = 0.0;
     if let (DomainMode::Boost | DomainMode::Filter, Some(domain)) =
         (request.domain_mode, request.domain.as_deref())
@@ -209,7 +208,7 @@ fn scope_score(record: &SkillRecord, request: &RecommendRequest) -> f32 {
     score
 }
 
-fn lexical_field_score(record: &SkillRecord, terms: &[String]) -> f32 {
+fn lexical_field_score(record: &CachedRecord, terms: &[String]) -> f32 {
     let mut score = 0.0;
     let path = record.path.to_ascii_lowercase();
     let name = record.name.to_ascii_lowercase();
@@ -231,7 +230,7 @@ fn lexical_field_score(record: &SkillRecord, terms: &[String]) -> f32 {
 }
 
 fn matched_fields(
-    record: &SkillRecord,
+    record: &CachedRecord,
     terms: &[String],
     fts_match: Option<&FtsMatch>,
 ) -> Vec<String> {
@@ -260,7 +259,7 @@ fn matched_fields(
     fields
 }
 
-fn matched_terms(record: &SkillRecord, terms: &[String]) -> Vec<String> {
+fn matched_terms(record: &CachedRecord, terms: &[String]) -> Vec<String> {
     let haystack = format!(
         "{} {} {}",
         record.path.to_ascii_lowercase(),
@@ -278,7 +277,7 @@ fn matched_terms(record: &SkillRecord, terms: &[String]) -> Vec<String> {
 }
 
 fn reason_for(
-    record: &SkillRecord,
+    record: &CachedRecord,
     semantic_score: f32,
     lexical_score: f32,
     scope_score: f32,
@@ -320,6 +319,7 @@ mod tests {
 
     use super::{DomainMode, RecommendRequest, RecommendationEngine};
     use crate::embedding::DeterministicEmbeddingProvider;
+    use crate::embedding_cache::EmbeddingCache;
     use crate::storage::SkillStore;
 
     #[test]
@@ -330,19 +330,19 @@ mod tests {
             .path()
             .join("investor")
             .join("analyze")
-            .join("market")
             .join("market-analysis");
         fs::create_dir_all(&skill_dir).unwrap();
         fs::write(
             skill_dir.join("SKILL.md"),
-            include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md"),
+            include_str!("../../skills/investor/analyze/market-analysis/SKILL.md"),
         )
         .unwrap();
 
         let embedder = DeterministicEmbeddingProvider::new(32);
         store.sync_filesystem(temp.path(), Some(&embedder)).unwrap();
+        let cache = EmbeddingCache::build(&store, &embedder).unwrap();
 
-        let engine = RecommendationEngine::new(&store, &embedder);
+        let engine = RecommendationEngine::new(&store, &cache, &embedder);
         let results = engine
             .recommend(&RecommendRequest {
                 intent: "Analyze what to consider before investing in stocks".to_string(),
@@ -355,7 +355,7 @@ mod tests {
             })
             .unwrap();
 
-        assert_eq!(results[0].path, "investor/analyze/market/market-analysis");
+        assert_eq!(results[0].path, "investor/analyze/market-analysis");
         assert_eq!(results[0].rank, 1);
         assert!(results[0].evidence.semantic_score > 0.0);
     }

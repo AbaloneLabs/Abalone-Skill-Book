@@ -114,13 +114,13 @@ pub fn validate_skill_source(path: &str, source: &str) -> ValidationReport {
 pub fn normalize_skill_path(path: &str) -> Result<String, ValidationIssue> {
     let normalized = normalize_scope_path(path)?;
     let segments: Vec<String> = normalized.split('/').map(str::to_string).collect();
-    if segments.len() < 4 {
+    if segments.len() < 3 {
         return Err(issue(
             "path_too_shallow",
             Some(normalized),
-            "Skill path must contain at least role, area, subject, and skill-name.".to_string(),
-            "Skill paths must follow skills/<role>/<area>/<subject>/[optional-context...]/<skill-name>/SKILL.md.",
-            "Move the skill under a path such as programmer/api/response/data-minimization.",
+            "Skill path must contain at least role, area, and skill-name.".to_string(),
+            "Skill paths must follow skills/<role>/<area>/<skill-name>/SKILL.md.",
+            "Move the skill under a path such as programmer/api/data-minimization.",
         ));
     }
 
@@ -135,7 +135,7 @@ pub fn normalize_scope_path(path: &str) -> Result<String, ValidationIssue> {
             None,
             "Scope path is empty.".to_string(),
             "Scope paths must be slash-separated path prefixes under skills/.",
-            "Provide a scope such as investor, investor/analyze, or programmer/api/response.",
+            "Provide a scope such as investor, investor/analyze, or programmer/api.",
         ));
     }
 
@@ -363,26 +363,26 @@ mod tests {
     #[test]
     fn normalizes_supported_path_shapes() {
         assert_eq!(
-            normalize_skill_path("skills/investor/analyze/market/market-analysis/SKILL.md")
+            normalize_skill_path("skills/investor/analyze/market-analysis/SKILL.md")
                 .unwrap(),
-            "investor/analyze/market/market-analysis"
+            "investor/analyze/market-analysis"
         );
         assert_eq!(
-            normalize_skill_path("investor/analyze/market/market-analysis").unwrap(),
-            "investor/analyze/market/market-analysis"
+            normalize_skill_path("investor/analyze/market-analysis").unwrap(),
+            "investor/analyze/market-analysis"
         );
     }
 
     #[test]
     fn rejects_shallow_paths() {
-        let err = normalize_skill_path("investor/market").unwrap_err();
+        let err = normalize_skill_path("investor/analyze").unwrap_err();
         assert_eq!(err.code, "path_too_shallow");
     }
 
     #[test]
     fn market_analysis_skill_is_valid() {
-        let source = include_str!("../../skills/investor/analyze/market/market-analysis/SKILL.md");
-        let report = validate_skill_source("investor/analyze/market/market-analysis", source);
+        let source = include_str!("../../skills/investor/analyze/market-analysis/SKILL.md");
+        let report = validate_skill_source("investor/analyze/market-analysis", source);
         assert!(
             report.ok,
             "expected market-analysis to validate, got {:#?}",
@@ -416,7 +416,7 @@ description: Use when the agent is designing an API response and must consider p
             "word ".repeat(MIN_SUBSTANTIVE_WORDS / 2),
         );
 
-        let report = validate_skill_source("programmer/api/response/data-minimization", &source);
+        let report = validate_skill_source("programmer/api/data-minimization", &source);
         assert!(!report.ok);
         assert!(report
             .errors
@@ -451,7 +451,7 @@ Do not leak private fields.
 - [ ] Two
 - [ ] Three
 ";
-        let report = validate_skill_source("programmer/api/response/tiny", source);
+        let report = validate_skill_source("programmer/api/tiny", source);
         assert!(!report.ok);
         assert!(report
             .errors
