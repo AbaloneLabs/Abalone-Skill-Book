@@ -1,3 +1,4 @@
+use std::collections::BTreeMap;
 use std::fs;
 use std::path::PathBuf;
 
@@ -22,6 +23,8 @@ fn main() {
     targets.sort();
     let mut total = 0usize;
     let mut failures = 0usize;
+    // Track skill count per area (role/area) for over-fragmentation detection.
+    let mut area_counts: BTreeMap<String, usize> = BTreeMap::new();
 
     for file in &targets {
         total += 1;
@@ -31,6 +34,15 @@ fn main() {
             .trim_end_matches("/SKILL.md")
             .trim_start_matches("skills/")
             .to_string();
+
+        // Aggregate by area path (role/area). C-plan depth is role/area/skill-name,
+        // so the area is the first two segments.
+        let area_key = logical
+            .split('/')
+            .take(2)
+            .collect::<Vec<&str>>()
+            .join("/");
+        *area_counts.entry(area_key).or_insert(0) += 1;
 
         let source = match fs::read_to_string(file) {
             Ok(s) => s,
@@ -62,6 +74,32 @@ fn main() {
     }
 
     println!("\nValidated {total} skill(s), {failures} failure(s).");
+
+    // Over-fragmentation report: areas with too few skills indicate that
+    // related skills were split into separate area folders instead of being
+    // grouped under a single area (anti-pattern F-2). An area with only one
+    // skill is usually a sign the skill should belong to a broader area.
+    let single_skill_areas: Vec<(&String, &usize)> =
+        area_counts.iter().filter(|(_, &c)| c == 1).collect();
+    let total_areas = area_counts.len();
+    if !single_skill_areas.is_empty() {
+        let pct = if total_areas > 0 {
+            single_skill_areas.len() * 100 / total_areas
+        } else {
+            0
+        };
+        println!(
+            "\nOver-fragmentation warning: {}/{} areas ({pct}%) have only 1 skill.",
+            single_skill_areas.len(),
+            total_areas
+        );
+        println!("        These areas likely split a concept that should group multiple skills.");
+        println!("        Review whether these single-skill areas should be merged into a broader area.");
+        for (area, _) in &single_skill_areas {
+            println!("        1-skill area: {}", area);
+        }
+    }
+
     if failures > 0 {
         std::process::exit(1);
     }

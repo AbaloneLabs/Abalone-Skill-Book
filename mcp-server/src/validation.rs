@@ -111,6 +111,8 @@ pub fn validate_skill_source(path: &str, source: &str) -> ValidationReport {
     }
 }
 
+pub const MAX_PATH_SEGMENTS: usize = 3;
+
 pub fn normalize_skill_path(path: &str) -> Result<String, ValidationIssue> {
     let normalized = normalize_scope_path(path)?;
     let segments: Vec<String> = normalized.split('/').map(str::to_string).collect();
@@ -121,6 +123,19 @@ pub fn normalize_skill_path(path: &str) -> Result<String, ValidationIssue> {
             "Skill path must contain at least role, area, and skill-name.".to_string(),
             "Skill paths must follow skills/<role>/<area>/<skill-name>/SKILL.md.",
             "Move the skill under a path such as programmer/api/data-minimization.",
+        ));
+    }
+
+    if segments.len() > MAX_PATH_SEGMENTS {
+        return Err(issue(
+            "path_too_deep",
+            Some(normalized),
+            format!(
+                "Skill path has {} segments; the flat structure allows at most {MAX_PATH_SEGMENTS} (role/area/skill-name).",
+                segments.len()
+            ),
+            "Skill paths must follow skills/<role>/<area>/<skill-name>/SKILL.md with no intermediate subject or context folders.",
+            "Flatten the path by removing intermediate subject/context folders, keeping only role, area, and skill-name.",
         ));
     }
 
