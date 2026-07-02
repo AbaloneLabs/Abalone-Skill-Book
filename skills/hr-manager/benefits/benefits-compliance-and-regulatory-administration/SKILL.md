@@ -39,33 +39,33 @@ Benefits administration intersects with leave and disability administration in c
 
 ## Common Traps
 
-### Missed Filing or Notice Deadlines
+### Missing Filing Deadlines
 
-The most common compliance failures are missed deadlines. Maintain a compliance calendar with ownership and tracking, and review monthly.
+Benefits compliance is governed by hard, non-negotiable deadlines — Form 5500, ACA 1094/1095, nondiscrimination testing, SAR distribution, SPD updates — and missing them triggers automatic penalties, excise taxes, or audit exposure that compound the longer they go unaddressed. The trap is that these deadlines are annual and cyclical, so they feel routine, but each year's filings are independently penalized, and a missed deadline in one year cannot be cured by on-time filing in the next. Maintain a compliance calendar with owners and lead times, because the penalty for missing a benefits deadline is not a reprimand but a per-day or per-participant fine that accumulates silently until an audit surfaces it.
 
-### Health Plan Requirements Administered Loosely
+### Incomplete SPDs And Wrap Documents
 
-ACA, HIPAA, COBRA, and parity requirements administered loosely create penalties and employee harm. Administer rigorously and engage benefits counsel for technical questions.
+Summary Plan Descriptions are the legal document employees and regulators rely on to understand the plan's terms, and an SPD that is missing required elements — claims procedures, COBRA rights, amendment procedures, ERISA plan name and number — is treated as a compliance failure even if the plan itself is well-administered. The wrap-document trap is the inverse: when a single wrap SPD is used to bundle multiple benefits, the individual plan documents must be consistent with the wrap, or the wrap provides no protection. Review SPDs and wrap documents against the current DOL model language and the plan's actual operations, because an SPD that does not match how the plan actually works is worse than no document, as it creates a misrepresentation the plan sponsor must defend.
+
+### Nondiscrimination Testing Treated As A Year-End Formality
+
+Section 105(h) nondiscrimination testing for self-insured medical plans, and the similar tests for dependent care and cafeteria plans, must pass on both eligibility and benefits dimensions, and failing the test requires corrective action that may include returning contributions or restructuring the plan. The trap is treating testing as a paperwork step performed after the plan year ends, when the results are discovered too late to correct within the year and the failure carries excise tax exposure. Run nondiscrimination testing mid-year, while there is still time to correct eligibility or benefit design before the plan year closes, because a test result that arrives after the correction window is a finding of liability, not a management tool.
+
+### COBRA Administration Gaps
+
+COBRA is a process with multiple time-sensitive steps — employer notice of qualifying event, election notice, election period, premium grace period, and termination notice — and a failure at any step shifts the cost of the former employee's coverage onto the employer. The trap is that COBRA failures are rarely discovered by HR; they surface when a terminated employee incurs a medical claim and discovers they were never offered continuation coverage, at which point the employer is liable for the claim. Audit COBRA administration — notices sent, timelines met, premiums tracked — on a regular schedule, because COBRA liability is retroactive and can extend to substantial medical claims that the employer must pay out of pocket.
+
+### Confusing Plan Design Changes With Plan Document Amendments
+
+Changing a copay, adding a benefit, or modifying eligibility is a plan design change that must be reflected in a formal plan document amendment and communicated through an updated SPD or SMM; treating it as an administrative adjustment that does not require documentation creates a gap between the governing document and the actual plan. The trap is that in an audit or a dispute, the plan document controls, and if the document does not reflect the change, the plan must be administered according to the document — meaning the change is reversed retroactively or the plan is non-compliant. Amend the plan document whenever the design changes, and update the SPD within the required timeframe, because the plan document is the legal instrument, and a design change that is not documented does not legally exist.
 
 ### Retirement Plan Fiduciary Obligations Underestimated
 
-ERISA fiduciary obligations and IRS qualification requirements carry significant liability. Engage counsel and the TPA, and treat fiduciary duties with seriousness.
+ERISA fiduciary obligations for retirement plans — the duty of prudence, diversification, monitoring of investment options, and fee reasonableness — are personal liabilities for the individuals serving as fiduciaries, and they are enforced by the DOL and through participant litigation. The trap is treating the retirement plan as a vendor-administered program that runs itself, when in fact the fiduciary obligation to monitor the recordkeeper, review fees, and evaluate the investment menu is ongoing and non-delegable. Document fiduciary processes — investment committee minutes, fee benchmarking, vendor reviews — and engage ERISA counsel, because a fiduciary breach claim reaches the personal assets of the fiduciaries, not just the plan or the company.
 
-### Shared Obligations Assumed Handled by Vendors
+### Shared Obligations Assumed Handled By Vendors
 
-Assuming carriers or TPAs are handling obligations they are not leads to failures for which the employer remains liable. Clarify, confirm contractually, and audit periodically.
-
-### Disclosure Content or Distribution Non-Compliant
-
-SPDs, SBCs, and notices with inaccurate content or non-compliant distribution are common violations. Manage disclosures as a program with counsel review and distribution documentation.
-
-### Compliance Documentation Disorganized for Audit
-
-Scrambling to reconstruct records during a regulatory inquiry is costly. Maintain organized documentation and conduct internal audits periodically.
-
-### Leave and Benefits Interactions Mishandled
-
-Coverage lapses, missed COBRA triggers, and disability coordination errors at the leave-benefits intersection create harm and liability. Coordinate the processes deliberately.
+Benefits administration involves carriers, TPAs, and administrators who handle day-to-day operations, but the legal compliance obligations — notices, disclosures, testing, filings — remain with the employer-plan-sponsor, and a vendor's failure to perform does not shift the liability. The trap is the assumption that because a vendor is performing a function, the obligation is met, when the contract may limit the vendor's responsibility or the vendor may simply fail without the employer knowing. Clarify in the administrative services agreement exactly which party owns each obligation, confirm the vendor's performance through periodic audits and reporting, and never assume a function is handled simply because it is outsourced, because the regulator and the participant hold the employer responsible regardless of what the vendor did or did not do.
 
 ## Self-Check
 

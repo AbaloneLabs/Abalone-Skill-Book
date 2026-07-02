@@ -125,37 +125,37 @@ A plan that is never evaluated may continue to pay for outdated priorities. A pl
 
 ## Common Traps
 
-### Strategy Misalignment
+### Strategy-Measure Disconnect
 
-Paying on measures that do not reflect business strategy, such as rewarding revenue when margin is the priority. Start from strategy.
+When the sales plan's payout measures do not reflect the business strategy — paying on revenue when margin is the priority, paying equally for new and existing logos when acquisition is the goal, paying on bookings when cash collection is what matters — the sales force optimizes for exactly what is measured and the strategy is executed in reverse. The trap is that each measure looks reasonable in isolation (revenue is good, bookings are progress), so no one notices that the aggregate incentive pushes the organization toward unprofitable growth, churn-prone customers, or revenue that never converts to cash. The damage surfaces in finance, not in sales, so it is attributed to "market conditions" rather than to the comp plan that caused it. The plan's primary measure must be the strategy's primary measure, or the plan will faithfully produce the wrong behavior.
 
-### Wrong Pay Mix
+### Pay Mix Mismatched To The Selling Model
 
-Setting a mix that does not match the sales model, creating either complacency or excessive risk. Balance base and variable for the role.
+A base-to-variable mix that does not match the sales model creates predictable dysfunction. A transactional, short-cycle role loaded with high base pay removes the urgency that makes transactional selling work; salespeople coast because their income does not depend on the next deal. A consultative, long-cycle enterprise role loaded with high variable pay starves the salesperson through twelve-month cycles, driving turnover of exactly the relationship-builders the model needs. The trap is that the mix is often set by copying another company's plan or by a one-size-fits-all policy, rather than by analyzing the sales cycle, deal size, and customer relationship the role requires. The mix signals what the organization expects; a mismatched mix signals the wrong thing and produces the wrong behavior.
 
-### Arbitrary Quotas
+### Quotas As Division Rather Than Analysis
 
-Setting quotas by dividing a revenue goal by headcount, producing unachievable or uncredible targets. Set quotas based on territory potential.
+Setting quotas by dividing a top-down revenue goal by headcount — regardless of territory potential, historical performance, or market opportunity — produces targets that are either unachievable (demoralizing good salespeople in weak territories) or too easy (overpaying those in rich territories while leaving revenue on the table). The trap is that the arithmetic feels rigorous and objective, when it is actually arbitrary: it assumes every territory has the same potential, which is never true. Salespeople who receive quotas untethered from their territory's reality conclude the system is rigged, and they are right. Credible quotas require bottom-up analysis of territory potential, transparency about methodology, and differentiation so that the target reflects the actual opportunity.
 
-### Unintentional Payout Curve
+### The Unmodeled Payout Curve
 
-Using thresholds, accelerators, or caps without modeling their behavioral and cost impact. Design the payout curve deliberately.
+Thresholds, accelerators, and caps each shape behavior in specific ways, and applying them without modeling their combined effect on behavior and cost produces a plan that surprises everyone. A threshold set too high discourages effort from the bottom half, who see no path to payout and stop selling. A cap set too low tells top performers to stop selling once they hit it — sometimes literally redirecting deals into the next quarter. An accelerator that is too steep creates a lottery where one big deal produces outsized payout unrelated to sustained effort. The trap is that each lever looks reasonable in isolation, and the dysfunction emerges only when the plan meets real performance data. Modeling the payout curve against historical and projected performance, at multiple percentiles, is what reveals the behavioral and cost consequences before the plan goes live.
 
 ### Exploitable Credit Rules
 
-Leaving loopholes that allow deal splitting, timing manipulation, or double-crediting. Define credit rules clearly and monitor for gaming.
+Vague or loophole-ridden credit rules invite gaming, and a plan that can be gamed will be, because salespeople are incentivized to maximize payout within the rules as written. Deal splitting to cross thresholds, holding deals to manipulate timing across periods, rebooking to maximize accelerator payout, double-crediting through ambiguous team-selling rules — each exploits a gap between what the organization intended to pay for and what the rules actually pay for. The trap is that the gaming looks like selling (deals close, revenue books), so it is not detected until the cost or the channel conflict surfaces. Precise credit triggers (booking versus shipment versus collection), explicit attribution rules for team and overlay roles, and active monitoring for gaming patterns are what keep the plan paying for genuine sales rather than manufactured activity.
 
-### Overly Complex Plan
+### Complexity Mistaken For Sophistication
 
-Creating a plan with so many measures and formulas that salespeople cannot understand it. Keep it simple and transparent.
+A plan with seven measures, look-up tables, and multipliers that require a spreadsheet to calculate payout is not sophisticated; it is incomprehensible, and an incomprehensible plan cannot motivate because salespeople cannot connect their effort to their earnings. The trap is that complexity feels like precision (each measure captures a nuance) and protects against gaming (more rules close more loopholes), but the cost is that the salesperson gives up trying to understand the calculation and focuses on arguing about it instead. The most effective sales plans are often the simplest — one primary measure, a clear threshold and accelerator, a payout a salesperson can estimate in their head — because simplicity lets the salesperson focus entirely on selling rather than on decoding the comp plan.
 
-### Poor Administration
+### Design Without Administration
 
-Designing a plan without ensuring that systems and processes can support crediting and payment. Plan for administration and data integrity.
+A plan designed without verifying that the CRM, compensation system, and data flows can actually support crediting and calculation becomes an administrative nightmare: credits are wrong, payments are late, disputes pile up, and the plan loses credibility regardless of how well it is designed on paper. The trap is that the design happens in a spreadsheet that assumes clean data and instant calculation, while the reality is messy CRM data, manual adjustments, and quarterly true-ups that arrive months late. A well-designed plan that pays the wrong amount or pays late produces the same demotivation as a poorly designed one. Administration — data integrity, system capability, dispute resolution, timely payment — is part of the design, not an afterthought.
 
-### Static Plan
+### The Never-Refreshed Plan
 
-Never evaluating or refreshing the plan, so it continues to pay for outdated priorities. Evaluate and refresh regularly.
+A sales compensation plan that is never evaluated or refreshed continues to pay for the priorities of the year it was designed in, even as strategy, products, and markets shift. The trap is that the plan still produces payouts, so it feels like it is working, while silently misaligning sales behavior from current strategy. Conversely, a plan changed too frequently or with mid-year surprises destroys trust, as salespeople cannot plan around a target that keeps moving. The balance is annual evaluation — assessing whether the plan drives intended behavior, analyzing payout distribution for dysfunction, gathering sales force feedback, and making deliberate, well-communicated changes aligned with the current year's strategy. A plan older than its last strategy review is paying for yesterday's priorities.
 
 ## Self-Check
 

@@ -128,37 +128,37 @@ Silence or secrecy about a departure breeds speculation. Clear, respectful commu
 
 ## Common Traps
 
-### Retaliatory Or Punitive Response
+### Retaliatory Or Punitive Response To Resignation
 
-Reacting to resignation with anger, marginalization, or access cutoff, damaging the relationship and signaling danger to remaining employees. Respond professionally.
+Reacting to a resignation with anger, marginalization, or immediate access cutoff — freezing the employee out during their notice period, assigning them menial work, or cutting their system access the moment they announce departure — damages the relationship and signals danger to remaining employees, because the punitive response tells every employee who witnesses it that giving notice is risky, and the next person to leave will give no notice and leave on bad terms. The trap is that the manager's hurt or anger feels justified in the moment, so the punitive response feels natural, but it is observed by the entire team and converts a professional departure into a story of organizational hostility. Respond professionally and graciously, regardless of personal feelings, because the response to resignation is a signal to the entire workforce about how departures are handled, and a punitive response ensures the next departure is worse.
 
-### No Knowledge Transfer
+### No Knowledge Transfer Before Departure
 
-Allowing the employee to leave without capturing critical knowledge, creating gaps and disruption. Plan and execute transfer.
+Allowing the employee to leave without capturing critical knowledge, relationships, and context — assuming that the work is documented or that someone will figure it out — creates gaps and disruption that surface only after the employee is gone, because the departing employee holds tacit knowledge, informal relationships, and institutional context that no documentation captured, and the discovery that no one knows how a critical process works happens when the process breaks. The trap is that the notice period feels like a wind-down, so transfer is deferred until the final days when the employee is checked out, but the notice period is the last opportunity to capture what they know, and a transfer begun too late captures only the obvious. Plan and execute structured knowledge transfer from the start of the notice period, because the knowledge the departing employee takes is knowledge the organization paid to develop, and losing it without transfer is a sunk cost that compounds.
 
-### Perfunctory Exit Interview
+### Perfunctory Exit Interview That Wastes The Feedback
 
-Conducting exit interviews that are defensive, conducted by the manager, or never aggregated, wasting the feedback opportunity. Conduct genuine interviews and analyze data.
+Conducting exit interviews that are defensive, conducted by the direct manager, or never aggregated — going through the motions with perfunctory questions, arguing with the employee's answers, or filing the feedback without analysis — wastes the single most candid feedback opportunity, because departing employees are more honest than current employees, and that candor is lost if the interview is conducted in a way that suppresses it. The trap is that exit interviews feel routine, so they are delegated to the manager or handled casually, but a manager-conducted interview suppresses candor (the employee will not criticize the manager to the manager), and a defensive interview ensures the employee stops being honest. Conduct genuine interviews by a neutral party, listen without defending, and aggregate the data for patterns, because the exit interview is the only time the organization hears unfiltered truth about why people leave, and a perfunctory interview converts that truth into noise.
 
-### Data Without Action
+### Turnover Data Without Analysis Or Action
 
-Tracking turnover without analyzing patterns or acting on findings, so problems persist. Analyze and act on turnover data.
+Tracking turnover numbers without analyzing patterns or acting on findings — collecting exit data and turnover rates but never examining where turnover concentrates, what drives it, or what would reduce it — ensures that the problems causing turnover persist, because data without analysis is storage, not insight, and turnover that is tracked but not understood is turnover that continues. The trap is that tracking feels like action, so the organization believes it is addressing turnover, but a dashboard that no one acts on is a monument to inaction, and the drivers of departure continue unaddressed. Analyze turnover by department, role, tenure, and demographics, identify the drivers, and act on the findings, because turnover data is valuable only if it changes what the organization does, and data that does not drive action is overhead.
 
-### Routine Counteroffers
+### Routine Counteroffers That Create A Market For External Offers
 
-Making counteroffers as standard practice, creating a culture where external offers are the path to raises and delaying rather than preventing departures. Manage counteroffers strategically and rarely.
+Making counteroffers as standard practice — matching or beating every external offer a valued employee brings — creates a culture where external offers are the path to raises and delays rather than prevents departures, because once counteroffers become routine, employees learn that the way to be paid fairly is to solicit an external offer, and the organization has created an internal market priced by external competition. The trap is that each counteroffer feels like a retention win, so the practice continues, but most employees who accept counteroffers leave within a year, the underlying dissatisfaction remains, and the signal to the workforce is that loyalty is unrewarded while external offers are rewarded. Manage counteroffers strategically and rarely, addressing root causes and considering the organizational signal, because a counteroffer culture punishes the employees who stay and rewards the ones who threaten to leave.
 
-### Bridge Burning
+### Bridge Burning That Destroys Future Value
 
-Treating departing employees poorly, ensuring negative word-of-mouth and losing future rehire or referral opportunities. Preserve the relationship.
+Treating departing employees poorly — hostility during notice, refusal to provide references, or punitive final interactions — ensures negative word-of-mouth and loses future rehire or referral opportunities, because departing employees become the organization's most credible critics or advocates, and their experience of the departure shapes what they say for years. The trap is that the employee is leaving anyway, so the relationship feels disposable, but former employees are future rehires, referral sources, customers, and ambassadors, and a burned bridge is a permanent loss of all of that value. Preserve the relationship through gracious departure, alumni connection, and openness to rehiring, because the employee who leaves today may be the advocate, the referral, or the boomerang rehire of tomorrow, and a burned bridge cannot be rebuilt.
 
-### Punitive Security Measures
+### Punitive Security Measures That Signal Distrust
 
-Applying heavy-handed security measures to voluntary departures without cause, signaling distrust. Maintain security proportionately.
+Applying heavy-handed security measures to voluntary departures without cause — immediate escort from the building, abrupt access cutoff in front of colleagues, or confiscation of personal belongings — signals distrust to the departing employee and fear to the remaining employees, because the measures communicate that the organization views resignation as betrayal, and the remaining employees conclude that the organization does not trust them either. The trap is that security feels prudent, so measures are applied aggressively, but proportionate security protects assets while disproportionate security destroys trust, and the remaining employees watch the departure and draw conclusions about how they would be treated. Maintain security proportionately, managing access according to role and tenure without adversarial measures unless there is specific cause, because security that signals distrust to the departing employee signals distrust to everyone who remains.
 
-### Secretive Departure Communication
+### Secretive Departure Communication That Breeds Rumor
 
-Not informing the team about the departure, allowing rumors and anxiety to fill the vacuum. Communicate clearly and respectfully.
+Not informing the team about the departure, or communicating it late and vaguely — allowing the departure to become known through rumor, or announcing it without context — allows anxiety and speculation to fill the vacuum, because silence about a departure is never interpreted neutrally, and the team will assume the worst, whether layoff, conflict, or crisis. The trap is that the departure feels like the employee's private matter, so communication is delayed, but a departure is a team event, and the absence of communication is itself a message, and the message the team invents is always worse than the truth. Communicate the departure promptly, positively, and with transition information, because clarity prevents rumor, and a departure communicated well demonstrates that the organization values transparency and treats departing employees with respect.
 
 ## Self-Check
 

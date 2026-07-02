@@ -126,37 +126,37 @@ A mentoring program that runs year after year without evaluation may be producin
 
 ## Common Traps
 
-### Purpose Confusion
+### Purpose Confusion That Creates Mismatched Expectations
 
-Mixing mentoring and coaching, or labeling performance management as coaching, creating mismatched expectations. Clarify the purpose.
+Mixing mentoring and coaching, or labeling performance management as coaching — using the terms interchangeably, or calling a performance management intervention "coaching" — creates mismatched expectations, because mentoring and coaching are different relationships with different structures and goals, and participants who enter one expecting the other are frustrated, and the employee who receives "coaching" that is actually performance management learns that coaching is a euphemism for criticism, and the contamination of the term ensures that future coaching offers are met with resistance. The trap is that the terms feel interchangeable, so they are used loosely, but loose terms produce loose programs, and a program whose purpose is unclear cannot match the right people, provide the right structure, or produce the right outcomes. Clarify the purpose of the program, distinguishing mentoring from coaching and ensuring that performance management is never labeled as coaching, because clarity of purpose aligns expectations and enables effective design, and ambiguity produces relationships that meander without impact.
 
-### Careless Matching
+### Careless Matching That Produces Failed Relationships
 
-Pairing based on availability or seniority rather than development needs and compatibility, producing failed relationships. Match carefully.
+Pairing based on availability or seniority rather than development needs and compatibility — matching whoever is available with whoever needs a mentor, or matching by seniority without considering fit — produces failed relationships, because the match is the most critical determinant of success, and a match made without considering development needs, communication style, and compatibility is a match made by chance, and chance matches fail at high rates, wasting time and producing frustration that discourages future participation. The trap is that thoughtful matching takes effort, so availability-based matching is used as a shortcut, but the shortcut produces relationships that do not work, and the failed relationship is worse than no relationship because it discourages both parties from participating again. Match carefully based on development needs, compatibility, and the absence of conflicts of interest, allowing both parties to meet before committing, because a thoughtful match produces a productive relationship, and a careless match produces a failed one.
 
-### No Preparation
+### No Preparation That Assumes Experience Equals Mentoring Skill
 
-Assuming experience equals mentoring skill, sending pairs into relationships without training or frameworks. Prepare and train both parties.
+Assuming experience equals mentoring skill — sending pairs into relationships without training, frameworks, or guidance, on the assumption that a senior person knows how to mentor because they are senior — sets relationships up for disappointment, because mentoring is a skill that most people have not formally developed, and the experienced mentor who tells rather than asks, or who solves rather than guides, produces a relationship that is unproductive and potentially frustrating, and the mentee who expects the mentor to drive the relationship produces a passive dynamic that develops no one. The trap is that experience feels like qualification, so preparation is not provided, but experience in a field is not the same as skill in developing people, and a mentor without preparation is a mentor without tools. Prepare and train both mentors and mentees, providing frameworks for conversation, goal-setting, and feedback, because prepared participants engage effectively, and unprepared participants reproduce the unproductive patterns they have observed in others.
 
-### Over-Formalization
+### Over-Formalization That Suppresses Organic Development
 
-Structuring the relationship so heavily that it feels bureaucratic, suppressing organic development. Balance structure with freedom.
+Structuring the relationship so heavily that it feels bureaucratic — mandating topics, schedules, and reporting requirements that turn the relationship into an assignment — suppresses the organic development that makes mentoring valuable, because mentoring develops through trust and candor that emerge organically, and a relationship that feels like a compliance exercise produces compliance-level engagement, and the mentor and mentee who are following a script are not having the candid, wide-ranging conversations that build judgment and perspective. The trap is that structure feels like support, so it is added generously, but structure that crosses into bureaucracy kills the relationship, and a bureaucratic mentoring relationship is an assignment that no one wants. Balance structure with freedom, providing enough to launch and sustain without scripting the relationship, because structure supports the relationship and bureaucracy kills it, and the line between the two is the line between a program that develops and one that frustrates.
 
-### Ignoring Power Dynamics
+### Ignoring Power Dynamics That Inhibits Candor And Safety
 
-Matching within reporting lines or not addressing confidentiality, inhibiting candor and safety. Address dynamics and confidentiality.
+Matching within reporting lines or not addressing confidentiality — pairing a mentee with their own manager or someone in their reporting chain, or failing to establish that conversations are confidential — inhibits candor and safety, because a mentee who is matched with someone in their reporting chain cannot be candid about challenges, frustrations, or doubts without risking consequences, and the power dynamic converts the mentoring relationship into a performance discussion, and the mentee who cannot be candid cannot develop, because development requires honesty and honesty requires safety. The trap is that matching within the organization feels convenient, so reporting-line conflicts are not avoided, but convenience that inhibits candor is convenience that defeats the purpose, and a mentoring relationship without candor is a mentoring relationship without value. Address power dynamics by avoiding matches within reporting lines and establishing clear confidentiality expectations, because candor requires safety, and safety requires the absence of power dynamics and the assurance of confidentiality.
 
-### No Internal Capability
+### No Internal Capability That Creates Total Dependence On External Coaches
 
-Depending entirely on external coaches, with no sustainable internal development capacity. Build internal coaching capability.
+Depending entirely on external coaches — outsourcing all coaching to external providers, with no internal capability to sustain or scale development — creates total dependence, because external coaches are expensive and limited in availability, and the organization that depends entirely on them cannot provide coaching to the breadth of employees who would benefit, and the coaching capability stays with the external providers rather than being built inside the organization, and the dependence is both financial and capability-based. The trap is that external coaches feel like the highest-quality option, so they are the only option used, but an organization that cannot coach its own people is an organization that has surrendered a development capability, and total dependence on external coaches is total dependence on a resource that does not scale. Build internal coaching capability, through manager training and a pool of internal coaches, because internal capability provides sustainable, scalable development, and total external dependence provides neither.
 
-### Unmanaged External Engagements
+### Unmanaged External Engagements That Waste Investment
 
-Engaging external coaches without objectives, timeline, or review, wasting investment. Manage engagements professionally.
+Engaging external coaches without objectives, timeline, or review — hiring a coach with no defined goals, no timeframe, and no process for assessing whether the engagement is working — wastes investment, because an engagement with no objectives cannot be evaluated, and an engagement that cannot be evaluated cannot be improved or terminated, and the open-ended coaching engagement becomes a recurring expense with no accountability, and the organization cannot determine whether the investment produced development or just activity. The trap is that coaching feels inherently beneficial, so management is not imposed, but coaching without objectives and review is an expense without accountability, and an unmanaged engagement can continue for years without producing measurable results. Manage external engagements professionally, with defined objectives, timeframes, confidentiality protocols, and effectiveness review, because a managed engagement produces development, and an unmanaged engagement produces an open-ended expense.
 
-### No Evaluation
+### No Evaluation That Lets Problems Persist Undetected
 
-Running the program without assessing effectiveness, so problems persist undetected. Evaluate and improve continuously.
+Running the program without assessing effectiveness — a mentoring or coaching program that runs year after year with no evaluation of whether relationships are working, goals are being achieved, or participants are satisfied — lets problems persist undetected, because without evaluation the program's problems are invisible, and a program with a high match-failure rate, or with participation concentrated in one demographic group, or with relationships that produce frustration rather than development, continues because no one knows it is failing, and the failure is discovered when participants stop enrolling or when the program's reputation collapses. The trap is that the program felt complete when launched, so evaluation is not added, but a program that is not evaluated is a program that cannot improve, and an unevaluated program may be producing frustration that no one is measuring. Evaluate and improve continuously, gathering feedback, assessing goal achievement, and examining participation equity, because evaluation reveals problems and drives improvement, and an unevaluated program is a program whose effectiveness is a guess.
 
 ## Self-Check
 

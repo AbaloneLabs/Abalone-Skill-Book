@@ -92,33 +92,33 @@ Employees who request religious accommodation are protected from retaliation, an
 
 ## Common Traps
 
-### Demanding Proof Of Belief
+### Demanding Theological Proof Of Belief
 
-Requiring theological justification, clergy attestation, or textual support for the belief, which is inappropriate. Presume sincerity.
+Requiring the employee to justify their belief through religious texts, clergy attestation, or theological argument — "can you show us where your religion requires this?" — inverts the legal framework, which presumes sincerity and forbids the employer from assessing whether a belief is theologically sound, because the employer's role is to determine whether the belief is sincerely held and religious in nature, not whether it is correct, orthodox, or supported by scripture. The trap is that demanding proof feels like diligence, but it is an invasion of religious conscience that the law explicitly prohibits, and it signals to the employee that their faith is on trial. Presume sincerity, challenge it only with specific objective evidence of inconsistency, and never assess theological soundness, because the employer is not a religious authority, and acting like one is both unlawful and offensive.
 
-### Applying The De Minimis Standard
+### Applying The Outdated De Minimis Standard
 
-Denying accommodations based on minor inconvenience or cost, under the outdated de minimis standard. Apply the substantial increased cost standard.
+Denying accommodations based on minor inconvenience, modest cost, or coworker resentment — under the former de minimis standard that any more than a minimal burden constituted undue hardship — applies a legal standard that has been superseded by the heightened substantial increased cost standard, which makes denial significantly more difficult and requires evidence of cost or disruption that is substantial, not trivial. The trap is that the de minimis standard is familiar and intuitive to managers trained under it, so it persists in practice long after the law changed, but a denial based on de minimis inconvenience is a denial under the wrong standard and fails as a matter of law. Apply the substantial increased cost standard, recognize that common accommodations like shift swaps and dress code exceptions rarely meet it, and document any hardship claim with evidence of substantial cost, because applying the old standard produces denials that cannot survive review under the current law.
 
-### Shifting Duties To Coworkers
+### Shifting Duties To Unwilling Coworkers
 
-Accommodating by requiring coworkers to absorb the employee's duties involuntarily, which may exceed what the law requires. Use voluntary swaps and minimize burdens.
+Accommodating one employee by involuntarily reassigning their duties to coworkers who did not agree to absorb them — "we accommodated Ahmed's schedule, so now you cover his Friday shifts" — imposes a burden on coworkers that the law does not require and that can itself generate resentment, claims, and operational disruption, because the employer accommodates the employee's practice through its own resources, not by conscripting coworkers. The trap is that shifting duties feels like the easiest accommodation, but it transfers the burden rather than removing it, and coworkers who are forced to absorb duties involuntarily may file their own complaints or develop bias against the accommodated employee. Use voluntary shift swaps where coworkers freely agree, design accommodations to minimize impact on others, and never frame accommodation as requiring coworkers to cover involuntarily, because accommodation that burdens unwilling coworkers is accommodation that creates new problems while solving one.
 
-### Favoring Familiar Religions
+### Favoring Familiar Religions Over Unfamiliar Ones
 
-Accommodating familiar practices while denying equivalent practices of minority religions. Apply the analysis neutrally.
+Accommodating familiar practices — Sunday worship, Christmas, mainstream Christian holidays — while subjecting equivalent practices of minority or unfamiliar religions to greater scrutiny, higher hardship thresholds, or outright denial, is differential treatment based on religion that the neutrality requirement prohibits, because the same analysis must apply to all requests regardless of how familiar or mainstream the religion is. The trap is that familiar practices feel reasonable and unfamiliar ones feel burdensome, but that feeling is bias dressed as judgment, and accommodating the familiar while scrutinizing the unfamiliar is the core pattern of religious discrimination. Apply the same sincerity and undue hardship analysis to every request, be alert to differential treatment driven by unfamiliarity or discomfort, and train decision-makers on the broad definition of religion, because neutrality is not the default — it requires active vigilance against the bias that treats the familiar as normal and the unfamiliar as suspect.
 
-### Targeting Religious Expression
+### Targeting Religious Expression While Permitting Secular Expression
 
-Limiting religious speech while permitting comparable secular speech, or treating unfamiliar expression as disruptive. Apply limits consistently.
+Limiting religious speech, display, or discussion — "no religious items at desks, no faith discussions at work" — while permitting comparable secular expression, such as political discussion, sports talk, or personal decoration, applies restrictions to religious content that are not applied to secular content, which is religious discrimination even if framed as a neutral policy, because the limits must be content-neutral and applied consistently. The trap is that religious expression feels sensitive or risky, so it is restricted more aggressively, but singling out religious speech for restriction while allowing other expression is the essence of targeting. Apply limits consistently across religious and secular expression, restrict only expression that is disruptive, harassing, or targeted at subordinates, and never treat religious content as inherently more problematic than secular content, because a policy that restricts religious speech but not secular speech is not neutral — it is discriminatory.
 
-### Reflexive Denial Of Duty Objections
+### Reflexive Denial Of Duty Objections Without Analysis
 
-Denying objections to specific duties without analyzing whether accommodation through swaps or reassignment is possible. Analyze carefully.
+Denying requests involving objections to specific workplace duties — an employee who objects to serving certain customers, handling certain products, or participating in certain activities — without analyzing whether the objection is based on sincerely held belief and whether accommodation through swaps or reassignment is feasible, treats duty objections as categorically unacceptable when the law requires individualized analysis, because some duty objections can be accommodated through voluntary swaps or reassignment without undue hardship. The trap is that duty objections feel like an imposition on operations, so they are denied reflexively, but the law requires analysis of the specific objection, its basis, and the feasibility of accommodation. Assess whether the objection is sincerely held, analyze whether accommodation through voluntary swaps or reassignment is feasible, and document the undue hardship analysis if denial is necessary, because a reflexive denial that did not analyze accommodation options is a denial that did not meet the obligation.
 
-### Retaliation For Requests
+### Retaliation And Bias Against Employees Who Request Accommodation
 
-Penalizing employees who request accommodation, or allowing bias against their religion to affect treatment. Prevent retaliation.
+Penalizing employees who request religious accommodation — through reduced assignments, negative evaluations, social exclusion, or termination — or allowing bias against their religion to affect their treatment, is retaliation and discrimination that is independently unlawful regardless of whether the accommodation was granted, because requesting accommodation is protected activity and the employee's religion is a protected characteristic. The trap is that the accommodation is seen as disruptive or demanding, so the employee is subtly penalized, but retaliation for protected activity is one of the most common and most provable forms of liability. Treat accommodation requests as protected activity, monitor the employee's treatment after the request for signs of bias or retaliation, and address any adverse treatment immediately, because the accommodation request is not the end of the obligation — the duty to protect the employee from retaliation continues throughout the employment.
 
 ## Self-Check
 

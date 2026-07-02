@@ -86,29 +86,29 @@ Hybrid arrangements should be evaluated against their goals, not assumed to be w
 
 ## Common Traps
 
-### Commuting To An Empty Office
+### The Commute To An Empty Office
 
-Mandating office days without purpose or overlap, so employees commute to do individual work alone. Give the office a purpose and coordinate schedules.
+When an organization mandates three office days but assigns no collaborative purpose to those days, employees commute to sit in headphones doing the same focused work they could do at home. The office becomes a library with worse coffee. This destroys the case for hybrid: employees experience only the cost (commute, time) and none of the benefit (connection, collaboration), which breeds resentment and quiet withdrawal from office attendance. The trap is that leadership mandates presence because "hybrid requires some office time" without defining what the office time is for, so the mandate creates the appearance of collaboration without the substance. The fix is to define the collaborative purpose of office days explicitly and design the schedule around it.
 
-### Meeting Inequity
+### The Two-Room Meeting Problem
 
-Running meetings where in-room participants dominate and remote participants are second-class, undermining collaboration and equity. Use inclusive meeting norms.
+In a hybrid meeting, four people sit in a conference room and two join remotely. The in-room group has side conversations, references the whiteboard nobody can see, and reaches informal agreement before the remote participants can weigh in. The remote participants become observers in their own meeting. This pattern is so common it feels normal, but it systematically excludes remote-heavy employees from decision-making and signals that their participation is secondary. The trap is that the exclusion is not malicious — it is the path of least resistance for the in-room group — so it persists unless meeting norms explicitly counteract it, such as requiring everyone to join individually on video or designating a remote-inclusion facilitator.
 
-### Proximity Bias In Advancement
+### Proximity Bias Hidden Inside Merit
 
-Favoring office-heavy employees for promotions and opportunities, creating a two-tier system. Track and counter bias.
+Hybrid work makes proximity bias harder to detect than fully remote or fully in-office work, because both populations exist and interact. The manager believes they are rewarding performance when they give the stretch assignment to the person they bumped into in the kitchen, but the bump-into itself is the mechanism of bias — office-heavy employees have more informal access to opportunity. Because the bias operates through legitimate-seeming channels (availability, responsiveness, relationship), it feels like merit to the decision-maker. By the time advancement-rate analysis reveals the pattern, the remote cohort has already concluded the system is rigged, and the people you most wanted to retain are interviewing elsewhere.
 
-### Informal Information Channels
+### Decisions Made In The Hallway
 
-Allowing decisions and information to flow through in-office hallway conversations, excluding remote staff. Default to documented, asynchronous communication.
+The most damaging hybrid failure is the informal decision: a conversation between two office-based colleagues that resolves a question, assigns a task, or shifts a direction, with no documentation. The remote members discover the decision later, often through its consequences, and feel excluded from a process that affected them. Over time this creates two information environments — the office, where context is rich, and remote, where context arrives stale and incomplete — and the remote environment becomes systematically lower-quality. The trap is that hallway decisions feel efficient to the participants, so there is no incentive to document them unless the team norms explicitly require written, accessible communication as the default.
 
-### Rigid Schedules Without Flexibility
+### Rigid Schedules That Kill The Point Of Hybrid
 
-Imposing inflexible office day requirements that eliminate the flexibility that makes hybrid appealing. Balance coordination with autonomy.
+In reaction to empty offices, organizations over-correct into rigid attendance mandates — fixed days, fixed hours, badge tracking — that eliminate the flexibility that made hybrid attractive in the first place. Employees who accepted hybrid for the flexibility now experience it as a less convenient office requirement, and the policy becomes a retention liability rather than a benefit. The trap is treating coordination and rigidity as the same thing: coordination (anchor days that create overlap) serves collaboration, while rigidity (mandated presence regardless of purpose) serves only compliance. The line between them is whether the schedule has a collaborative rationale or is enforced for its own sake.
 
-### Poor In-Office Technology And Logistics
+### Office Technology That Punishes Attendance
 
-Expecting productive office days with inadequate desks, booking, or meeting technology, making office days frustrating. Invest in the in-office experience.
+Employees commute to the office for a collaborative day and find: no available desks, a meeting room with broken video conferencing, a laptop that will not connect to the display, and a network slower than their home. The office day is wasted, and the employee learns that office attendance is a productivity penalty. This trap is insidious because it is invisible to leadership, who experience the office through reserved rooms and functioning equipment, while rank-and-file employees experience the friction daily. Without reliable desk booking, functional hybrid meeting technology, and adequate capacity on anchor days, the collaborative purpose of office days is defeated by logistics before the collaboration even begins.
 
 ## Self-Check
 

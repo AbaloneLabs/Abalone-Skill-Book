@@ -128,37 +128,37 @@ Patterns do not prove bias in any individual case, but they indicate where to in
 
 ## Common Traps
 
-### Recency Effect
+### Recency Effect That Distorts The Full-Period Picture
 
-Overweighting recent events and forgetting earlier performance, producing ratings that reflect the last few weeks rather than the full period. Gather evidence throughout.
+Overweighting recent events and forgetting earlier performance — letting the last few weeks dominate a rating that should reflect a full year — produces ratings that are inaccurate and unfair, because a person who performed well for ten months and stumbled in the last two receives a poor rating, while a person who coasted for ten months and rallied in the last two receives a strong rating, and neither rating reflects the actual performance over the period. The trap is that recent events are vivid and accessible in memory while earlier events have faded, so the vivid dominates the faded, but vividness is not importance, and a rating built on vividness is a rating built on distortion. Gather evidence throughout the period, documenting examples with dates, so that the rating reflects the full period rather than the last few weeks, because the full-period picture is the fair picture, and the recency-distorted picture is the unfair one.
 
-### Halo And Horns Effect
+### Halo And Horns Effect That Contaminates All Areas
 
-Letting a single strong or weak characteristic, or a general overall impression, dominate the assessment of all areas. Assess each area against its own evidence.
+Letting a single strong or weak characteristic, or a general overall impression, dominate the assessment of all areas — the person who is excellent at presentations receives high ratings on collaboration and quality, or the person who is weak at one thing receives low ratings on everything — produces ratings that are contaminated, because the halo effect lets one positive characteristic inflate the assessment of unrelated areas, and the horns effect lets one negative characteristic deflate them, and the contaminated ratings do not reflect the person's actual performance on each area. The trap is that a general impression feels like an efficient summary, so it is applied across all areas, but a general impression is not area-specific evidence, and applying it across areas produces ratings that are all the same regardless of actual area-level performance. Assess each area against its own evidence before forming an overall rating, because area-specific evidence produces area-specific ratings, and a general impression produces contaminated ratings that miss both strengths and weaknesses.
 
-### Leniency, Severity, And Central Tendency
+### Leniency, Severity, And Central Tendency That Make Ratings Meaningless
 
-Managers who rate everyone high, everyone low, or everyone in the middle, making ratings meaningless for differentiation. Calibrate across managers.
+Managers who rate everyone high (leniency), everyone low (severity), or everyone in the middle (central tendency) — making ratings meaningless for differentiation — because the manager who is lenient gives everyone a top rating, so top ratings lose their meaning, and the manager who is severe gives everyone a low rating, so low ratings lose their meaning, and the manager who clusters in the middle gives everyone an average rating, so no one is differentiated, and in all three cases the ratings cannot be used for promotion, compensation, or development decisions because they do not distinguish between people. The trap is that leniency feels kind, severity feels rigorous, and central tendency feels safe, so each manager gravitates to their tendency, but a rating scale where everyone gets the same rating is a scale that provides no information, and a scale that provides no information is useless for decisions. Calibrate across managers, examining distributions for leniency, severity, and central tendency, because calibration reveals the tendencies that the individual manager cannot see in their own ratings, and revealed tendencies can be corrected.
 
-### Feedback Without Specifics
+### Feedback Without Specifics That Provides No Direction
 
-Saying "good job" or "needs work" without examples, providing no guidance for improvement. Write specific, evidence-based feedback.
+Saying "good job" or "needs work" without examples — feedback that contains no specific behavior, no specific impact, and no specific direction — provides no guidance for improvement, because the person does not know what they did well or poorly, only that the manager has a general impression, and a general impression cannot be acted on, repeated, or corrected. The trap is that vague feedback feels safer because it avoids the specificity that might provoke disagreement, but safety is purchased with uselessness, and vague feedback is feedback that changes nothing. Write specific, evidence-based feedback that cites examples and connects to goals and criteria, because specific feedback tells the person exactly what to continue or change, and vague feedback tells them only that the manager has an opinion.
 
-### Surprise Negative Feedback In The Review
+### Surprise Negative Feedback In The Review That Is Unfair And Indefensible
 
-Raising performance problems for the first time in the annual review, which is unfair and often indefensible. Provide ongoing feedback throughout the period.
+Raising performance problems for the first time in the annual review — issues that were never raised during the period, appearing for the first time in the review — is unfair and often indefensible, because the person was never given the chance to improve that timely feedback provides, and the surprise issue in the review feels arbitrary and punitive, and the organization cannot defend a rating based on issues that were never communicated, because the record shows that the person was never told. The trap is that raising issues during the period feels uncomfortable, so they are deferred to the review, but deferral converts a manageable conversation into an unfair surprise, and the surprise is the evidence of unfairness. Provide ongoing feedback throughout the period, so that the review contains no surprises, because a review with no surprises is fair and defensible, and a review with surprises is neither.
 
-### Avoiding Difficult Messages
+### Avoiding Difficult Messages That Leaves Problems Unaddressed
 
-Softening or omitting negative feedback to avoid conflict, leaving the person without direction and the performance problem unaddressed. Deliver honestly and respectfully.
+Softening or omitting negative feedback to avoid conflict — delivering feedback so gently that the person does not realize there is a problem, or omitting the negative entirely to spare feelings — leaves the person without direction and the performance problem unaddressed, because the person who does not hear the feedback cannot act on it, and the problem persists and often worsens, and the manager who avoided the difficult conversation faces the same problem next year, now worse. The trap is that softened feedback feels kinder, so it is delivered softly, but kindness that leaves the person unaware of a problem is not kindness, it is avoidance, and avoidance produces a person who is blindsided when the consequences of the unaddressed problem arrive. Deliver difficult messages honestly and respectfully, with specific evidence and a focus on development, because honest feedback gives the person the chance to improve, and softened or omitted feedback takes that chance away.
 
-### Ratings Without Calibration
+### Ratings Without Calibration That Produce Systemic Unfairness
 
-Allowing each manager's personal standards to govern, making cross-team comparisons meaningless. Calibrate before finalizing.
+Allowing each manager's personal standards to govern — each manager using their own definition of what each rating level means — makes cross-team comparisons meaningless and produces systemic unfairness, because a "4" from a lenient manager is not the same as a "4" from a severe manager, and a person rated "3" by a severe manager may have performed better than a person rated "4" by a lenient manager, and compensation and promotion decisions based on uncalibrated ratings reward the lucky employees of lenient managers and punish the unlucky employees of severe managers. The trap is that each manager's ratings feel consistent within their team, so calibration seems unnecessary, but consistency within a team is meaningless if the standards differ across teams, and uncalibrated ratings produce decisions that are unfair in effect regardless of intent. Calibrate ratings across managers and teams before finalizing, because calibration aligns standards, and aligned standards are the foundation of fair cross-team comparisons.
 
-### Undocumented Ratings
+### Undocumented Ratings That Cannot Be Defended
 
-Assigning ratings without recording the evidence and rationale, leaving the organization unable to defend the decision if challenged. Document thoroughly.
+Assigning ratings without recording the evidence and rationale — ratings based on impression with no documented support — leaves the organization unable to defend the decision if challenged, because a rating without documented evidence is a rating that rests on the manager's say-so, and say-so is not a defense, and the person who challenges the rating, the lawyer who depooses the manager, and the regulator who investigates the pattern all ask for the evidence, and evidence that was not documented cannot be produced. The trap is that documentation feels like bureaucracy, so it is deferred, but the rating is a decision with consequences (compensation, promotion, termination), and a decision with consequences that is not documented is a decision that cannot be defended. Document ratings with their supporting evidence and rationale, because the documentation is the defense, and an undocumented rating is an indefensible rating.
 
 ## Self-Check
 

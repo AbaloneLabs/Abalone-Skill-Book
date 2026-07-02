@@ -104,35 +104,35 @@ Surveying too frequently, or without action, creates fatigue and cynicism. Maint
 
 ### Outcome-Only Questions
 
-Asking only overall satisfaction, which tells the score but not the cause. Measure drivers.
+A survey that asks only "how satisfied are you?" produces a number that leadership celebrates or panics over but cannot act on, because the score reveals nothing about what is driving it. A team with a low satisfaction score might be suffering from a toxic manager, inadequate compensation, or unclear expectations — three problems requiring three completely different interventions. Without driver questions, the organization either guesses at a remedy (and usually guesses wrong) or shrugs and waits for the score to move on its own. The trap is treating engagement as a temperature reading rather than a diagnostic instrument; the score is the symptom, the drivers are the disease.
 
 ### Broken Anonymity Trust
 
-Reporting small groups or attempting to identify respondents, destroying trust. Protect anonymity.
+The moment employees suspect their responses can be traced back to them — because results were reported for a three-person team, because a manager commented on a response only that employee could have given, or because the platform's "anonymity threshold" was quietly lowered — honest participation collapses, often permanently. Once trust is broken, employees either stop responding or give socially acceptable answers, and the survey becomes a fiction that measures nothing real. Worse, the organization continues making decisions on the corrupted data, unaware that it no longer reflects reality. Anonymity is not a setting; it is a fragile social contract that one careless report can destroy.
 
 ### Low Participation
 
-Poor communication or access, producing unrepresentative data. Maximize participation.
+When participation falls below roughly 60-70%, the respondents are no longer representative — they are disproportionately the disengaged (who want to vent), the highly engaged (who feel obligated), or those with a specific axe to grind. The silent middle, whose quiet dissatisfaction or quiet satisfaction shapes the organization, goes unmeasured. Leadership then acts on a skewed picture, and because the non-respondents never pushed back, the misreading goes uncorrected. Low participation is not merely a data quality problem; it is a signal that the organization has not earned the credibility to ask.
 
 ### Average-Only Analysis
 
-Looking at the organizational average and missing segment variation. Analyze by segment.
+A company-wide engagement average of 7.2 out of 10 can hide one engineering team at 9.0 and one customer-service team at 4.5 — two organizations living under the same roof with completely different experiences. Acting on the average leads to interventions applied uniformly to a workforce that is not uniform: the high-scoring teams resent being "fixed," and the low-scoring teams receive a watered-down remedy diluted by the averaging. The average is a summary statistic, not a management tool; the segment breakdown is where action lives.
 
 ### No Qualitative Diagnosis
 
-Acting on scores without understanding the why, producing generic plans. Follow up qualitatively.
+A score drop in "manager support" tells you that something changed, but not what. Was it a reorganization that severed reporting relationships? A new manager who lacks skills? A policy change that managers are enforcing badly? Acting on the number alone produces generic, scatter-shot plans — manager training, communication refreshers, town halls — that rarely address the actual cause because the cause was never identified. Qualitative follow-up (focus groups, interviews, open-ended analysis) converts a number into a narrative that can be acted on with precision.
 
 ### Generic Action Plans
 
-Designing plans that do not address root causes, producing no improvement. Target interventions to causes.
+An action plan that says "improve communication and recognition" without specifying what communication, what recognition, by whom, and by when is an aspiration, not a plan. Generic plans fail because they impose no accountability, create no measurable change, and allow leaders to feel they have "addressed engagement" while nothing actually shifts on the ground. When the next survey shows no improvement, the conclusion is often that "surveys don't work" — when the real failure was a plan that was never a plan. Specificity is what separates an action plan from a wish.
 
 ### No Loop Closure
 
-Surveying without communicating results or actions, breeding cynicism. Close the loop.
+When employees take a survey and hear nothing back — no results shared, no actions announced, no acknowledgment of what was heard — the message they internalize is that their input was harvested and discarded. The next survey's participation drops, and those who do respond do so with diminished candor, because they have learned that honesty produces no consequence. The cynicism bred by a closed loop is harder to reverse than low engagement itself, because it is cynicism about the organization's sincerity, not about the workplace. Closing the loop is not a courtesy; it is the transaction that makes the next survey possible.
 
 ### Survey Fatigue
 
-Surveying too frequently or without action, reducing participation and trust. Maintain discipline.
+When employees receive a pulse survey, a culture survey, a leadership survey, and a team health check in the same quarter — each from a different department that did not coordinate — they experience the surveys as a tax on their time that produces no visible result. Participation decays with each uncoordinated request, and the decay compounds: the more surveys ignored, the easier it becomes to ignore the next one. Survey fatigue is not caused by surveying too much per se; it is caused by surveying without coordination, without action, and without visible return on the employee's investment of time.
 
 ## Self-Check
 

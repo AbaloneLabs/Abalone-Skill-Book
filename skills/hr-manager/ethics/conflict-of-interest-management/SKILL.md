@@ -87,29 +87,29 @@ Leaders and those in sensitive roles, such as procurement, finance, and complian
 
 ## Common Traps
 
-### Prohibition Without Disclosure
+### Prohibition Without A Disclosure Mechanism
 
-Banning conflicts outright without a disclosure mechanism, driving them underground. Build a disclosure culture.
+Banning all conflicts outright, without providing a way for employees to disclose the conflicts they inevitably have, does not eliminate conflicts — it drives them underground, where they remain unmanaged and undiscovered until they cause harm. The trap is that a prohibition-only policy feels rigorous and clean, but it creates a system in which every conflict is a violation, so employees conceal rather than disclose, and the organization loses visibility of the very risks it was trying to control. Build a disclosure-based system where having a conflict is expected and manageable and concealment is the misconduct, because a disclosed conflict can be managed while an undisclosed one operates without oversight.
 
-### One-Time Disclosure Without Updates
+### One-Time Disclosure That Misses Evolving Conflicts
 
-Requiring disclosure only at hire, missing conflicts that arise later. Require regular and event-driven disclosure.
+Requiring conflict disclosure only at hire captures the conflicts that exist on day one but misses the conflicts that arise throughout employment — a new outside job, a financial interest acquired through inheritance, a family member hired by a vendor, a romantic relationship that develops between colleagues. The trap is that the initial disclosure feels sufficient because it was comprehensive at the time, but conflicts are dynamic, and a static disclosure process is stale within months. Require annual disclosure refreshers and event-driven disclosure whenever a new conflict arises, and build the expectation that disclosure is ongoing, because a conflict that arose three years ago and was never re-disclosed is effectively undisclosed.
 
-### Inconsistent Application
+### Inconsistent Application Based On Role Or Performance
 
-Applying rules to some employees but not to leaders or high performers, undermining credibility. Apply consistently.
+Applying conflict rules strictly to lower-level employees while tolerating or not investigating conflicts involving leaders or high performers creates a two-tier system that destroys the credibility of the entire conflict management framework. The trap is that investigating a leader's conflict is politically difficult and investigating a high performer's conflict risks losing talent, so these conflicts are handled informally or not at all, while the same conflict in a junior employee is treated as a violation. Apply conflict rules consistently regardless of role, seniority, or performance, and apply stricter standards to leadership and sensitive roles precisely because their conflicts carry greater risk, because a conflict system that exempts the powerful is a system that protects the wrong people.
 
-### Ignoring Appearance Of Conflict
+### Dismissing The Appearance Of Conflict
 
-Dismissing concerns about the appearance of conflict, particularly for leadership, eroding trust. Address appearances as well as actual conflicts.
+Focusing only on actual conflicts — where decision-making is demonstrably biased — while dismissing concerns about the appearance of conflict ignores that the appearance alone erodes trust and creates the perception of favoritism, even when no actual bias occurred. The trap is that the appearance standard feels unfair to the individual whose decisions were genuinely unbiased, so the organization declines to act, but the workforce sees the unmanaged appearance and draws its own conclusions. Address the appearance of conflict with the same seriousness as actual conflict, particularly for leadership and public-facing roles, because trust is shaped by perception, and a conflict that appears improper damages trust whether or not it is actually improper.
 
-### Minor Conflicts Over-Managed, Major Conflicts Under-Managed
+### Over-Managing Minor Conflicts While Missing Major Ones
 
-Applying heavy management to minor conflicts while missing or tolerating significant ones, such as leadership self-dealing. Assess severity and apply proportionate management.
+Applying heavy-handed management — formal investigation, recusal demands, disciplinary action — to minor conflicts (a junior employee receiving a branded pen from a vendor) while missing or tolerating significant conflicts (a leader steering contracts to a vendor they have a financial interest in) inverts the risk framework and wastes resources on trivia while real exposure goes unaddressed. The trap is that minor conflicts are easy to identify and manage, so they fill the case load, while significant conflicts are complex and politically sensitive, so they are deferred. Assess severity before assigning management, apply proportionate responses (monitoring for minor, recusal or divestiture for significant), and ensure that the most serious conflicts receive the most attention, because a conflict system that is busy with trivia is not managing risk, it is performing compliance theater.
 
-### Failure To Document Recusal And Management
+### Informal Management Without Documentation
 
-Managing conflicts informally without documentation, leaving no auditable record. Document assessments and management decisions.
+Handling conflicts through conversations and verbal agreements — "just recuse yourself from that decision" — without documenting the conflict, the assessment, or the management decision leaves no auditable record, so when the conflict later surfaces in an audit, investigation, or dispute, there is no evidence that it was identified and managed. The trap is that informal management is faster and less confrontational, but it creates a record gap that makes the organization look like it ignored the conflict. Document every conflict disclosure, the severity assessment, the management decision, and the recusal or separation arrangement, because in a conflict of interest, the documentation that the conflict was identified and managed is the organization's primary defense.
 
 ## Self-Check
 

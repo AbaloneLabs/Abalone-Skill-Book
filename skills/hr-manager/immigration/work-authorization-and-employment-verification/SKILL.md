@@ -84,33 +84,33 @@ Verification is a frequent source of national origin and citizenship status disc
 
 ## Common Traps
 
-### Over-Documentation
+### The Well-Intentioned Over-Documentation
 
-Requesting specific documents or more documents than required, which is discriminatory even when well-intentioned. Allow employee choice from the acceptable lists.
+The new hire looks or sounds foreign. The HR representative, wanting to be thorough and avoid fines, asks for a passport, a green card, and a driver's license — more documents than the law requires, and specific documents rather than allowing the employee to choose from the acceptable lists. The form is completed, the employee starts, and months later the organization faces a discrimination charge. The trap is that requesting specific documents or more documents than required is not thoroughness — it is document abuse, a form of national origin discrimination, because the law gives the employee the right to choose which acceptable documents to present, and the employer's "caution" overrides that right. Over-documentation feels responsible but is unlawful, because the verification system is designed around employee choice, and an employer who demands specific documents has decided the employee's appearance justifies suspicion, which is the definition of discrimination.
 
-### Late Or Early Completion
+### The Form Completed On The Wrong Day
 
-Completing verification forms outside the required timeframes, creating technical violations. Follow the deadlines exactly.
+The employee is hired on Monday. The verification form is completed on Friday, because the HR representative was busy and the form "can wait." Or the form is completed the Friday before the start date, because the representative wanted to get ahead. Both are technical violations, because the law specifies that the employee completes their section on the first day of employment and the employer completes theirs within a set number of business days. The trap is that verification deadlines are precise and unforgiving, and "close enough" timing creates a violation that surfaces in an audit as a pattern of noncompliance, because auditors do not care about the reason for the delay — they care about the dates on the form. The form must be completed on the correct days, because a form completed on the wrong day is a form that cannot be corrected by explanation, and a pattern of timing errors is evidence of systemic noncompliance rather than isolated mistakes.
 
-### Backdating Or Correcting Improperly
+### The Backdated Form
 
-Backdating forms or improperly correcting errors, creating false records. Correct through proper procedures with current dates.
+The auditor finds that the verification form was completed three days after the deadline, but the date on the form is the deadline. Someone backdated it, thinking they were "fixing" a minor error, when in fact they created a false record — a far more serious violation than the original timing error. The trap is that backdating converts a correctable procedural error into an uncorrectable integrity violation, because a false date on a government form is not a clerical error; it is a false statement, and the auditor who discovers backdating must assume the organization's records cannot be trusted. Correcting errors through proper procedures — with current dates, attachments, and initialing — is the only safe path, because the original error is forgivable and the cover-up is not, and an organization that backdates to avoid a finding has created a finding far worse than the one it feared.
 
-### Unnecessary Re-Verification
+### Re-Verification Driven By Suspicion
 
-Re-verifying permanent work authorization or treating employees differently based on citizenship, which is discriminatory. Re-verify only when authorization expires.
+The employee's name sounds foreign. Their authorization, from when they were hired, does not have an expiration date — it is permanent. But the manager, or HR, "just wants to be sure," and asks the employee to re-verify their authorization, or asks for updated documents, or treats them differently from employees whose names sound domestic. The trap is that re-verifying permanent authorization, or treating employees differently based on perceived citizenship status, is discrimination, because the verification was completed at hire and permanent authorization does not expire, and re-verifying based on suspicion rather than an actual expiration is the application of different standards to people based on national origin. Re-verification is triggered by an actual expiration date, not by a feeling, because an employee subjected to unnecessary re-verification has been singled out on the basis of how they look or sound, which is the discrimination the verification system exists to prevent.
 
-### Adverse Action On Tentative Nonconfirmation
+### The Tentative Nonconfirmation Treated As Final
 
-Terminating or taking adverse action based solely on a tentative nonconfirmation, before the resolution process is complete. Follow the process.
+The electronic verification system returns a tentative nonconfirmation. The employer, assuming this means the employee is unauthorized, terminates them immediately — before the employee has had the opportunity to contest the finding through the resolution process. The trap is that a tentative nonconfirmation is a preliminary result, often caused by data entry errors, name mismatches, or system delays, not a determination of unauthorized status, and terminating before the resolution process is complete is adverse action based on an unverified result. The employee who was wrongfully terminated has lost their job, their income, and potentially their housing, because the employer treated a tentative finding as final, and the employer faces a discrimination charge for failing to follow the process. Tentative nonconfirmations must be processed through the contest and resolution steps, because the system's accuracy depends on the process being followed, and short-circuiting the process produces wrongful terminations from data errors.
 
-### Inconsistent Practices Across Locations
+### The Verification Process That Varies By Location
 
-Allowing different verification practices at different locations or by different managers, creating inconsistency and liability. Standardize and train.
+The organization has 20 locations. Each location's manager handles verification their own way — one requests specific documents, one completes the form late, one does not retain records properly, one uses an outdated version of the form. The corporate office assumes compliance is handled locally, and the local offices assume corporate provides guidance. The trap is that decentralized verification creates inconsistent practices, and each inconsistent practice is a separate violation, because the law applies to every location and the organization is liable for the practices at each one. An audit that samples multiple locations finds a patchwork of errors, each one a separate fine, because the lack of standardization means every location is a potential violation point. Standardized processes, centralized training, and periodic audits across all locations are necessary, because verification compliance is only as strong as the weakest location, and an organization with 19 compliant locations and 1 noncompliant one has a noncompliance problem, not a 95% success rate.
 
-### Retention Errors
+### Records Kept In The Wrong Place For The Wrong Time
 
-Retaining records too long, not long enough, or in disorganized form. Follow retention rules and organize for retrieval.
+The verification records are stored in the employee's personnel file, mixed with performance reviews and medical information, retained indefinitely because "it's safer to keep everything," or destroyed after one year because "we keep records for one year." Both are wrong: verification records must be retained for a specific period (which varies by the circumstances of the hire), stored separately from other personnel records, and available for inspection on demand. The trap is that retention errors — too long, too short, or improperly stored — create liability, because over-retention exposes records to broader discovery in litigation, under-retention creates a presumption of noncompliance, and improper storage (mixed with medical or disciplinary records) creates privacy violations. Retention rules must be followed precisely, because the records exist for government inspection, and an inspector who cannot find the records, or finds them mixed with confidential information, has found a violation regardless of whether the original verification was correct.
 
 ## Self-Check
 

@@ -126,37 +126,37 @@ Executive compensation that is designed once and never reviewed may drift from i
 
 ## Common Traps
 
-### Short-Term Focus
+### Short-Term Incentive Dominance
 
-Overweighting annual incentives, encouraging decisions that sacrifice long-term value. Balance short and long-term incentives.
+When executive pay is weighted heavily toward annual cash bonuses and lightly toward long-term equity, the package rewards hitting this year's numbers regardless of whether the decisions that produce them build or erode durable value. The trap is that short-term incentives are concrete, measurable, and easy to administer, so they feel like disciplined pay-for-performance — while in reality they incentivize the executive to defer maintenance, cut investment, or take risk that pays off this year and detonates in year three, by which time the bonus has been paid and the executive may be gone. A meaningful long-term component, with multi-year vesting and performance conditions, is what ties the leader's wealth to sustained outcomes rather than a single year's optics.
 
-### Manipulable Metrics
+### Manipulable Performance Metrics
 
-Using metrics that can be gamed through accounting or timing, producing the rewarded behavior but not genuine value. Design resistant metrics.
+Any metric tied to executive pay will be optimized relentlessly, and if the metric can be moved through accounting choices, timing shifts, or short-term decisions that sacrifice long-term health, the organization will get the behavior it paid for — not the behavior it wanted. Revenue growth without a margin gate produces unprofitable growth; earnings without a capital-return gate produces investment starvation; a single metric without balance produces optimization of that metric at the expense of everything unmeasured. The trap is that each metric looks defensible in isolation, and the manipulation is often technically legal, so the misalignment is discovered only when the consequences (declining competitiveness, hidden risk, restated earnings) surface years later. Balanced, multi-year metrics with compliance and safety gates are what make incentive design strategy execution rather than a game.
 
 ### Superficial Equity Alignment
 
-Granting equity without vesting, performance, or holding requirements, so that alignment is temporary. Structure equity for genuine alignment.
+Granting equity without vesting schedules, performance conditions, or post-vesting holding requirements creates the appearance of ownership alignment without the substance: the executive can sell shares as they vest, decoupling their wealth from the organization's long-term performance the moment the stock moves favorably. The trap is that the grant looks large and therefore looks aligning, so no one scrutinizes whether the structure actually keeps the leader invested in sustained outcomes. Options that reward only upside can encourage excessive risk-taking (the executive participates in gains but not losses); restricted stock with immediate sale rights provides no retention hold. Genuine alignment requires multi-year vesting, performance conditions on a portion of the grant, and holding requirements that keep the executive meaningfully at risk for the organization's long-term trajectory.
 
-### Wrong Comparator Group
+### The Ratcheting Comparator Group
 
-Benchmarking against organizations that are larger or different, producing a ratchet upward. Choose the right comparators.
+Benchmarking executive pay against organizations that are larger, more complex, or in a different league produces a perpetual upward ratchet: the organization chases comparators it has not yet earned, and because executive pay benchmarks are sticky (they rarely go down), each benchmarking cycle pushes pay higher regardless of performance. The trap is that the larger comparators feel aspirationally appropriate — "we want to compete for top talent" — and the resulting pay levels are defensible against the survey, just not against the organization's own size, performance, or internal equity. The comparator group must fit the organization as it is, not as it wishes to be, and benchmarking must be one input among several rather than the sole determinant, or the structure serves the executive's market positioning rather than the organization's interests.
 
-### Weak Governance
+### Governance As Rubber Stamp
 
-Allowing executives to influence their own pay setting, or a board committee to rubber-stamp proposals. Ensure independent oversight.
+When the board compensation committee relies on data prepared by the executives whose pay it is setting, or on advisors selected by those executives, or when it approves proposals without genuinely understanding the structure, metrics, and risk implications, governance becomes theater. The trap is that the committee's existence satisfies the formal requirement for oversight, so no one notices that the oversight is hollow — until a pay structure attracts a failed say-on-pay vote, a shareholder lawsuit, or media scrutiny that reveals the committee did not understand what it approved. Independent advisors reporting to the committee (not to management), rigorous analysis, documented rationale, and genuine willingness to challenge and adjust are what make governance a check rather than a formality. Weak governance does not just enable excessive pay; it enables pay structures that misalign incentives and create risk the organization does not understand it is carrying.
 
-### Disproportionate Pay
+### Pay Disproportion That Erods The Whole
 
-Setting executive pay so far above the rest of the organization that it damages culture and reputation. Balance competitiveness with proportionality.
+An executive package that is competitive against the market but wildly disproportionate to the rest of the organization — a CEO-to-median-employee ratio that shocks employees when disclosed — can retain the executive while corroding the culture, engagement, and trust of everyone else. The trap is that market competitiveness is treated as the only test, and it passes that test, so the internal and reputational damage is treated as a separate "perception problem" rather than a design flaw. But employees who perceive executive pay as excessive disengage, and the reputational cost (difficulty attracting talent, media criticism, investor pressure) can outweigh the retention benefit the package was designed to secure. Proportionality — pay justified by scope and complexity, awareness of internal ratios, and willingness to simplify opaque structures — is what keeps executive compensation from becoming a liability to the organization it is meant to lead.
 
-### Rewarding Failure
+### Severance That Rewards Failure
 
-Severance or change-of-control provisions that pay large sums regardless of performance. Design provisions carefully.
+Severance and change-of-control provisions negotiated at hiring define what the executive receives upon departure, and when those provisions pay large sums regardless of performance — golden parachutes triggered by acquisitions that destroy shareholder value, or severance after a tenure marked by poor results — they reward the very outcomes the compensation program was designed to prevent. The trap is that these provisions are negotiated when the organization is eager to close the hire, so they are generous, and they become public only upon departure, when the optics are worst. Provisions that pay for failure undermine the credibility of the entire pay philosophy (if failure is rewarded, what is performance incentivizing?) and attract the scrutiny that damages reputation. Reasonable, performance-contingent, transparent severance terms are what keep departure provisions consistent with the incentive structure the organization spent years building.
 
-### Static Structure
+### The Static Executive Package
 
-Designing executive pay once and not reviewing, so it drifts from strategy and market. Review and adjust regularly.
+An executive compensation structure designed at hiring and never reviewed will drift from strategy as priorities shift, from the market as pay moves, and from effectiveness as the organization grows — but because the structure still mechanically produces payouts, its misalignment is invisible until a say-on-pay vote fails or a retention crisis reveals that the incentives no longer drive the right behavior. The trap is that executive pay review feels politically delicate (who wants to tell the CEO their pay structure needs changing?), so it is deferred until external pressure forces it, by which point the misalignment has done its damage. Regular review — assessing whether metrics reflect current strategy, whether the structure produces intended alignment, and whether market and governance expectations have shifted — is what keeps executive compensation a living tool rather than a legacy artifact.
 
 ## Self-Check
 

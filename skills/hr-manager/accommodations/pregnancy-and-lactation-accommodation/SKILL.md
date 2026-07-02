@@ -78,33 +78,33 @@ Pregnancy and lactation information is sensitive and must be handled confidentia
 
 ## Common Traps
 
-### Requiring Disability Proof For Pregnancy
+### Requiring Disability Proof For Obvious Pregnancy Accommodations
 
-Demanding that the employee prove pregnancy is a disability before providing obvious accommodations. Accommodate known limitations.
+Demanding that the employee prove pregnancy constitutes a disability — through medical documentation, functional limitation analysis, or disability determination — before providing obvious accommodations like seating, breaks, or modified duties, applies the wrong legal framework, because pregnancy accommodation laws provide an affirmative duty to accommodate known pregnancy-related limitations without requiring proof of disability, and the disability framework is a separate, more demanding standard that does not apply to routine pregnancy accommodation. The trap is that the disability framework is familiar, so it is applied by default, but requiring disability proof for accommodations the law provides as a matter of right is a denial of a right the employee already has. Accommodate known pregnancy limitations without requiring disability proof, request documentation only for less obvious or extended accommodations, and apply the pregnancy framework first, because forcing a pregnant employee through a disability analysis to get a chair is a failure dressed as process.
 
-### Forcing Leave Over Accommodation
+### Forcing Leave When Accommodation Would Allow Continued Work
 
-Defaulting to leave when modified duties or schedule changes would allow continued work. Accommodate first.
+Defaulting to leave whenever a pregnant employee needs an adjustment — "you can't lift that, so go on leave" — when modified duties, schedule changes, or equipment would allow the employee to continue working, denies the employee the right to continue working and treats leave as the easy path for the employer, because the duty is to accommodate first and resort to leave only when accommodation is not possible. The trap is that leave feels generous and safe, but it forces the employee out of the workplace, interrupts her career and earnings, and signals that pregnancy is incompatible with work, which is the core stereotype the law targets. Provide accommodation first, modify duties, adjust schedules, provide equipment, and resort to leave only when no accommodation enables continued work, because forcing leave when accommodation is possible is not accommodation — it is constructive exclusion.
 
-### Inadequate Lactation Space Or Time
+### Inadequate Lactation Space Or Time That Discourages Nursing
 
-Providing a bathroom or inadequate space, limiting break frequency or duration, or making the employee feel burdensome. Provide proper space and time.
+Providing a bathroom as a lactation space, limiting break frequency or duration below what the nursing employee needs, making the space inaccessible or unavailable, or creating an atmosphere where the employee feels burdensome for requesting lactation breaks, fails the legal requirement and drives nursing employees to stop nursing or leave the workplace, because the law requires reasonable break time as frequently as needed and a private, non-bathroom space that is functional. The trap is that the bathroom feels private and available, so it is offered as a convenience, but a bathroom is explicitly not a compliant lactation space, and the inadequacy is read by the employee as a signal that nursing is unwelcome. Provide a private, non-bathroom space with a chair, flat surface, and electrical outlet, allow breaks as frequently as needed, ensure the space is available when needed, and never make the employee feel burdensome, because inadequate lactation support is both a legal failure and a retention failure that drives talent out.
 
-### Assumption-Driven Decisions
+### Assumption-Driven Employment Decisions Based On Pregnancy
 
-Making hiring, assignment, or promotion decisions based on assumptions about pregnant employees' commitment or future availability. Base decisions on performance.
+Making hiring, assignment, promotion, or termination decisions based on assumptions about a pregnant employee's commitment, capacity, or future availability — "she'll be on leave soon, so don't put her on the project" or "she won't want the promotion with a new baby" — is pregnancy discrimination driven by stereotypes that the law prohibits, because decisions must be based on actual performance and the employee's own stated preferences, not on assumptions about what a pregnant employee can handle or will want. The trap is that the assumptions feel protective or pragmatic, but they substitute the manager's judgment for the employee's, and they lock the employee out of opportunities based on speculation about her future. Base every decision on actual performance and the employee's expressed preferences, ask rather than assume, and document the basis, because an assumption-driven decision is a stereotype-driven decision, and stereotype-driven decisions are the most common form of pregnancy discrimination.
 
-### Passing Over Pregnant Employees
+### Passing Over Pregnant Employees For Opportunities
 
-Excluding pregnant employees from opportunities based on their leave or accommodation needs. Preserve opportunities.
+Excluding pregnant employees or new parents from high-visibility projects, training, stretch assignments, or promotion consideration — because of their leave, their accommodation needs, or assumptions about their availability after return — denies them opportunities based on pregnancy and parental status, which is unlawful, because the employee's leave or accommodation status cannot be a factor in opportunity decisions. The trap is that the exclusion is framed as considerate — "we didn't want to overload her while she's pregnant" — but it deprives the employee of the experiences and visibility that drive advancement, and the "consideration" becomes a career penalty. Preserve pregnant employees' and new parents' access to opportunities, include them in projects and promotion consideration, and never let leave or accommodation status factor into opportunity allocation, because excluding someone from opportunity to be "considerate" is still exclusion, and the career damage is real regardless of intent.
 
-### No Manager Training
+### Leaving Managers To Handle Pregnancy And Lactation On Assumptions
 
-Leaving managers to handle pregnancy and lactation based on assumptions or discomfort. Train managers.
+Failing to train managers on pregnancy accommodation, lactation support, and pregnancy discrimination prevention — leaving them to rely on assumptions, discomfort, or outdated practices — creates liability at the point of greatest risk, because managers are the decision-makers whose assumptions drive discriminatory actions, and untrained managers operating on stereotypes are the single largest source of pregnancy discrimination claims. The trap is that pregnancy feels like a personal matter that managers should handle sensitively, so training is skipped, but sensitivity without knowledge produces well-intentioned discrimination — the manager who means well but assumes the pregnant employee cannot handle the project. Train managers on the affirmative duty to accommodate, the prohibition on assumption-based decisions, and lactation requirements, and hold them accountable for the treatment and advancement of pregnant employees, because untrained managers are not a risk to manage — they are a risk to eliminate through training.
 
-### Retaliation For Accommodation
+### Retaliation For Accommodation Requests Or Use
 
-Penalizing employees who request or use accommodation, or allowing bias to affect their treatment. Prevent retaliation.
+Penalizing employees who request or use pregnancy or lactation accommodation — through reduced assignments, negative evaluations, exclusion, or termination — or allowing bias against pregnant employees to affect their treatment, is retaliation that is independently unlawful regardless of whether the accommodation was granted, because requesting accommodation is protected activity and pregnancy is a protected characteristic. The trap is that the accommodation is seen as disruptive or special treatment, so the employee is subtly penalized, but retaliation for protected activity is among the most provable forms of liability, and the pattern — request followed by adverse treatment — is easy to establish. Treat accommodation requests as protected activity, monitor the employee's treatment after the request, and address any adverse treatment immediately as a serious violation, because the retaliation is often more provable than the underlying discrimination, and a request for a chair should never cost an employee her career.
 
 ## Self-Check
 

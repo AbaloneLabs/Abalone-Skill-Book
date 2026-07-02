@@ -80,29 +80,29 @@ Pay equity analysis and correction have legal implications. Coordinate with coun
 
 ## Common Traps
 
-### One-Time Analysis Without Ongoing Monitoring
+### Treating Pay Equity As A One-Time Project
 
-Treating pay equity as a project rather than a practice, allowing gaps to re-emerge. Monitor continuously.
+Conducting a pay equity analysis, correcting the identified gaps, and then declaring the problem solved ignores that the same hiring, promotion, and raise processes that produced the gaps continue to operate and will generate new gaps every cycle. Within a year or two of the correction, the gaps have re-emerged, and the organization is back where it started, having spent the budget on a one-time fix without changing the system. Build pay equity into ongoing practice: monitor at every compensation cycle, flag outliers before they are finalized, and review the processes that produce pay decisions, because equity is a property of an operating system, not a state that a single project can achieve.
 
 ### Correcting Symptoms Without Fixing Systems
 
-Adjusting pay to close current gaps without addressing the hiring, promotion, and raise processes that produce them, guaranteeing recurrence. Fix the systems.
+Adjusting individual salaries to close the gaps identified in an analysis, without examining and redesigning the processes that created those gaps — how starting pay is set, how promotions are decided, how raises are distributed — guarantees recurrence, because the next cycle of those processes will produce the same disparities. The corrections are necessary, but they are downstream; the system that generated them is upstream, and until it is changed, every analysis will find the same gaps requiring the same corrections. Pair every correction with a root-cause analysis of the decision that produced the gap, and redesign that decision so it does not reproduce the disparity.
 
-### Starting Pay Based On Salary History
+### Basing Starting Pay On Salary History
 
-Basing offers on candidate salary history, embedding past disparities and compounding them. Base offers on the role and band.
+Anchoring an offer to a candidate's previous salary embeds that candidate's entire history of pay disparity — which may reflect prior employer bias, occupational segregation, or negotiation differences — into the new compensation, compounding it across their career and into the new organization's pay structure. The practice feels objective (it is data-based) but is a primary engine of pay inequity, which is why many jurisdictions now prohibit asking for salary history. Base offers on the role's market value and internal pay band, applied consistently, so that starting pay reflects the work and the market rather than the candidate's negotiated past.
 
 ### Ignoring Occupational Segregation
 
-Focusing on pay within roles while ignoring that different groups are concentrated in different, differently paid roles. Address segregation.
+Analyzing pay equity only within roles — comparing men and women in the same job — can show no gap while a large overall gap persists, because men and women are concentrated in different, differently-paid roles: men in higher-paid engineering, women in lower-paid operations. The within-role analysis is necessary but insufficient; the overall gap driven by occupational segregation is a real inequity that within-role analysis hides. Analyze pay equity at both the within-role and the overall level, examine who is in which roles and why, and address the hiring, development, and promotion patterns that sort groups into differently-valued roles, because a within-role gap of zero alongside an overall gap of 20 percent is not equity.
 
-### Disclosure Without Equitable Practices
+### Embracing Transparency Before Ensuring Equity
 
-Embracing pay transparency before ensuring practices are equitable, exposing disparities to legal and reputational risk. Fix practices before disclosing.
+Adopting pay transparency — publishing bands, sharing ranges, opening compensation discussions — before the underlying practices are equitable exposes existing disparities to employees, to plaintiffs, and to the public, converting a manageable internal issue into a legal, reputational, and morale crisis. Transparency is a valuable goal, but it is a commitment to be prepared for, not a flag to plant. Fix the practices first — conduct the analysis, correct the gaps, redesign the processes — and then embrace transparency as a mechanism for sustaining equity, because transparency without equity is a confession.
 
 ### Inadequate Statistical Analysis
 
-Comparing average pay without controlling for legitimate factors, producing misleading gap figures. Use proper regression analysis.
+Comparing average pay between groups without controlling for legitimate factors — role, level, tenure, location, performance — produces a raw gap that overstates or understates the real inequity and that cannot withstand scrutiny from counsel, regulators, or plaintiffs. A raw gap may be entirely explained by legitimate factors, masking a real problem, or it may be inflated by confounding, creating alarm without actionable signal. Use multivariate regression that controls for legitimate compensable factors to identify the unexplained gap, which is the portion that warrants investigation and correction, because the raw gap is a headline, not a diagnosis.
 
 ## Self-Check
 

@@ -89,29 +89,29 @@ The code's credibility depends on whether leaders uphold it. Leadership behavior
 
 ## Common Traps
 
-### Aspirational Decoration
+### The Code As Aspirational Decoration
 
-Publishing a code that sounds good but is not enforced, creating cynicism and legal exposure. Ensure every provision is enforced.
+Publishing a code that articulates high-minded values but is not actually enforced creates a document that is worse than no code at all, because it sets expectations the organization then visibly fails to meet, and every unenforced provision becomes evidence — in litigation, in regulatory inquiry, in employee cynicism — that the organization knew the standard and chose not to uphold it. The trap is that the aspirational version reads better and is easier to approve, so the organization publishes the version that sounds good rather than the version it can actually enforce. Include in the code only provisions the organization is willing and able to enforce, and enforce every provision consistently, because a code that is selectively applied is a liability document, not a governance document.
 
-### Selective Enforcement
+### Selective Enforcement Against The Less Powerful
 
-Enforcing the code against some employees but not leaders or high performers, destroying credibility. Apply consistently.
+Enforcing the code against lower-level employees while tolerating violations by leaders or high performers signals that the code is a tool of control, not a standard, and destroys the code's credibility faster than any other pattern. The trap is that enforcing against a high performer carries a real business cost, so managers and HR rationalize exceptions, and each exception teaches the organization that the code bends for the powerful. Apply the code to all employees regardless of role, seniority, or performance, document the rationale for every enforcement decision, and address leader violations firmly, because the credibility of the entire code collapses the moment the organization signals that the rules do not apply to those at the top.
 
-### Vague Prohibitions
+### Vague Prohibitions That Cannot Guide Or Defend
 
-Using vague language such as "be ethical" that provides no guidance and cannot support enforcement. Be specific with examples.
+Provisions such as "act ethically" or "maintain professionalism" provide no guidance to employees making real decisions and no basis for enforcement, because they are subjective and unfalsifiable — any behavior can be characterized as ethical or unprofessional after the fact, which means the provision cannot be consistently applied and cannot defend a disciplinary decision in a challenge. The trap is that vague language feels comprehensive and inclusive, but it produces a code that is unenforceable. Write specific, behavioral prohibitions with examples, define key terms, and test each provision against the question "could a reasonable employee determine whether this conduct is prohibited?", because a provision that cannot be understood cannot be followed and cannot be enforced.
 
-### Template Without Grounding
+### Template Code Disconnected From Organizational Reality
 
-Copying a generic code disconnected from the organization's real risks and standards. Ground the code in organizational reality.
+Copying a generic code from a template or another organization produces a document that does not address the organization's actual risks, culture, or operational realities, and employees recognize it as a compliance exercise rather than a real standard. The trap is that the template is fast and appears thorough, but it misses the risks that are specific to the organization — a manufacturing company that copies a tech company's code misses safety and supply chain issues; a financial services firm that copies a retail code misses fiduciary and trading issues. Ground the code in the organization's real risks, industry, and operations, involve stakeholders who understand those risks, and resist the efficiency of the template, because a code that does not reflect the organization's reality provides no guidance and no protection.
 
-### Publish Without Communication
+### Publish Without Training Or Ongoing Communication
 
-Publishing the code without training or ongoing communication, leaving employees unaware of expectations. Communicate and train.
+Distributing the code at onboarding and requiring a one-time acknowledgment, then never revisiting it, means employees forget the provisions and cannot apply them to situations that arise months or years later. The trap is that the organization treats the acknowledgment as evidence of compliance — the signature is on file — while the employee has no actual working knowledge of the code. Communicate the code regularly through training, scenarios, and leadership messaging, train managers specifically on enforcement, and use real situations (appropriately anonymized) to illustrate the code, because a code that is signed but not internalized provides a signature, not a standard.
 
 ### Tolerating Leader Violations
 
-Overlooking code violations by leaders, signaling the code is a tool of control, not a standard. Hold leaders accountable.
+When a leader violates the code and the organization responds minimally or quietly — a conversation, a transfer, no documented action — the message to the workforce is that the code does not apply to leaders, and this message propagates faster than any formal communication. The trap is that leader violations are handled discreetly to protect the organization's reputation and the leader's career, but the discretion is perceived as tolerance, and the perception is what shapes behavior. Address leader violations with the same process and proportionality applied to any employee, document the action, and communicate the outcome within appropriate confidentiality limits, because the code's authority depends entirely on whether employees believe it applies to everyone.
 
 ## Self-Check
 

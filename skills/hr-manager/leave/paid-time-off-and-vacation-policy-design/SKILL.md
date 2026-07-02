@@ -89,33 +89,33 @@ A policy that is misunderstood or applied inconsistently creates resentment and 
 
 ## Common Traps
 
-### Violating Wage Law On Accrued Leave
+### Use-It-Or-Lose-It In A State That Prohibits It
 
-Implementing use-it-or-lose-it or forfeiture provisions in jurisdictions that treat accrued vacation as earned wages. Comply with wage law.
+The PTO policy includes a use-it-or-lose-it provision: accrued vacation that is not used by year-end is forfeited. This is standard practice in many states and completely illegal in others, where accrued vacation is treated as earned wages that cannot be forfeited without payment. The trap is that a policy that is legal in the state where it was drafted is illegal in the states where employees actually work, and the multi-state employer who applies one policy everywhere is violating wage law in every state that protects earned vacation. The cost is not just the forfeited time the employee should have received — it is also penalties, interest, and attorney fees that in many jurisdictions exceed the underlying amount. PTO policy must comply with the most protective jurisdiction in which employees work, and use-it-or-lose-it provisions must be evaluated jurisdiction by jurisdiction, because a wage-law violation embedded in a PTO policy affects every employee in the noncompliant state, every year, until the policy is fixed.
 
-### Adopting Unlimited PTO Without Safeguards
+### Unlimited PTO That Means Unlimited Pressure Not To Take It
 
-Implementing unlimited PTO without usage guidelines or tracking, resulting in employees taking less time off and experiencing inequitable treatment. Set guidelines and track usage.
+The organization adopts unlimited PTO — no accrual, no cap, take what you need — and markets it as a progressive benefit. But without accrual, there is no balance to track, no "use it or lose it" urgency, and no clear norm for how much time is acceptable. Managers, uncertain how to evaluate requests without a baseline, approve conservatively. Employees, uncertain how much is "too much," take less than they did under the accrual system, fearing that taking time will signal lack of commitment. The result: average time off drops, burnout rises, and the "benefit" has reduced time off while increasing ambiguity. The trap is that unlimited PTO eliminates the structural incentive to take time (the accrual balance that employees want to use) without replacing it with a norm or minimum, so the default becomes taking less. Unlimited PTO requires a minimum time-off requirement, manager training to encourage rather than gatekeep, and usage tracking to detect when employees are taking too little — because without these safeguards, unlimited PTO is not a benefit but a mechanism for reducing actual time off while appearing generous.
 
-### Ignoring State-Mandated Paid Leave
+### The State Mandate Hidden Under The Company Policy
 
-Operating a PTO policy that does not meet mandated sick or family leave requirements in applicable jurisdictions. Comply with mandates.
+The company offers a PTO bank that covers sick and vacation time in a single pool, and the policy says employees can use PTO for any reason. The employer assumes this satisfies the state's paid sick leave mandate — but the mandate requires specific provisions that a general PTO policy may not include: anti-retaliation protections, the right to use sick leave for family members, carryover requirements, and employee notice of accrual and usage. The trap is that a general PTO policy that meets the mandate's accrual rate may still fail on the mandate's other requirements, and the employer who points to the PTO policy as compliance discovers, during an audit or complaint, that the policy lacks provisions the mandate specifically requires. State-mandated paid leave must be tracked separately or the PTO policy must be designed to meet every requirement of the mandate — not just the accrual rate but the usage rights, carryover, anti-retaliation, and notice provisions — because a policy that covers the right amount of leave but violates the right to use it is noncompliant regardless of the total benefit provided.
 
-### Inconsistent Approval Practices
+### Approval At The Manager's Whim
 
-Allowing managers to approve or deny requests based on favoritism or undefined criteria, creating inequity. Use transparent criteria.
+Two employees request the same week off. The manager approves the request from the employee they like and denies the request from the employee they find difficult, citing "coverage" — a rationale that is unchallengeable because it is subjective. Over time, a pattern emerges: certain employees consistently get their preferred time off, and others consistently do not, based not on transparent criteria but on manager favoritism. The trap is that discretionary approval, unguided by transparent criteria, produces inequitable outcomes that may correlate with protected characteristics (the manager may not realize they are approving more readily for men than for women, or for employees without children than for parents). Transparent criteria — first-requested, rotational priority, coverage-based with documented standards — protect both employees and the organization, because discretionary approval is a mechanism for importing bias into a benefit, and a PTO policy that leaves approval to manager judgment is a policy that will produce disparate treatment the organization cannot defend.
 
-### Discouraging Time Off
+### The Culture That Punishes Time Off
 
-Creating a culture where employees feel unable to take time off, resulting in burnout and high unused leave balances. Encourage and track time off.
+The PTO policy is generous — three weeks plus holidays — but the culture is not. Managers schedule critical meetings during requested time off, employees who take their full allotment are viewed as insufficiently committed, and the unwritten norm is that taking more than two weeks per year is excessive. Employees accrue large balances they never use, and the organization carries the liability on its books. The trap is that the formal policy and the informal culture are in conflict, and the culture wins: employees take less time than they are entitled to, burn out at higher rates, and leave for organizations where time off is actually encouraged. Unused leave balances are a diagnostic, not an accomplishment — they indicate either workload problems (too much work to take time) or culture problems (taking time is penalized) — and an organization that celebrates high unused balances is celebrating the conditions that produce burnout and turnover. The policy must be backed by cultural reinforcement: leaders taking time off, managers encouraging it, and workload planning that assumes people will be absent, because a policy that is not culturally supported is a policy that exists on paper only.
 
-### Counting Mandated Leave Against PTO
+### Mandated Leave Charged To PTO
 
-Charging jury duty, voting, or mandated sick leave against the employee's PTO balance. Keep mandated leave separate.
+The employee is called for jury duty and is told to use PTO for the absence, because "we do not have a separate jury duty policy." But jury duty leave is mandated by law in most jurisdictions, and charging it to PTO converts a legal obligation into a personal benefit cost — the employee loses vacation time for fulfilling a civic duty. The same applies to voting time, which is mandated in many states, and to mandated sick leave, which must be available in addition to general PTO. The trap is that the organization treats PTO as a universal leave source (just use PTO for everything!) when certain leave types are legally required to be separate, additional, and non-chargeable to the employee's balance. Mandated leave — jury duty, voting, sick leave — must be tracked and provided separately from PTO, because charging mandated leave to PTO is both a wage-law violation (the employee loses earned vacation) and a mandate violation (the required leave was not actually provided).
 
-### Ambiguous Payout At Termination
+### Payout Ambiguity At Termination
 
-Failing to specify what leave is paid out at termination, leading to disputes and wage claims. Specify and comply with payout rules.
+The employee resigns and asks about their unused PTO payout. The policy says accrued vacation is paid out but does not specify whether unused sick leave, floating holidays, or comp time are included. The employer pays out the vacation but not the other categories, the employee disputes it, and the ambiguity becomes a wage claim — with penalties that in some states dwarf the disputed amount. The trap is that payout obligations vary by leave type and by jurisdiction, and a policy that does not specify which categories are paid out at termination invites disputes that the organization will lose, because ambiguity in wage law is generally resolved against the drafter. The policy must specify, for each leave category, whether it is paid out at termination, and the specification must comply with the most protective applicable jurisdiction — because the cost of ambiguity is not just the disputed amount but the penalties, interest, and legal fees that accrue when a wage dispute goes unresolved.
 
 ## Self-Check
 

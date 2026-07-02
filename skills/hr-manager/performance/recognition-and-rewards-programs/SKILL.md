@@ -126,37 +126,37 @@ Recognition programs often start with enthusiasm and then become routine or negl
 
 ## Common Traps
 
-### Misaligned Recognition
+### Misaligned Recognition That Rewards The Wrong Behaviors
 
-Rewarding behaviors that contradict organizational values, such as rewarding individual heroics while valuing teamwork. Align recognition with values.
+Rewarding behaviors that contradict organizational values — rewarding individual heroics while the values say teamwork, or rewarding visibility while the values say quality — because what is recognized is what people will strive for, and recognition that rewards the wrong behaviors drives the wrong behaviors, and people who see that heroics are rewarded while collaboration is not will abandon collaboration for heroics, and the culture shifts toward whatever is rewarded regardless of what is valued. The trap is that the rewarded behavior is often the most visible or measurable behavior, so it is rewarded by default, but visibility is not value, and rewarding visibility while valuing something else drives the culture toward visibility and away from value. Align recognition with organizational values and strategy, reviewing whether the behaviors being rewarded are the ones that drive sustainable success, because recognition is a signal, and a signal that rewards the wrong behaviors drives the wrong culture.
 
-### Recognizing Only The Visible
+### Recognizing Only The Visible That Demotivates The Essential
 
-Celebrating only high-profile contributions, missing the quiet, consistent work that sustains the organization. Recognize the full range.
+Celebrating only high-profile contributions — the sales win, the dramatic rescue, the senior leader's initiative — while missing the quiet, consistent work that sustains the organization, because visible contributions are easy to recognize and invisible contributions are easy to overlook, and the person who quietly maintains the critical system, who mentors junior colleagues, or who ensures compliance receives no recognition while the person who makes the dramatic save receives all of it, and the unrecognized essential contributors learn that their work is not valued, and they disengage. The trap is that visible contributions feel like the important ones, so they are recognized, but the invisible contributions are the ones that keep the organization functioning, and recognizing only the visible sends the message that only visible heroics matter, which drives a culture of heroics and neglects the foundation. Recognize the full range of contributions, actively surfacing less visible work across all levels and functions, because the essential contributions are often the invisible ones, and a recognition program that ignores them demotivates the people who sustain the organization.
 
-### Money As The Only Tool
+### Money As The Only Tool That Narrows And Misaligns Motivation
 
-Relying solely on monetary rewards, missing cost-effective non-monetary recognition that may be more meaningful. Balance the forms.
+Relying solely on monetary rewards — treating money as the only form of recognition — narrows the program and misses cost-effective non-monetary recognition that may be more meaningful, because money is one motivator among many, and for many people it is not the primary one, and genuine appreciation, meaningful work, autonomy, and public acknowledgment can be as or more motivating than money, and a program that uses only money misses the forms of recognition that are both cheaper and more effective for everyday contributions. The trap is that money feels like the serious form of recognition, so it is the default, but money is a blunt instrument for everyday recognition, and over-reliance on it creates an expectation that every contribution must be compensated, which is neither sustainable nor motivating. Balance monetary and non-monetary recognition, tailoring to what different individuals value, because a balanced program uses the right form for the right contribution, and a money-only program is both expensive and incomplete.
 
-### Favoritism And Opacity
+### Favoritism And Opacity That Destroys Trust
 
-Awarding recognition through closed-door decisions to the same people, producing cynicism. Ensure fairness and transparency.
+Awarding recognition through closed-door decisions to the same people — recognition determined by a few leaders without transparent criteria, consistently going to those who socialize with leadership or who fit a certain profile — produces cynicism that damages morale more than no recognition at all, because recognition that is perceived as favoritism teaches the organization that recognition is not about contribution but about proximity to power, and the people who are not proximate to power stop trying, because trying will not be recognized. The trap is that closed-door decisions feel efficient, so they are used, but efficiency that produces favoritism is efficiency that destroys trust, and a recognition program that is perceived as favoritism is worse than no program because it actively demotivates. Ensure fairness and transparency in selection, with clear criteria, visible processes, and patterns of concentration investigated, because fair and transparent recognition builds trust, and opaque recognition destroys it.
 
-### Manager-Only Recognition
+### Manager-Only Recognition That Misses The Day-To-Day
 
-Depending solely on top-down recognition, missing the richer input of peers. Empower peer-to-peer recognition.
+Depending solely on top-down recognition — only managers giving recognition, never peers — misses the richer input of peers who see the day-to-day contributions that managers never see, because the manager sees one slice of the person's work, and the slice the manager sees may not include the collaboration, the knowledge-sharing, and the quiet help that peers witness, and the person who is generous with peers but invisible to the manager receives no recognition for the contributions that peers value most. The trap is that manager recognition feels like the authoritative form, so peer recognition is not built, but manager-only recognition is recognition that misses most of the contributions that build a healthy culture, and a culture of appreciation that depends solely on top-down validation is a fragile culture. Empower peer-to-peer recognition, creating mechanisms for employees to recognize each other across teams and functions, because peer recognition surfaces the contributions that managers miss, and it builds a culture of appreciation that does not depend on the manager.
 
-### Vague, Delayed Recognition
+### Vague, Delayed Recognition That Reinforces Nothing
 
-Delivering generic praise long after the event, minimizing impact. Be timely and specific.
+Delivering generic praise long after the event — "thanks for your hard work" delivered weeks after the contribution — minimizes impact, because recognition delayed loses its connection to the behavior, and the person cannot connect the recognition to the specific contribution, and recognition that is vague provides no reinforcement of the specific behavior, so the behavior is not encouraged to repeat, and the recognition is forgotten. The trap is that delayed and vague recognition feels sufficient because recognition was given, so timeliness and specificity are not prioritized, but recognition that is not timely and specific is recognition that reinforces nothing, and recognition that reinforces nothing changes nothing. Deliver recognition timely and specifically, citing the behavior and its impact and connecting it to values, because timely and specific recognition reinforces the behavior, and delayed and vague recognition is a forgettable formality.
 
-### Zero-Sum Competition
+### Zero-Sum Competition That Undermines Collaboration
 
-Creating awards where one person's gain is another's loss, undermining collaboration. Avoid unhealthy competition.
+Creating awards where one person's gain is another's loss — a "top performer" award that only one person can receive, or a ranking that stacks employees against each other — undermines collaboration, because when recognition is zero-sum, people have an incentive to outshine each other rather than to help each other, and the person who helps a peer may be helping the peer win the award that they themselves lose, and the rational response to zero-sum recognition is to withhold help and information, and the culture shifts from collaboration to competition. The trap is that competition for a limited award feels motivating, so it is used, but competition that undermines collaboration is competition that undermines the organization's effectiveness, and a team that competes internally is weaker than a team that collaborates. Avoid unhealthy zero-sum competition, recognizing team achievements alongside individual ones, because recognition that does not pit employees against each other preserves the collaboration that the organization depends on.
 
-### Set-And-Forget Program
+### Set-And-Forget Program That Drifts Into Dysfunction
 
-Launching a program and never reviewing its effectiveness or fairness. Measure and adjust.
+Launching a recognition program and never reviewing its effectiveness or fairness — a program that runs on autopilot, with no measurement of whether it is motivating the desired behaviors, reaching a broad range of contributors, or being perceived as fair — drifts into irrelevance or dysfunction, because programs that are not reviewed decay, and a recognition program that is not reviewed may quietly become a favoritism program, or may reward behaviors that are no longer aligned with strategy, or may have been neglected so long that no one values it, and the dysfunction is invisible because no one is measuring. The trap is that the program felt complete when launched, so it is not revisited, but a program that is not measured is a program that cannot be improved, and a program that cannot be improved is a program that decays. Measure effectiveness and fairness, tracking patterns and surveying employees, and adjust based on feedback and data, because a measured program can be improved, and an unmeasured program drifts toward dysfunction.
 
 ## Self-Check
 

@@ -91,29 +91,29 @@ Performance issues in remote work may signal underlying wellbeing problems. Addr
 
 ## Common Traps
 
-### Assuming Responsive Means Engaged
+### Responsive Means Fine
 
-Equating quick message responses with engagement, missing isolation and burnout behind the screen. Check on wellbeing, not just responsiveness.
+A remote employee replies to messages within minutes, joins every meeting, and delivers on time. The manager reads this as engagement and moves on. But responsiveness is the easiest signal to fake and the least correlated with actual wellbeing — an isolated, exhausted employee can still type quickly. Distance removes the cues that surface distress in an office (the drawn face, the skipped lunch, the withdrawn colleague), so the manager's only data is digital behavior, which looks healthy until the employee resigns or burns out. The trap is treating the absence of visible distress as evidence of wellbeing, when distance has simply made distress invisible. Wellbeing must be asked about directly, not inferred from productivity signals.
 
-### Always-On Culture Driven By Norms
+### The Always-On Culture Nobody Owns
 
-Allowing or modeling constant availability, creating stress and burnout. Establish and model boundary norms.
+No single person decides that remote employees should be available at all hours. Instead, a senior leader sends a Slack message at 9 PM, a peer responds immediately, and the implicit norm propagates: if they are online, I should be too. Within weeks, the team operates on an unspoken 24/7 availability expectation that nobody intended and nobody can opt out of without appearing uncommitted. The trap is that the norm is created by aggregate behavior, not by policy, so no individual feels responsible for it — yet each individual's participation reinforces it. Only explicit response-time norms, modeled by leadership (schedule-send, no-weekend-messages conventions), can break the cycle, because the culture will not self-correct.
 
-### Task-Only One-On-Ones
+### The Task-Only One-On-One
 
-Using one-on-ones solely for task updates, skipping the personal connection that sustains engagement. Dedicate time to wellbeing.
+In a remote one-on-one, the manager opens with "what are you working on?" and the meeting becomes a status update. The personal check-in that happens naturally when two people walk to a meeting room in an office never occurs, because on video there is a meeting-start prompt that goes straight to business. Over months, the manager learns the employee's task status intimately and nothing about their wellbeing, isolation, or career anxiety. The trap is that the one-on-one feels productive (tasks are discussed) while the relationship atrophies. The fix is structural: reserve a dedicated portion of every one-on-one for the human question, because it will not happen otherwise.
 
-### Neglecting Remote Onboarding Social Integration
+### Onboarding That Delivers A Laptop But Not A Connection
 
-Focusing remote onboarding on systems and tasks, leaving new hires disconnected and driving early turnover. Design onboarding for connection.
+Remote onboarding is efficient at the mechanical — the laptop ships, the accounts are provisioned, the training modules are assigned — and neglects the social integration that in-office onboarding provides through ambient exposure. The new hire completes onboarding knowing how to log in but not knowing anyone, which is fine in week one and corrosive by month two. Remote new hires who do not form early connections have significantly higher early-tenure turnover, because the only thing keeping them at the company is the job description, and a competitor can match that. The trap is treating onboarding as a systems-provisioning process when its real function for a remote hire is social integration, which requires deliberate design (buddy assignments, scheduled cross-team introductions, culture exposure) that does not happen by default.
 
-### Overlooking Remote Contributions
+### Recognition That Rewards Visibility
 
-Failing to recognize remote employees equitably, creating invisibility and disengagement. Ensure equitable recognition and visibility.
+In a distributed team, the employee who speaks up most in the channel, posts the most updates, and attends the most meetings is visible; the employee who does excellent work quietly is not. Recognition systems that rely on manager observation systematically favor the visible employee, because the manager's awareness is shaped by what they see, and remote work narrows what they see to digital presence. The quiet high-performer receives less recognition, less opportunity, and eventually less reason to stay. The trap is that the recognition feels merit-based to the manager (they are recognizing what they observed), but the observation itself was biased toward loudness. Recognition must be sourced from peers and from outcome data, not from manager visibility alone.
 
-### Asking About Wellbeing Without Acting
+### Asking Without Acting
 
-Surveying wellbeing without responding to results, undermining trust. Act on what is learned.
+The organization runs a wellbeing survey, employees report high isolation and burnout, and then... nothing changes. The survey is repeated next quarter and the numbers are worse, because the act of asking without acting is worse than not asking at all: it signals that leadership collects data to perform concern, not to drive change. Each subsequent survey gets lower response rates (why bother, nothing happens) and higher cynicism. The trap is that the survey itself feels like progress to the organization (we are measuring! we care!), while to employees it is evidence of indifference. Never survey wellbeing without a committed action plan and visible follow-through, because the measurement without the response compounds the harm it was meant to address.
 
 ## Self-Check
 

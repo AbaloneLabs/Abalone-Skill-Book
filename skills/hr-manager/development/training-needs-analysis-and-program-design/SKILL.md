@@ -127,37 +127,37 @@ External training has a role, particularly for specialized expertise. But sustai
 
 ## Common Traps
 
-### Training As Default Solution
+### Training As Default Solution That Wastes Resources On Non-Training Problems
 
-Prescribing training for every performance problem, regardless of cause, wasting resources on non-training issues. Diagnose the gap first.
+Prescribing training for every performance problem, regardless of cause — defaulting to training whenever performance is below expectations — wastes resources on non-training issues, because many performance gaps are caused by unclear expectations, inadequate tools, broken processes, insufficient motivation, or environmental obstacles, none of which training can fix, and training deployed against a non-training problem fails by design, consuming money and credibility while the actual problem persists. The trap is that training feels like a constructive response, so it is prescribed, but training that addresses the wrong cause is not constructive, it is wasteful, and the waste is doubled because the real problem continues while the training failure undermines confidence in future training. Diagnose the performance gap first, distinguishing skill deficiency from other causes, and prescribe training only when the gap is genuinely a skill or knowledge gap, because training prescribed for the right cause produces improvement, and training prescribed for the wrong cause produces waste.
 
-### Survey-Driven Needs Analysis
+### Survey-Driven Needs Analysis That Produces A Wish List
 
-Asking people what training they want, producing a wish list unrelated to performance needs. Analyze actual gaps.
+Asking people what training they want — surveying employees about their training preferences and treating the results as a needs analysis — produces a wish list unrelated to performance needs, because employees request training that sounds interesting or that they have heard about, not training that addresses the gaps that limit their performance, and the wish-list catalog consumes resources on courses that are popular but irrelevant while the actual performance gaps go unaddressed. The trap is that a survey feels like a data-driven approach, so it is used, but a survey of preferences is not an analysis of needs, and preferences and needs are different things, and a training program built on preferences serves preferences while a training program built on needs serves performance. Analyze actual gaps, assessing current skill levels against required performance, involving subject matter experts and managers, because a needs analysis identifies what people need to be able to do, and a preference survey identifies what people want to do, and the two are not the same.
 
-### Vague Objectives
+### Vague Objectives That Cannot Be Measured Or Evaluated
 
-Setting objectives like "understand" or "be aware of" that cannot be measured or evaluated. Define specific, measurable objectives.
+Setting objectives like "understand" or "be aware of" that cannot be measured or evaluated — objectives that describe internal states rather than observable performance — makes the training unevaluable and often purposeless, because an objective that cannot be measured cannot be assessed, and an objective that cannot be assessed cannot be improved, and training with vague objectives drifts into content delivery without purpose, covering material without producing capability. The trap is that vague objectives feel aspirational and safe, so they are used, but aspiration is not an objective, and an objective that describes a feeling rather than a performance cannot guide design or evaluation. Define specific, measurable objectives that state what the learner will be able to do in observable terms, because a measurable objective guides design and enables evaluation, and a vague objective enables neither.
 
-### Method Mismatch
+### Method Mismatch That Produces Training That Does Not Stick
 
-Using lectures for skill development or e-learning for attitude change, producing training that does not stick. Match method to objective.
+Using lectures for skill development or e-learning for attitude change — delivery methods that do not match the type of learning required — produces training that does not stick, because skill development requires practice and feedback, and a lecture provides neither, and attitude change requires discussion and reflection, and an e-learning module provides neither, and the mismatched method transfers content without producing capability, and the learner leaves the training unable to do what the training was supposed to teach. The trap is that a single delivery method feels efficient, so it is used for everything, but efficiency that produces ineffective training is not efficiency, and a lecture that should have been a simulation is a lecture that wasted everyone's time. Match the delivery method to the learning objective, recognizing that different types of learning require different methods, because a matched method produces capability and a mismatched method produces content without capability.
 
-### No Transfer Design
+### No Transfer Design That Leaves Learning In The Classroom
 
-Delivering training without planning for workplace application, so learning does not transfer. Design for transfer.
+Delivering training without planning for workplace application — training that ends when the session ends, with no design for how the learning will transfer to the job — leaves learning in the classroom, because the gap between the classroom and the workplace is the largest source of training failure, and learning that is not applied is forgotten, and training that is forgotten is training that produced no return, and the investment is lost. The trap is that the training session feels like the deliverable, so transfer is not planned, but the session is the beginning, not the end, and learning that is not transferred is learning that is wasted. Design for transfer, with relevant content, practice opportunities, action planning, manager engagement, and follow-up, because transfer design is what converts training into performance, and training without transfer design is an event without an outcome.
 
-### Satisfaction-Only Evaluation
+### Satisfaction-Only Evaluation That Measures Reaction Not Results
 
-Measuring whether people liked the training, not whether it changed behavior or results. Evaluate at multiple levels.
+Measuring whether people liked the training — evaluating only at the reaction level, with satisfaction scores — and treating high scores as evidence of effectiveness, measures reaction, not results, because people can enjoy training that changes nothing, and a course that is entertaining but ineffective produces high satisfaction scores while performance remains unchanged, and the satisfaction scores provide false confidence that the training worked when it did not. The trap is that satisfaction scores are easy to collect and feel like evidence, so they are the only measure used, but satisfaction is the weakest level of evaluation, and a program evaluated only by satisfaction is a program whose effectiveness is unknown. Evaluate at multiple levels — reaction, learning, behavior change, and results — because multi-level evaluation reveals whether the training produced capability and performance, and satisfaction-only evaluation reveals only whether the training was enjoyable.
 
-### Unjustified Investment
+### Unjustified Investment That Wastes Money And Time
 
-Deploying training without a business case, wasting money and time. Justify the investment.
+Deploying training without a business case — training because it is expected, because a vendor proposed it, or because a leader attended a conference — wastes money and time, because training without a justified return is an expense without a benefit, and the resources consumed (money, learner time, opportunity cost) are spent without a corresponding performance improvement, and the unjustified training crowds out justified training by consuming the budget. The trap is that training feels inherently beneficial, so justification is not required, but training that is inherently beneficial is training that has not been analyzed, and unanalyzed training is training whose return is unknown. Justify the investment with a business case that compares the cost of training to the expected benefit, because a justified investment produces a return, and an unjustified investment produces an expense.
 
-### Total Vendor Dependence
+### Total Vendor Dependence That Prevents Sustainable Development
 
-Relying entirely on external providers, with no internal capability to sustain or adapt development. Build internal capability.
+Relying entirely on external training providers — outsourcing all training design and delivery, with no internal capability to sustain or adapt development — prevents sustainable development, because external vendors cannot respond to evolving needs as quickly as internal capability, and the organization depends on the vendor's catalog rather than its own needs, and the institutional knowledge built through training stays with the vendor rather than the organization, and the cost of total dependence is both financial and capability-based. The trap is that external vendors feel like expertise, so they are relied on completely, but expertise that is entirely external is expertise that the organization does not own, and an organization that cannot develop its own people without a vendor is an organization that has surrendered a core capability. Build internal capability, through internal trainers, subject matter experts, knowledge resources, and a learning culture, because internal capability provides sustainable, adaptive development, and total vendor dependence provides neither.
 
 ## Self-Check
 

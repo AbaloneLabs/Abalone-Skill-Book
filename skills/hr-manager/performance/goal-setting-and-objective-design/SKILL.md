@@ -124,37 +124,37 @@ Documentation protects both the employee and the organization. The employee has 
 
 ## Common Traps
 
-### Goals Disconnected From Strategy
+### Goals Disconnected From Strategy That Waste Effort
 
-Setting goals that are achieved but do not contribute to organizational priorities, wasting effort. Align goals with strategy.
+Setting goals that are achieved but do not contribute to organizational priorities — goals that are busy, measurable, and individually sensible but collectively do not move the organization toward its strategy — wastes effort, because the employee works hard and succeeds at goals that do not matter, and the organization gets activity without progress, and the employee's achievement is hollow because it did not connect to anything larger. The trap is that individual goals feel complete in themselves, so alignment is not checked, but a portfolio of unaligned goals produces an organization where everyone is busy and nothing moves, and the misalignment is invisible until the strategy fails. Align individual and team goals explicitly with organizational strategy, making the connection understandable to each person, because aligned goals convert individual effort into organizational progress, and unaligned goals convert effort into noise.
 
-### Vague Or Unmeasurable Goals
+### Vague Or Unmeasurable Goals That Leave Evaluation To Impression
 
-Setting goals like "improve communication" without defining what improvement looks like, leaving evaluation to subjective impression. Make goals specific and measurable.
+Setting goals like "improve communication" or "be more strategic" without defining what improvement looks like — goals that have no success criteria, no measurement, and no definition of done — leaves evaluation to subjective impression, because the goal has no observable finish line, and without a finish line the assessment is the manager's sense of whether the employee improved, and that sense is exactly the subjective impression that goal-setting was supposed to replace. The trap is that aspirational goals feel meaningful, so measurability is not demanded, but a goal that cannot be measured cannot be evaluated fairly, and the employee is left guessing what success looks like while the manager assesses based on impression. Make goals specific and measurable, with clear success criteria and agreed-upon measurement methods, because a measurable goal provides a fair, shared definition of success, and an unmeasurable goal provides a recipe for dispute.
 
-### Impossible Targets That Demoralize
+### Impossible Targets That Demoralize And Produce Burnout
 
-Setting aspirational targets and then penalizing people for missing them, producing burnout and disengagement. Calibrate for genuine stretch.
+Setting aspirational targets and then penalizing people for missing them — goals that sound inspiring but that no one could realistically achieve, tied to performance ratings or compensation — produces burnout and disengagement, because the employee is set up to fail, and failure that is inevitable is demoralizing, and the employee who is penalized for missing an impossible target learns that the system is rigged and disengages. The trap is that stretch goals feel ambitious and motivating, so they are set high, but there is a line between stretch and impossible, and goals on the impossible side do not motivate, they destroy, and the organization that penalizes impossible-target misses loses its best people. Calibrate goals for genuine stretch — achievable with effort but not guaranteed — and revise when goals are consistently missed, because a stretch goal motivates and an impossible goal demoralizes, and the difference is calibration.
 
-### Outcome-Only Goals That Encourage Shortcuts
+### Outcome-Only Goals That Incentivize Shortcuts And Unethical Behavior
 
-Rewarding results regardless of how they are achieved, which can incentivize unethical or team-damaging behavior. Balance outcomes with process and behavioral goals.
+Rewarding results regardless of how they are achieved — goals that measure only the outcome and ignore the process, behavior, and ethics — can incentivize unethical or team-damaging behavior, because when only the outcome is measured, the rational response is to achieve it by any means, and "any means" includes cutting corners, mistreating colleagues, compromising quality, or violating ethics, and the organization gets the results it rewarded along with the damage it did not anticipate. The trap is that outcomes feel clean and measurable, so process and behavior are omitted, but people optimize for what is measured, and a system that measures only outcomes optimizes for outcomes at any cost, and the cost is often integrity, quality, or teamwork. Balance outcome goals with process and behavioral goals, because what you measure is what you get, and measuring only outcomes gets outcomes plus whatever damage the pursuit produced.
 
-### Set-And-Forget Goals
+### Set-And-Forget Goals That Become Stale
 
-Setting annual goals and never reviewing them, so they become stale and irrelevant. Review and adjust regularly.
+Setting annual goals and never reviewing them — documenting goals in January and not looking at them until the review in December — ensures that the goals become stale and irrelevant, because circumstances change over a year, and a goal that made sense in January may be obsolete by June, and goals that are not reviewed cannot be adjusted, and the employee either pursues an obsolete goal or ignores it, both of which waste the goal-setting effort. The trap is that the goal-setting meeting feels like completion, so review is not scheduled, but goals are not events, they are living reference, and goals that are not reviewed are goals that are not used. Review and adjust goals regularly through interim milestones and check-ins, because a goal that is reviewed is a goal that remains relevant, and a goal that is not reviewed is a goal that was wasted at the moment it was set.
 
-### Inconsistent Goals Across Peers
+### Inconsistent Goals Across Peers That Create Perceived Unfairness
 
-Setting dramatically different expectations for similar roles without justification, creating perceived unfairness. Review for consistency.
+Setting dramatically different expectations for similar roles without justification — one person's goal is a stretch, another's is routine, for the same job — creates perceived unfairness, because the employees compare, and the comparison reveals that the standards are not the same, and different standards for the same role cannot be explained by anything other than favoritism, bias, or negligence. The trap is that each manager sets goals individually, so consistency is not checked, but goals that are not calibrated across peers produce ratings that are not comparable, and performance decisions based on incomparable ratings are unfair decisions. Review goals across peers for consistency of challenge and expectation, documenting differences and examining demographic patterns, because consistent goals are the foundation of fair performance assessment, and inconsistent goals make fairness impossible.
 
-### Imposed Goals Without Employee Input
+### Imposed Goals Without Employee Input That Reduce Ownership
 
-Dictating goals without dialogue, reducing understanding and ownership. Involve the employee.
+Dictating goals without dialogue — handing the employee a list of goals set by the manager — reduces understanding and ownership, because the employee had no role in shaping the goals, and without involvement the goals feel imposed rather than agreed, and imposed goals produce compliance rather than commitment, and the employee who does not own the goals does not bring the discretionary effort that goal achievement requires. The trap is that dictating goals is faster than dialogue, so dialogue is skipped, but speed in setting goals is purchased with engagement in achieving them, and an imposed goal is a goal the employee fulfills rather than pursues. Involve the employee in goal-setting through dialogue that produces understanding and ownership, because a goal the employee helped shape is a goal the employee is committed to, and commitment produces achievement that compliance cannot.
 
 ### Goals That Exist Only In A System No One Uses
 
-Documenting goals and then never referencing them, making them meaningless. Maintain as living reference.
+Documenting goals and then never referencing them — entering them into a performance system that is opened once a year — makes them meaningless, because goals that are not referenced have no effect on daily work, and the employee who does not look at the goals between January and December is not guided by them, and the goals become a paperwork exercise rather than a performance tool. The trap is that documentation feels like the purpose, so the goals are filed and forgotten, but documentation is the beginning, not the end, and goals that are documented but not used are goals that wasted everyone's time. Maintain goals as a living reference, referencing them in check-ins, reviews, and feedback throughout the period, because a goal that is referenced is a goal that guides, and a goal that guides is a goal that earns the effort of setting it.
 
 ## Self-Check
 

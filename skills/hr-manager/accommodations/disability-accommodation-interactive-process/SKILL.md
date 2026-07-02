@@ -95,37 +95,37 @@ Medical information obtained through the interactive process must be kept confid
 
 ## Common Traps
 
-### Missing The Request
+### Missing The Request Because It Did Not Sound Like One
 
-Failing to recognize an accommodation request because it did not use legal terms or mention a diagnosis. Recognize and route requests.
+The most common accommodation failure is not recognizing that a request was made, because employees rarely invoke the law or the word "accommodation" — they say "I'm struggling with the stairs" or "my back needs a better chair" or "my medication makes mornings hard," and managers hear a complaint or a performance issue rather than a request that triggers legal obligations. The trap is that the statement sounds conversational, so it is treated conversationally, but the legal duty attaches the moment the employer is on notice of a disability-related need, and failing to recognize the request means the interactive process never begins, the clock on the obligation runs, and the organization is later unable to show it engaged. Train managers to recognize that any statement connecting a medical condition to a work difficulty is a request, route it immediately, and when in doubt treat it as a request, because the cost of engaging unnecessarily is trivial and the cost of missing a request is liability for a process that never started.
 
-### Predetermined Denial
+### Predetermined Denial Disguised As A Process
 
-Approaching the interactive process with a decision already made, treating it as a formality. Engage genuinely.
+Approaching the interactive process with the decision already made — treating the meeting as a formality to deliver a "no" — is a failure to engage in good faith that is independent of whether the denial was substantively correct, because the duty is to engage genuinely with an open mind, not to run a process whose outcome was predetermined. The trap is that the manager already believes the accommodation is infeasible, so the "process" is conducted to confirm that belief, but a court reviews whether alternatives were genuinely considered, and a process that considered only the option the manager wanted to reject is not a process at all. Enter the interactive process genuinely open to outcomes, document real consideration of multiple alternatives, and let the analysis drive the decision, because a predetermined denial dressed as a process is worse than no process — it shows the organization knew the obligation and performed around it.
 
-### Overbroad Medical Requests
+### Overbroad Medical Requests That Invade Privacy
 
-Demanding diagnosis, treatment details, or full medical history beyond what is needed to assess the accommodation. Request only functional information.
+Demanding a diagnosis, treatment plan, or full medical history when the employer needs only the functional limitation and its impact on essential functions — "we need your complete medical records to evaluate this" — exceeds the employer's rights, invades the employee's privacy, and can itself constitute a violation, because the employer may request only the information needed to understand the limitation and identify accommodations. The trap is that more information feels safer and more thorough, but overbroad requests chill employees from seeking accommodation, collect protected medical information the employer has no right to, and create records that become evidence of overreach. Request only functional information — the nature of the limitation, how it affects essential functions, the expected duration, and suggested accommodations — and specify exactly what is needed, because the right to information is limited to what is necessary, and collecting more is itself a failure.
 
-### Inflating Essential Functions
+### Inflating Essential Functions To Defeat The Accommodation
 
-Defining marginal functions as essential to defeat the accommodation request. Identify essential functions accurately.
+Defining marginal or occasional functions as "essential" so that the employee cannot perform them and the accommodation can be denied — inflating the job description after the request to manufacture infeasibility — is a manipulation of the essential functions analysis that courts and agencies recognize and penalize, because essential functions must reflect the actual job, not a description built to defeat accommodation. The trap is that the inflated description feels accurate to a manager who genuinely believes the function matters, but the analysis examines whether the position exists to perform that function, the time spent, and the experience of past incumbents, and a retrofitted description does not survive that scrutiny. Identify essential functions based on the actual job, documented in the job description before the accommodation analysis, and never retrofit the description to the request, because an inflated description is evidence that the organization manipulated the analysis to reach a predetermined denial.
 
-### Reflexive Undue Hardship Claims
+### Reflexive Undue Hardship Claims Without Evidence
 
-Claiming undue hardship without evidence, based on inconvenience or cost that does not meet the standard. Assess with real evidence.
+Claiming "undue hardship" reflexively whenever an accommodation seems inconvenient or costly — without documented analysis of cost relative to resources, operational impact, or alternatives — fails the legal standard, which requires significant difficulty or expense assessed in context, because undue hardship is a demanding standard, not a synonym for "inconvenient." The trap is that the cost or disruption feels significant to the manager facing it, but the standard is relative to the employer's overall resources, and what feels like hardship to a department is often trivial to the organization, so the reflexive claim is exposed as unsupported assertion. Assess undue hardship with real evidence — cost data, operational analysis, resource comparison — and document it as if for review, because an undue hardship claim without evidence is an assertion, and assertions do not meet the standard.
 
-### Choosing An Ineffective Accommodation
+### Choosing An Ineffective Accommodation The Employer Prefers
 
-Selecting an accommodation the employer prefers but that does not enable the employee to perform the essential functions. Choose an effective accommodation.
+Selecting the accommodation the employer finds easiest or cheapest, rather than one that actually enables the employee to perform the essential functions, leaves the employee unable to work and constitutes a failure to accommodate, because the duty is to provide an effective accommodation, not merely any accommodation, and the employer's preference does not control if the chosen option does not work. The trap is that the preferred option satisfies the employer's sense of having "done something," but an ineffective accommodation is no accommodation — it leaves the barrier in place while creating the appearance of compliance. Choose an accommodation that actually enables performance, assess effectiveness after implementation, and return to the interactive process if it is not working, because providing an accommodation that does not work is providing no accommodation at all, and the appearance of compliance without effectiveness is the most dangerous kind of failure.
 
-### Failing To Consider Reassignment
+### Failing To Consider Reassignment When It Is Available
 
-Denying accommodation outright when reassignment to a vacant position is possible. Consider reassignment as a last resort.
+Denying accommodation outright when no accommodation in the current role works, without considering reassignment to a vacant position for which the employee is qualified, skips a required step in the accommodation analysis, because reassignment is a form of accommodation that must be considered as a last resort when accommodation in the current role is not possible. The trap is that reassignment feels like a burden or a precedent, so it is dismissed without analysis, but the duty to consider reassignment is well-established, and a failure to consider it is a failure to complete the interactive process. Consider reassignment when accommodation in the current role is not feasible, identify vacant positions for which the employee is qualified, and document the analysis, because skipping reassignment is skipping a required step, and a denial that did not consider reassignment is incomplete.
 
-### One-Time Treatment
+### Treating Accommodation As A One-Time Event
 
-Treating the accommodation as permanent and unchangeable, or revocable without renewed analysis. Manage ongoing needs.
+Treating the accommodation as permanent and unchangeable, or revoking it without renewed analysis, ignores that the duty is ongoing and that conditions fluctuate — an accommodation that worked may stop working, a condition may improve, or new accommodations may become available, and the interactive process continues throughout the employment. The trap is that the accommodation feels resolved once implemented, so it is filed away, but conditions change, and an unreviewed accommodation may become ineffective, or a revoked accommodation may have been revoked without the analysis the original decision required. Check in periodically, respond to requests for changed accommodations through the interactive process, and never revoke an accommodation without renewed analysis, because the duty does not end at implementation, and an accommodation treated as permanent is an accommodation that stops being effective without anyone noticing.
 
 ## Self-Check
 

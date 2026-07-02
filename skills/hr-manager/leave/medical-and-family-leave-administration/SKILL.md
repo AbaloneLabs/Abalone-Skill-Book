@@ -90,33 +90,29 @@ Leave administration requires consistent documentation for compliance and defens
 
 ## Common Traps
 
-### Assuming Ineligibility Without Checking
+### Denying Leave On Assumption
 
-Denying leave based on assumptions about tenure, hours, or coverage, without accurate assessment. Determine eligibility on the facts.
+The employee has been with the company for 10 months, so the manager assumes they are not eligible for medical leave (which requires 12 months of service) and denies the request — without checking that the employee actually worked for a predecessor company that counts toward tenure, or that a state law with a shorter eligibility requirement applies. The trap is that eligibility assumptions are based on the most common criteria (12 months, 1,250 hours, 50 employees within 75 miles) and applied as if they are universal, when in fact each leave law has its own criteria, prior service may count, and state laws may have no minimum tenure at all. An employee denied leave based on an assumption that turns out to be wrong has been denied a protected right, and the denial itself — regardless of whether the employee eventually gets the leave — is interference. Eligibility must be determined on the facts of the specific case under each applicable law, never on a general assumption about who qualifies, because the cost of a wrong denial (legal liability, employee harm) always exceeds the cost of a careful check.
 
-### Overbroad Medical Information Requests
+### Fishing For Diagnosis
 
-Requesting diagnosis, treatment details, or confidential medical information beyond what the law permits. Request only permitted information.
+The employee submits a medical certification for a serious health condition. The HR representative, wanting to understand the condition better, calls the employee's doctor to ask about the diagnosis, the treatment plan, and the prognosis — all information that the law does not permit the employer to collect. The trap is that the desire for complete information feels like responsible administration (we need to understand the situation!) when it is actually a privacy violation that converts a compliant leave process into an interference claim. The law permits the employer to know only what is necessary to administer the leave: the date the condition began, the expected duration, and confirmation that the condition qualifies. Diagnosis, treatment details, and the underlying medical facts are off-limits, and contacting the provider directly — especially through the employee's supervisor — is a separate violation layered on top. Medical certification must be collected through the proper form, with only permitted information, and any clarification must go through approved channels, because the line between responsible administration and unlawful inquiry is drawn by the statute, not by the administrator's curiosity.
 
-### Counting Leave Improperly
+### The Attendance Point That Punishes Leave
 
-Miscounting intermittent leave, counting non-leave time, or failing to track the balance accurately. Count leave precisely.
+The employee takes intermittent leave for a chronic condition — a migraine disorder that causes absences two or three times a month. The company's attendance policy assigns points for each absence, and the employee accumulates enough points to trigger a written warning, then a final warning, then termination. The trap is that the attendance policy is facially neutral (it counts all absences equally) but as applied it punishes the employee for taking protected leave, which is interference and retaliation. The policy must be adjusted to exclude leave-related absences from the point system, not as an exception but as a structural feature, because any system that counts protected absences against the employee — whether attendance points, performance metrics, or promotion considerations — is a system that retaliates for the exercise of leave rights. The adjustment must be built into the policy and the tracking system, not left to individual managers to remember, because a point that is automatically assigned by the system is still a point that violates the law.
 
-### Treating Intermittent Leave As Performance
+### "Equivalent" That Is Not Equivalent
 
-Counting intermittent leave absences against attendance or using them in discipline. Treat leave absences as neutral.
+The employee returns from leave and is restored to a position with the same title and similar pay — but a different shift, a different location, different reporting relationships, or different responsibilities that constitute a lateral move in everything but name. The trap is that "equivalent position" means virtually identical in all material terms, not merely similar in title and pay, and a position that looks equivalent on paper but differs in schedule, geography, or substantive duties is not equivalent. The employee who is returned to a different shift that disrupts childcare, or to a different location that adds an hour of commute, has not been restored — they have been constructively reassigned, and the reassignment is a violation. Restoration requires the same or a virtually identical position: same pay, benefits, shift, schedule, location, and substantive responsibilities, because anything less is a demotion dressed up as compliance.
 
-### Failing To Restore To An Equivalent Position
+### The Full Unrestricted Release Demand
 
-Returning the employee to a similar but not equivalent position, with different pay, schedule, or responsibilities. Restore to the same or equivalent position.
+The employee's doctor provides a return-to-work note with restrictions: no lifting over 20 pounds, no prolonged standing, reduced hours for the first two weeks. The employer demands a full unrestricted release before allowing the employee to return, insisting on clearance for all duties with no limitations. The trap is that the employer has conflated two different standards: fitness for the specific position (can the employee perform the essential functions, with or without accommodation?) and full medical clearance (is the employee completely healthy with no restrictions?). The law permits the former; the latter is both unnecessary and potentially discriminatory, because it screens out employees who can perform the job with reasonable accommodation. Demanding a full unrestricted release when the employee can perform the essential functions — with or without accommodation — is a failure to engage in the interactive process and may be disability discrimination, because the employee is being excluded not for inability to do the job but for the employer's convenience in not having to accommodate.
 
-### Requiring An Overbroad Release
+### The Quiet Retaliation After Return
 
-Demanding a full release for all duties rather than fitness for the specific position. Require only what is permitted.
-
-### Retaliating After Return
-
-Changing the employee's treatment, assignments, or evaluation because of the leave. Monitor and prevent retaliation.
+The employee returns from leave and finds that their best projects have been reassigned, they are no longer included in key meetings, their performance rating has dropped despite no change in performance, and their manager — who covered during the absence and resented it — is now distant and critical. There is no single action that constitutes clear retaliation, but the accumulation of small changes makes the workplace intolerable. The trap is that retaliation after leave is rarely a memo that says "you are being punished for taking leave"; it is a pattern of marginalization that is individually defensible but collectively unmistakable, and it drives the employee out — which is the goal. Monitoring the post-return experience — project assignments, meeting inclusion, performance ratings, manager behavior — is essential, because the leave law protects not just the act of taking leave but the employment relationship after return, and a return that is technically compliant but substantively hostile is a return that fails the legal standard.
 
 ## Self-Check
 

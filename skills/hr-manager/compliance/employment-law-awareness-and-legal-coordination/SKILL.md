@@ -99,31 +99,31 @@ Restrictive covenants, such as non-competes, non-solicits, and confidentiality a
 
 ### Under-Escalating High-Risk Decisions
 
-Handling terminations, restructuring, or agency charges without legal review, creating preventable liability. Escalate high-risk matters.
+When HR handles a termination, restructuring, harassment complaint, or agency charge without legal review, the decisions made in those moments — what to document, what to say, how to frame the reason — are the exact decisions that determine whether the matter becomes defensible or indefensible. The cost of involving counsel early is trivial compared to the cost of unwinding a poorly framed action, and once a position is stated to an employee or an agency it is difficult to retract. Establish a defined escalation list of high-risk matters that must go to counsel before action, and treat the consultation as cheap insurance against a multi-year litigation, because the most expensive legal advice is the advice sought after the decision is already made.
 
 ### Over-Relying On Counsel For Routine Matters
 
-Routing every decision through counsel, slowing work and increasing cost. Handle routine matters with HR judgment.
+Routing every routine question through counsel slows HR operations, inflates legal cost, and erodes HR's own judgment — counsel begins to function as a gatekeeper for decisions HR is competent to make, and managers learn to bypass HR entirely. The deeper harm is that HR stops developing its own working knowledge of the legal landscape, becoming dependent on counsel for issues that should be within professional competence. Build clear boundaries: reserve counsel for high-risk, novel, or litigation-adjacent matters, equip HR to handle routine questions with documented judgment, and use counsel to train HR's capability rather than to substitute for it.
 
-### Incomplete Information To Counsel
+### Providing Counsel An Incomplete Or Favorable Picture
 
-Providing counsel only favorable facts, leading to advice based on an incomplete picture. Provide complete information.
+When HR briefs counsel with only the facts that support the desired outcome — omitting the employee's good performance history, the inconsistent treatment of similar cases, the manager's documented bias — counsel's advice is sound for the facts presented but wrong for the actual situation, and HR then executes on advice that does not withstand scrutiny once the full record emerges in litigation. The trap is usually unconscious: HR wants a clean answer and shapes the question toward it. Provide counsel the unfavorable facts first, explicitly, because counsel's value is in stress-testing the weak points, and advice built on a curated record fails at exactly the moment it is most needed.
 
 ### Missing Deadlines On Agency Charges
 
-Failing to respond to charges within deadlines, defaulting or weakening the defense. Track and meet deadlines.
+Agency charges — EEOC, NLRB, state fair employment, unemployment — carry short, strict response deadlines, and a missed deadline can result in a default, a waiver of defenses, or a procedurally weakened position that no substantive argument can recover. The failure is usually administrative rather than substantive: the charge is received, routed to the wrong person, or sits in an inbox during a transition, and the deadline passes without anyone recognizing it. Build a calendared, redundant tracking system for every charge the moment it arrives, with escalation if no response is drafted within a fraction of the deadline window, because deadline failures are preventable and their consequences are not.
 
-### No Compliance Posture
+### Treating Compliance As Reactive
 
-Treating legal compliance as reactive, addressing problems only after they arise. Build a preventive posture.
+Operating without a preventive compliance posture — no audits, no training cadence, no monitoring of legal developments, no risk register — means the organization addresses employment law only after a claim, a charge, or a crisis forces it to. Reactive compliance is both more expensive and less effective, because each incident is handled in isolation under time pressure, while the systemic cause that generated it goes unaddressed and produces the next incident. Build a preventive posture: periodic audits of classifications, pay practices, and recordkeeping; a training calendar keyed to risk; and a monitoring process for legal developments, so that compliance is a planned function rather than a series of emergency responses.
 
 ### Ignoring Legal Developments
 
-Failing to track changes in law, allowing practices to become non-compliant. Track and update.
+Employment law changes continuously — new leave entitlements, pay transparency statutes, non-compete restrictions, classification tests, accommodation standards — and practices that were compliant when adopted become non-compliant without any internal change, simply because the law moved. The risk is invisible because nothing in the organization signals that a once-valid practice has aged out, until a claim or an audit surfaces it. Maintain a subscription to a legal update service or counsel's bulletin, assign someone to review developments against current practices on a fixed cadence, and treat legal monitoring as a standing responsibility rather than an ad-hoc one.
 
-### Rubber-Stamp Use Of Counsel
+### Using Counsel To Bless Predetermined Decisions
 
-Using counsel to bless predetermined decisions rather than for genuine analysis. Use counsel for real input.
+When a decision has already been made and counsel is engaged only to ratify it, counsel's review becomes theater — the question is framed to produce the desired answer, the unfavorable facts are minimized, and the "approval" provides false comfort because it was never a genuine analysis. The organization then proceeds with a flawed decision shielded by a legal opinion that would not survive a challenge, because the opinion was built on a curated record. Engage counsel while the decision is still open, present the genuine alternatives including the one the organization is reluctant to choose, and treat counsel's role as independent analysis rather than post-hoc justification.
 
 ## Self-Check
 

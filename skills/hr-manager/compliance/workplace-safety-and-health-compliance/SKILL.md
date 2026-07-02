@@ -101,33 +101,33 @@ Remote and hybrid work creates new safety considerations. The duty to provide a 
 
 ## Common Traps
 
-### Checklist Compliance
+### Treating Safety As A Checklist Rather Than A System
 
-Treating safety as compliance tasks rather than a system, missing systemic hazards. Build a systematic program.
+When safety is reduced to completing required forms, posting notices, and logging training completions, the organization satisfies the documentation requirements while the actual hazards — the unguarded machine, the untrained temp, the production pressure that overrides procedure — remain embedded in the operation. Checklist compliance feels like progress because the binder is full, but it produces a false sense of security that is exposed only when an injury reveals the gap between the paperwork and the reality. Build safety as a system: hazard identification, engineering and administrative controls, supervisor accountability, employee involvement, and measurement of leading indicators, because a completed checklist is evidence of activity, not of safety.
 
-### Hierarchy Inversion
+### Inverting The Hierarchy Of Controls
 
-Defaulting to personal protective equipment rather than elimination or engineering controls. Follow the hierarchy.
+When a hazard is identified, the instinct is often to issue personal protective equipment — gloves, goggles, vests — because it is fast, cheap, and visible, but PPE is the least reliable control in the hierarchy because it depends on the worker remembering and using it correctly every time. Eliminating the hazard, substituting a safer process, or engineering it out are more effective because they do not rely on human compliance, yet they are often skipped because they are harder and slower. Apply the hierarchy in order — elimination, substitution, engineering controls, administrative controls, then PPE — and reserve PPE for residual risk that cannot be designed out, because defaulting to PPE treats the symptom while the hazard continues to generate exposures.
 
-### Under-Recording Injuries
+### Under-Recording Injuries To Keep Rates Low
 
-Failing to record injuries to keep rates low, violating recording requirements and undermining analysis. Record accurately.
+Recordable injury rates are a metric, and when the metric is tied to management evaluation or to contract eligibility, the pressure to keep rates low can invert into pressure to not record injuries that should be recorded — classifying a recordable as first aid, discouraging reporting, or recording under a different category. Under-recording violates the recording requirement itself and, more deeply, corrupts the data the organization uses to identify and fix hazards, so the hazards that caused the unrecorded injuries persist and cause more injuries. Record injuries accurately according to the recording criteria, decouple reporting from blame, and recognize that an accurate, higher rate that drives correction is far more valuable than a falsely low rate that hides the problem.
 
 ### Ignoring Near-Misses
 
-Focusing only on actual injuries and missing the warnings provided by near-misses. Analyze near-misses.
+Near-misses — the incident that almost happened, the guard that held, the fall that was caught — are free data about hazards that have not yet produced an injury, and they are the most cost-effective opportunity to intervene before harm occurs. Yet most organizations investigate only actual injuries, because near-misses are not required to be recorded and often go unreported. Build a no-blame near-miss reporting system, analyze near-misses with the same rigor as actual injuries, and treat each one as a warning that the next iteration may not be caught, because the difference between a near-miss and an injury is often luck, and luck is not a control.
 
-### Dismissing Violence Warning Signs
+### Dismissing Workplace Violence Warning Signs
 
-Treating threats or intimidation as personality issues rather than safety hazards. Assess and intervene.
+Threats, intimidation, escalating conflict, and stalking behavior are often treated as interpersonal or HR issues rather than safety hazards, because they do not fit the image of an industrial accident — until they escalate to violence, at which point the missed warning signs become the central fact of the subsequent investigation. The pattern is usually visible in advance: a domestic situation spilling into the workplace, a terminated employee making threats, a conflict between coworkers that is escalating. Treat threats and intimidation as safety hazards subject to assessment and intervention, involve threat assessment resources, and err toward protective action, because the cost of an over-response is manageable and the cost of an under-response is catastrophic.
 
-### Retaliation For Reporting
+### Retaliation Against Safety Whistleblowers
 
-Penalizing employees who report hazards or injuries, destroying the safety culture. Protect reporters.
+When employees who report hazards or injuries are subtly penalized — excluded from desirable assignments, scrutinized more closely, labeled complainers, or terminated on a pretextual basis — the safety reporting system collapses, because other employees observe the consequences and stop reporting. The retaliation also creates independent legal liability under whistleblower protections that is often easier to prove than the underlying safety violation. Treat safety reporting as protected activity, monitor the treatment of reporters for subtle retaliation, and train supervisors that any adverse action against a reporter — however justified it may seem on other grounds — will be scrutinized for retaliatory motive.
 
-### Remote Work Safety Gaps
+### Ignoring Safety In Remote And Hybrid Work
 
-Ignoring safety in remote work, assuming the duty does not apply. Adapt the program to remote work.
+The duty to provide a safe workplace does not vanish when the workplace becomes a home office, yet many safety programs were designed for a physical facility and have not been adapted to remote work — ergonomic hazards, psychosocial risks of isolation and overwork, and the question of what injuries in the home are work-related. The gap is invisible because no one is inspecting the home office, and it is exposed only when an injury claim arises from a remote setting. Extend the safety program to remote work through ergonomic guidance and equipment provision, clarify workers' compensation coverage for home-office injuries, and address the psychological hazards of always-on remote work, because the duty follows the work, not the location.
 
 ## Self-Check
 

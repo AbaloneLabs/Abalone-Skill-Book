@@ -125,37 +125,37 @@ A living succession plan is a management tool. A static one is a document that c
 
 ## Common Traps
 
-### Promoting The Best Performer Automatically
+### Promoting The Best Performer Automatically Into A Role They Cannot Do
 
-Assuming the top performer in the current role is the best successor, when the future role requires different capabilities. Assess against future needs.
+Assuming the top performer in the current role is the best successor — promoting the best salesperson to sales manager, or the best engineer to engineering director — when the future role requires fundamentally different capabilities, because performance in a role and capability for the next role are different things, and the skills that made someone excellent as an individual contributor (personal output, technical depth, self-direction) are not the skills that make someone excellent as a leader (developing others, strategic thinking, cross-functional influence), and the best performer promoted into a role that requires different capabilities becomes a failing leader and a lost top performer. The trap is that strong performance feels like evidence of readiness, so it is treated as such, but past performance predicts future performance in similar roles, not in fundamentally different ones, and the Peter Principle — promoting people to their level of incompetence — is the predictable result. Assess successors against the capabilities required for the future role, not against performance in the current role, because the future role demands future-role capabilities, and current-role performance is not evidence of those capabilities.
 
-### Potential Confused With Performance
+### Potential Confused With Performance That Misidentifies Talent
 
-Treating strong current performance as evidence of high potential, without assessing learning agility and adaptability. Distinguish the two.
+Treating strong current performance as evidence of high potential — assuming that the person who is excelling now has the capacity to excel at higher levels — without assessing learning agility, adaptability, and leadership capability, because potential is the capacity to grow into larger roles, and current performance is the achievement in the current role, and they are different dimensions, and a person who is performing well may have reached their ceiling while a person who is performing adequately may have far more upside. The trap is that current performance is visible and potential is not, so performance is used as a proxy, but the proxy is unreliable, and confusing the two produces talent pools full of solid performers with limited upside while missing the agile learners who have the highest potential. Distinguish potential from performance, assessing learning agility, adaptability, and leadership capability through structured criteria, because potential and performance are different, and treating them as the same produces a talent pool that confuses current achievement with future capacity.
 
-### Impression-Based Assessment
+### Impression-Based Assessment That Lacks Evidence
 
-Identifying high-potential talent based on gut feeling or personal chemistry, without evidence. Use structured criteria and documented evidence.
+Identifying high-potential talent based on gut feeling, personal chemistry, or the manager's intuitive sense — "I just know she has it" — without structured criteria or documented evidence, because impression-based assessment is subject to bias (the manager identifies talent that reminds them of themselves or that they personally like), and without evidence the assessment cannot be challenged, calibrated, or defended, and the talent pool reflects the managers' preferences rather than the organization's talent. The trap is that intuition feels like expertise, so it is trusted, but intuition is bias wearing the costume of judgment, and impression-based talent identification produces homogeneous talent pools and misses talent that does not fit the manager's pattern. Use structured criteria and documented evidence of behavior, results, and demonstrated capability, because evidence-based assessment is challengeable and calibratable, and impression-based assessment is neither.
 
-### No Calibration
+### No Calibration That Produces Inconsistency And Bias
 
-Allowing each manager's personal view to determine talent identification, producing inconsistency and bias. Calibrate across managers.
+Allowing each manager's personal view to determine talent identification — each manager using their own standards, their own definitions of potential, and their own evidence threshold — produces inconsistency and bias, because the talent pool reflects the aggregation of different standards, and a person identified as high-potential by one manager would not be identified by another, and the inconsistency means that talent decisions across the organization are based on different criteria, which is the definition of unfair. The trap is that calibration feels like bureaucracy, so managers are allowed to identify talent independently, but without calibration there is no common standard, and without a common standard the talent pool is arbitrary. Calibrate talent assessments across managers, challenging placements and requiring evidence, because calibration produces a common standard, and a common standard is the foundation of fair and consistent talent decisions.
 
-### Homogeneous Talent Pools
+### Homogeneous Talent Pools That Reflect Affinity Bias
 
-Allowing affinity and mini-me bias to concentrate high-potential identification in the image of current leadership. Actively mitigate bias and seek diverse talent.
+Allowing affinity and mini-me bias to concentrate high-potential identification in the image of current leadership — talent pools that look demographically and stylistically like the existing leadership — because managers identify potential in people who remind them of themselves, and without active mitigation the talent pool reproduces the existing leadership's demographics and style, and the homogeneous talent pool becomes the homogeneous leadership of the future, and the organization's diversity strategy fails at the talent identification stage. The trap is that identification feels merit-based, so bias is not suspected, but affinity bias operates beneath the surface of merit, and a talent pool that is homogeneous is evidence that the identification process is biased, not that the talent is concentrated in one demographic. Actively mitigate bias, examine the demographic composition of the talent pool, and seek diverse talent through structured criteria and multiple perspectives, because a talent pool that is not deliberately diverse is a talent pool that is accidentally homogeneous, and accidental homogeneity is the enemy of diversity.
 
-### Names Without Development
+### Names Without Development That Create A Hollow Succession Chart
 
-Listing successors without development plans, creating a succession chart with no substance. Build actionable development for each identified talent.
+Listing successors on a succession chart without development plans — a chart full of names with no plan for how those people will develop the capabilities they need for the future role — creates a succession chart with no substance, because the chart represents aspiration rather than capability, and a person listed as a successor who has no development plan is a person who is not being prepared, and the chart provides false confidence that succession is covered when it is not. The trap is that the chart feels like a plan, so development is not added, but a succession chart without development is a list of hopes, and the gap between the person's current capability and the future role's requirements is not closing because nothing is being done to close it. Build actionable development plans for each identified successor, targeting specific gaps and reviewing progress, because a successor with a development plan is being prepared, and a successor without one is just a name on a chart.
 
-### Ignoring Retention Risk
+### Ignoring Retention Risk That Loses The Talent The Plan Depends On
 
-Identifying talent without assessing or addressing flight risk, losing the very people the plan depends on. Assess and address retention.
+Identifying talent without assessing or addressing flight risk — building a succession plan around high-potential employees who are themselves at risk of leaving — loses the very people the plan depends on, because high-potential employees are the most marketable and the most likely to be recruited, and a succession plan that does not assess retention risk is a plan that assumes its key people will stay, and the assumption is often wrong, and the plan collapses when the identified successor leaves. The trap is that identification feels like completion, so retention is not addressed, but identification without retention is planning on people you may not have, and the high-potential employee who is identified but not retained is a double loss: the person and the plan. Assess retention risk for key talent and address flight risk through targeted retention strategies, because a succession plan that does not retain its talent is a plan built on sand, and the talent that leaves is the plan that fails.
 
-### The Static Succession Plan
+### The Static Succession Plan That Creates False Confidence
 
-Creating the plan once and not updating it, so it becomes outdated and misleading. Revisit regularly.
+Creating the succession plan once and not updating it — a plan that reflects a snapshot from a previous year, with stale readiness assessments, departed successors, and outdated business needs — becomes misleading, because the plan no longer reflects reality, and leadership that relies on a stale plan has false confidence that succession is covered when the plan is obsolete, and the obsolescence is discovered when a critical role opens and the listed successors are no longer viable. The trap is that the plan felt complete when created, so it is not revisited, but succession is a living process, and a plan that is not updated is a plan that decays, and a decayed plan is worse than no plan because it provides confidence without coverage. Revisit and update the succession plan at least annually, reflecting current reality, because a living succession plan is a management tool, and a static one is false confidence that fails when it is needed most.
 
 ## Self-Check
 

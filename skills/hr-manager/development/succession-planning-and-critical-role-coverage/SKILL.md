@@ -127,35 +127,35 @@ A succession plan that has not been updated in two years is unreliable. People's
 
 ### Title-Based Criticality
 
-Identifying critical roles by seniority rather than impact, missing specialized or network-critical positions. Assess by impact.
+When the critical-role list is built from the org chart rather than from impact analysis, the plan protects redundant senior executives while leaving single points of failure exposed. A regional sales director whose departure severs the largest customer relationship, or a sole regulatory specialist whose knowledge no one else holds, is more critical than a VP whose responsibilities are broadly distributed. The trap feels safe because senior titles look important, but it directs development resources toward roles that already have bench depth and leaves the genuinely fragile roles uncovered. The consequence appears only when a non-obvious critical person departs and no one can step in.
 
-### Dishonest Readiness Assessment
+### Optimistic Readiness Labels
 
-Listing successors as "ready now" without honest evaluation, creating false confidence. Assess readiness honestly.
+Marking successors as "ready now" to make the chart look healthy substitutes aspiration for evidence. A high performer in a different function, someone liked by the current incumbent, or a person who has never faced the target role's demands is not ready now — and labeling them so suppresses the development urgency that honest gap identification is meant to trigger. When a sudden departure occurs, the gap between the label and reality is exposed under the worst possible conditions. Honest timelines (ready now, one-to-two years, longer-term) are uncomfortable precisely because they force action; flattening them to "ready" avoids that discomfort at the cost of real preparedness.
 
 ### Names Without Development
 
-Identifying successors without development plans, producing a chart with no substance. Develop through targeted experiences.
+A succession chart that lists candidates but assigns no stretch assignments, lateral moves, or P&L exposure is a confidence document, not a capability plan. The naming creates the illusion that coverage exists, so leadership stops worrying — yet the successor has practiced none of the target role's demands and will falter when elevated. This trap is common because naming feels like progress and development is hard, long work. The test is whether each successor has a specific, tracked development experience closing a specific gap; if not, the name is decorative.
 
-### No Emergency Coverage
+### Long-Term Only Planning
 
-Planning only for long-term succession, leaving the organization unprepared for sudden departure. Plan for emergency coverage.
+Planning multi-year successor development while ignoring what happens if the role is vacant next Tuesday leaves the organization exposed exactly when succession risk is highest — an unplanned, sudden departure. Long-term plans assume the incumbent stays long enough for development to mature, which is precisely the assumption that fails in an emergency. The interim-coverage gap is invisible until the day it matters, because no one has documented the role's live initiatives, relationships, and passwords, and no one is designated to decide. Emergency coverage must be designed and tested (through planned absences) before it is needed, not improvised under crisis.
 
-### Unmitigated Key-Person Dependency
+### Tolerated Key-Person Dependency
 
-Allowing critical knowledge or relationships to reside with one person, creating fragility. Mitigate dependency proactively.
+When critical knowledge, relationships, or decision authority concentrate in one person and the organization accepts it as "just how it works," the succession plan is treating a structural defect as a staffing problem. Adding a successor name does not redistribute the knowledge or the relationships; it only nominates someone to inherit fragility they cannot actually absorb. The trap persists because dependency is convenient for the incumbent (it signals indispensability) and invisible to leadership until the person leaves. Genuine mitigation — documentation, cross-training, relationship broadening, authority distribution — is process and structural work that the succession exercise should force, not defer.
 
-### HR-Only Process
+### HR-Owned, Leader-Absent Process
 
-Conducting succession planning without genuine leadership engagement, producing documents no one believes. Involve the right people.
+When HR builds the succession plan from assessments leaders never genuinely engaged with, the document reflects HR's best guess rather than the leadership judgment that succession decisions actually require. Leaders then disregard the plan because they did not make it, and the assessments carry no commitment to develop anyone. The plan becomes a binder that satisfies a governance checklist but drives no development and survives no real departure. Succession credibility requires that the people who know the roles and the people own the assessments; HR's role is to facilitate, challenge, and track, not to substitute its judgment for theirs.
 
-### Indiscreet Handling
+### Indiscreet Disclosure
 
-Disclosing succession assessments carelessly, creating expectations or damaging relationships. Handle with discretion and sensitivity.
+Telling a candidate they are "the successor" converts a development opportunity into a promise the organization may not keep — and circumstances (a reorganization, a better external hire, the candidate's own stalled growth) routinely break such promises. The disappointed candidate, having been led to expect promotion, often leaves, and the disclosure can also demoralize peers who infer they are out of contention. Conversely, total secrecy starves successors of the development and exposure they need. The balance is deliberate: invest in development and visibility without making outcome commitments, and control who sees the assessment so it informs growth rather than creates entitlement.
 
-### Stale Plan
+### Set-And-Forget Plan
 
-Creating the plan once and not refreshing, so it no longer reflects reality. Revisit and refresh regularly.
+A succession plan built once and filed reflects a frozen moment — the successors have since left, stalled, or been overtaken, the critical roles have shifted with strategy, and the readiness labels are stale. Leadership continues to rely on the document's false assurance until a departure reveals that the "ready now" candidate left the company a year ago. The trap is that a static plan feels like completed work, whereas succession is a continuous assessment that must be refreshed at least annually and whenever major talent or strategy changes occur. A plan older than its last update is not a plan; it is a liability.
 
 ## Self-Check
 

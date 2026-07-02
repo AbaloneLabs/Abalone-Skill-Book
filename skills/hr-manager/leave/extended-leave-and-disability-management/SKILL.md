@@ -89,33 +89,33 @@ Extended leave can end in successful return, return with accommodation, reassign
 
 ## Common Traps
 
-### Exhausting One Protection And Ignoring Others
+### The 12-Week Cliff
 
-Treating the end of medical leave entitlement as the end of all obligations, ignoring disability accommodation or workers compensation protections. Coordinate all protections.
+The employee exhausts their 12 weeks of federal medical leave and is told they must return immediately or face termination. The employer assumes that exhausting the federal entitlement ends all obligations — but the employee may also be covered by state medical leave with additional weeks, by disability law that may require additional leave as an accommodation, and by workers' compensation anti-retaliation protections if the absence is work-related. The trap is that each protection has its own clock, and they do not expire simultaneously: the federal entitlement may end while the state entitlement continues, the accommodation obligation has no fixed duration, and the anti-retaliation protection persists beyond the leave itself. Treating the exhaustion of one protection as the end of all protections is a cascading legal error, because the employee who is terminated at the 12-week cliff may have months of additional protection that the employer never assessed. All applicable protections must be tracked on their own timelines and coordinated, because the most protective standard controls and a single clock cannot represent multiple protections that start, run, and expire independently.
 
-### Pressuring Or Surveilling The Absent Employee
+### Contact That Becomes Pressure
 
-Frequent contact demanding return details or work, making the employee feel pressured or monitored. Maintain appropriate, supportive contact.
+The HR representative calls the absent employee weekly to "check in," but each call includes questions about the return date, the work status, and whether the employee is "feeling ready." The employee, who is recovering from serious illness, begins to dread the calls and feels pressured to return before they are ready, because each check-in carries an implicit message: when are you coming back? The trap is that contact intended as support becomes surveillance when it includes return inquiries, and the frequency that feels appropriate to the employer (weekly) feels relentless to an employee who is sick and has nothing new to report. Contact during extended leave must be about the employee's wellbeing and administrative needs (benefits, paperwork), not about return or work, and the frequency must be agreed upon with the employee, not imposed by the employer. A check-in that asks about return is not a check-in; it is pressure, and pressure on a protected employee is interference.
 
-### Permanently Filling The Role Prematurely
+### The Permanent Replacement That Ends The Role
 
-Hiring a permanent replacement while the employee is protected, appearing as constructive termination. Use temporary coverage.
+The employee has been on extended leave for four months. The work is piling up, the team is struggling, and the manager hires a permanent replacement — posting the job, interviewing, and filling the role — without consulting legal counsel and without considering that the employee may have a right to return to that role. The trap is that the operational pressure to fill the role feels urgent and legitimate (the work is not getting done!) while the legal constraint (the employee may have restoration rights) feels abstract and distant (they have been out for months!). But permanently filling a role while the employee is on protected leave is constructive termination — it signals that there is no role to return to — and it converts a manageable leave situation into a wrongful termination claim. Coverage must be temporary, explicitly temporary, until all protections are exhausted and a defensible decision is made with legal review, because the urgency of the work never overrides the employee's rights, and a permanent replacement made in haste is a lawsuit made in certainty.
 
-### Requiring A Full Unrestricted Release
+### The All-Or-Nothing Release
 
-Demanding a full release when the employee can perform the essential functions with accommodation. Engage the interactive process.
+The employee's doctor provides a return-to-work note with restrictions: light duty for four weeks, then a reassessment. The employer refuses to accept the restricted release and demands full clearance for all duties before allowing return, effectively requiring the employee to be fully recovered before they can work. The trap is that this all-or-nothing approach treats any restriction as disqualifying, when the employee may be able to perform the essential functions with reasonable accommodation — modified duties, a transitional schedule, or assistive equipment. The demand for a full unrestricted release is both a failure to accommodate and potential disability discrimination, because it screens out employees who can work (with accommodation) in favor of a standard (full health) that is not job-related. The interactive process requires assessing what the employee can do, not demanding that they be able to do everything, because a return-to-work process that requires perfect health is a process that excludes the very employees the accommodation framework is designed to protect.
 
-### Terminating Based On Uncertainty
+### Termination Masquerading As Business Necessity
 
-Using uncertain prognosis as a pretext to terminate when return is reasonably foreseeable. Assess carefully and document.
+The employee's prognosis is uncertain — the doctor says recovery could take three more months, or six, or longer. The employer, impatient with the uncertainty, terminates the employee, citing "business necessity" and the need to fill the role. But the employee's return is reasonably foreseeable (the doctor expects recovery, even if the timeline is uncertain), and the termination is based not on a genuine inability to accommodate but on the employer's impatience with ambiguity. The trap is that uncertainty is uncomfortable, and the impulse to resolve it through termination feels like decisive management, but terminating an employee whose return is reasonably foreseeable — even if the date is unknown — is a decision driven by the employer's discomfort, not by the employee's capacity. Uncertain prognosis requires careful assessment, documentation, and typically legal review, because the line between a defensible separation (indefinite leave with no foreseeable return) and an indefensible one (uncertain but foreseeable return) turns on medical evidence the employer must gather and analyze, not on the employer's tolerance for ambiguity.
 
-### Excluding The Employee From Opportunities
+### The Employee Who Disappears From Opportunities
 
-Passing over the absent employee for assignments, promotions, or decisions based on their absence. Prevent retaliation and discrimination.
+The employee goes on extended leave and is quietly removed from the distribution list for project opportunities, the promotion consideration pool, and the team communications. When they return, they find that they have been passed over for a promotion that was announced during their absence, and that they are no longer on the radar for stretch assignments. The trap is that excluding an absent employee from opportunities feels natural (they are not here to take on new work!) but it is retaliation if the exclusion is based on the leave rather than on performance or availability. The employee on leave remains an employee, and decisions about their career — promotions, assignments, development — must be made on the same basis as for any other employee, accounting for their absence but not penalizing them for it. The employee who returns to find their career has stalled in their absence has been retaliated against, and the retaliation is no less real for having occurred through omission (not including them) rather than commission (actively demoting them).
 
-### No Plan For Outcomes
+### Reaching The Decision Point With No Plan
 
-Reaching the point of decision without preparation for return, accommodation, reassignment, or separation. Plan for all outcomes.
+The employee's leave is approaching the point where a decision must be made: return, return with accommodation, reassignment, or separation. But no one has planned for these outcomes. The return-to-work assessment has not been started, potential accommodations have not been identified, vacant positions for reassignment have not been surveyed, and the separation process (if it comes to that) has not been prepared. The decision is made in crisis, under time pressure, with incomplete analysis — and crisis decisions in high-stakes leave cases are the decisions most likely to result in legal liability and employee harm. The trap is that planning for outcomes feels premature when the outcome is uncertain (we do not know if they will return!) but the planning must precede the decision, not follow it, because the window between "decision needed" and "action taken" is the window in which careful analysis occurs, and an organization that reaches the decision point with no plan has forfeited the window and will act on impulse rather than analysis.
 
 ## Self-Check
 

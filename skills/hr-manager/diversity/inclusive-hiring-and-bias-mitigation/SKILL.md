@@ -86,29 +86,29 @@ Inclusive hiring requires ongoing measurement. What works changes as the pipelin
 
 ## Common Traps
 
-### Pipeline Focus Without Evaluation Fairness
+### Diversifying The Pipeline Without Fixing Evaluation
 
-Diversifying sourcing without fixing biased evaluation, so diverse candidates enter but do not advance. Address the entire funnel.
+Sourcing diverse candidates into a hiring funnel whose evaluation stages are biased — unstructured interviews, subjective "culture fit," inconsistent rubrics — produces the appearance of effort while diverse candidates enter the top and are filtered out before the offer. The organization reports increased diverse applicants but unchanged diverse hires, and the diagnosis is misread as a pipeline problem rather than an evaluation problem. Analyze the funnel stage by stage to find where diverse candidates drop out, and recognize that fixing sourcing without fixing evaluation simply moves the point of exclusion further down the funnel, where it is harder to see and easier to deny.
 
 ### Unstructured Interviews And Subjective Impressions
 
-Allowing unstructured interviews where impressions dominate, enabling bias. Use structured interviews with objective criteria.
+An unstructured interview — different questions for each candidate, no scoring rubric, a holistic "gut feel" rating at the end — is the evaluation format most susceptible to bias, because it allows subjective impressions, affinity, and stereotypes to drive the decision without any objective standard to check them against. Two interviewers can have completely different conversations with two candidates and then attribute the different outcomes to merit. Use structured interviews with the same job-related questions for every candidate, defined scoring criteria, and multiple trained interviewers whose independent scores are aggregated, because structure is what makes an interview a selection tool rather than a bias amplifier.
 
 ### Culture Fit As Similarity Bias
 
-Hiring for subjective culture fit that replicates current demographics, excluding difference. Evaluate against defined values.
+Hiring for "culture fit" without defining what the culture is and how it is assessed collapses into hiring people who feel familiar — who went to the same schools, share the same hobbies, remind the interviewer of themselves — which replicates the current demographic and excludes the difference that diverse hiring is meant to introduce. The phrase is seductive because it sounds like a legitimate criterion, but undefined it is a vehicle for similarity bias. Replace "culture fit" with evaluation against defined, job-relevant values and competencies, and test whether the criterion actually predicts performance or merely predicts comfort, because hiring for comfort reproduces the existing workforce.
 
-### Relying On Referrals
+### Over-Reliance On Employee Referrals
 
-Depending primarily on employee referrals, which replicate current demographics. Diversify sourcing channels.
+Employee referral programs are efficient — they produce pre-vetted candidates who tend to stay — but because employees' networks are demographically similar to themselves, a referral-heavy sourcing strategy replicates the current workforce's demographics generation after generation. The trap is that referrals feel meritocratic (someone vouched for them) while systematically excluding groups not already represented. Diversify sourcing channels deliberately, cap or restructure referral dominance, and recognize that a sourcing strategy that relies on existing networks will never produce a workforce that looks different from the current one.
 
-### Training Without System Change
+### Bias Training Without System Change
 
-Providing bias training without changing the hiring systems, expecting awareness alone to fix outcomes. Pair training with structured processes.
+Providing interviewers with unconscious bias training and expecting it, alone, to produce fair outcomes ignores that the interviewers operate within a system — the questions, the rubrics, the calibration, the decision criteria — that structures their behavior. Trained interviewers in an unstructured system still produce biased outcomes, because the system, not the awareness, drives the result. Pair training with system change: structured interviews, defined criteria, diverse panels, blind screening where possible, and monitored scoring patterns, because training people to operate a biased system produces aware people operating a biased system.
 
 ### Ignoring Post-Hire Outcomes
 
-Focusing on hiring diversity without monitoring whether hired candidates succeed and stay, missing retention problems. Track post-hire outcomes.
+Measuring hiring diversity — the percentage of diverse candidates hired — without tracking whether those candidates succeed, advance, and stay at the same rate as others, misses the possibility that the organization hires diverse talent and then loses it through an inhospitable environment, biased advancement, or inequitable pay. A strong hiring diversity number paired with weak retention diversity is a leading indicator that the problem has been relocated, not solved. Track post-hire outcomes — performance ratings, promotion velocity, retention — disaggregated by demographic group, because inclusive hiring that does not produce inclusive retention is a revolving door that wastes the hiring effort and harms the people it appeared to help.
 
 ## Self-Check
 

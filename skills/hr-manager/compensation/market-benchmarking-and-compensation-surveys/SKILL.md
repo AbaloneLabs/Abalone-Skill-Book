@@ -128,37 +128,37 @@ Annual refresh is the minimum. In volatile markets, more frequent review ensures
 
 ## Common Traps
 
-### Wrong Survey Source
+### The Wrong Survey Source
 
-Using a survey that does not match the organization's industry, size, or geography, producing irrelevant data. Select the right sources.
+A survey that covers a different industry, size bracket, or geography than the one in which the organization actually competes for talent produces data that is irrelevant yet presented with full statistical authority. The trap is that "we have survey data" feels like rigor, so no one questions whether the survey's participants are real comparators — and pay decisions get anchored to a market the organization was never in. A manufacturer benchmarking against a tech-heavy survey, or a regional employer against a national one, will systematically misprice roles in ways that are hard to detect until turnover or cost data reveals the mismatch. Survey selection must be driven by where the organization actually loses and wins talent, not by which survey is cheapest or most familiar.
 
 ### Title-Based Matching
 
-Matching by job title rather than content, producing data that does not reflect the actual job. Match by content.
+Matching internal jobs to survey benchmarks by title rather than by job content is the single most common benchmarking error, and it is especially insidious because the titles look right. A "director" at a 200-person company and a "director" at a 20,000-person company may differ by two full levels in scope; a "senior analyst" at one firm may manage a team while at another it is an entry role. Matching by title silently imports the wrong market data, and because the match "looks correct," the error is never caught until a pay decision based on it is challenged. Content-based matching — comparing responsibilities, scope, and required skills against the benchmark job description — is the only defense, and it requires the discipline to admit when no good match exists.
 
-### Not Aging The Data
+### Unaged Data
 
-Using survey data as-is without aging to the effective date, understating current market rates. Apply aging factors correctly.
+Survey data reflects the date it was collected, which may be six to twelve months before publication, and using it as-is understates current market rates by the amount the market has moved in the interim. The trap is that the unaged numbers look precise and authoritative, so no one recognizes they describe a market that no longer exists; pay set against unaged data falls silently behind, and the gap surfaces only when offers are declined or exits accelerate. Conversely, double-aging — applying an aging factor to data the survey already aged — overstates the market and overpays. Correct, consistent aging to a common effective date is a technical step that determines whether the entire benchmarking exercise reflects today's reality or last year's.
 
 ### Undefined Market Position
 
-Benchmarking without a clear competitive target, producing inconsistent pay decisions. Choose a market position deliberately.
+Benchmarking without a deliberate competitive target — lead, match, or lag, expressed as a specific percentile — produces pay decisions that drift based on who is advocating and how loudly. One role gets set at the 75th because a hiring manager is desperate; another lands at the 25th because budget is tight; neither decision is wrong in isolation, but together they create a structure with no coherent market posture. The trap is that the absence of a stated target feels like flexibility, when it is actually abdication: without a benchmark to hold decisions against, there is no way to tell whether the organization is competitive overall or merely competitive for the roles that squeaked loudest. A deliberate, budgeted market position is what makes benchmarking a strategy rather than a series of reactions.
 
 ### Selective Interpretation
 
-Cherry-picking favorable data and dismissing unfavorable data, hiding real gaps. Interpret critically and honestly.
+When the benchmarking process seizes on data that confirms the organization is competitive and quietly sets aside data that shows it is behind, the exercise becomes validation theater — expensive, data-rich, and useless for finding real problems. The trap is driven by incentive: no one wants to bring leadership the news that pay is uncompetitive, so the favorable survey is cited and the unfavorable one is footnoted, until the "competitive" pay structure loses its best people to employers who were using the same data honestly. Critical interpretation — examining the full distribution, cross-checking multiple surveys, and honestly reporting where the organization lags — is what makes benchmarking a diagnostic tool. Selective interpretation converts it into a comfort blanket that hides the gaps it was meant to reveal.
 
-### Base Salary Only
+### Base Salary Tunnel Vision
 
-Benchmarking only base salary, missing the full compensation picture for roles with significant variable or equity components. Benchmark total compensation.
+Benchmarking only base salary, particularly for senior or variable-heavy roles, produces a competitiveness picture that is technically accurate and completely misleading. A base salary at the median is uncompetitive if the bonus target is half the market's, because the candidate evaluates total cash; conversely, a below-median base may be fully competitive once equity and variable pay are included. The trap is that base salary is the easiest data to obtain and the most commonly discussed, so it becomes the proxy for the whole package — and pay decisions made on that proxy either lose candidates who see the full shortfall or overpay because no one accounted for the variable component. Total compensation benchmarking, especially for roles where variable pay is material, is the only way to assess real competitiveness.
 
-### Misusing Survey Data
+### Misuse Of Shared Survey Data
 
-Sharing individual company data or using it for pay coordination, violating terms and potentially law. Maintain confidentiality and ethics.
+Compensation survey data is provided under terms that prohibit sharing individual company data or using it to coordinate pay, and violating those terms — whether through carelessness or through "informal" pay discussions with other employers — undermines the shared resource and, in many jurisdictions, exposes the organization to antitrust liability. The trap is that the data feels like proprietary intelligence once purchased, so it gets shared in presentations or used in conversations where it should not be, and the harm (loss of survey access, legal exposure) is disproportionate to the convenience. Ethical use — honoring minimum reporting requirements, protecting confidentiality, and never using survey data for pay coordination — is both a contractual and a legal obligation, not a courtesy.
 
 ### Stale Benchmarking
 
-Conducting benchmarking once and not refreshing, so pay decisions rely on outdated data. Refresh regularly.
+Conducting a full benchmarking exercise once and then relying on it for years — because the analysis was expensive, because the results were comfortable, or simply because no one scheduled a refresh — means pay decisions are being made against a market that has moved. The trap is that the old data still produces numbers, so it does not feel stale; it feels settled. But in volatile markets, particularly for in-demand skills, a two-year-old benchmark can understate current rates by double digits, and the organization discovers this only when it cannot hire at the "market" rate its own analysis produced. Annual refresh, with off-cycle review for fast-moving roles, is the minimum cadence that keeps benchmarking connected to reality.
 
 ## Self-Check
 

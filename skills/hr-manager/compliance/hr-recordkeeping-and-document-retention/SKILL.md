@@ -90,33 +90,33 @@ Regulators, auditors, and, in litigation, opposing counsel may inspect records. 
 
 ## Common Traps
 
-### Under-Retention
+### Destroying Records Before The Retention Period Expires
 
-Destroying records before the retention period expires, violating law and destroying defense evidence. Retain according to schedule.
+Premature destruction — purging a personnel file at three years when the jurisdiction requires seven, or deleting payroll records after a system migration — does two kinds of damage at once: it violates the retention mandate itself, and it destroys the documentary evidence the company would need to defend a claim that arises within the missing period. In litigation, the absence of records is often read against the party that should have them, so under-retention can convert a winnable defense into a presumption of wrongdoing. Apply the longest applicable retention period where mandates overlap, document the legal basis for each period, and treat the retention schedule as a compliance document subject to legal review rather than a storage-management convenience.
 
-### Indefinite Retention
+### Keeping Records Indefinitely
 
-Keeping records indefinitely, preserving discoverable liability and increasing privacy risk. Destroy on schedule.
+The mirror image of under-retention is equally dangerous: retaining records forever, "just in case," preserves discoverable liability alongside the useful records — an old performance review that contradicts a current position, a stale investigation file, a supervisor's candid email — and expands the data the company must produce and explain in any future dispute. Indefinite retention also accumulates privacy risk, because every retained record is a record that can be breached. Destroy on schedule, document the destruction, and recognize that a defensible, consistently applied destruction practice is itself a legal protection, not just a storage saving.
 
-### Commingling Records With Different Retention
+### Commingling Records With Different Retention Periods
 
-Combining records with different retention periods in ways that prevent individual destruction, forcing all-or-nothing retention. Separate records by retention period.
+When records with different retention periods are stored together in a way that prevents individual destruction — a single PDF containing a medical record (long retention) and a routine correspondence (short retention), or a personnel file that bundles I-9s, medical, and general records — the organization is forced into all-or-nothing retention: either keep everything to the longest period, accumulating liability, or destroy the bundle and risk losing records that should have been retained. Separate records by retention period at the point of creation, maintain medical and investigative records in distinct access-controlled stores, and design the filing structure around the retention schedule rather than around topical convenience.
 
-### Improper Access Controls
+### Improper Access Controls On Sensitive Records
 
-Allowing unauthorized access to personnel or medical records, creating privacy violations. Apply role-based controls.
+Personnel records contain information that should be seen on a need-to-know basis, and medical, investigative, and accommodation records carry heightened protection — yet many organizations store them in shared drives or filing systems accessible to any HR staff member or any manager. The violation is both a privacy breach and a legal exposure, because unauthorized access to medical or accommodation records can itself be the basis of a claim. Apply role-based access controls, segregate medical and investigative records into restricted stores, log access to sensitive files, and audit access periodically, because the duty to protect employee records is independent of the duty to retain them.
 
-### Missing Legal Holds
+### Failing To Suspend Destruction Under A Legal Hold
 
-Failing to suspend destruction when litigation is foreseeable, resulting in destruction of evidence. Issue and track legal holds.
+When litigation is reasonably foreseeable — a charge filed, a demand letter received, a termination likely to be contested — the duty to preserve relevant records is triggered immediately, and continued routine destruction of records that should be held constitutes spoliation, which can result in adverse inference instructions, sanctions, or a lost case regardless of the merits. The failure is usually a gap between the legal team that knows of the dispute and the records function that continues destroying on schedule. Build a legal hold process that is triggered by a defined event, communicated to all custodians, and tracked to confirmation, and suspend destruction for the held records until the hold is formally released.
 
-### Ignoring Email And System Data
+### Treating Only Formal Files As Records
 
-Treating only formal files as records, missing discoverable email and system data. Include all formats in retention.
+Discovery reaches every format in which information exists — email, chat messages, calendar entries, system logs, text messages, spreadsheets on personal drives — yet many retention programs cover only formal personnel files and payroll systems, leaving the bulk of discoverable information unmanaged. The gap means the company cannot produce what it should, retains what it should not, and has no defensible position on the formats that often contain the most consequential evidence. Include all formats in the retention and legal hold framework, define ownership for each system, and recognize that a retention program covering only half the information is not a retention program.
 
-### No Destruction Documentation
+### Destroying Records Without Documentation
 
-Destroying records without documenting what and when, unable to demonstrate compliance. Document destruction.
+Destroying records on schedule is compliant only if the company can prove it happened according to schedule; without a destruction log — what was destroyed, when, under what authority — the company cannot distinguish routine, defensible destruction from improper destruction, and in litigation it may be accused of destroying records selectively. A destruction log converts the destruction practice from a liability into a defense. Document every destruction event with the record type, date range, authority, and method, and maintain the logs themselves as records, because the ability to prove compliant destruction is as important as the destruction itself.
 
 ## Self-Check
 

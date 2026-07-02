@@ -88,33 +88,33 @@ The most effective accessibility assessments involve the people who experience t
 
 ## Common Traps
 
-### Waiting For Accommodation Requests
+### Waiting For Accommodation Requests Instead Of Designing Proactively
 
-Addressing barriers only when an individual requests accommodation, rather than proactively. Assess and design for accessibility.
+Addressing accessibility barriers only when an individual requests accommodation — treating each barrier as a surprise to be handled reactively — perpetuates a cycle where the workplace itself creates barriers that employees must then overcome through the accommodation process, which is more expensive, slower, and more burdensome than building accessibility in from the start, and which signals to employees with disabilities that they are exceptions to be processed rather than people the workplace was designed to include. The trap is that reactive accommodation feels sufficient because each request is handled, but the pattern of recurring requests for the same barriers reveals that the workplace itself is the problem, and each reactive accommodation is a symptom of a design failure that was never fixed. Assess facilities, technology, and processes proactively, design new systems to accessibility standards from the outset, and treat recurring accommodation requests as signals of design failures to fix at the source, because a workplace that requires constant individual accommodation to be usable is a workplace that was never designed for everyone.
 
-### Compliance Over Usability
+### Technical Compliance Without Genuine Usability
 
-Meeting technical standards without ensuring genuine usability, leaving barriers in place. Aim for real accessibility.
+Meeting the letter of accessibility standards — checking off the WCAG criteria, installing the ramp, adding the captioning — while leaving genuine barriers in place that make the workplace difficult or impossible to use in practice, creates a false sense of accessibility that satisfies the audit but fails the user, because technical compliance measures whether a standard was met, not whether a person with a disability can actually use the system. The trap is that the checklist feels thorough and the compliance feels complete, but a screen-reader-compatible page that is still confusing to navigate, or a ramp that meets the grade but is located at the back loading dock, is technically compliant and practically inaccessible. Aim for genuine usability, test with real users who have disabilities, and treat standards as the floor rather than the goal, because compliance that does not produce usability is a defense against audit, not a removal of barriers, and the difference matters to the person who still cannot use the workplace.
 
-### Ignoring Digital Accessibility
+### Neglecting Digital Accessibility While Focusing On Physical
 
-Focusing on physical accessibility while neglecting inaccessible technology, applications, and content. Address digital accessibility.
+Focusing accessibility efforts on physical facilities — ramps, doorways, restrooms — while neglecting the digital tools, applications, and content that employees use every day, leaves the most pervasive barriers unaddressed, because in a modern workplace employees spend more time in software than in physical spaces, and an inaccessible intranet, application, or document is a barrier that blocks work continuously. The trap is that physical accessibility is visible and familiar, so it receives attention, while digital accessibility is invisible until someone cannot use a system, and the neglect is hidden because employees without disabilities do not experience the barriers. Ensure digital accessibility for internal applications, content, and tools, build accessibility into procurement, and test with assistive technologies, because a physically accessible workplace with inaccessible software is accessible only at the door, and the work itself remains behind a digital barrier.
 
-### Procuring Inaccessible Tools
+### Procuring Inaccessible Tools And Inheriting Vendor Barriers
 
-Purchasing software and systems without accessibility requirements, inheriting barriers from vendors. Build accessibility into procurement.
+Purchasing software, systems, and tools without accessibility requirements — inheriting the vendor's accessibility failures and then forcing employees to seek individual accommodation to use tools the organization chose — shifts the cost of the vendor's inaccessibility onto employees with disabilities and creates a stream of accommodation requests that could have been prevented by procurement requirements, because once an inaccessible tool is deployed, retrofitting it is often impossible and the only options are workarounds or replacement. The trap is that accessibility is not on the procurement checklist, so it is not evaluated, and the organization discovers the barriers only after deployment when an employee cannot use the system. Include accessibility requirements in requests for proposals, require vendors to demonstrate compliance and provide documentation, and assess accessibility before purchase, because buying an inaccessible tool and then accommodating around it is paying twice — once for the tool and again for the barriers it creates.
 
-### One-Time Assessment
+### Treating Accessibility As A One-Time Project
 
-Treating accessibility as a one-time project rather than an ongoing practice, allowing barriers to re-emerge. Maintain accessibility over time.
+Conducting an accessibility assessment, fixing the identified barriers, and then treating accessibility as complete — without ongoing maintenance, reassessment, or integration into change management — allows barriers to re-emerge as facilities are renovated, technology is updated, and processes are redesigned, eroding the investment and recreating the conditions the assessment was meant to fix, because accessibility degrades over time when no one is responsible for maintaining it. The trap is that the assessment feels definitive and the fixes feel permanent, but every new software update, office renovation, and process change introduces new barriers if accessibility is not part of the change process. Build accessibility review into change management, reassess when facilities or technology change, assign ongoing accessibility responsibility, and establish a process for employees to report barriers, because accessibility is a practice, not a project, and a one-time assessment without maintenance is a snapshot that becomes stale.
 
-### Designing Without Users
+### Designing Accessibility Without Involving Users With Disabilities
 
-Assessing and designing accessibility without involving users with disabilities, missing real barriers. Involve users.
+Assessing, designing, and testing accessibility without involving the people who actually experience the barriers — relying on checklists, consultants without lived experience, or assumptions about what users need — produces solutions that meet standards but miss real barriers, because the most important accessibility insights come from users with disabilities who encounter barriers that able-bodied assessors do not perceive, and designing without them guarantees that some barriers will be invisible to the design process. The trap is that involving users feels like extra effort and the checklist feels sufficient, but a design that passes every standard and still does not work for real users is a design that failed, and the failure is invisible until a user encounters it. Involve users with disabilities in assessment, design, and testing, treat their feedback as expert input rather than complaint, and compensate them for consultation beyond their role, because accessibility designed without users with disabilities is accessibility designed in the dark, and the barriers it misses are the ones that matter most.
 
-### Process Barriers
+### Leaving Processes Inaccessible While Fixing Facilities And Technology
 
-Making facilities and technology accessible while leaving hiring, training, or management processes inaccessible. Address procedural accessibility.
+Making facilities physically accessible and technology digitally accessible while leaving hiring processes, training, performance management, or communication processes inaccessible — an accessible building with an inaccessible interview process, or accessible software with inaccessible training materials — creates barriers at the process level that prevent full participation even when the physical and digital environment is accessible, because processes govern how work is done and who can do it, and an inaccessible process excludes regardless of the environment. The trap is that process accessibility is less visible than physical or digital accessibility, so it is overlooked, but an application system that screen readers cannot navigate, or a training program delivered only in inaccessible formats, blocks participation as effectively as a staircase. Ensure hiring, training, communication, and performance management processes are accessible, assess processes alongside facilities and technology, and recognize that process barriers are exclusion dressed as procedure, because an accessible workplace with inaccessible processes is accessible in form but not in function.
 
 ## Self-Check
 

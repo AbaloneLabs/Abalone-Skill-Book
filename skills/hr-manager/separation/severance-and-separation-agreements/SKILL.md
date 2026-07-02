@@ -125,37 +125,37 @@ Retention of separation records supports the organization if the agreement or th
 
 ## Common Traps
 
-### Ad-Hoc Severance Without Structure
+### Ad-Hoc Severance Without A Defined Structure
 
-Determining severance individually without a defined philosophy, producing inconsistency and perceived unfairness. Define a clear structure.
+Determining severance individually for each departure without a defined philosophy or calculation structure — negotiating each package from scratch, or letting managers set terms based on relationships or pressure — produces inconsistency that appears arbitrary or discriminatory, because similar departures receive very different packages, and the variation cannot be explained by anything other than who negotiated hardest or who the organization liked most. The trap is that flexibility feels fair because each case is handled individually, but individual handling without a structure is the definition of inconsistency, and inconsistency in severance is the raw material of discrimination claims. Define a clear severance philosophy and structure with a defined calculation, apply it consistently, and document the rationale for any variation, because a severance structure that cannot be explained cannot be defended, and the explanation is the structure.
 
-### Unenforceable Release
+### Unenforceable Release That Provides No Protection
 
-Drafting release language without legal review, failing to meet jurisdictional requirements and providing no protection. Ensure legal soundness.
+Drafting release language without legal review, using a template from another jurisdiction, or failing to meet the specific requirements the law imposes on releases — missing the consideration, the waiting period, the revocation period, or the specific formatting that age discrimination releases require — produces a release that is unenforceable, meaning the organization has paid severance and obtained no protection in return, because a release that does not meet legal requirements is void, and a void release releases nothing. The trap is that a release feels like a release regardless of its legal soundness, so the organization believes it is protected, but an unenforceable release is a piece of paper, and the protection is illusory. Have the release drafted or reviewed by legal counsel for each jurisdiction, ensure adequate consideration and required periods, because the entire purpose of the severance agreement is the release, and a release that fails legal requirements is a payment made for nothing.
 
-### One-Sided Agreement
+### One-Sided Agreement That Generates Resentment And Challenge
 
-Imposing obligations on the employee with minimal benefit or reciprocal commitment, generating resentment and challenge. Balance protection with fairness.
+Imposing obligations on the employee with minimal benefit or reciprocal commitment — demanding non-disparagement, confidentiality, and cooperation while providing token severance and no transition support — generates resentment and increases the likelihood that the agreement is challenged, because an agreement that extracts everything and gives little feels exploitative, and an employee who feels exploited is more likely to litigate, more likely to breach, and more likely to speak negatively regardless of the non-disparagement clause. The trap is that a one-sided agreement maximizes organizational protection on paper, so it feels strong, but strength on paper is weakness in practice, because a resentful departing employee is a litigation risk, not a managed risk. Balance protection with fairness, providing meaningful severance and transition support with reciprocal obligations, because a fair agreement is more likely to be honored and less likely to be challenged, and fairness is the cheapest litigation insurance.
 
-### Overbroad Restrictive Clauses
+### Overbroad Restrictive Clauses That Are Unenforceable
 
-Including non-disparagement, confidentiality, or non-compete clauses that are unenforceable or legally restricted. Handle clauses carefully and legally.
+Including non-disparagement, confidentiality, or non-compete clauses that are unenforceable or legally restricted — non-competes in jurisdictions that have banned them, confidentiality clauses that gag protected whistleblowing, or non-disparagement clauses that violate laws protecting discussion of employment terms — provides no protection and may draw regulatory attention or legal challenge, because courts and agencies are increasingly hostile to overbroad restrictive covenants, and a clause that exceeds what the law allows is void, and a void clause protects nothing. The trap is that including every protective clause feels thorough, so agreements are loaded with restrictions, but overbreadth does not add protection, it subtracts it, because an overbroad agreement signals overreach and invites scrutiny of the entire agreement. Handle clauses carefully and legally, including only what is enforceable, necessary, and narrowly tailored, because a restrictive clause that is unenforceable is worse than no clause, because it provides false confidence while drawing risk.
 
-### Pressure To Sign
+### Pressure To Sign That Risks Invalidation
 
-Presenting the agreement with pressure to sign immediately, risking invalidation and resentment. Manage timing and presentation fairly.
+Presenting the agreement with pressure to sign immediately — demanding a signature in the termination meeting, threatening to withdraw already-earned benefits, or giving inadequate time to review or seek counsel — risks invalidation of the release and generates resentment, because a release signed under duress or without adequate consideration period is vulnerable to challenge, and a release that is challenged on coercion grounds may be voided, stripping the organization of the protection it paid for. The trap is that pressure accelerates the process, so it feels efficient, but efficiency in obtaining a signature is meaningless if the signature is unenforceable, and the time saved in the meeting is lost many times over in litigation. Manage timing and presentation fairly, giving adequate time, encouraging legal counsel, and avoiding pressure, because a release obtained fairly is enforceable, and a release obtained under pressure is a release waiting to be undone.
 
-### Administrative Errors
+### Administrative Errors In Severance Payment And Benefits
 
-Mishandling severance payments, benefits, or tax treatment, creating harm and liability. Administer correctly.
+Mishandling severance payments, benefits continuation, or tax treatment — late payments, incorrect tax withholding, missed COBRA notifications, or errors in unused PTO payout — creates financial harm to the departing employee and legal liability for the organization, because severance, final pay, and benefits have strict legal requirements, and an error in administration generates a claim independent of the separation's underlying merits, meaning a well-justified termination can produce liability because the severance check was late. The trap is that administration feels like logistics, so it is handled casually, but severance administration errors are independent causes of action, and the departing employee who was treated fairly in the meeting becomes a plaintiff because the check was wrong. Administer severance, benefits, and tax treatment correctly and transparently, because an administrative error converts a managed departure into a legal claim, and the error is entirely avoidable.
 
-### No Documentation
+### No Documentation Leaving The Separation Indefensible
 
-Failing to document the agreement, payments, and process, leaving no record if challenged. Document and retain records.
+Failing to document the agreement, payments, compliance with waiting and revocation periods, and the communications — relying on the participants' memory of what was agreed and provided — leaves the organization with no defense if the separation or the agreement is challenged, because memories fade, participants leave, and a separation without documentation is a separation without a record, and without a record the organization cannot prove what it provided or that it complied with legal requirements. The trap is that documentation feels like bureaucracy, so it is deferred or skipped, but the separation agreement is only as good as the evidence that it was executed correctly, and without documentation the agreement's protection is unprovable. Document and retain the signed agreement, payment schedule, compliance confirmations, and communications, because the documentation is the defense, and a separation that is not documented is a separation that cannot be defended.
 
-### Inconsistent Reference Practices
+### Inconsistent Reference Practices That Risk Defamation Or Retaliation
 
-Providing different references for different departing employees without a consistent policy, risking defamation or retaliation claims. Establish clear reference practices.
+Providing different references for different departing employees without a consistent policy — giving detailed positive references for favored employees and neutral or negative references for others, or letting managers say whatever they want — risks defamation claims (if a reference is false or misleading), retaliation claims (if a negative reference follows protected activity), and inconsistency that undermines the organization's credibility, because reference practices that vary by employee cannot be explained by anything other than favoritism or retaliation, and a reference that harms a former employee's prospects is actionable. The trap is that references feel like individual courtesy, so they are handled ad hoc, but references are organizational communications with legal consequences, and inconsistency is the evidence of improper motive. Establish clear, consistent reference practices — whether neutral references, confirmation of employment, or a defined detailed reference process — applied uniformly, because a reference policy that varies by employee is a policy that invites claims, and consistency is the defense.
 
 ## Self-Check
 

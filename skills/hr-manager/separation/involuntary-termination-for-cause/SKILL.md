@@ -129,37 +129,37 @@ Legal review does not prevent justified terminations. It ensures that the decisi
 
 ## Common Traps
 
-### Vague Or Undocumented Grounds
+### Terminating On Impression Or "Fit" Without Documented Grounds
 
-Terminating based on impression or "fit" without specific, documented grounds, leaving the decision indefensible. Establish and document sufficient grounds.
+Terminating based on a manager's subjective sense that the employee is "not a fit" or "not working out," without specific policy violations, documented performance failures, or articulable misconduct, leaves the organization unable to explain the decision in a way that survives scrutiny, because "I never liked how they worked" is not a ground for termination and a decision that cannot be articulated cannot be defended. The trap is that the impression feels accurate to the manager who holds it, but impressions are not evidence, and a termination built on impression rather than documentation is exposed the moment it is challenged, particularly if the employee is in a protected class or recently engaged in protected activity. Establish specific, documented grounds before terminating — identify the policy violation or performance failure, gather the evidence, and verify that the grounds meet the organization's stated criteria — because a termination that cannot be explained with evidence is a termination that cannot be defended, and the absence of documentation is itself evidence that the decision was not well-founded.
 
-### No Due Process
+### Terminating Without Due Process
 
-Terminating without giving the employee an opportunity to respond, producing unfair and vulnerable decisions. Ensure due process.
+Terminating without informing the employee of the concerns and giving them a genuine opportunity to respond — treating the decision as final before the employee has been heard — produces a decision that is both unfair and legally vulnerable, because due process is the mechanism that surfaces mitigating context, exonerating information, or explanation that could change the outcome, and a decision made without the employee's perspective is a decision made with incomplete information. The trap is that the manager is confident the grounds are sufficient, so the employee's response feels unnecessary, but due process is not about the manager's confidence — it is about the fairness and defensibility of the process, and a termination that bypassed the employee's right to respond is vulnerable regardless of the underlying merits. Inform the employee of the specific concerns before finalizing the decision, provide a genuine opportunity to respond, and document the consideration given to the response, because due process is the difference between a defensible termination and an arbitrary one, and the employee's response may reveal information that changes everything.
 
-### Inconsistent Application
+### Inconsistent Discipline That Appears Discriminatory
 
-Terminating one employee for conduct that others received lesser discipline for, appearing discriminatory. Check for consistency.
+Terminating one employee for conduct that others received lesser discipline for — a warning, a suspension, or no action — without a legitimate explanation for the disparity, creates an inference of discrimination or retaliation that is often more powerful than the underlying conduct, because the comparison shows that the stated ground is applied selectively, and selective application suggests the real reason is something other than the stated ground. The trap is that each case feels unique to the manager handling it, so the inconsistency is not noticed, but the pattern is visible in the records, and a terminated employee who can point to a comparator who received lesser discipline for the same conduct has a strong claim. Review how similar cases were handled, ensure consistency or document the legitimate reasons for any difference, and be alert to patterns where termination falls disproportionately on protected groups, because inconsistency is the evidence that converts a justified termination into a discrimination claim, and the comparator is always in the records.
 
-### Unprepared Meeting
+### Conducting The Termination Meeting Without Preparation
 
-Conducting the termination meeting without planning, witnesses, or prepared logistics, creating confusion and conflict. Prepare thoroughly.
+Conducting the termination meeting without planning what will be said, arranging a witness, preparing the logistics, or anticipating reactions — winging one of the highest-risk conversations a manager will have — creates confusion, conflict, and vulnerability, because an unprepared meeting drifts into argument, reveals unprepared logistics, or communicates the decision so poorly that it generates a dispute that a clear meeting would have avoided. The trap is that the manager wants to get it over with, so preparation is minimized, but the termination meeting is the moment the decision becomes real to the employee, and a poorly conducted meeting converts a defensible decision into a personal grievance. Plan the messaging in clear, direct language, arrange for a witness, prepare all logistics in advance, anticipate reactions, and keep the meeting brief and focused, because the termination meeting is not the place for improvisation, and a meeting that becomes argumentative or reveals unprepared logistics undermines the dignity and defensibility of the entire process.
 
-### Evasive Communication
+### Evasive Or Falsely Kind Communication That Invites Debate
 
-Being indirect or falsely kind in the meeting, creating confusion and inviting debate. Communicate clearly and with dignity.
+Communicating the termination evasively — "well, things haven't been going great, and we've been thinking..." — or with false kindness that obscures the decision, creates confusion about whether the decision is final, invites negotiation or debate, and leaves the employee uncertain about what just happened, because evasion feels kinder but it transfers the burden of clarity to the employee and extends a conversation that should be brief and definitive. The trap is that directness feels harsh, so the manager softens and hedges, but hedging communicates that the decision is negotiable, and a meeting that should have taken ten minutes becomes a forty-minute argument. State the decision clearly at the beginning, be direct about the reason without unnecessary harshness, and do not allow the meeting to become a re-litigation of the decision, because false kindness is cruelty disguised as compassion, and a clear, respectful delivery is both kinder and more defensible than evasion that leaves the employee confused and arguing.
 
-### Mishandled Logistics
+### Mishandled Logistics That Add Distress And Legal Risk
 
-Failing to handle final pay, benefits, or property correctly, adding distress and legal risk. Handle logistics professionally.
+Failing to handle final pay, benefits continuation, property return, or system access correctly — discovering during the meeting that final pay was not prepared, or cutting off access in a way that prevents the employee from retrieving personal files — adds distress to an already difficult moment and creates legal liability, because final pay and benefits have strict legal requirements, and mishandling them generates claims independent of the termination's underlying merits. The trap is that logistics are treated as afterthoughts, so they are discovered during or after the meeting, but the employee who is terminated and then told their final pay will be late, or who loses access to personal files, has a concrete grievance that is easy to prove. Prepare all logistics in advance — final pay according to legal requirements, benefits information, property return, and system access — and handle them with compassion as well as correctness, because the way logistics are handled is observed by the employee and by remaining colleagues, and a termination that is justified but logistically botched still produces harm and liability.
 
-### Poor Documentation
+### No Documentation Leaving The Decision Indefensible
 
-Terminating without documenting grounds, process, and communication, leaving no defense if challenged. Document thoroughly.
+Terminating without documenting the grounds, the due process, the consistency check, the meeting, and the logistics — relying on the participants' memories of what happened — leaves the organization with no defense if the termination is challenged months or years later, because memories fade, participants leave, and a termination without documentation is a termination without a record, and without a record the organization cannot show that the decision was justified or the process was fair. The trap is that the documentation feels unnecessary at the time, when the rationale is clear and the participants remember everything, but by the time a claim is filed, the clarity is gone and the documentation is the only evidence. Document the grounds with supporting evidence, the due process and the employee's response, the consistency check, the meeting details, and all logistics, prepared factually and professionally, because the documentation is the defense, and a justified termination without documentation is a justified termination that cannot be proven.
 
-### No Legal Review For High-Risk Cases
+### Proceeding With High-Risk Terminations Without Legal Review
 
-Proceeding with high-risk terminations without legal review, increasing vulnerability. Seek legal review where risk is elevated.
+Proceeding with terminations involving protected activity, protected leave, protected classes, or potential pretext claims without legal counsel review — treating all terminations the same regardless of risk — exposes the organization to the highest-stakes claims, because these terminations involve complex legal standards and the highest likelihood of litigation, and an error in analysis or process in a high-risk case is far more costly than the same error in a routine case. The trap is that legal review feels like delay and expense, and the manager wants to act quickly, but the cost of counsel review is trivial compared to the cost of a wrongful termination claim that succeeds because a high-risk termination was handled without legal input. Seek legal review before any termination involving recent complaints, protected leave, potential pretext, or precedent-setting circumstances, because the purpose of review is not to prevent justified terminations but to ensure they are executed defensibly, and a high-risk termination without review is a gamble with the organization's resources and reputation.
 
 ## Self-Check
 

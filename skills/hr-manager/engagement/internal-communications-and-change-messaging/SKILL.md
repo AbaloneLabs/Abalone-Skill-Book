@@ -94,31 +94,31 @@ Communication that is not measured cannot be improved. Measure whether employees
 
 ### Announcement-Only Communication
 
-Broadcasting decisions without context, feedback, or engagement. Treat communication as engagement.
+When leadership broadcasts a finished decision — "We are reorganizing into three divisions, effective Monday" — without context, rationale, or any channel for employees to ask "why?" or "what does this mean for me?", the message lands as an edict. Employees comply outwardly but disengage inwardly, because they were informed of a change rather than brought into it. The communication feels complete to the sender (the announcement was made) but failed for the receiver (understanding and commitment were never built). The trap is measuring communication by what was sent rather than by what was understood; a perfectly crafted email that no one absorbed or acted on is a communication failure, not a success.
 
 ### Waiting For Full Certainty
 
-Delaying communication until everything is decided, allowing rumor to fill the gap. Communicate early with what is known.
+Leadership often waits until every detail of a change is finalized before communicating, believing that partial information is worse than no information. But the silence is not empty — it is immediately filled by rumor, speculation, and worst-case assumptions that spread through informal channels faster than any official message can correct them. By the time the polished, complete announcement arrives, employees have already formed their interpretation, often a more frightening one than reality, and the official message is received with suspicion rather than relief. Communicating early with "here is what we know, here is what we don't yet know, and here is when we'll tell you more" is uncomfortable but far less damaging than letting the rumor mill define the narrative.
 
 ### Channel Gaps
 
-Reaching some segments but missing others, particularly deskless or remote employees. Use multiple channels.
+An organization that announces a major policy change via an all-staff email and an intranet post has reached its desk-based, headquarters workforce — and has entirely missed the warehouse team without company email, the field technicians who check the intret once a month, and the night shift that was asleep when the email landed. The communication is "complete" by the sender's metric (it was sent to everyone) but failed for a segment that never received it, and that segment learns about the change secondhand, days late, from a source that may distort it. Deskless and remote workers are the most common casualties; reaching them requires deliberate channel planning, not a default to whatever is easiest for headquarters.
 
 ### Unprepared Managers
 
-Surprising managers with announcements, leaving them unable to answer questions. Brief managers first.
+When a major announcement goes out and employees immediately ask their manager "what does this mean for my job?", a manager who learned about the change from the same email five minutes ago cannot answer. The manager either guesses (spreading misinformation), deflects ("I don't know, ask HR"), or admits they were not consulted (undermining confidence in the change). Employees read an uninformed manager not as a communication failure but as evidence that the organization does not respect them or their manager enough to prepare them. Briefing managers before the broader announcement — giving them talking points, anticipated questions, and honest answers — is not a courtesy to managers; it is the mechanism by which the cascade actually works.
 
 ### Spin On Bad News
 
-Presenting difficult news as positive, destroying credibility. Be honest.
+When a layoff is described as "right-sizing for growth" or a pay freeze as "investing in our future," employees hear the news and the dishonesty simultaneously. The euphemism does not soften the blow; it adds a second injury — the insult of being treated as someone who cannot handle the truth. Once employees detect spin, they recalibrate all future communications: every announcement is now read for what is being hidden, not for what is being said. Credibility, once spent on spin, is expensive to rebuild, and the organization will need that credibility for the next difficult message. Honesty about bad news is painful in the moment but preserves the trust needed for everything that follows.
 
 ### Outrunning Delivery
 
-Communicating intentions or changes that the organization cannot deliver, creating broken promises. Match communication to reality.
+When leadership announces a new benefit, a system upgrade, or a process change that the organization is not yet operationally ready to deliver, the announcement creates an expectation that the delivery then fails to meet. Employees experience the gap as a broken promise, and the next announcement — even one the organization can deliver — is received with skepticism. The trap is using communication to create momentum or goodwill that the organization's execution cannot sustain; the high from the announcement is borrowed against the credibility lost when delivery falls short. Communication should describe what is real or imminently real, not what leadership wishes were real.
 
 ### Mismatched Tone
 
-Using cheerful corporate language for serious matters, or email for sensitive news. Match tone and channel to the message.
+A cheerful all-staff email announcing a reorganization that eliminates roles, or a terse email informing employees of a colleague's death, communicates disrespect regardless of the words used. Tone signals how seriously the organization takes the message and how much it respects the audience's emotional state. A mismatch — corporate cheerfulness over painful news, or cold formality over a human moment — is read as evidence that leadership is out of touch or indifferent. Matching tone to message is not about being polished; it is about demonstrating that the organization understands the weight of what it is saying.
 
 ## Self-Check
 

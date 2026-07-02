@@ -89,33 +89,33 @@ Wage and hour compliance drifts over time as job duties change, practices evolve
 
 ## Common Traps
 
-### Classification By Title
+### Classifying By Title Or Salary Instead Of Actual Duties
 
-Treating job titles or salary as determinative of exemption, without analyzing actual duties. Analyze duties.
+Exempt status is determined by what an employee actually does, not by the job title on the offer letter or the salary level, yet many classifications are inherited from a title chosen for recruiting appeal or a salary set to match a budget. A "manager" who does not supervise two or more employees, an "analyst" whose duties are routine and manual, or an "administrator" who exercises no independent judgment are non-exempt regardless of their label, and the resulting misclassification can generate years of unpaid overtime across an entire class of similarly titled employees. Classify by documented duties analysis against the specific exemption test for the jurisdiction, and re-examine the analysis whenever the role substantively changes, because the title is a marketing decision and the exemption is a legal one.
 
 ### Off-The-Clock Work
 
-Permitting or requiring work before clock-in, after clock-out, or during unpaid breaks. Pay for all hours worked.
+When non-exempt employees work before clocking in, after clocking out, during unpaid breaks, or through tasks routed to their personal devices outside hours, that time is compensable, and the employer is liable for it whether or not it was authorized. The work is often invisible — a manager's text at 9pm, a pre-shift setup that "doesn't count," a quick email check from home — and the liability accumulates silently until a single complaint or audit surfaces the pattern across the whole workforce. Pay for all hours worked, prohibit and structurally prevent off-the-clock work, and train managers that asking an hourly employee to do "just one quick thing" off the clock is a wage violation, not a favor.
 
-### Incorrect Overtime Rate
+### Miscalculating The Regular Rate For Overtime
 
-Calculating overtime on base rate alone, excluding non-discretionary bonuses and differentials from the regular rate. Use the correct regular rate.
+Overtime is not 1.5 times the base hourly rate; it is 1.5 times the regular rate, which includes non-discretionary bonuses, shift differentials, commissions, and certain incentive pay that the employee earns as part of the normal compensation. Calculating overtime on base rate alone underpays every overtime hour, and the error compounds across the workforce and across years, producing a back-pay exposure that can dwarf the original miscalculation. Include all remuneration for hours worked in the regular rate, recalculate when retroactive adjustments or bonuses are paid, and audit the overtime calculation methodology against the legal definition rather than the payroll system's default.
 
 ### Break Violations
 
-Deducting for breaks not taken or worked through, or failing to ensure breaks where required. Manage breaks lawfully.
+Meal and rest break rules vary by jurisdiction, but the common failure pattern is the same: the policy grants the break, but the operation does not protect it — employees are interrupted, called back, or pressured to skip, and then the break is deducted as if it were duty-free. A deducted or shortened break that was actually worked through is uncompensated time, and a pattern of missed breaks can become a class claim. Ensure breaks are duty-free and uninterrupted, prohibit and detect working through them, and do not deduct for breaks that were not genuinely taken, because a break policy that the operation routinely violates is both a wage violation and evidence of it.
 
-### Stale Classifications
+### Stale Exempt Classifications
 
-Failing to reassess exempt classifications as job duties change over time. Audit periodically.
+A role that qualified for exempt status when it was created may lose that qualification as duties shift over time — a manager who loses direct reports after a reorg, a professional whose work becomes routinized, an administrator whose discretion is removed by a new process. The classification, once approved, is rarely revisited, so it ages into inaccuracy silently, and the misclassification exposure accrues from the date the duties changed, not the date someone notices. Audit exempt classifications on a fixed cadence and after every reorganization, because the legal question is what the employee does today, not what the role description said three years ago.
 
 ### Improper Deductions
 
-Making deductions that destroy exempt status or that violate wage law. Limit deductions to those authorized.
+Certain deductions — from exempt employees' salary for partial-day absences, from any employee's wages for breakage, shortages, or uniform costs beyond legal limits — can destroy exempt status (converting the entire class to non-exempt with full overtime exposure) or constitute an independent wage violation. The deductions often seem reasonable in isolation but carry consequences disproportionate to the amount, because the wage laws treat them as systemic. Limit deductions to those expressly authorized by law or by written employee consent, never deduct from exempt salary in a way that implicates the salary basis, and treat any novel deduction as a legal question rather than a payroll configuration.
 
-### Pay Statement Non-Compliance
+### Pay Statement And Wage Notice Non-Compliance
 
-Omitting required information from pay statements, generating per-statement penalties. Audit pay statements.
+Many jurisdictions require specific information on every pay statement — gross and net wages, hours, pay period, rates, deductions — and on initial wage notices, and impose per-statement or per-employee penalties for omissions that are independent of whether the wages themselves were correct. A pay statement that is missing a required field generates a penalty on every pay period for every affected employee, turning a formatting gap into a mass liability. Audit pay statements and wage notices against each jurisdiction's itemization requirements, and treat statement compliance as a payroll-system configuration issue that must be re-verified whenever the system, the jurisdiction, or the law changes.
 
 ## Self-Check
 

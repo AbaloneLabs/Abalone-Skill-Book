@@ -126,35 +126,35 @@ A living structure, reviewed and adjusted, maintains its integrity and usefulnes
 
 ### Arbitrary Job Ranking
 
-Placing jobs into bands based on title, history, or influence rather than consistent evaluation criteria, producing indefensible pay differences. Ground in job evaluation.
+When jobs land in pay bands based on title, historical precedent, or the political clout of a function rather than a consistent evaluation of skills, responsibilities, effort, and working conditions, the resulting pay differences have no defensible logic. The trap is invisible while everyone is satisfied, but the moment an employee, an auditor, or a plaintiff's attorney asks why one role is paid 20% more than another of equal scope, the organization cannot explain it — and patterns of arbitrary ranking frequently correlate with protected characteristics, converting a design flaw into a discrimination exposure. A consistent, documented job evaluation methodology is what makes the structure defensible; without it, the structure is a collection of negotiated outcomes dressed up as a system.
 
 ### Stale Or Mismatched Market Data
 
-Using outdated survey data or inaccurate job matches, producing a structure that looks data-driven but is wrong. Anchor to current, accurate market data.
+Anchoring pay levels to survey data that is years old, drawn from the wrong industry or geography, or matched to the wrong benchmark job produces a structure that looks rigorously data-driven and is precisely wrong. The danger is that the veneer of methodology suppresses scrutiny: leadership trusts the numbers because they came from a survey, never realizing the survey covers a different labor market or that the "senior analyst" benchmark was matched to an internal role two levels off. Pay then drifts silently from the real market until exit interviews reveal that the organization has been uncompetitive for years. Accurate benchmarking requires current data, content-based job matching, and the intellectual honesty to recognize when no good match exists.
 
-### Bands Too Narrow Or Too Wide
+### Bands That Defeat Their Purpose
 
-Narrow bands that cannot accommodate legitimate pay variation, or wide bands that obscure inequities. Design band width deliberately.
+Bands set too narrow cannot accommodate legitimate pay variation within a level — differences in experience, performance, or critical skills — so every exceptional case requires an out-of-band exception that erodes the framework's authority. Bands set too wide solve that problem by making the band meaningless: a 100% spread allows two people doing the same job to be paid vastly different amounts with no structural check, recreating exactly the arbitrary pay differences the structure was meant to prevent. Both failures feel like reasonable design choices in isolation; their damage emerges only over time as the structure either rigidly blocks needed flexibility or loosely permits inequity to accumulate. Band width must be a deliberate balance tied to the organization's actual variation in role scope and performer contribution.
 
-### Ignoring Geography
+### Geography Treated As Uniform
 
-Applying one pay level regardless of location, overpaying or underpaying by geography. Handle differentials explicitly.
+Applying a single national pay level regardless of location either overpays in low-cost markets (wasting budget and creating internal inequity) or underpays in high-cost markets (making attraction and retention impossible there). The trap is especially acute with remote work, where an employee's location may differ from the office, and ad-hoc decisions about "location-based pay" made case by case quickly appear arbitrary or discriminatory. Without a defined methodology — cost of labor zones, transparent differentials, and a clear rule for remote workers — geographic pay becomes a series of individual negotiations that undermine the structure's consistency and breed resentment when discovered.
 
 ### Single-Track Structure
 
-Designing a structure that only rewards management progression, forcing technical experts into management. Accommodate dual career paths.
+A structure whose highest pay levels are reachable only through management forces every ambitious contributor onto a management track, including those who lack the interest or aptitude to lead people. The organization loses a strong individual contributor and gains a weak manager, and the contributor, blocked from advancing without leaving their craft, eventually leaves for an employer with a dual ladder. The trap persists because management progression is the traditional model and building a parallel technical track feels like extra work, but the cost — misfit managers and departed experts — is far higher than the design effort. Dual career paths, where technical roles reach pay comparable to management of similar value, are what allow a structure to retain its best contributors.
 
-### Opaque Structure
+### The Opaque Structure
 
-Keeping the structure and its logic hidden, breeding suspicion and perceived unfairness. Communicate the logic.
+A salary structure whose logic is hidden from employees breeds suspicion even when the design is sound, because unexplained pay differences are assumed to be unfair ones. The trap is that opacity feels safer — if employees cannot see the bands, they cannot challenge them — but the opposite is true: employees who do not understand the framework cannot see their own progression path, cannot trust that differences are principled, and fill the information vacuum with worst-case assumptions. Transparency does not require publishing every individual's pay; it requires that the framework, its logic, and the employee's position within it are understandable. A structure no one can explain cannot be defended, internally or externally.
 
-### Never Reviewed
+### The Set-And-Forget Structure
 
-Creating the structure once and never updating it, so it drifts from market and equity. Review and adjust periodically.
+A structure designed once and never refreshed drifts from the market as pay moves, and drifts from internal equity as jobs evolve, until the numbers on the spreadsheet bear no relationship to what it actually takes to attract or retain someone. The trap is that the structure still "works" administratively — it still produces a pay range for every job — so its staleness is invisible until a critical role cannot be filled or a pay equity audit reveals systematic drift. Annual market refresh and periodic re-evaluation of job content are what keep a structure alive; without them, the organization is managing pay against a snapshot of a market that no longer exists.
 
 ### Compression From Ad-Hoc Adjustments
 
-Making individual pay adjustments outside the structure, creating compression that undermines the framework. Manage pay through the structure.
+When managers make individual pay adjustments outside the structure — to close an offer, to counter an external offer, to quiet a complaint — those exceptions accumulate into compression, where new hires or recently-negotiated employees earn as much as or more than experienced performers in the same role. The trap is that each individual exception feels justified and urgent, so no one sees the pattern forming, until long-tenured employees discover the inversion and conclude that loyalty and performance are not rewarded. Compression is a structural failure masquerading as a series of reasonable decisions; managing pay through the structure, with deliberate equity adjustments rather than reactive ones, is what prevents it.
 
 ## Self-Check
 

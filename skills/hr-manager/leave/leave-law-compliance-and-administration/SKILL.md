@@ -91,33 +91,33 @@ Leave compliance drifts over time as laws change, administrators turn over, and 
 
 ## Common Traps
 
-### Applying Only Federal Law
+### The Federal-Only Mindset
 
-Operating under federal medical leave and ignoring more protective state and local laws. Apply all applicable laws.
+The organization operates under the federal medical leave law (12 weeks unpaid, 50+ employees) and treats this as the complete picture, ignoring the fact that the employee in California is also covered by a state law with different eligibility (5+ employees), that the employee in New York has paid family leave insurance, and that the employee in Chicago has a city paid sick leave ordinance. The trap is that federal law is the floor, not the ceiling, and the most protective law always controls — yet administrators default to the federal standard because it is the one they learned, the one in the handbook, and the one the HRIS was configured to track. An employee denied state-protected leave because the administrator checked only federal eligibility has a valid claim under the state law, and the defense ("we followed FMLA") is no defense at all. The leave landscape must be mapped by where each employee works, and the system must apply the most protective law, because operating from the federal floor alone leaves every state-specific protection unadministered.
 
-### Failing To Integrate Overlapping Entitlements
+### Parallel Tracks That Never Intersect
 
-Administering each leave law separately without coordination, resulting in gaps or conflicting actions. Apply the most protective law.
+Each leave law is administered in its own silo: the FMLA administrator tracks the 12-week entitlement, the state paid family leave administrator tracks the wage replacement, and the paid sick leave administrator tracks the accrual — but no one integrates them. The employee takes 12 weeks and is told they have exhausted their leave, when in fact the state law provides additional weeks, or the paid sick leave provides intermittent coverage the employee was never told about. The trap is that administering each law correctly in isolation still produces incorrect outcomes, because the laws interact: the employee is entitled to the most protective combination of provisions, not to each law's minimum applied sequentially. Integration requires a single decision-maker who sees all applicable laws for each absence and applies the most protective combination — a structure that most organizations lack because the laws were adopted at different times, by different administrators, using different systems.
 
-### Dispersed, Untrained Leave Administration
+### Leave Administration Scattered To Untrained Managers
 
-Leaving leave administration to untrained managers who do not know the laws. Centralize and train.
+A manager receives a leave request from an employee undergoing cancer treatment and, having never been trained on leave law, asks for a diagnosis, denies intermittent leave because "we need you here full days," and counts the absences against the employee's attendance record. Each of these actions is a violation, but the manager does not know that, because leave administration was left to the people closest to the work rather than centralized in a trained team. The trap is that managers are the first point of contact for leave requests, and if they are not trained to recognize a leave trigger, route it to specialists, and refrain from actions that constitute interference, they will violate the law before HR ever sees the case. Centralizing leave administration in a trained team — and training managers to do nothing more than recognize and refer — is not bureaucratic overhead; it is the structural change that prevents the most common and most damaging leave violations, which occur at the manager level before any specialist is involved.
 
-### Missing Eligibility Or Designation Notices
+### The Notice That Never Went Out
 
-Failing to provide the required notices within the required timeframes. Build notice processes into the system.
+The employee requests leave. The employer determines eligibility and designates the leave — but never sends the required eligibility notice or designation notice, because the administrator was busy, the form was not on hand, or the system did not generate it automatically. Months later, the employee claims they did not know their leave was designated against their entitlement, or that they were not informed of their rights, and the employer has no documentation to prove otherwise. The trap is that notices are the employer's primary evidence of compliance, and their absence shifts the burden of proof in disputes — in some jurisdictions, the failure to provide timely notice means the employer cannot challenge the employee's account of what was communicated. Notices are not paperwork; they are the legal record that the employer administered the leave correctly, and a leave administered without notices is a leave the employer cannot prove it administered at all.
 
-### Ignoring State Wage Replacement Programs
+### State Wage Replacement Treated As Optional
 
-Failing to coordinate employer leave with state paid family leave or disability insurance. Integrate the programs.
+The employer offers its own paid parental leave and tells employees to use that, never mentioning that the state operates a paid family leave insurance program that the employee has been paying into through payroll deductions. The employee receives the employer benefit but not the state benefit they are entitled to, losing thousands of dollars in wage replacement. The trap is that state programs are employee-funded (through payroll deductions) and employee-claimed (through the state agency), so the employer's role is to inform and coordinate, not to substitute — but employers that offer their own paid leave often treat the state program as irrelevant, either from ignorance or from a mistaken belief that their benefit replaces the state obligation. The employee is entitled to both, coordinated to maximize total replacement, and failing to inform employees of state programs they have paid into is both a financial harm to the employee and a compliance failure.
 
-### Overlooking Pregnancy And Domestic Violence Leave
+### Pregnancy And Domestic Violence Leave As Afterthought
 
-Missing the specific protections for pregnancy accommodation and domestic violence leave. Train administrators.
+The leave system handles general medical leave competently but has no specific process for pregnancy accommodation (which may require modified duty, not leave) or domestic violence leave (which requires confidentiality that general leave does not). A pregnant employee who needs additional breaks is told to take medical leave instead; a domestic violence victim who needs time for a court appearance has their leave recorded in a system their abuser-colleague can see. The trap is that these protections are specific, recent, and different from general leave — they require accommodations rather than absences, confidentiality rather than documentation — and a leave system designed around the general case will systematically mishandle them. Pregnancy accommodation and domestic violence leave must be built into the leave system as distinct processes with their own rules, not retrofitted as exceptions to a general framework that was never designed for them.
 
-### Stale Posters And Forms
+### The Poster That Was Current In 2019
 
-Using outdated posters, notices, or forms that do not reflect current law. Keep materials current.
+The workplace displays the required leave law posters — from three years ago. The law has been amended, the poster has been updated, and the old poster no longer satisfies the posting requirement, but no one noticed because posting compliance was a one-time task that was never assigned an owner. The trap is that posting and notice requirements are ongoing obligations that change as laws change, and a poster that was compliant when hung becomes noncompliant silently — there is no alert, no expiration date on the wall, just a legal requirement that is no longer met. The organization learns of the gap during an audit or a complaint, when the defense ("we had a poster up") fails because the poster was outdated. Posting compliance requires a recurring review process tied to legislative updates, not a one-time installation, because a stale poster is legally equivalent to no poster at all.
 
 ## Self-Check
 

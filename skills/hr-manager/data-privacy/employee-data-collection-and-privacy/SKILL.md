@@ -104,33 +104,33 @@ Background checks, credit checks, and sensitive inquiries during hiring or emplo
 
 ## Common Traps
 
-### Over-Collection
+### Collecting "In Case It's Useful"
 
-Collecting data because it might be useful, without a specific purpose, increasing breach liability. Minimize data.
+The HRIS intake form asks for everything: emergency contacts, dependents, medical conditions, marital status, social media handles, previous addresses. Most of this data has no current purpose — it is collected because the form always asked for it, or because someone thought it might be useful someday. Each unnecessary data element is pure liability: it must be secured, retained on a schedule, produced in subject access requests, and exposed in a breach, all for zero business value. The trap is that over-collection feels diligent (we are thorough!) when it is actually negligent — you are accumulating risk without benefit. Data minimization is not about collecting less; it is about being able to justify every field against a specific purpose, and removing what you cannot.
 
-### Commingling Sensitive Data
+### Sensitive Data Filed Where Everyone Can See It
 
-Storing medical, biometric, or financial data with general personnel data, exposing it to broader access. Separate sensitive data.
+A manager emails HR about an employee's medical accommodation, and the response lands in the general personnel file, accessible to anyone with file-room or system access. A doctor's note goes into the same cabinet as performance reviews. The employee's HIV status, disclosed to the benefits administrator for insurance purposes, ends up in a spreadsheet that a junior HR coordinator can open. The trap is that commingling sensitive data with general personnel records is the path of least resistance — it is easier to file everything together than to maintain separate systems — so it happens by default unless there are explicit controls requiring separation. The exposure is severe: a discrimination claim can use the fact that decision-makers had access to medical information to infer that the information influenced the decision, even if it did not.
 
-### Inadequate Vendor Oversight
+### The Vendor That Becomes A Data Risk
 
-Sharing data with vendors without due diligence or agreements, losing control of how it is used. Vet and manage vendors.
+A payroll provider, a benefits platform, an ATS — each vendor receives employee data to perform a service, and each is a potential breach vector the organization cannot directly control. The trap is treating vendor data-sharing as a procurement decision (do they have a good product and price?) rather than a data governance decision (how do they handle our data, what else do they do with it, what happens in a breach?). Some HR technology vendors monetize employee data through analytics products sold back to employers or to third parties, turning the organization's employee data into the vendor's revenue stream. Without due diligence, data processing agreements, and ongoing monitoring, the organization has outsourced its privacy obligations to vendors whose incentives do not align with employee privacy, and it remains legally responsible for the consequences.
 
-### Dragnet Monitoring
+### Monitoring That Fishes Instead Of Targets
 
-Monitoring broadly without a specific, proportionate purpose, capturing more than needed and damaging trust. Monitor proportionately.
+A manager, concerned about productivity, asks IT to pull six months of internet browsing history for an entire department — not because there is a specific allegation, but to "see who is slacking." This dragnet approach captures vastly more data than any legitimate purpose requires, including personal browsing that reveals health searches, union activity, or political views, all now sitting in a manager's inbox. The trap is that broad monitoring feels thorough and proactive, when it is actually disproportionate, often unlawful, and creates a record of sensitive data the organization now must protect and potentially disclose. Targeted monitoring of a specific concern, with documented justification, is both more effective and less risky — but it requires the discipline to identify the problem before deploying the tool.
 
-### Ignoring Multi-Jurisdiction Law
+### Headquarters Law Applied Everywhere
 
-Applying only headquarters jurisdiction law, missing protections for employees in other states or countries. Manage across jurisdictions.
+A U.S.-headquartered company applies U.S. data practices to its employees in Germany, Brazil, and California, assuming that internal consistency satisfies legal obligations. It does not: the GDPR grants employees in Germany rights that U.S. practice does not accommodate, Brazilian LGPD has its own requirements, and California's privacy laws add obligations the headquarters framework ignores. The trap is that applying a single standard feels efficient and standardized, while actually creating violations in every jurisdiction whose law is more protective than the headquarters default. The correct approach — applying the most protective standard across the organization — is more expensive upfront but avoids the compounding liability of jurisdiction-by-jurisdiction noncompliance, which often surfaces only during an audit or a complaint.
 
-### No Breach Response Plan
+### No Plan Until There Is A Breach
 
-Lacking a plan for data breaches, delaying notification and worsening harm. Plan for incidents.
+The organization discovers a breach on a Friday afternoon. There is no incident response plan, no identified notification obligations, no chain of command for decisions, and no clock for the 72-hour notification window that GDPR or state law may require. The team improvises under pressure, making decisions about scope, notification, and communication without preparation, and the resulting delays and errors compound the legal and reputational damage. The trap is that breach response planning feels like insurance against an unlikely event, so it is perpetually deferred — until the event occurs, at which point the cost of not having a plan is measured in regulatory penalties and employee trust. An incident response plan must exist before the breach, because you cannot build one during one.
 
-### Retaliating For Data Rights
+### Retaliation Disguised As Process
 
-Penalizing employees who exercise access, correction, or deletion rights. Respect rights without retaliation.
+An employee exercises their right to access their data, requests correction of inaccurate information, or files a privacy complaint. Shortly after, they receive a negative performance review or are excluded from a project. Whether the timing is coincidental or retaliatory, the proximity creates an inference of retaliation that the organization must rebut. The trap is that managers may not even realize the employee exercised a data right (HR processed it separately), yet the employee perceives a causal connection and the temporal proximity supports the claim. Data rights exercise must be firewalled from employment decisions — the manager making the performance call must not know about the data request, and the timeline must not create proximity that invites an inference.
 
 ## Self-Check
 

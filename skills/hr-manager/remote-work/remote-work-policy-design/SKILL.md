@@ -92,29 +92,29 @@ The policy should define how employees request remote work and how exceptions ar
 
 ## Common Traps
 
-### Vague Or Discretionary Eligibility
+### Eligibility Left To Manager Whim
 
-Leaving eligibility to manager discretion, creating inconsistency and favoritism. Use objective, role-based criteria.
+When the policy says remote work is "subject to manager approval" without objective criteria, eligibility tracks manager personality, not role suitability. Managers who personally dislike remote work deny it to capable employees, while lenient managers grant it inconsistently. The result is a two-tier system where identical roles have different arrangements based on who you report to, which breeds resentment and creates disparate-impact exposure when the pattern correlates with a protected characteristic. The fix is not to remove manager input entirely but to constrain it: define role-based eligibility tiers and require managers to document the rationale for any deviation, so that denials are defensible and patterns are auditable.
 
-### Ignoring Expense Reimbursement Laws
+### Expense Reimbursement Treated As Optional
 
-Failing to reimburse remote work expenses in jurisdictions that require it, creating legal liability. Address expenses and comply with local law.
+In several jurisdictions — California, Illinois, Massachusetts, and others — employers must reimburse employees for all necessary business expenses, which for remote work includes a portion of home internet, phone, and utilities. Treating this as a discretionary perk rather than a legal obligation creates wage-and-hour liability that compounds with each pay period. The deeper trap is assuming that because remote work saves the employee commute costs, the employer owes nothing; the law does not offset savings against required reimbursement. The risk crystallizes when a single employee files a claim, because expense reimbursement violations often support class treatment.
 
-### Encouraging Always-On Culture
+### The Always-On Norm That Nobody Intended
 
-Setting expectations of constant availability that lead to overtime violations and burnout. Clarify hours and encourage boundaries.
+No policy says "be available 24/7," but the cumulative effect of after-hours messages from leadership, expectation of rapid response, and absence of explicit boundaries creates an always-on culture by accretion. For non-exempt employees this generates off-the-clock work and overtime liability; for exempt employees it generates burnout. The trap is that the culture is created unintentionally — each individual message seems reasonable — so leaders do not recognize the pattern they are reinforcing. Without explicit response-time norms and leader modeling of boundary-setting, the policy's flexibility promise becomes a burnout mechanism.
 
-### Proximity Bias In Evaluation And Advancement
+### Proximity Bias Masquerading As Merit
 
-Favoring in-office employees for promotions and opportunities due to visibility, creating a two-tier workforce. Measure outcomes and ensure equitable access.
+In hybrid arrangements, leaders unconsciously equate visibility with contribution: the employee they see daily feels more productive and committed, so they receive the stretch assignment, the promotion, the benefit of the doubt. Because the bias feels like merit-based judgment to the decision-maker, it is invisible until you compare advancement rates by work location. By the time the pattern is detectable, the remote cohort has already internalized the message that they are second-class, driving disengagement and turnover among exactly the people the flexibility policy was meant to retain. Proximity bias must be tracked proactively, not discovered after the damage.
 
-### Allowing Unapproved Relocation
+### Silent Relocation Creating Hidden Liability
 
-Permitting employees to work from any location without review, creating tax and legal exposure. Require approval for jurisdictional changes.
+An employee quietly moves to another state or country and continues working without notifying anyone. Each new jurisdiction can trigger new payroll registration, tax withholding obligations, employment law applicability, and in the international case, permanent establishment risk and immigration violation. The trap is that the problem is invisible to HR until it surfaces in an audit, a tax notice, or a termination dispute — by which point the liability has accrued for months. The policy must require pre-approval for any jurisdictional change, but the deeper fix is creating a lightweight process that employees will actually use rather than bypass because it is too slow or bureaucratic.
 
-### Security Gaps In Remote Environments
+### Security Treated As An Office Problem
 
-Failing to extend security controls to remote environments, increasing breach risk. Mandate security measures and training.
+Security controls designed for the office — network perimeter, physical access control, supervised device use — do not extend automatically to the home. When the policy simply says "follow security guidelines" without specifying device requirements, VPN use, and physical security of documents in the home, the remote workforce operates with weaker controls than the office, expanding the attack surface. Family members using the work device, unsecured home Wi-Fi, and personal cloud storage of company data are not edge cases but routine realities. Security must be specified, trained, and enforced for the remote environment specifically, not assumed to carry over.
 
 ## Self-Check
 

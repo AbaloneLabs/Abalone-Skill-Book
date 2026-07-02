@@ -90,31 +90,31 @@ Recognition programs should be evaluated for effectiveness, in reach, equity, an
 
 ### Outcome-Only Recognition
 
-Recognizing results without regard to how they were achieved, reinforcing unsustainable or values-inconsistent behavior. Recognize behaviors and values.
+When a salesperson who hit quota through aggressive, customer-hostile tactics receives "Salesperson of the Year," the award does not just recognize the result — it broadcasts to the entire organization that the result justifies the method. Other employees learn that the values on the wall (customer obsession, integrity, collaboration) are decorative, because the behavior actually rewarded contradicts them. The trap is treating recognition as a backward-looking reward for a number rather than a forward-looking signal about what the organization wants more of; outcome-only recognition quietly trains the workforce to optimize for the metric at the expense of everything the metric does not capture.
 
 ### Delayed Or Vague Recognition
 
-Recognizing months later or with generic praise, losing impact. Be timely and specific.
+A manager who says "great job on that project back in March" at a year-end review has waited nine months to recognize work the employee has half-forgotten, and the vagueness ("that project") communicates that the manager does not actually remember the specifics. The recognition lands as a generic pleasantry rather than a genuine acknowledgment, and its motivational effect is near zero. Timeliness and specificity are what convert a compliment into reinforcement: recognition delivered within days of the behavior, naming the specific action and its specific impact, tells the employee "I see you and I see what you did" in a way that a delayed generality never can.
 
 ### Formal-Only Programs
 
-Relying on infrequent formal awards that reach few employees, leaving most unrecognized. Balance with informal recognition.
+When the only recognition channel is an annual awards ceremony honoring the top 2% of employees, the other 98% spend the year in a recognition vacuum. Formal programs are high-visibility but low-frequency and narrow-reach; they celebrate the few and implicitly signal to the many that their daily contributions are not noteworthy. Employees who never qualify for the formal award eventually stop expecting recognition and lower their engagement to the level of effort they believe is noticed. The trap is confusing the visibility of formal recognition with the reach of recognition; a program that touches five people a year, however impressive, cannot sustain engagement across a workforce.
 
 ### Favoritism Patterns
 
-Consistently recognizing the same roles, teams, or individuals, breeding resentment. Ensure equity.
+When recognition consistently flows to the same roles (sales, engineering), the same teams (headquarters, revenue-generating), or the same demographic patterns, the employees who are never recognized draw a conclusion the organization never intended: that recognition is not for people like them or work like theirs. Support roles, back-office functions, and less visible contributors conclude that their work is invisible by design, not by oversight. The resentment is not about envy of the recognized; it is about the perceived unfairness of a system that appears to have favorites. Over time, favoritism patterns corrode the credibility of the entire recognition program — even legitimate awards become suspect.
 
 ### Transactional Monetary Rewards
 
-Using small cash amounts that feel insulting or that crowd out intrinsic motivation. Use monetary rewards proportionally.
+A $25 gift card for work that saved the company $50,000 communicates the opposite of appreciation: it communicates that the contribution is worth $25. Small monetary rewards can feel insulting when they are wildly disproportionate to the effort or impact, and they can crowd out intrinsic motivation by converting a meaningful contribution into a transactional exchange ("I did this for the company" becomes "I did this for a gift card"). The trap is reaching for cash as a default because it is easy to administer, without considering whether the amount is proportionate or whether non-monetary recognition (genuine, specific, visible acknowledgment) would carry more meaning.
 
 ### Popularity Contest Peer Programs
 
-Allowing peer recognition to become reciprocal or popularity-driven. Design with criteria and moderation.
+When peer recognition platforms allow employees to give each other points or badges without criteria, the system inevitably evolves into reciprocal exchange ("I'll recognize you if you recognize me") or popularity dynamics (the charismatic and well-networked accumulate recognition regardless of contribution). The data the platform produces becomes meaningless — it measures social capital, not performance — and employees who observe the gaming lose respect for the program. The trap is assuming that peer participation equals peer recognition; without criteria, moderation, and a connection to actual behaviors, a peer platform becomes a social network that rewards visibility over contribution.
 
 ### Individual-Only Recognition
 
-Failing to recognize team and collaborative contributions, undermining collaboration. Balance individual and team recognition.
+When a project ships successfully and one person — usually the most visible or most senior — receives the award while the team that built it watches from the audience, the recognition creates a hero and several resentful teammates. The individual did not do it alone, and crediting them alone tells the uncredited contributors that their work is invisible or expendable. Over time, individual-only recognition erodes the collaborative behaviors the organization depends on, because employees learn that collaboration does not get you recognized — only claiming the spotlight does. Recognizing teams alongside individuals is not about being fair to the team; it is about not incentivizing the hoarding of credit that destroys teamwork.
 
 ## Self-Check
 

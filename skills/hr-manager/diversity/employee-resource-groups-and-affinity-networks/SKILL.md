@@ -84,29 +84,29 @@ ERGs should be assessed against their purpose, not assumed to be effective becau
 
 ## Common Traps
 
-### Vague Purpose Without Charter
+### Operating Without A Charter
 
-Operating without a clear charter, leading to scope creep and unmet expectations. Define purpose and scope explicitly.
+An ERG that begins with enthusiasm and a general sense of purpose but no written charter accumulates scope creep — it becomes a social group, a complaint channel, a training provider, and a policy consultant simultaneously, and none of those functions are resourced or bounded. Members' expectations diverge, leadership burns out, and the sponsor cannot advocate for a group whose purpose no one can articulate crisply. Define purpose, scope, membership, leadership structure, authority, and boundaries in a charter before launch, because a charter is what allows the ERG to say no to scope it cannot support and to focus its limited energy on the outcomes it exists to produce.
 
-### Sponsor In Name Only
+### The Sponsor In Name Only
 
-Assigning sponsors who lend their name but do not engage, providing no real access or advocacy. Ensure sponsors are active.
+Assigning an executive sponsor who lends their title to the ERG but does not actually engage — does not attend, does not advocate in budget meetings, does not open doors — provides the appearance of senior support without any of its substance, and the absence becomes a signal to the rest of the organization about how seriously leadership takes the group. ERG leaders then spend their political capital trying to get access the sponsor was supposed to provide. Select sponsors who will actively engage, define what active engagement means, and hold sponsors accountable for it, because a sponsor who does not sponsor is worse than no sponsor, because they occupy the role and block someone who would fill it.
 
-### Unpaid Labor Disproportionately On Underrepresented Groups
+### Unpaid ERG Labor On Underrepresented Employees
 
-Relying on ERG leaders for significant unpaid work that hinders their advancement, reinforcing inequity. Compensate or recognize and include in evaluation.
+ERG leadership is real work — organizing events, fielding member concerns, advising the business, representing the group externally — and it is disproportionately performed by employees from underrepresented groups on top of their day jobs, usually without compensation, without recognition in performance evaluation, and often at the cost of the very advancement the ERG exists to support. The trap is structural: the people most burdened by inequity are asked to fix it for free, while their peers who do not carry this load advance faster. Compensate significant ERG leadership labor, include it in performance evaluation, and distribute the advisory burden across majority-group allies, because an ERG that advances the belonging of some by slowing the advancement of its leaders is reproducing inequity, not solving it.
 
-### ERG As Substitute For HR Or Policy
+### Using The ERG As A Substitute For HR
 
-Routing individual complaints or policy decisions to ERGs, overburdening them and creating liability. Route cases to HR.
+When managers or leaders route individual complaints, policy decisions, or sensitive cases to an ERG — asking the women's ERG to weigh in on a harassment complaint, the Black ERG to validate a discipline decision — they overload the ERG with functions it is not staffed, trained, or authorized to perform, and they create liability by treating volunteers as agents of the company. The ERG leaders are placed in impossible positions, asked to represent their entire demographic and to handle confidential matters without the infrastructure to do so safely. Route individual cases to HR, keep ERGs focused on community, development, and business input, and define the boundary explicitly so that no one — leaders or members — confuses an affinity network with a compliance function.
 
 ### Last-Minute Checkbox Input
 
-Soliciting ERG input as a formality without time or intent to use it, wasting effort and signaling disrespect. Solicit thoughtfully and close the loop.
+When a business decision is nearly finalized and an ERG is asked for input as a formality, with no time to deliberate and no intention to change the decision regardless of the response, the consultation produces no value and signals disrespect: the ERG's time is treated as a box to check rather than as genuine expertise. Members learn that input is performative and stop engaging, which then deprives the organization of the input it needs when a decision is genuinely open. Solicit ERG input early, when it can still shape the decision, provide the context needed for substantive response, and close the loop on what was heard and what changed, because input that cannot change anything is not input.
 
 ### Unequal Support Across Groups
 
-Providing differential funding or visibility to different ERGs, signaling differential value. Apply consistent standards.
+When some ERGs receive robust funding, executive access, and visibility while others — often those representing smaller or less powerful groups — receive nominal support, the differential treatment signals which groups the organization values, reproducing inside the ERG program the very inequity the program exists to address. The signal is read clearly by members and by the broader workforce. Apply consistent standards for funding, sponsorship, and visibility across all ERGs, with transparent criteria, and respond to new groups with the same support established groups receive, because equity among the ERGs is a prerequisite for the ERGs to advance equity in the organization.
 
 ## Self-Check
 

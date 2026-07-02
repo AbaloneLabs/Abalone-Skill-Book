@@ -39,33 +39,33 @@ Remote work equipment and expense policy sits at the intersection of IT (equipme
 
 ## Common Traps
 
-### Equipment Model Chosen by Default
+### Equipment Model Chosen By Drift
 
-Defaulting to a model without considering security, cost, and experience implications creates problems. Choose the equipment model deliberately based on organizational needs.
+The organization never decides on an equipment model — it just happens. The first remote hires were told to "use whatever you have" (BYOD by default), later hires received company laptops because IT got nervous about security, and managers in different regions apply different rules. Within a year, the organization has three equipment models operating simultaneously, none documented, and no one knows who has what. The trap is that equipment policy seems like a tactical detail not worth a formal decision, so it accretes through individual ad hoc choices that are impossible to audit or enforce. When a security incident traces back to an unmanaged personal device, the organization discovers it has no equipment model to point to, only a history of uncoordinated decisions. The equipment model must be chosen deliberately, documented, and applied consistently from the start, because retrofitting consistency onto drift is far harder than deciding once.
 
-### Inconsistent Stipend Decisions
+### The Manager Who Becomes A Stipend Authority
 
-Ad hoc stipend decisions by different managers create inequity. Structure stipends or reimbursements consistently with defined eligibility and documentation.
+Without a centralized stipend structure, individual managers negotiate equipment support with their remote reports. One manager, eager to accommodate a valued hire, approves a generous home office stipend; another, more cost-conscious, denies the same request. The employees compare notes (they always do), and the organization now has an equity problem: identical roles receive different support based on manager generosity, not organizational policy. The trap is that each manager's decision seems reasonable in isolation — they are responding to their team's needs — but the aggregate creates inequity that damages trust and, where the pattern correlates with a protected characteristic, creates legal exposure. Stipend decisions must be centralized in policy, not delegated to manager discretion, because manager-level decisions cannot see the cross-team pattern they create.
 
-### Tax Treatment Mishandled
+### Taxable Stipends Treated As Tax-Free Perks
 
-Taxable stipends treated as non-taxable, or required reimbursements not provided, create liability. Understand jurisdictional requirements and structure support compliantly.
+A flat monthly stipend for "home office" is paid without substantiation and without tax treatment, because it feels like a reimbursement and finance did not flag it. In reality, a flat stipend without an accountable plan (business connection, substantiation, return of excess) is taxable wages, and the organization has been under-withholding and under-reporting for months or years. The liability compounds: back taxes, penalties, interest, and the cost of amending prior returns. The trap is that the stipend looks and feels like a non-taxable reimbursement to everyone involved — it is for business expenses, after all — so no one questions the treatment until an audit or a sharp-eyed payroll provider raises it. The distinction between an accountable-plan reimbursement (non-taxable) and a flat stipend (taxable) turns on documentation that must be built into the process from the start, not retrofitted after the liability accrues.
 
-### Security Specifications Undefined or Unenforced
+### Personal Devices With No Security Floor
 
-Personal equipment accessing company data without security specifications creates vulnerability. Define, communicate, and enforce minimum specifications.
+An employee works on a personal laptop that has not been updated in two years, runs no antivirus, and is shared with a teenager who downloads games. This device accesses company email, documents, and customer data daily. The organization has no visibility into this risk because it never defined minimum security specifications for BYOD, and the employee has no reason to upgrade because no one told them their device is a liability. The trap is that BYOD shifts the device to the employee but the risk remains with the employer — a breach traced to an unmanaged personal device is the employer's breach, with the employer's notification obligations and the employer's liability. Defining specifications is necessary but not sufficient; they must be enforced through IT assessment before remote access is granted, because an unenforced specification is just a suggestion that the most vulnerable devices will ignore.
 
-### Equipment Return Neglected at Offboarding
+### Equipment That Vanishes At Termination
 
-Remote employees retaining organization equipment creates asset loss and security risk. Build return into offboarding with logistics and confirmation.
+A remote employee resigns. The offboarding checklist includes "return laptop," but there is no shipping logistics, no timeline, no asset confirmation, and no follow-up when nothing arrives. Six months later, IT audits assets and discovers the laptop is gone — along with the phone, the monitor, and the headset. The trap is that remote equipment return is treated as a line item on a checklist rather than a process with logistics and accountability. Unlike an office, where the laptop is handed to IT on the last day, remote return requires shipping (which the organization must arrange and pay for), tracking, and confirmation. Without this, the organization absorbs asset loss silently, and the security risk of an unreturned device with active credentials persists until someone notices — which, without asset tracking, may be never.
 
-### Workspace Safety Ignored
+### Remote Safety Assumed Away
 
-Assuming remote work eliminates safety obligations is mistaken. Provide safety guidance, document it, and handle workers' compensation claims carefully.
+The organization provides ergonomic chairs and desk assessments in the office but sends remote employees a laptop and nothing else, assuming that home workspace safety is the employee's concern. But workers' compensation coverage follows the work, not the location: an employee injured at their home desk during working hours may have a compensable claim, and the employer's obligation to provide a safe workspace does not vanish because the workspace is remote. The trap is the assumption that "we don't control the home office, so we are not responsible" — which is both legally mistaken and practically harmful, because an employee working at a kitchen counter on a barstool for eight hours is developing an injury the employer will eventually pay for. Remote safety guidance, ergonomic support, and documented safety expectations are not optional courtesies; they are the remote equivalent of the obligations the organization meets without question in the office.
 
-### Policy Developed in Silos
+### Policy Built In One Function's Silo
 
-Policy developed by one function without coordination creates gaps. Bring IT, finance, HR, and legal together for coherent design and review.
+IT writes the equipment policy alone, focusing on security, and mandates company-provided devices — which finance has not budgeted for. Finance writes the stipend policy alone, focusing on cost, and sets stipend amounts that do not cover the equipment IT requires. HR writes the equity language alone, without knowing what IT and finance have already decided. The result is a set of contradictory policies that no one can execute, because each function optimized for its own concern without seeing the others. The trap is that each function's draft looks complete in isolation, so no one realizes the gaps until implementation fails. Remote equipment and expense policy sits at the intersection of IT, finance, HR, and legal, and it must be designed jointly, because the constraints are interlocking and no single function holds them all.
 
 ## Self-Check
 

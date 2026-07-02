@@ -91,33 +91,33 @@ Monitoring is regulated by law, and the requirements vary significantly by juris
 
 ## Common Traps
 
-### Monitoring Without A Specific Purpose
+### Monitoring Because The Tool Exists
 
-Implementing monitoring because it is available or because of general distrust, without a specific business need. Identify the purpose first.
+A vendor demo shows a dashboard that tracks employee activity in real time — keystrokes, mouse movement, application usage, idle time. The tool is impressive, the price is reasonable, and a manager says "let's try it." Within a week, the organization is monitoring its entire workforce with a tool whose purpose was never defined beyond "see what people are doing." The trap is that monitoring technology creates its own justification: the capability exists, it is easy to deploy, and the data looks actionable, so the question shifts from "do we have a problem that monitoring solves?" to "now that we have this data, what can we do with it?" This inverts the proper sequence. Monitoring must serve a documented, specific business problem identified before the tool is selected, because a tool in search of a problem will always find one — and the problem it finds is rarely the one the organization actually needs to solve.
 
-### Disproportionate Surveillance
+### Maximum Surveillance As Default
 
-Using the most intrusive method on the broadest population, capturing more than needed. Apply proportionality.
+When monitoring is justified, the default implementation is often the most invasive version: continuous keystroke logging for everyone, rather than activity sampling for a specific concern; all-department email scanning, rather than targeted review of a flagged account; always-on webcams, rather than scheduled check-ins. The trap is that the most invasive option is usually the easiest to configure and the most comprehensive in output, so it becomes the default unless someone actively argues for a narrower scope. But proportionality is a legal requirement, not a preference: the law asks whether the monitoring is the least intrusive means of achieving the purpose, and a blanket deployment fails that test even when a targeted deployment would pass. The discipline is to start narrow and widen only with justification, not to start broad and narrow only under pressure.
 
-### Covert Monitoring Without Justification
+### Covert Monitoring That Betrays Trust
 
-Monitoring secretly without a specific investigation justification, violating notice requirements and trust. Provide notice.
+The organization installs monitoring software without telling employees, reasoning that notice would defeat the purpose — if people know they are watched, they will behave differently. This is sometimes lawful (for specific investigations of suspected misconduct) but is often not, and the trust damage when discovered is severe and permanent. The trap is that covert monitoring feels like a clever way to catch wrongdoing, when it actually signals to the entire workforce, once discovered, that the organization does not trust them and is willing to surveil them secretly. The resulting trust deficit outlasts any single investigation: employees assume they are always being watched, communicate through personal channels, and disengage from the monitored systems. Notice is not just a legal requirement; it is the basis of the consent — actual or implied — that makes monitoring tolerable.
 
-### Invading Private Spaces
+### The Camera That Sees The Home
 
-Monitoring restrooms, break areas, personal communications, or home environments, violating reasonable privacy expectations. Respect privacy.
+Remote work monitoring often includes webcam requirements: keep your camera on during work hours, or submit to periodic check-ins where the camera captures the room behind you. The camera does not see just the employee; it sees their home, their family, their personal effects, their living conditions. This is categorically more intrusive than office monitoring, because the home is a private space that the employee has not chosen to expose. The trap is treating remote monitoring as equivalent to office monitoring — the same tool, different location — when the location fundamentally changes the privacy calculus. A camera in an office captures a workspace; a camera in a home captures a life. Remote monitoring requires stronger justification, narrower scope, and explicit protection of the personal context the camera incidentally captures.
 
-### Productivity Monitoring As Default
+### Productivity Data Used As A Weapon
 
-Using keystroke or activity tracking broadly, signaling distrust and damaging engagement. Prefer outcome-based management.
+Keystroke counts, active hours, and application-switching frequency are collected "for coaching and support," but managers inevitably use them for evaluation and discipline: the employee with low keystroke counts gets a warning, the one who was idle for 12 minutes receives a performance note. The trap is that activity metrics are poor proxies for productivity — a senior engineer thinking through an architecture problem generates no keystrokes but enormous value — yet they feel objective and quantifiable, so managers reach for them. Once monitoring data enters performance evaluation, the organization has replaced outcome-based management with surveillance-based management, and employees respond by optimizing for the metric (more keystrokes, more visible activity) rather than for the work. The data, collected to improve productivity, now degrades it.
 
-### Misusing Monitoring Data
+### Security Footage Used For Performance
 
-Using data collected for one purpose, such as security, for another, such as performance evaluation. Limit use to the purpose.
+Cameras installed for physical security — loss prevention, facility safety, after-hours access control — are repurposed to observe employee behavior: who arrives late, who takes long breaks, who socializes in the hallway. The trap is that this repurposing feels efficient (we already have the footage, why not use it?) but it violates the purpose limitation principle and destroys the rationale for the cameras. Employees who consented to security monitoring did not consent to performance surveillance, and once they learn the cameras serve both purposes, they distrust both. Security footage must be walled off from performance evaluation, because the moment it crosses that line, the organization loses both its security tool and its employees' trust.
 
-### Ignoring Jurisdictional Requirements
+### One Monitoring Approach For All Jurisdictions
 
-Applying a uniform monitoring approach across jurisdictions with different legal requirements. Coordinate with legal counsel.
+The organization deploys a uniform monitoring program across all locations, designed to the standards of its headquarters jurisdiction. But the program includes communications recording in a two-party-consent state that requires all parties' agreement, biometric timekeeping in a jurisdiction that restricts biometric data collection, and location tracking in a region whose privacy law prohibits it without explicit consent. The trap is that uniform deployment feels standardized and manageable, while actually creating distinct legal violations in each jurisdiction whose law the program does not accommodate. Monitoring law is highly jurisdiction-specific, and a program that is lawful in one state may be unlawful in another — applying the most protective standard across all locations is the only way to avoid building violations into the default deployment.
 
 ## Self-Check
 

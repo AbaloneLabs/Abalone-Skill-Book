@@ -91,33 +91,29 @@ Managers are a primary source of information and influence for employees. Equip 
 
 ## Common Traps
 
-### Communication Only At Enrollment
+### Communication Concentrated At Open Enrollment
 
-Concentrating all benefits communication at open enrollment, leaving employees unaware the rest of the year. Communicate year-round.
+Front-loading all benefits communication into the open enrollment window, then going silent for the rest of the year, means employees make their most consequential benefits decisions under time pressure with incomplete understanding, and then encounter life events — a marriage, a birth, a diagnosis — without knowing what their plan covers or how to use it. The enrollment-window model optimizes for the administrative cycle rather than for the employee's decision quality or year-round utilization. Sustain benefits communication across the year, timed to life events and decision points, because a benefit the employee does not understand is a benefit they cannot use, and the cost of that benefit is paid regardless.
 
 ### No Total Rewards Statements
 
-Failing to show employees the full value of their package, leaving them underestimating the investment. Use total rewards statements.
+When employees see only their salary and their paycheck deductions, they systematically underestimate the total value of their compensation, because the employer's share of premiums, the retirement match, the tax-advantaged accounts, and the paid leave are invisible to them. The result is that the organization's significant investment in benefits produces no retention or engagement return, because the employee never sees the full picture. Provide personalized total rewards statements that quantify the full package — cash, benefits, retirement, paid time off — because employees cannot value what they cannot see, and the benefits spend is wasted if it is not perceived.
 
 ### Jargon And Complexity
 
-Using insurance and benefits jargon that employees cannot understand, leading to poor decisions and disengagement. Use plain language.
+Benefits communication is dense with terms — deductible, coinsurance, out-of-pocket maximum, EOB, HSA, FSA, network, formulary — that are second nature to HR and to carriers but opaque to most employees. When communication uses this jargon without translation, employees cannot make informed decisions, default to the cheapest or the prior-year option, and discover only at the point of a claim that they chose poorly. Translate into plain language, use concrete examples and scenarios, and provide decision-support tools that guide employees to the right choice for their situation, because the purpose of communication is to enable good decisions, not to demonstrate expertise.
 
-### Single-Channel Communication
+### Single-Channel Communication That Misses Segments
 
-Relying on one channel, such as email, that misses deskless or remote employees. Use multiple channels.
+Relying on a single channel — typically email or a portal — systematically misses employees who are not at a desk: manufacturing, retail, field, and frontline staff who may not have company email or may check it rarely. The communication reaches the office workforce and misses the operational workforce, producing a two-tier benefits experience where some employees are informed and others are not. Use multiple channels — text, mobile app, printed materials in break rooms, in-person sessions, manager cascade — matched to where each employee segment actually is, because a message sent is not a message received.
 
-### Burying Bad News
+### Burying Bad News In Jargon Or Fine Print
 
-Communicating cost increases or reductions in jargon or fine print, destroying trust. Communicate changes with honesty and empathy.
+When benefits costs increase or coverage is reduced, the temptation is to communicate the change in dense, technical language or to bury it in an attachment, hoping employees will not notice. They notice — at the point of a claim, when the surprise bill arrives — and the discovery that the change was hidden converts a difficult but manageable communication into a breach of trust that damages the benefits program's credibility for years. Communicate changes directly, with the rationale, the impact, and the alternatives, early enough for employees to adjust, because honesty about bad news preserves the trust that makes the benefits program credible when the news is good.
 
-### No Effectiveness Measurement
+### Communicating Without Measuring Effectiveness
 
-Communicating without measuring whether employees receive, understand, or act, unable to improve. Measure effectiveness.
-
-### One-Size-Fits-All
-
-Presenting the entire benefits catalog to all employees regardless of life stage, producing information overload and low relevance. Tailor to segments.
+Producing benefits communications — emails, portals, sessions — without measuring whether employees received, understood, or acted on them leaves HR unable to distinguish effective communication from activity, and unable to improve. The communication feels complete because it was sent, but if employees did not read it, did not understand it, or did not change their behavior as a result, the investment produced no return. Measure engagement (open rates, session attendance), comprehension (brief pulse checks), and outcomes (enrollment decisions, utilization), and use the data to refine the communication, because communication that is not measured cannot be improved and may not be working.
 
 ## Self-Check
 

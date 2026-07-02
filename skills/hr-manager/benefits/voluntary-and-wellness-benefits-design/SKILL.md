@@ -92,33 +92,29 @@ Voluntary and wellness benefits represent investment that should be evaluated fo
 
 ## Common Traps
 
-### Benefits Without Workforce Input
+### Benefits Selected Without Workforce Input
 
-Selecting benefits based on trends or HR preference, without workforce data, producing a catalog of unused offerings. Base selection on needs.
+Selecting voluntary and wellness benefits based on HR preference, vendor relationships, or industry trends — without data on what the workforce actually values — produces a catalog of offerings that look comprehensive but are unused, representing wasted spend and a missed opportunity to deliver benefits that employees actually want. The trap is that the decision feels responsible because it expands the portfolio, but expansion without data is guessing, and the resulting portfolio reflects the chooser's preferences rather than the workforce's needs. Base selection on workforce data — surveys, utilization, demographics, claims (where privacy-permitted) — and be willing to discontinue offerings that are not used, because a benefit no one uses is not a benefit, it is a cost.
 
 ### Wellness Program Noncompliance
 
-Designing health-contingent wellness programs that exceed incentive limits or lack reasonable alternatives. Comply with the rules.
+Health-contingent wellness programs are subject to specific rules: incentive limits (tied to a percentage of premium), reasonable alternative standards for those who cannot meet the health requirement, and nondiscrimination protections, and a program that exceeds these limits is an ACA violation that can trigger penalties and require remediation. The trap is designing a wellness program that seems reasonable — a biometric screening with a reward — without understanding that the incentive structure and the availability of alternatives are regulated. Design wellness programs within the regulatory incentive limits, offer reasonable alternatives for every health-contingent requirement, and engage counsel to review the program design, because a wellness program that violates the rules converts a wellbeing initiative into a compliance liability.
 
 ### Endorsement Liability For Voluntary Products
 
-Presenting voluntary products as employer-endorsed, creating liability for inappropriate or overpriced products. Keep voluntary benefits voluntary.
+Voluntary benefits — supplemental life, critical illness, accident insurance — are employee-paid products offered through the employer, and presenting them as employer-endorsed or employer-vetted creates liability if the product is inappropriate, overpriced, or poorly administered. The trap is that the employer's involvement in offering the product is perceived as an endorsement, so when the product fails to pay a claim or charges excessive premiums, the employee holds the employer responsible. Present voluntary benefits as truly voluntary, with clear disclosure that they are employee-paid and that the employer has not independently vetted the product's value, and require the vendor to handle enrollment and service directly, because the employer's role in a voluntary benefit is to provide access, not endorsement.
 
-### Inaccessible Mental Health Benefits
+### Mental Health Benefits That Are Technically Available But Practically Inaccessible
 
-Offering mental health benefits that are technically available but practically inaccessible due to network gaps, stigma, or complexity. Design for accessibility.
+Offering an EAP or mental health benefit that exists on paper but has long wait times, a narrow network, stigma in the culture, or a complex access process means the benefit is technically offered but practically unavailable to the employees who need it, and the organization pays for a benefit that produces no utilization while employees go without care. The trap is that the benefit is counted as part of the wellbeing portfolio and reported as offered, masking the fact that it is not actually usable. Evaluate mental health benefits for practical accessibility — network adequacy, wait times, ease of access, confidentiality protections — and address stigma through leadership communication, because a mental health benefit that cannot be used is worse than none, as it creates the appearance of support without the substance.
 
-### Tuition Assistance Without Structure
+### Tuition Assistance Without Structure Or Accountability
 
-Offering tuition assistance without eligibility, completion, or retention structure, producing cost without development value. Structure for mutual value.
+Offering tuition assistance without eligibility requirements, completion expectations, retention commitments, or relevance criteria produces spend that may fund degrees unrelated to the role, incomplete coursework, or employees who leave immediately after graduating, converting a development benefit into a gift with no return. The trap is that unstructured tuition assistance feels generous and progressive, but without structure it becomes a cost center with no development or retention benefit. Define eligibility, relevance to role or career path, completion requirements, and retention commitments (such as a service period after completion), and track outcomes, because tuition assistance is a development investment that should produce returns to both the employee and the organization.
 
-### Unequitable Lifestyle Benefits
+### Lifestyle Benefits Applied Unequitably
 
-Providing lifestyle benefits that favor one group, creating equity concerns and potential discrimination issues. Apply equitably.
-
-### No Utilization Tracking
-
-Offering a portfolio of benefits without tracking which are used and valued, unable to optimize the investment. Track and evaluate.
+Lifestyle benefits — gym memberships, commuting subsidies, meal allowances, pet insurance — can create equity issues when they favor one employee group (office workers with a subsidized cafeteria and gym) over another (field or manufacturing workers without access to those facilities), and the disparity may raise discrimination concerns if the benefit correlates with a protected characteristic. The trap is that these benefits are added incrementally without considering their distributional impact, so the portfolio quietly favors one segment. Evaluate lifestyle benefits for equitable access across the workforce, offer alternatives for employees who cannot use a particular benefit, and apply stipend-based approaches that allow all employees to benefit equally, because a benefit available only to part of the workforce is a source of resentment and potential discrimination exposure.
 
 ## Self-Check
 

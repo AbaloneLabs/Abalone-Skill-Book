@@ -124,37 +124,37 @@ Adverse impact analysis is both a compliance tool and a fairness tool. It reveal
 
 ## Common Traps
 
-### Incomplete Applicant Tracking
+### The Applicant Pool That Cannot Be Reconstructed
 
-Not tracking all applicants or not recording dispositions, leaving the pool undefined and the process indefensible. Track every applicant and every decision.
+When a discrimination charge or audit arrives, the organization must produce, for each requisition: who applied, what criteria were used, how each candidate was evaluated, and why each was advanced or rejected. But the records are scattered — some applications in the ATS, some in email, interview notes in personal files, dispositions never recorded. The pool cannot be reconstructed, and the absence of records is itself evidence: courts and agencies may infer that the missing records would have shown discrimination. The trap is that recordkeeping feels like administrative overhead during the hiring process, when no charge is pending, so it is deprioritized — and by the time a charge arrives (often a year later), the gap between what should exist and what does exist is unbridgeable. Audit-ready records must be maintained continuously, because they cannot be reconstructed retroactively.
 
-### Vague Or Inconsistent Disposition Codes
+### "Other" As A Disposition Code
 
-Coding rejections as "other" or "not a fit," which provides no analytical value and weak defense. Use specific, consistent codes.
+Half the rejections in the ATS are coded as "other" or "not a fit," because recruiters under time pressure reach for the fastest option. When adverse impact analysis is run, these codes provide no signal — you cannot tell whether "not a fit" rejections disproportionately affect a protected group, because the code is meaningless. The analysis that should reveal disparate impact instead returns noise, and the organization loses both the fairness signal and the defense value. The trap is that vague codes feel sufficient (we recorded a disposition!) while actually providing no analytical value — they satisfy the form of recordkeeping without the substance. Specific, consistent disposition codes are the backbone of both adverse impact analysis and legal defense, and their consistency must be enforced through training and auditing, not left to recruiter discretion.
 
-### Premature Record Destruction
+### Records Destroyed Too Early
 
-Destroying hiring records before the retention period expires, creating compliance violations and adverse inferences. Follow the retention schedule.
+The retention period expires, and the organization purges hiring records to free up storage. Six months later, a discrimination charge arrives for a decision made 18 months ago, and the records no longer exist. The trap is twofold: first, retention periods are legally mandated and destroying records early is itself a compliance violation; second, the destruction creates an adverse inference — the fact-finder may presume the destroyed records would have shown discrimination, because why else would the organization have destroyed them? Premature destruction transforms a defensible decision into an indefensible one, not because the decision was wrong but because the evidence disappeared. The retention schedule must be followed precisely, and records must be kept for the full required period (commonly one to two years, longer for government contractors) even when storage feels wasteful.
 
-### Demographic Data Used In Selection
+### Demographic Data Leaking Into Decisions
 
-Allowing self-identified demographic data to influence selection decisions, which is unlawful and destroys collection trust. Keep demographic data separate from decisions.
+Self-identified demographic data is collected for reporting and analysis, stored "separately" from the selection process — except that a recruiter can see the applicant's name and photo on the resume, infer race or gender, and that inference influences the screening decision. The formal separation of demographic data is a fiction if the decision-makers can infer demographic characteristics from the application materials themselves. The trap is that the organization believes its data is segregated (we store it separately!) while the decision-makers have access to identifying information that makes segregation meaningless. The protection is not just data architecture; it is process design — resume anonymization, structured evaluation against criteria, and auditing of outcomes to detect patterns that inferable demographics might explain.
 
-### Scrambling At Reporting Time
+### The Annual Reporting Scramble
 
-Not maintaining data throughout the year, leading to inaccurate or late government reports. Maintain data continuously.
+EEO-1 and VETS reports are due, and the data has not been maintained during the year. The HR team spends two weeks reconstructing applicant counts, categorizing employees, and reconciling discrepancies between the ATS and HRIS, under deadline pressure. The resulting report is inaccurate — employees miscategorized, applicant counts estimated, demographic data incomplete — and the inaccuracy is itself a compliance violation that can trigger an audit. The trap is that reporting feels like a periodic task rather than a continuous discipline, so the data degrades between reporting cycles and is patched together under pressure. Continuous data maintenance — keeping categorizations current, reconciling systems regularly, auditing data quality — is the only way to produce accurate reports without the scramble, and the scramble is itself a signal that the underlying data is not trustworthy.
 
-### Records That Cannot Support A Narrative
+### Records Without A Story
 
-Having records that are too incomplete or inconsistent to reconstruct the process for a requisition, making defense impossible. Maintain audit-ready records.
+The organization has records — applications, notes, dispositions — but they do not tell a coherent story. The interview notes do not reference the criteria. The disposition code does not match the notes. The job posting does not match the criteria used in screening. When an auditor or investigator tries to reconstruct the process, the pieces do not fit together, and the inconsistencies suggest (correctly) that the process was not as structured as it should have been. The trap is that records exist individually but do not form a narrative, because each was created in isolation without reference to the overall process. Audit-ready records must tell a complete story for each requisition: here is the job, here is the posting, here are the criteria, here is how each candidate was evaluated against them, here is the decision and why. A pile of disconnected documents is not a defense; a coherent narrative is.
 
-### No Proactive Adverse Impact Analysis
+### Storing Records Without Analyzing Them
 
-Storing records without ever analyzing them, missing disparities that could be corrected before they become legal matters. Analyze periodically.
+The organization diligently retains every application, every note, every disposition — and never looks at them until a charge arrives. The adverse impact that the records would have revealed — a screening tool that disproportionately rejects older applicants, an interviewer whose rejections cluster by gender — goes undetected for years, because no one analyzed the data proactively. The trap is that recordkeeping feels like the complete obligation (we have the records!) when it is only half the obligation; the other half is using the records to detect and correct disparities before they become legal matters. Proactive adverse impact analysis is both a compliance tool and a fairness tool: it reveals patterns invisible at the individual level and enables correction before a charge, an audit, or a class action forces the issue.
 
-### Applicant Data Treated As Less Sensitive Than Employee Data
+### Applicant Data As Second-Class Data
 
-Applying weaker privacy protections to applicant data, which is both a legal error and a trust failure. Protect applicant data equally.
+Applicant data is personal data — names, addresses, employment history, sometimes salary expectations, background check results — yet organizations often protect it less rigorously than employee data, because applicants are not employees and feel less consequential. The ATS has weaker access controls than the HRIS; applicant data is shared with vendors without data processing agreements; rejected applicants' data is retained indefinitely "in case we want to reach out." The trap is that applicant data is subject to the same privacy laws as employee data (GDPR, state privacy laws), and a breach of applicant data triggers the same notification obligations and liability. Applicant data must be protected, used only for the hiring purpose, and disposed of on schedule — not treated as less sensitive because the individuals are not (yet) employees.
 
 ## Self-Check
 

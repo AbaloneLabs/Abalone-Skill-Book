@@ -130,37 +130,37 @@ Candidates who accept an offer but receive no communication for weeks before sta
 
 ## Common Traps
 
-### Inflating The Role To Close The Candidate
+### Selling A Job That Does Not Exist
 
-Overstating scope, security, or career trajectory to win acceptance, creating early disillusionment, attrition, and potential fraudulent inducement claims. Be honest.
+Under pressure to close a desired candidate, the hiring manager describes a role grander than reality: bigger scope, more autonomy, faster promotion path, guaranteed bonus, flexible remote arrangement. The candidate accepts based on this picture, resigns their current job, and arrives to find the role is narrower, the bonus is uncertain, and the remote flexibility is "subject to policy." The gap between promise and reality produces disillusionment within weeks, early attrition within months, and potentially a fraudulent inducement claim if the misrepresentation was material. The trap is that inflation feels like enthusiasm at the offer stage — everyone is excited, the candidate is nodding, the deal is closing — so the exaggerations pass without challenge. But the candidate remembers every promise, and each unmet promise is a trust deficit that compounds. The offer must describe the role as it is, not as the candidate wishes it were, because the gap between the two is paid in attrition and litigation.
 
-### Ignoring Internal Equity
+### The Offer That Breaks Internal Equity
 
-Extending offers without regard to current employee compensation, creating compression, inversion, or inequity that damages retention. Benchmark against internal bands.
+A star candidate negotiates aggressively and receives an offer 15% above the top of the salary band. They accept, join, and within months discover that their peers — more tenured, similarly qualified — earn less. Or worse, the peers discover the new hire's salary (they always do, eventually) and the compression becomes a retention crisis. The trap is that each individual offer decision feels justified (we had to pay to get them!) while the aggregate creates inequity that damages the team. The star's offer sets a precedent that every future negotiation references, and the compression it creates among existing employees requires market adjustments that cost far more than the original premium. An offer that ignores internal equity may close one candidate while opening multiple retention risks — the math rarely works in the organization's favor, even when the candidate is exceptional.
 
-### Inconsistent Negotiation Practices
+### Negotiation Flexibility That Tracks Demographics
 
-Giving some candidates more flexibility than others based on negotiation style, which can produce pay disparities correlated with demographics. Standardize negotiation guidelines.
+Two candidates for the same role receive different offers, not because their qualifications differ but because one negotiated aggressively and the other did not. The aggressive negotiator — who research shows is more likely to be male, more likely to be from a culture that rewards assertiveness — receives a higher starting salary. The difference compounds across annual increases and bonuses, producing a gender or race pay gap that originated not in bias but in negotiation dynamics. The trap is that "we pay what the candidate negotiates" feels neutral and market-based, when it actually imports demographic disparities into the pay structure through a mechanism (negotiation skill) that is not job-related. Standardized negotiation guidelines — what is negotiable, within what range, applied consistently regardless of who asks — are both an equity intervention and a legal protection, because pay disparities that correlate with protected characteristics are actionable regardless of their mechanism.
 
-### Relying On Salary History
+### Salary History As A Proxy For Value
 
-Basing offers on what the candidate earned previously, which perpetuates pay gaps and is restricted or prohibited in many jurisdictions. Base pay on the role, market, and qualifications.
+The candidate earned $80,000 at their last job, so the offer is $88,000 — a 10% bump, standard practice, everyone is happy. But the $80,000 reflected the prior employer's pay practices, which may have underpaid the candidate due to discrimination, market differences, or simply a low-paying employer. Anchoring the new offer to the old salary imports and perpetuates whatever inequity was baked into the prior pay. The trap is that salary history feels like the most reliable data point for setting pay (it is what the market paid them!) when it is actually the least reliable, because it reflects the prior employer's constraints and biases, not the candidate's value in this role. This is why salary history bans have proliferated: basing pay on prior pay is a mechanism for transmitting pay discrimination across employers and across time. Pay must be based on the role, the market, and the candidate's qualifications — never on what they earned before.
 
-### Surprise Restrictive Agreements
+### Restrictive Covenants As A First-Day Surprise
 
-Presenting non-compete or arbitration agreements on the first day after acceptance, when the candidate has already resigned. Disclose before acceptance.
+The candidate accepts the offer, resigns their job, and arrives on day one to find a non-compete agreement on the stack of new-hire paperwork: they cannot work for a competitor for 12 months after leaving, in any role, anywhere. They have already resigned, so refusing to sign means losing both jobs. The trap is that springing restrictive covenants at the start date, after acceptance and resignation, is both unfair (the candidate cannot meaningfully decline) and legally vulnerable (courts may find the agreement unenforceable for lack of consideration or for duress). The candidate should know, before accepting, what they are committing to — the existence, scope, and duration of any restrictive covenants — so they can make an informed decision. Disclosing restrictive agreements before the offer is accepted is not just fairness; it is the basis of enforceability, because an agreement signed under duress (I already resigned) is fragile in ways an agreement signed with full knowledge is not.
 
-### Bidding Beyond The Role's Value
+### The Bidding War That Sets A Precedent
 
-Exceeding budget and internal equity to win a bidding war, creating unsustainable precedents and resentment. Know your ceiling.
+A candidate with a competing offer is offered 20% above the band to win them. They accept. The precedent is now set: the next candidate who competes references this offer; the internal employees who learn of it feel undervalued; and the organization has signaled that it will pay above market for anyone who can generate a competing offer, rewarding negotiation leverage over job value. The trap is that the bidding war feels like a one-time exception (we really wanted this person!) when it is actually a structural decision that reshapes every future negotiation and comparison. The candidate won by bidding may also be the first to leave when the next higher offer arrives, because their acceptance was price-driven, not value-driven. Knowing the ceiling before negotiation begins — and holding it — is harder in the moment but protects the integrity of the pay structure that every other employee relies on.
 
-### Visa Misrepresentation
+### Visa Promises Outside The Organization's Control
 
-Making promises about visa sponsorship or outcomes that the organization cannot guarantee, leaving the candidate stranded. Be honest and include contingencies.
+The candidate needs H-1B sponsorship, and the hiring manager, eager to close, says "don't worry, we'll get the visa." The visa is subject to a lottery with roughly a one-in-three chance, and the manager has promised an outcome the organization cannot deliver. When the visa is not selected, the candidate — who has already resigned, relocated, or turned down other offers — is stranded, and the organization faces both a moral failure and potential liability for the misrepresentation. The trap is that visa outcomes are controlled by government agencies and quota systems, not by the employer, so any promise about the outcome is a promise the employer cannot keep. The offer must be honest about the uncertainty, include contingencies (start date dependent on visa approval), and never assure an outcome that is outside the organization's control — because the gap between promise and reality falls entirely on the candidate.
 
-### No Communication Between Acceptance And Start
+### Silence Between Acceptance And Start
 
-Going silent after acceptance, which risks counter-offers, no-shows, and disengagement. Maintain contact through start date.
+The candidate accepts the offer. Three weeks pass with no communication. The candidate's current employer, learning of the resignation, makes a counter-offer. With no contact from the new employer to reinforce the decision, the candidate accepts the counter and no-shows on the start date. The trap is treating the period between acceptance and start as a gap rather than part of the hiring process. The candidate's commitment is strongest at acceptance and decays over time, especially if a counter-offer arrives or buyer's remorse sets in. Regular communication — check-ins from the hiring manager, pre-boarding logistics, team introductions — maintains the momentum of acceptance through the start date. A candidate who goes silent is often a candidate who was left silent, and the cost of replacing them far exceeds the cost of a few check-in emails.
 
 ## Self-Check
 

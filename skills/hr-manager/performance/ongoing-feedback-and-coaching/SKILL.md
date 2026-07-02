@@ -124,37 +124,37 @@ Early feedback gives the person a fair chance to improve before consequences esc
 
 ## Common Traps
 
-### Delayed Feedback
+### Delayed Feedback That Loses The Teaching Moment
 
-Waiting for the review or the "right moment" until the feedback is stale and the behavior has solidified. Deliver close to the event.
+Waiting for the formal review or the "right moment" to deliver feedback — deferring feedback until the quarterly review, or waiting for the perfect setting — until the feedback is stale and the behavior has solidified, because feedback delivered weeks or months after the event has lost its teaching power, the person cannot connect the feedback to the specific behavior, and the behavior that prompted the feedback has become a habit that is now harder to change. The trap is that the "right moment" never arrives, so feedback is perpetually deferred, but feedback deferred is feedback diminished, and the person who receives stale feedback cannot act on it because the moment has passed. Deliver feedback close to the event, while the behavior and its impact are fresh, because timely feedback teaches and delayed feedback confuses, and the teaching moment is the moment the behavior occurs.
 
-### Vague Feedback
+### Vague Feedback That Provides No Actionable Guidance
 
-Saying "good job" or "do better" without specifics, providing no actionable guidance. Be specific about behavior and impact.
+Saying "good job" or "do better" without specifics — feedback that contains no description of the behavior, no description of the impact, and no description of what to continue or change — provides no actionable guidance, because the person does not know what they did well or poorly, only that the manager has a general impression, and an impression cannot be acted on, repeated, or corrected. The trap is that vague feedback feels safer because it avoids specificity that might provoke disagreement, but safety is purchased with uselessness, and vague feedback is feedback that changes nothing. Be specific about the observable behavior and its impact, because specific feedback tells the person exactly what to continue or change, and vague feedback tells them only that the manager has an opinion.
 
-### Criticism-Only Feedback
+### Criticism-Only Feedback That Erodes Confidence
 
-Delivering only negative feedback, eroding confidence and motivation. Balance with genuine positive feedback.
+Delivering only negative feedback — a feedback relationship that consists entirely of corrections, with no acknowledgment of what the person does well — erodes confidence and motivation, because the person concludes that nothing they do is valued, and a person who receives only criticism either stops trying (because effort is never recognized) or becomes defensive (because every interaction is an attack). The trap is that positive feedback feels unnecessary because the person is "just doing their job," so only problems are raised, but a relationship built entirely on correction is a relationship that demoralizes, and the person who hears only criticism disengages. Balance constructive feedback with genuine, specific positive feedback, tailored to the individual, because recognition sustains the effort that correction guides, and feedback without balance produces compliance without engagement.
 
-### Personality-Based Feedback
+### Personality-Based Feedback That Produces Defensiveness
 
-Attacking character rather than behavior, producing defensiveness and damage. Focus on observable behavior.
+Attacking character rather than behavior — "you're not a team player" or "you lack initiative" — produces defensiveness and damage, because personality feedback feels like an attack on identity rather than behavior, and a person whose identity is attacked defends the identity rather than hearing the feedback, and the conversation becomes a conflict about who the person is rather than what the person did. The trap is that personality language feels like honest directness, so it is used, but character feedback is not more honest than behavioral feedback, it is less useful, because it provokes defense rather than change, and the behavior that prompted the feedback goes unaddressed. Focus on observable behavior and its impact, not on personality or character, because behavioral feedback invites change and personality feedback invites conflict, and the goal is change.
 
-### Telling Instead Of Coaching
+### Telling Instead Of Coaching That Creates Dependency
 
-Providing solutions rather than asking questions, creating dependency rather than capability. Ask and listen.
+Providing solutions rather than asking questions — telling the person what to do rather than helping them think through the problem — creates dependency rather than capability, because the person who is told the answer does not develop the ability to find the answer, and they return to the manager for the next answer, and the manager who tells rather than coaches produces employees who cannot operate independently. The trap is that telling is faster than coaching, so it feels efficient, but speed in the moment is purchased with dependency over time, and the manager who tells becomes the bottleneck for every decision. Ask open questions and listen, building the person's own capability to reason and decide, because coaching develops capability and telling develops dependency, and the goal is employees who can operate without the manager.
 
-### Inconsistent Or Cancelled Check-Ins
+### Inconsistent Or Cancelled Check-Ins That Signal Low Priority
 
-Treating one-on-ones as optional, so some people receive no regular attention. Protect the rhythm.
+Treating one-on-ones as optional — cancelling them when busy, rescheduling indefinitely, or holding them only when there is a problem — ensures that some people receive no regular attention, because the check-in rhythm that should guarantee every person regular access to their manager is treated as disposable, and the employees whose check-ins are cancelled learn that they are low priority, and the manager who does not hold regular check-ins has no relationship to draw on when difficult feedback is needed. The trap is that check-ins feel like overhead when there is nothing specific to discuss, so they are cancelled, but the check-in with nothing to discuss is the check-in that builds the relationship, and the relationship is what makes difficult conversations possible later. Protect the check-in rhythm consistently for every person, because a protected rhythm ensures every person receives attention, and attention is the foundation of trust and feedback.
 
-### Feedback Only From The Manager
+### Feedback Only From The Manager That Misses The Full Picture
 
-Relying on a single source, missing the richer input available from peers and stakeholders. Build a multi-directional feedback culture.
+Relying on a single source of feedback — the manager alone — misses the richer input available from peers, direct reports, and stakeholders, because the manager sees one slice of the person's work, and the slice the manager sees may not represent the whole, and the person who is excellent with peers but struggling with the manager, or vice versa, receives feedback that reflects only the manager's perspective. The trap is that the manager feels like the authoritative source, so other input is not gathered, but a single perspective is a partial perspective, and feedback from one source is more likely to be wrong than feedback from many. Build a multi-directional feedback culture, with the manager modeling receptivity and peers encouraged to give input, because the full picture requires multiple perspectives, and a single perspective is a distorted picture.
 
-### Saving Problems For Formal Action
+### Saving Problems For Formal Action That Escalates Avoidably
 
-Letting issues accumulate until they require formal performance management, when early feedback could have resolved them. Address early.
+Letting issues accumulate until they require formal performance management — avoiding the difficult early feedback conversation and waiting until the problem is serious enough to justify formal action — converts a manageable problem into a formal one, because early feedback could have resolved the issue before it escalated, and the person who is surprised by formal action was never given the fair chance to improve that timely feedback provides, and the formal action feels arbitrary because the person did not see it coming. The trap is that early feedback feels uncomfortable, so it is avoided, but avoidance converts discomfort into escalation, and the problem that could have been a conversation becomes a formal process. Address performance problems early through feedback, exploring causes and agreeing on actions, because early feedback resolves problems that late feedback escalates, and the conversation avoided today is the formal action required tomorrow.
 
 ## Self-Check
 

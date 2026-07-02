@@ -87,33 +87,33 @@ If an audit or inquiry identifies violations, address them promptly and comprehe
 
 ## Common Traps
 
-### No Protocol For Government Contact
+### The Unannounced Visit With No Protocol
 
-Being unprepared when a government agent arrives, leading to disorganized or harmful responses. Establish a protocol in advance.
+The government agent arrives unannounced at the reception desk. The receptionist, who has never been briefed on what to do, panics, calls the first HR person they can find, and that person — also unprepared — begins answering questions and handing over documents before anyone thinks to call counsel. By the time counsel is engaged, statements have been made and documents produced that cannot be unmade. The trap is that government site visits and audits are often unannounced precisely because the government wants to see the organization as it operates day-to-day, and an organization without a protocol will respond with confusion, over-cooperation, or panic, each of which creates exposure. A protocol — who to call, what to say, where to route the visitor, how to verify credentials, when to engage counsel — must exist before the visit, because the visit that reveals the absence of a protocol is the visit that creates the liability the protocol would have prevented.
 
-### Handling Inquiries Without Counsel
+### The Audit Managed Without Counsel
 
-Attempting to manage audits or site visits without legal counsel, increasing the risk of harmful disclosures. Engage counsel immediately.
+The audit notice arrives. HR, confident in its recordkeeping, begins responding directly — answering questions, producing documents, explaining processes — without engaging immigration counsel, because counsel is expensive and the records look fine. The trap is that HR does not know what the auditor is actually looking for, what the legal implications of each document are, or which responses create liability, because immigration compliance is a legal determination, not an HR determination, and the records that "look fine" to HR may contain violations that only a trained eye recognizes. Engaging counsel after harmful disclosures have been made is too late, because the disclosures are already in the government's hands. Counsel must be engaged before any response, because the cost of counsel is trivial compared to the cost of a response that inadvertently admits a violation, and the audit is a legal proceeding regardless of whether HR treats it as one.
 
-### Over-Producing Documents
+### The Over-Production That Creates Exposure
 
-Providing more documents or access than requested or required, creating unnecessary exposure. Produce within scope with counsel guidance.
+The auditor requests records for five sponsored employees. HR, wanting to appear cooperative, produces records for all twenty sponsored employees, plus related correspondence, plus internal emails discussing sponsorship decisions. The trap is that over-production — providing more than requested — does not demonstrate cooperation; it demonstrates a failure to understand scope, and it hands the government documents the government did not ask for and may not have had cause to examine, each of which may contain a separate violation. Cooperation means producing exactly what is requested, within the scope of the request, reviewed by counsel, because every document produced is a document that can be examined for violations, and a document the government did not request is a document the government would not have seen without the organization's "cooperation." Scope discipline, with counsel reviewing every production, is the protection against turning a narrow audit into a broad investigation.
 
-### Records That Do Not Match Practice
+### The Petition That Does Not Match Reality
 
-Maintaining petition descriptions or records that do not match actual roles, locations, or wages, creating fraud exposure. Ensure consistency.
+The petition describes a software developer working in the San Francisco office at a specified wage. The employee was subsequently promoted, moved to a different role, transferred to the Austin office, and given a different title — none of which was reflected in an amended petition. The audit finds that the employee's actual role, location, and wage do not match the petition on file. The trap is that immigration petitions describe a specific role at a specific location for a specific wage, and material changes (promotion, relocation, reclassification, wage reduction) require amended filings, because the petition is the government's understanding of what the organization certified, and a petition that does not match reality is not a stale document — it is a misrepresentation, potentially a fraudulent one. Any material change to a sponsored employee's role, location, or wage must trigger a review with counsel to determine whether an amendment is required, because the gap between the petition and reality grows with every unreported change, and the audit that finds the gap finds a fraud exposure that cannot be explained away.
 
-### Coaching Employees
+### Coaching Disguised As Preparation
 
-Instructing employees on what to say to government agents, which can constitute obstruction. Inform without coaching.
+The site visit is scheduled. HR, concerned that employees will say the wrong thing, instructs them on what to say: describe your role this way, mention these technologies, do not mention the relocation. The trap is that instructing employees on what to say to government agents is not preparation; it is coaching, and coaching that shapes testimony can constitute obstruction of justice or witness tampering, because the government is entitled to the employee's honest account of their work, not a script prepared by the employer. Employees must be informed of their rights (including the right to their own counsel), told the purpose of the visit, and reassured — but they must not be told what to say, because the line between preparation and coaching is the line between lawful support and unlawful interference, and an organization that crosses it converts a compliance matter into a criminal exposure.
 
-### Ignoring Self-Audit Findings
+### The Self-Audit That Finds Problems And Does Nothing
 
-Conducting self-audits but failing to address identified issues, allowing problems to persist until an external audit. Act on findings.
+HR conducts a self-audit, identifies that several public access files are incomplete, that some petitions do not match current roles, and that tracking deadlines have been missed. The findings are documented in a report that is filed and forgotten, because fixing the problems is expensive and no one wants to surface them to leadership. The trap is that a self-audit that identifies violations and does not correct them creates a record of knowing noncompliance, because the organization now has documented evidence that it knew about the violations and chose not to act, which transforms inadvertent errors into willful violations and dramatically increases penalty exposure. Self-audits must be paired with a commitment to act on findings, because an unacted-upon self-audit is worse than no audit at all: it proves the organization's knowledge and the organization's choice to ignore that knowledge, and that proof is the government's strongest evidence in an enforcement action.
 
-### Disorganized Document Production
+### The Disorganized Production That Looks Like Noncompliance
 
-Producing disorganized or incomplete documents, creating the impression of noncompliance. Organize and review production carefully.
+The documents are produced — but they are disorganized: files are missing, records are in the wrong order, some are duplicates, others are incomplete, and the production looks like the work of an organization that does not have its records in order. The trap is that the organization's compliance is judged partly by the quality of its production, because a disorganized production signals that the organization does not manage its immigration records systematically, and the auditor infers — reasonably — that an organization that cannot organize its documents for an audit is an organization whose day-to-day compliance is also disorganized. Organized, complete, well-presented production signals a compliant organization and makes it easier for the auditor to reach a favorable conclusion, because the auditor's impression of the organization is shaped by what they see, and what they see first is how the documents are presented. Careful preparation of the production, with counsel review, is not cosmetic; it is substantive, because the organization's credibility depends on the appearance of competence as much as on the substance of compliance.
 
 ## Self-Check
 

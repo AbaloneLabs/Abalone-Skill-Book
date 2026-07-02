@@ -87,29 +87,29 @@ Inclusion without advancement is tokenism. Employees who feel included but see n
 
 ## Common Traps
 
-### Values Without Behavioral Change
+### Declaring Values Without Changing Behavior
 
-Declaring inclusive values without changing daily interactions, creating cynicism. Change behaviors.
+Publishing inclusive values, posters, and pledges without changing the daily interactions in which inclusion is actually experienced — who gets interrupted, who gets credit, who gets heard in a meeting — creates a gap between the stated culture and the lived one that employees experience as hypocrisy. The declarations feel like progress to leadership, but to employees they are evidence that leadership either does not understand or does not care about the daily reality. Focus on changing the specific behaviors that constitute inclusion in practice — meeting norms, interruption patterns, credit attribution, who speaks and who is heard — because inclusion is a pattern of interactions, not a poster.
 
 ### Inclusive Discussion, Exclusive Decisions
 
-Soliciting broad input but deciding behind closed doors or through informal networks, signaling exclusion. Make decision-making transparent and inclusive.
+Organizations often solicit broad input — surveys, town halls, open forums — creating a sense of participation, while the actual decisions are made behind closed doors or through informal networks that exclude the broader workforce. The pattern is corrosive because it teaches employees that their input is collected but not used, which produces a more durable cynicism than never being asked at all. Make decision-making transparent, close the loop on what input was considered and how it shaped the outcome, and when a decision cannot be influenced, say so honestly rather than staging a consultation that performs inclusion without practicing it.
 
-### Ignoring Microaggressions
+### Dismissing Microaggressions As Oversensitivity
 
-Dismissing subtle exclusion as oversensitivity, allowing cumulative harm. Address microaggressions through coaching and clear expectations.
+Microaggressions — the repeated, subtle slights that individually seem trivial — accumulate into a daily signal of non-belonging that is invisible to those who do not experience it and exhausting to those who do. When leaders dismiss a concern about a microaggression as "reading too much into it" or "being too sensitive," they invalidate the experience and license the behavior to continue, which over time drives out the very employees the inclusion work was meant to retain. Take microaggressions seriously, address them through coaching and clear behavioral expectations, and recognize that the harm is cumulative and pattern-based, not a matter of any single incident.
 
 ### Tolerating Exclusion By High Performers
 
-Allowing high-performing leaders to behave in exclusionary ways, signaling inclusion is optional. Hold all leaders accountable.
+When a top salesperson, a brilliant engineer, or a senior leader behaves in exclusionary ways and the organization declines to address it because of their performance, the entire workforce receives the message that inclusion is optional for the valuable and mandatory only for the expendable. This single concession undoes years of inclusion work, because employees correctly read it as the true statement of what is rewarded, and it cascades as each layer of management learns the real rules. Hold all employees, especially high performers and senior leaders, to the same behavioral standards, because tolerating exclusion by the powerful teaches exclusion as the actual culture.
 
 ### Inclusion Without Advancement
 
-Creating a sense of belonging without addressing advancement barriers, resulting in tokenism and eventual departure. Pair inclusion with equitable advancement.
+Creating a warm, welcoming environment where underrepresented employees feel a sense of belonging — but where the advancement systems (sponsorship, high-visibility assignments, promotion calibration, pay equity) remain unchanged — produces tokenism with a friendly face: employees feel included right up until they hit the same barriers and then leave, often more disillusioned than if they had never felt included at all. Pair every inclusion initiative with an examination of the advancement pipeline, because belonging without a path forward is a retention strategy that fails at the exact moment it is most needed.
 
-### Asking About Inclusion Without Acting
+### Surveying Belonging Without Acting
 
-Surveying belonging without responding to findings, eroding trust. Act and communicate actions.
+Measuring inclusion and belonging through surveys, then failing to communicate results or take visible action on the findings, is worse than not surveying, because it raises expectations and then disappoints them, converting a diagnostic into evidence of indifference. Employees who took the time to answer honestly conclude that their input was extracted for a dashboard, not used for change, and their engagement in future measurement collapses. Act on survey findings, communicate what was heard and what is being done, and be honest about what cannot be changed and why, because the credibility of future measurement depends on the loop being closed after this one.
 
 ## Self-Check
 

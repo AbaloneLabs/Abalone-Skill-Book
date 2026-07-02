@@ -92,31 +92,31 @@ Culture work that is perceived as inauthentic, values posters that do not match 
 
 ### Assessing Statements Instead Of Behaviors
 
-Evaluating culture through values statements rather than actual behaviors and systems. Assess what happens.
+Reading a values poster or a survey of stated beliefs and treating it as the culture is comforting but misleading, because the gap between espoused and actual culture is often where the most consequential dynamics live. An organization can score well on "we value collaboration" while its bonus system rewards individual heroics and its meetings are dominated by the loudest voice. Assess culture through observable behavior — who gets promoted, what is tolerated, how decisions are actually made, what happens to dissent — because those are the signals employees use to decide what is real.
 
 ### Values Posters Without System Change
 
-Launching culture initiatives with posters and events, without changing the systems that shape behavior. Drive change through systems.
+Launching a culture initiative with refreshed values, posters, and town halls without altering the systems that shape behavior produces a specific kind of damage: it widens the gap between what the organization says and what employees experience, and that gap is itself a driver of cynicism. Employees do not resent a flawed culture as much as they resent being told a flattering story about it. Drive culture change through the systems that govern daily decisions — hiring criteria, performance evaluation, promotion, compensation, meeting norms, and consequence application — because behavior follows incentives and structures, not declarations.
 
 ### Tolerating Misaligned Leadership
 
-Allowing leaders to behave inconsistently with the stated culture, signaling that the statements are not serious. Hold leaders accountable.
+When a senior leader visibly violates the stated culture and faces no consequence, the organization receives a louder message than any town hall can send: the values are optional for the powerful. This single act of tolerance undoes years of culture work because employees correctly read it as the true statement of what is rewarded. The harm compounds when the misaligned leader is a high performer, because it teaches that results buy an exemption from cultural expectations, which then cascades through the management chain as each layer learns the real rules.
 
 ### Blaming Culture For Structural Problems
 
-Attributing problems to culture when they are caused by strategy, structure, or leadership decisions, avoiding the real fix. Diagnose accurately.
+Attributing a performance, coordination, or execution problem to "culture" when the actual cause is a strategy that is unclear, a structure that creates conflicting incentives, or a leadership decision that under-resources the work, leads to years of culture interventions that cannot fix the issue. The culture work absorbs energy and budget while the structural cause continues to generate the same symptoms, and the organization concludes that culture change is futile. Diagnose the true driver before prescribing culture work — if the problem disappears with a reorg, a clearer goal, or a budget change, it was never culture.
 
 ### Unrealistic Change Timelines
 
-Expecting culture change in months and abandoning the effort when it does not happen. Sustain over years.
+Culture change operates on the timescale of turnover and habit formation — typically two to five years for a meaningful shift in a large organization — yet sponsors often expect visible results within a quarter or two. When the expected transformation does not appear, the initiative is declared failed and replaced with a new one, which itself is abandoned on the same timeline, producing a graveyard of culture programs that teaches the workforce that none of them are serious. Set multi-year expectations, measure leading indicators of behavior shift rather than lagging sentiment scores, and protect the initiative through leadership turnover and budget pressure.
 
-### Culture As Euphemism
+### Culture As A Euphemism
 
-Using culture to avoid difficult conversations about behaviors, performance, or decisions. Be direct.
+Using "culture fit" or "culture issue" as a polite substitute for a difficult conversation about a specific behavior, a performance gap, or a decision someone dislikes, degrades the concept into a vague, unfalsifiable label that can be deployed to exclude or dismiss without accountability. It lets managers avoid naming the actual problem and gives the accused no clear path to improve, because "not a culture fit" is unactionable. Name the specific behavior or decision at issue directly, and reserve culture language for genuine shared-norm questions.
 
 ### Initiative Fatigue
 
-Shifting to new culture initiatives each quarter, preventing any from taking hold. Maintain consistent focus.
+Launching a new culture or values initiative each quarter, often driven by a new leader wanting to make a mark, prevents any single change from taking hold because culture requires repetition and stability to embed. Employees learn to wait out each wave, offering surface compliance while their actual behavior stays unchanged, and the organization accumulates a reputation for chasing fads. Maintain a consistent, multi-year focus on a small number of cultural priorities, and measure progress against those rather than relaunching.
 
 ## Self-Check
 

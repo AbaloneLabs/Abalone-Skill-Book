@@ -103,31 +103,27 @@ Plan terminations and mergers are complex events with significant fiduciary and 
 
 ### No Documented Fiduciary Process
 
-Making investment and vendor decisions without documented analysis, unable to demonstrate prudence. Document the process.
+ERISA fiduciary decisions — selecting investments, setting fees, choosing service providers — must be made through a prudent process, and the prudence is demonstrated only through documentation created at the time of the decision. The trap is that fiduciaries make sound decisions through deliberation and discussion but do not document the process, so when the decision is later challenged — in a participant lawsuit, a DOL audit, or a fee complaint — there is no evidence that prudence was exercised, and the fiduciary must defend the outcome rather than the process. Document every fiduciary decision with the information considered, the alternatives evaluated, the rationale, and the date, because under ERISA the process is the defense, and a prudent decision that cannot be proven prudent is treated as imprudent.
 
 ### Excessive Or Unexamined Fees
 
-Allowing high fees to persist without benchmarking or negotiation, violating the duty of prudence. Benchmark and manage fees.
+Retirement plan fees — recordkeeping, investment management, advisory, and administrative — are paid by participants and are subject to the fiduciary duty of reasonableness, and allowing fees to persist above market without benchmarking or negotiation is a fiduciary breach. The trap is that fees are often embedded in expense ratios and revenue-sharing arrangements that are invisible to the committee, so the plan pays above-market fees for years without anyone knowing, and the accumulated overpayment is substantial. Benchmark fees against comparable plans at least annually, understand the full fee structure including revenue sharing, negotiate or restructure when fees are above market, and document the analysis, because excessive fees are the most common basis for retirement plan litigation and the most avoidable.
 
-### Investment Selection By Brand
+### Investment Selection By Brand Recognition
 
-Choosing investments based on recognition rather than analysis of performance, fees, and risk. Analyze investments.
+Selecting investments because the fund family is well-known or the manager is prominent, without analyzing performance net of fees, risk-adjusted returns, benchmark comparison, and fit within the menu, produces a menu that looks respectable but may be dominated by high-fee, underperforming options. The trap is that brand recognition feels prudent — no one is criticized for selecting a well-known fund — but it substitutes reputation for analysis, and the fiduciary duty requires analysis. Evaluate every investment against objective criteria — net expense ratio, tracking error, risk-adjusted performance, benchmark fit — and document the analysis, because the fiduciary duty is to the participants' financial interests, not to the fund's reputation.
 
-### Testing Failures Without Correction
+### Nondiscrimination Testing Failures Without Timely Correction
 
-Failing nondiscrimination testing and not taking timely corrective action. Test and correct promptly.
+Retirement plans must annually test that benefits do not discriminate in favor of highly compensated employees, and a failed test requires corrective action — typically additional contributions or refunds — within specific IRS correction windows. The trap is treating testing as a year-end administrative step performed after the plan year closes, when a failure discovered too late may require corrective distributions to HCEs that reduce their retirement savings, or employer corrective contributions that were not budgeted. Run testing projections mid-year, while eligibility and contribution patterns can still be adjusted, and confirm final testing promptly after year-end, because a late-discovered failure limits correction options and may require more costly remedies.
 
-### Late Or Inaccurate Reporting
+### Low Participation Despite Significant Employer Cost
 
-Missing Form 5500 or disclosure deadlines, generating penalties. Track and meet deadlines.
+A retirement plan with a generous employer match that many employees do not use is a significant cost producing no retention or savings benefit, and the unused match is money the organization spends for no return. The trap is assuming that the existence of the match is sufficient to drive participation, when in reality barriers — complex enrollment, default opt-in not implemented, lack of understanding, immediate cash needs — prevent employees from claiming the benefit. Use automatic enrollment with an opt-out, simplify enrollment, communicate the match as money the employee is leaving on the table, and track participation by segment, because an unclaimed employer match is both a wasted spend and a failure of the plan's purpose.
 
-### Passive Vendor Management
+### Plan Changes Implemented Without Participant Protection
 
-Selecting vendors without competitive review or performance monitoring. Manage vendors actively.
-
-### Low Participation Despite Employer Cost
-
-Offering a generous employer contribution that many employees do not use, due to poor communication or enrollment barriers. Communicate and simplify enrollment.
+Plan design changes — mergers, freezes, conversions, terminations — affect participants' accrued benefits and carry fiduciary obligations that extend beyond the business decision, and implementing a change without protecting participant interests (mapping accounts correctly, preserving vesting, communicating clearly, providing transition support) creates fiduciary exposure. The trap is treating the change as a corporate transaction driven by finance or leadership, with the fiduciary obligations as an afterthought. Engage ERISA counsel and the recordkeeper early, map every participant's account and benefit through the transition, communicate clearly, and document the fiduciary considerations, because a plan change that harms participants is a fiduciary breach regardless of the business rationale.
 
 ## Self-Check
 

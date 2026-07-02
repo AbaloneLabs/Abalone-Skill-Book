@@ -41,31 +41,23 @@ Annual open enrollment is the peak period for tax-advantaged program administrat
 
 ### Programs Without Written Plan Documents
 
-Ad hoc tax-advantaged programs without written plans fail compliance. Document the cafeteria plan and each component in written plan documents.
+Cafeteria plans, FSAs, HRAs, and dependent care accounts are not informal arrangements; they are tax-qualified programs that exist only by virtue of a written plan document adopted by the employer, and without that document the program is legally non-existent even if it is operating. The trap is launching a tax-advantaged benefit — often a pre-tax commuter or FSA program — through payroll or a vendor without executing the plan document, which means the pre-tax treatment is unsupported and the employer faces tax liability for the unsheltered amounts. Adopt a written plan document for every tax-advantaged program before accepting any pre-tax contributions, and amend the document whenever the program changes, because the plan document is the legal instrument that makes the tax advantage real.
 
 ### Impermissible Mid-Year Election Changes
 
-Allowing election changes that do not qualify as permitted change events jeopardizes tax-qualified status. Train staff on the rules and document each change's basis.
+Section 125 cafeteria plan elections are irrevocable for the plan year except for specific permitted change events — change in status, cost or coverage changes, and special enrollment — and allowing changes outside these events breaks the plan's tax-qualified status. The trap is the pressure from employees and managers to accommodate "reasonable" requests that do not fit the permitted change categories, each of which seems small but each of which is a technical violation that, in aggregate, can disqualify the plan. Train administrative staff on the specific permitted change events, require documentation of the basis for every mid-year change, and decline changes that do not qualify, because one disqualifying plan affects every participant's pre-tax treatment.
 
-### Claims Processing Errors and Delays
+### Claims Processing Errors And Delays
 
-Denials without notice, ineligible expense payment, and delays create frustration and risk. Process within regulatory timeframes and audit TPA performance.
+FSA, HRA, and dependent care claims are subject to specific substantiation and timing rules, and processing errors — paying ineligible expenses, denying claims without required notice, or delaying beyond regulatory timeframes — create both employee frustration and compliance exposure. The trap is that claims administration is often delegated to a TPA whose error rate is not monitored, so the employer discovers problems only through employee complaints or an audit, by which point the errors have accumulated. Audit TPA claims processing for accuracy and timeliness, confirm that denials include the required regulatory notices, and substantiate every claim, because a pattern of unsubstantiated claims undermines the integrity of the entire tax-advantaged program.
 
-### Programs Under-Communicated, Low Participation
+### HSA Disqualifying Coverage Or Excess Contributions
 
-Confusing programs with poor communication have low participation, leaving tax savings unclaimed. Communicate in plain language with decision-support tools.
+HSA eligibility requires enrollment in an HDHP and the absence of disqualifying other coverage — including general-purpose HRAs, FSAs that cover medical expenses, and some spouse coverage — and the interaction between these programs is the most common source of HSA eligibility errors. The trap is offering an HSA alongside a general-purpose HRA or a post-deductible FSA without understanding the coordination rules, which silently disqualifies employees who enrolled in the HSA and exposes them to tax penalties. Design HSA-compatible programs (limited-purpose HRAs, post-deductible FSAs), verify HDHP enrollment for every HSA contributor, and track contribution limits across all sources including employer contributions and spouse contributions, because an HSA eligibility error creates a tax liability for the employee that the employer caused.
 
-### HSA Disqualifying Coverage or Excess Contributions
+### Open Enrollment Treated As Routine
 
-Non-HDHP coverage or general-purpose HRAs disqualify HSA eligibility; excess contributions create tax consequences. Ensure HDHP enrollment and track limits across sources.
-
-### Tax Reporting Errors
-
-Incorrect W-2 coding or missed nondiscrimination testing creates employee tax problems and liability. Coordinate reporting and conduct annual testing.
-
-### Open Enrollment Treated as Routine
-
-Open enrollment errors create year-long problems. Treat it as a project with timeline, owners, testing, and confirmation.
+Open enrollment is the single most consequential annual transaction in benefits administration — every employee's coverage for the entire year is determined in a window of weeks — and treating it as a routine recurring task produces systemic errors: incorrect rates, missed dependents, wrong plans, failed system loads. The trap is that these errors are not discovered at enrollment but months later, when a claim is denied or a dependent is found uninsured, and the correction is far more difficult and costly than getting it right the first time. Treat open enrollment as a project with a timeline, dedicated owners, system testing, election confirmation, and a post-enrollment audit, because the cost of an enrollment error is borne across an entire plan year.
 
 ## Self-Check
 

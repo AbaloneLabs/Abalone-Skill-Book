@@ -88,29 +88,29 @@ Performative DEI is visible activity, such as statements, events, and branding, 
 
 ## Common Traps
 
-### Activity Before Diagnosis
+### Launching Activity Before Diagnosis
 
-Launching training and events before understanding where inequity exists and why, wasting effort on generic solutions. Diagnose first.
+When an organization responds to pressure — internal or external — to "do something about DEI" by immediately scheduling training, hosting events, and publishing statements, it skips the diagnostic step that would tell it where inequity actually lives and what is causing it. The result is a portfolio of generic interventions that feel like progress but address none of the specific mechanisms — a biased promotion calibration, a sourcing channel that excludes, a pay band that compresses — that generate the observed disparities. Diagnose first, with data disaggregated across the employee lifecycle, because a strategy built without knowing where the gaps are and why they exist will spend its entire budget on the wrong interventions.
 
-### Training As The Solution
+### Treating Awareness Training As The Solution
 
-Relying on awareness training to change outcomes without addressing the systems that produce them. Change systems.
+Unconscious bias training raises individual awareness, but outcomes are produced by systems — who gets sourced, who gets interviewed, who gets promoted, who gets paid what — and awareness does not change a system whose structure continues to generate the same outcomes. When training is treated as the intervention, the organization can report high completion rates while every metric stays flat, and the training itself becomes a source of cynicism when employees see that nothing around them changed. Pair training with system change: fix the sourcing, the evaluation criteria, the calibration, the pay bands, and treat training as enabling the people who operate those systems to apply the new design, not as a substitute for the redesign.
 
-### Aspirational Goals Without System Targets
+### Aspirational Representation Goals Without System Targets
 
-Setting representation goals without tying them to the hiring, promotion, and compensation decisions that produce representation. Target specific systems.
+A representation goal — "increase women in leadership to 40 percent" — states an outcome without identifying the levers that produce it, so the organization has no mechanism to reach it and no accountability when it misses. Representation is the downstream product of hundreds of hiring, promotion, and retention decisions, and a goal that does not target those specific decisions is a wish. Tie every representation goal to the specific system targets that produce it — the diversity of the slate at each stage, the promotion rate parity, the retention rate parity — because a goal without a mechanism is an aspiration that will be missed and then quietly abandoned.
 
 ### Leadership Endorsement Without Accountability
 
-Leaders expressing support without owning specific goals and outcomes, leaving DEI to volunteers or staff functions. Assign accountability.
+When senior leaders express strong support for DEI but own no specific goals, face no consequence for outcomes, and delegate the work to volunteers or a staff function, the endorsement signals that DEI is a value to be praised but not a result to be delivered. The staff function is then held responsible for outcomes it has no authority to produce, and leaders continue to make the hiring, promotion, and compensation decisions that actually determine the metrics. Assign specific, measurable DEI goals to named senior leaders, tie progress to their evaluation and compensation, and locate accountability where the authority to change outcomes actually sits.
 
-### Unpaid DEI Labor
+### Unpaid DEI Labor On The Already Disadvantaged
 
-Relying on underrepresented employees to drive DEI through informal committees and mentoring, burdening those already disadvantaged. Compensate and share the burden.
+DEI work is disproportionately shouldered by employees from underrepresented groups — through ERG leadership, informal mentoring, being asked to speak on panels, and serving on committees — and this labor is usually uncompensated, unrecognized in performance evaluation, and extracted from the very people the system already disadvantages. The consequence is that the employees most burdened by inequity are asked to fix it on top of their day jobs, which slows their advancement while their peers advance, deepening the inequity the DEI work was meant to address. Compensate significant DEI labor, count it in performance evaluation, and distribute the burden across the majority group, because equity cannot be achieved by extracting free labor from the disadvantaged.
 
-### Performative Statements Without Change
+### Performative Statements Without Systemic Change
 
-Making public commitments and hosting events without systemic change, creating cynicism. Back statements with action.
+Public commitments, branded campaigns, and high-profile events generate visibility and goodwill, but when they are not backed by internal system change, they create a gap between what the organization says and what employees experience — and that gap is itself a driver of cynicism and disengagement that is worse than silence. Employees read performative DEI as evidence that leadership cares about image more than about them, and the external audience eventually notices the gap between the statements and the metrics. Back every public commitment with a specific, measurable internal action, and be honest about setbacks, because credibility is built by consistency between words and systems, not by the eloquence of the words alone.
 
 ## Self-Check
 

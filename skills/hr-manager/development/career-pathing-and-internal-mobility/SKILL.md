@@ -125,37 +125,37 @@ Measurement reveals whether the career pathing and mobility program is real or a
 
 ## Common Traps
 
-### Unrealistic Ladder
+### Unrealistic Ladder That Devalues Lateral Growth And Technical Expertise
 
-Designing career paths as a single upward ladder that few can climb, devaluing lateral growth and technical expertise. Define realistic multi-directional paths.
+Designing career paths as a single upward ladder that few can climb — a framework where the only direction is up, and where everyone is expected to aspire to management — devalues lateral growth and technical expertise, because a single ladder implies that those who do not climb are failing, and the technical expert who deepens expertise rather than managing is treated as stagnant, and the person who would benefit from a lateral move into a new function has no path because the only path is up, and the framework produces frustration for everyone who cannot or does not want to climb the single ladder. The trap is that an upward ladder feels like a clear and motivating path, so it is used, but a single ladder is a path that most people cannot take, and a path that most people cannot take is a path that produces frustration rather than motivation. Define realistic multi-directional paths, including lateral moves and dual tracks for technical and management growth, because multi-directional paths reflect how careers actually develop, and a single ladder reflects an idealization that excludes most of the workforce.
 
-### Invisible Opportunities
+### Invisible Opportunities That Force Employees To Leave To Grow
 
-Not posting internal roles or posting them as a formality, so employees cannot pursue growth. Make opportunities visible and accessible.
+Not posting internal roles, or posting them as a formality after the external candidate is already identified — opportunities that employees cannot see or that are not genuinely available — forces employees to leave to grow, because an employee who cannot see internal opportunities cannot pursue them, and an employee who sees that internal postings are a formality learns that internal mobility is not real, and the employee who wants to grow has no visible path inside the organization, so they look outside, and the organization loses talent it could have retained. The trap is that posting internally feels like extra work or risk, so it is minimized, but invisible opportunities produce invisible mobility, and invisible mobility produces turnover, and the employee who left for an external role may have stayed for an internal role they never saw. Make internal opportunities visible and accessible, posting them before or simultaneously with external postings, because visible opportunities enable internal mobility, and invisible opportunities force external moves.
 
-### Lateral Moves Penalized
+### Lateral Moves Penalized That Discourage Valuable Development
 
-Treating lateral moves as stagnation or reducing pay, discouraging valuable development. Support lateral moves as genuine growth.
+Treating lateral moves as stagnation or reducing pay — framing a lateral move as a failure to advance, or cutting the employee's pay or status when they move laterally — discourages valuable development, because a lateral move is often the most powerful development experience available, building breadth and capability that vertical promotion cannot, and penalizing the employee for taking it ensures that no one takes it, and the organization loses the cross-trained, networked, agile workforce that lateral mobility creates. The trap is that lateral moves feel like non-advancement, so they are penalized, but a lateral move that builds capability is advancement, and penalizing it is penalizing the development that the organization needs. Support lateral moves as genuine development, without penalty to pay or status, because a supported lateral move builds the organization's capability, and a penalized lateral move ensures that no one develops.
 
-### Talent Hoarding
+### Talent Hoarding That Creates Bottlenecks And Frustration
 
-Allowing managers to block mobility to retain good people, creating bottlenecks and frustration. Address and measure talent development.
+Allowing managers to block mobility to retain good people — managers who refuse to let their best employees move to other roles, hoarding talent to protect their own team's performance — creates bottlenecks and frustration, because the hoarded employee is trapped in a role they have outgrown, and the role they would have moved to goes unfilled or is filled externally, and the organization's talent is concentrated rather than distributed, and the employee who is blocked from moving eventually leaves entirely, so the manager who hoarded talent loses the talent they were trying to keep. The trap is that holding onto good people feels like good management, so it is practiced, but hoarding talent is not good management, it is bottlenecking, and a manager who never lets anyone leave is a manager who prevents development across the organization. Address talent hoarding through expectations, measurement, and recognition of talent development, because a manager who develops and releases talent serves the organization, and a manager who hoards talent serves only themselves.
 
-### No Preparation For Internal Candidates
+### No Preparation For Internal Candidates That Sets Them Up For Failure
 
-Promoting internal candidates without development support, setting them up for failure. Prepare employees for target roles.
+Promoting internal candidates without development support — assuming that internal candidates can figure out the new role because they are already in the organization — sets them up for failure, because the new role requires capabilities that the current role did not build, and the internal candidate who is promoted without preparation faces a capability gap they were not helped to close, and the failure that follows confirms the bias that external candidates are safer, creating a cycle where internal candidates are promoted unprepared, fail, and the organization concludes that internal mobility does not work. The trap is that internal candidates feel like known quantities, so preparation seems unnecessary, but a known quantity in the current role is an unknown quantity in the next role, and promotion without preparation is promotion with a predictable failure rate. Prepare employees for target roles through development, stretch assignments, and transparent requirements, because a prepared internal candidate succeeds, and an unprepared internal candidate fails in a way that undermines the entire mobility program.
 
-### Non-Transparent Selection
+### Non-Transparent Selection That Destroys Trust In The Process
 
-Filling internal roles through closed processes or pre-determined outcomes, discouraging future applications. Ensure fairness and transparency.
+Filling internal roles through closed processes or pre-determined outcomes — selecting the hiring manager's preferred candidate before the posting, or making the selection through a process that no one can see — destroys trust in the mobility program, because employees who see that internal selection is predetermined learn that applying is pointless, and the employee who applies in good faith and is rejected without feedback or transparent rationale concludes that the process was not fair, and the employee who sees a colleague promoted through a closed process stops trusting the organization's commitment to internal mobility, and the program dies not from lack of roles but from lack of trust. The trap is that closed processes feel efficient, so they are used, but efficiency that destroys trust is efficiency that kills the program, and a mobility program without trust is a program that no one participates in. Ensure fairness and transparency in internal selection, with consistent criteria, genuine consideration, and feedback provided, because a transparent process builds trust and participation, and an opaque process destroys both.
 
-### Disconnected From Development
+### Disconnected From Development That Makes Career Paths Irrelevant
 
-Creating career paths that are not connected to performance, development, or training, making them irrelevant. Integrate with people processes.
+Creating career paths that are not connected to performance, development, or training — a career framework that exists as a document but is never referenced in performance discussions, development planning, or training decisions — makes the paths irrelevant, because a career path that is not integrated into ongoing management is a path that is forgotten, and the employee who discussed their career goals once and never again has no living path, only a historical document, and the framework provides no guidance because no one uses it. The trap is that the career framework feels complete when created, so integration is not pursued, but a framework that is not integrated is a framework that is inert, and an inert framework changes nothing. Integrate career paths with performance management, development planning, and training resources, because an integrated path is a living path, and a disconnected path is a document that no one reads.
 
-### No Measurement
+### No Measurement That Hides Whether The Program Works
 
-Not tracking internal fill rates or mobility patterns, so the program's effectiveness is unknown. Measure and monitor.
+Not tracking internal fill rates or mobility patterns — running a mobility program with no data on whether internal candidates are filling roles, whether mobility is reducing turnover, or whether it is accessible to all groups — hides whether the program works, because without measurement the program's effectiveness is unknown, and a program whose effectiveness is unknown may be failing without anyone knowing, and the failure is discovered when key talent leaves because they saw no internal opportunities, or when a demographic audit reveals that mobility is concentrated in one group. The trap is that the program felt complete when launched, so measurement is not added, but a program that is not measured is a program that cannot be improved or defended, and an unmeasured program may be failing silently. Measure and monitor internal fill rates, efficiency, demographic distribution, and retention impact, because measurement reveals whether the program is real or aspirational, and an unmeasured program is a program whose effectiveness is a guess.
 
 ## Self-Check
 

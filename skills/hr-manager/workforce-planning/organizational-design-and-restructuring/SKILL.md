@@ -87,31 +87,31 @@ Restructuring should be evaluated against its objectives, not assumed successful
 
 ### Restructuring As Performance Theater
 
-Reorganizing to appear decisive or to signal change, without strategic purpose, producing churn without benefit. Ensure structure follows strategy.
+Reorganizing to appear decisive, to signal that the new leader is taking action, or to create the appearance of change without a clear strategic purpose produces churn without benefit — reporting lines move, titles change, teams reshuffle, but the underlying problems remain and new friction is introduced. The trap is that restructuring feels like progress (boxes are moving on the org chart, announcements are being made), so it satisfies the pressure to act, but without a strategic driver the new structure is as arbitrary as the old one and the disruption costs real productivity and trust. The damage compounds when the next leader arrives and reorganizes again, each cycle eroding the belief that the structure is stable enough to invest in. Structure must follow strategy; restructuring without a strategic purpose is theater that the audience — the employees — sees through immediately.
 
-### Structural Solution To Non-Structural Problem
+### Structural Solution To A Non-Structural Problem
 
-Restructuring to solve leadership, culture, or capability problems that restructuring will not fix, creating new problems. Diagnose first.
+Restructuring to solve a problem that is not structural — a leadership gap, a culture of avoidance, a capability deficit, a broken process — creates a new structure that exhibits the same dysfunction, because the root cause was never addressed. The trap is that restructuring feels like a comprehensive fix (we are changing everything), so it is applied as a universal remedy, but a leadership problem persists regardless of reporting lines, a culture problem persists regardless of team composition, and a capability gap persists regardless of how work is grouped. The organization reorganizes, the problems reappear in the new structure, and the conclusion is drawn that the restructuring failed — when in fact it was the wrong intervention from the start. Diagnosing whether the problem is structural before restructuring is what prevents this expensive misfire.
 
-### Frequent Reorganizations
+### Frequent Reorganizations Preventing Stabilization
 
-Restructuring repeatedly, preventing stabilization and destroying knowledge and trust. Reserve restructuring for genuine strategic need.
+Restructuring repeatedly — every time a new leader arrives, every time performance dips, every time the market shifts — prevents the organization from ever stabilizing, because teams need time to form, relationships need time to build, and institutional knowledge needs time to accumulate, and chronic restructuring resets all three before they mature. The trap is that each restructuring is justified individually (this one is different, this one is necessary), so no single decision looks reckless, but the cumulative effect is an organization that operates in perpetual transition, where no one knows the structure well enough to work effectively within it. The cost is invisible — it shows up as slow execution, duplicated effort, and disengagement — but it is enormous. Reserving restructuring for genuine strategic shifts, and allowing sufficient time between reorganizations for stabilization, is what prevents the organization from being perpetually disrupted by its own structure.
 
-### Ignoring Human Cost
+### Treating Human Cost As Logistics
 
-Treating role eliminations and disruption as mere logistics, eroding trust and engagement. Center the human cost.
+Treating role eliminations, reporting changes, and team disruption as logistical events to be managed — notifications scheduled, severance calculated, systems updated — without recognizing the human impact erodes trust and engagement in ways that persist long after the restructuring is complete. The trap is that the logistical view feels thorough and professional (every step is planned, every system updated), so it appears the human dimension is being handled, but employees experience restructuring as threat, loss, and uncertainty, and a process that addresses only the logistics leaves the emotional aftermath unmanaged. The survivors watch how the departed were treated and draw conclusions about how they will be treated, and a cold, efficient process signals that people are interchangeable resources. Centering the human cost — with genuine communication, real support, and visible respect — is what preserves the trust that the restructuring will need going forward.
 
-### Poor Communication
+### Communication That Amplifies Anxiety
 
-Communicating late, vaguely, or dishonestly, amplifying anxiety and rumor. Communicate clearly, honestly, and timely.
+Communicating late, vaguely, or dishonestly during a restructuring amplifies the anxiety and rumor that the communication was meant to prevent — employees fill the information vacuum with worst-case scenarios, trust erodes as the gap between what is known and what is rumored widens, and by the time the official announcement arrives, the workforce has already processed it through the lens of distrust. The trap is that the organization delays communication to avoid causing anxiety, but the delay causes more anxiety than the truth would have, because uncertainty is more stressful than bad news. Vague euphemisms — "right-sizing," "synergies," "creating efficiencies" — signal dishonesty and confirm the suspicion that the news is worse than being said. Clear, honest, timely communication, even when the news is difficult, is what contains anxiety; evasion is what spreads it.
 
-### Knowledge Loss
+### Institutional Knowledge Lost In Transition
 
-Failing to transfer critical knowledge from departing employees, creating capability gaps. Plan knowledge transfer deliberately.
+Failing to identify and transfer the critical knowledge held by departing employees — the undocumented processes, the vendor relationships, the technical history, the informal networks — creates capability gaps that surface as operational failures weeks or months after the restructuring, when no one can answer the question that the departed person always answered. The trap is that knowledge is invisible (it is not on any org chart or in any system), so it is not identified as an asset at risk, and the restructuring proceeds as if the departing people are simply slots to be eliminated rather than repositories of institutional memory. The gaps appear later, attributed to "transition issues" rather than to the preventable loss of knowledge that was never captured. Deliberate knowledge identification, transfer planning, and retention of critical knowledge holders are what prevent the restructuring from trading short-term cost savings for long-term capability loss.
 
 ### No Outcome Evaluation
 
-Completing the restructuring without measuring whether it delivered the intended benefits, repeating the same mistakes. Evaluate and learn.
+Completing a restructuring and moving on without measuring whether it delivered the intended benefits — faster decisions, lower cost, clearer accountability, better execution — guarantees that the same mistakes are repeated, because the organization has no evidence about what works and what does not, and the next restructuring is designed on the same untested assumptions. The trap is that the restructuring feels complete when the new structure is in place and the announcements are made, so evaluation feels unnecessary, but the structural change is the beginning of the intervention, not the end. Without measurement against predefined objectives, the organization cannot distinguish a successful redesign from a failed one, cannot learn what design principles work in its context, and cannot resist the pressure to restructure again when the unmeasured benefits fail to materialize. Defining success metrics before the restructuring and evaluating honestly after sufficient time is what converts restructuring from a recurring disruption into a learned capability.
 
 ## Self-Check
 

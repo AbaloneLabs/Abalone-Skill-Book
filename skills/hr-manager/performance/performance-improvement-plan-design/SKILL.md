@@ -128,37 +128,37 @@ A person who successfully completes a PIP should not be stigmatized or held to a
 
 ## Common Traps
 
-### The Sham PIP
+### The Sham PIP Designed As A Predetermined Path To Termination
 
-Designing a PIP with impossible expectations or no support, as a predetermined path to separation. Be genuine or be honest about the purpose.
+Designing a PIP with impossible expectations or no genuine support — a PIP whose real purpose is to document a path to separation rather than to help the person improve — is dishonest and legally dangerous, because a sham PIP is transparent to the employee, to juries, and to regulators, and the pretense of giving the person a chance while engineering their failure produces a record that reveals its own bad faith, and a PIP that is designed to fail is worse than no PIP because it adds deception to termination. The trap is that a sham PIP feels like it provides legal cover, so it is used, but a predetermined PIP provides no cover because the record reveals the predetermination, and the employee who can show that the PIP was designed to fail has evidence of bad faith. Be genuine about the purpose: either design a real PIP with achievable expectations and genuine support, or be honest with the employee and the organization about the purpose, because a genuine PIP is defensible and a sham PIP is an exhibit.
 
-### Vague Improvement Expectations
+### Vague Improvement Expectations That Make The Plan Unfair
 
-Saying "improve performance" without specifics, making assessment impossible and the plan unfair. Define measurable expectations.
+Saying "improve performance" or "be more proactive" without specifics — a PIP whose expectations have no measurable definition — makes assessment impossible and the plan unfair, because the person does not know what improvement looks like, and the manager assesses based on impression rather than against defined criteria, and an impression-based assessment of a PIP is an unfair assessment because the person was never told the specific standard they had to meet. The trap is that vague expectations feel less confrontational, so they are used, but vagueness does not reduce confrontation, it increases it, because the person cannot meet a standard that was never defined, and the manager and the person disagree about whether improvement occurred. Define specific, measurable improvement expectations with clear milestones and timeline, because a fair PIP is one where the person knows exactly what is expected and the manager assesses against defined criteria, not impression.
 
-### No Support Provided
+### No Support Provided That Sets The Person Up To Fail
 
-Demanding improvement without providing training, resources, or guidance, setting the person up to fail. Provide genuine support.
+Demanding improvement without providing training, resources, guidance, or obstacle removal — a PIP that requires the person to improve while giving them nothing to help them improve — sets the person up to fail, because performance gaps often have causes that the person cannot address alone (lack of training, unclear expectations, obstacles, resource constraints), and a PIP that demands improvement without addressing causes is demanding the impossible while pretending to offer a chance. The trap is that support feels like coddling, so it is withheld, but a PIP without support is not a chance to improve, it is a setup, and the person who fails a PIP without support has failed a plan that was designed to be failed. Provide genuine support — training, resources, guidance, obstacle removal — documented alongside the expectations, because a PIP that provides support is a genuine opportunity, and a PIP that demands without supporting is a predetermined failure.
 
-### Set-And-Forget PIP
+### Set-And-Forget PIP That Provides No Guidance During The Period
 
-Placing someone on a PIP and not checking in until the end, providing no guidance or feedback during the period. Conduct regular check-ins.
+Placing someone on a PIP and not checking in until the end — setting the expectations and then disappearing, providing no feedback or guidance during the improvement period — ensures that the person receives no help toward the improvement they are being asked to make, because improvement requires feedback, and a PIP without check-ins is a PIP where the person is judged at the end without having been guided during the period, and the absence of check-ins reveals that the manager was not invested in the person's success. The trap is that the PIP feels like a set of instructions that the person should follow alone, so check-ins are not scheduled, but a PIP is a process, not a document, and a process without check-ins is a process without guidance. Conduct regular, documented check-ins during the PIP period, providing feedback on progress and adjusting as needed, because a PIP with check-ins is a guided improvement process, and a PIP without check-ins is an ambush at the end.
 
-### Timeline Designed To Fail
+### Timeline Designed To Fail That Signals Predetermination
 
-Setting a timeline too short for genuine improvement, signaling a predetermined outcome. Set a reasonable timeline.
+Setting a timeline too short for genuine improvement — a 15-day PIP for gaps that require months of development, or a timeline that no reasonable person could meet — signals a predetermined outcome, because the timeline is the evidence of whether the organization genuinely wanted improvement, and a timeline too short for the required change reveals that the PIP was designed to produce failure, and the short timeline is the proof of bad faith. The trap is that short timelines feel decisive, so they are used, but decisiveness in timeline is meaningless if the timeline precludes improvement, and a timeline that precludes improvement is a timeline that reveals predetermination. Set a reasonable timeline calibrated to the role and the gaps, with interim milestones, because a reasonable timeline demonstrates good faith and an unreasonable timeline demonstrates its opposite, and the timeline is evidence.
 
-### PIP As Retaliation
+### PIP As Retaliation That Is Legally Vulnerable
 
-Placing someone on a PIP following a complaint or protected activity, which may appear retaliatory. Document the objective performance basis and consult HR.
+Placing someone on a PIP following a complaint, protected activity, or protected leave — a PIP that appears shortly after the person engaged in activity the law protects — creates a strong inference of retaliation, because the temporal proximity between protected activity and the PIP is evidence, and a PIP that follows protected activity will be scrutinized for whether the performance basis predates and is independent of the protected activity, and if it does not, the PIP is retaliation dressed as performance management. The trap is that the performance concern may be genuine, so the PIP feels justified, but timing matters, and a PIP that follows protected activity must be able to show that the performance basis was documented before the protected activity, or the PIP will be seen as retaliation. Document the objective performance basis thoroughly, consult HR and legal counsel, and ensure the timing does not create a retaliation inference, because a PIP that follows protected activity without a predocumented basis is a retaliation claim waiting to be filed.
 
-### Inconsistent Application
+### Inconsistent Application That Creates Discrimination Exposure
 
-Applying PIPs to some employees for behavior tolerated in others, creating unfairness and potential discrimination. Ensure consistency.
+Applying PIPs to some employees for behavior or performance that is tolerated in others — a PIP for the employee the manager dislikes while the employee the manager favors exhibits the same behavior without consequence — creates unfairness and potential discrimination, because the inconsistency reveals that the PIP is driven by something other than the stated performance basis, and the something else is often the manager's preference, bias, or the employee's protected characteristics, and inconsistency is the evidence that the stated reason is not the real reason. The trap is that each case feels unique to the manager, so consistency is not checked, but the comparison reveals the inconsistency, and an inconsistent PIP practice is a practice that cannot defend its decisions. Ensure consistency by examining whether similar performance issues are handled similarly across employees, because a PIP practice that is consistent is fair and defensible, and one that is inconsistent is discriminatory in effect if not in intent.
 
-### No Documentation
+### No Documentation Leaving The PIP Indefensible
 
-Conducting a PIP without documenting the expectations, support, check-ins, and outcomes, leaving no defensible record. Document everything.
+Conducting a PIP without documenting the expectations, the support provided, the check-ins, the feedback, and the final assessment — relying on the participants' memory of what was agreed and done — leaves the organization with no defense if the PIP outcome is challenged, because the PIP is a legal process as well as a performance process, and a PIP without documentation is a PIP without a record, and without a record the organization cannot prove that the expectations were fair, the support was provided, or the outcome was justified. The trap is that documentation feels like bureaucracy, so it is deferred, but the PIP is the process most likely to be legally challenged, because it leads to termination, and a PIP that leads to termination without documentation is indefensible. Document everything: the gaps, the expectations, the support, the check-ins, the adjustments, and the final assessment, because the documentation is the defense, and a PIP that is not documented is a PIP that cannot be defended.
 
 ## Self-Check
 

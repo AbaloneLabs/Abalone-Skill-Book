@@ -126,37 +126,37 @@ A program that creates a permanent "high-potential" caste alienates those not se
 
 ## Common Traps
 
-### Generic Curriculum
+### Generic Curriculum That Disconnects From Organizational Reality
 
-Teaching generic leadership concepts unconnected to the organization's leadership model and context. Ground in the organization's model.
+Teaching generic leadership concepts unconnected to the organization's leadership model and context — a curriculum built from textbooks and frameworks that are not tailored to the specific leadership challenges, culture, and strategy of the organization — produces graduates who know about leadership in the abstract but cannot lead in the specific, because generic leadership concepts are not wrong, they are just not calibrated to the organization, and a leader trained on generic concepts applies them generically, and generic leadership in a specific organization produces leaders who do not fit the context. The trap is that a generic curriculum feels comprehensive and authoritative, so it is used, but comprehensiveness without calibration produces leaders who know the textbook but not the terrain, and the organization's specific leadership challenges go unaddressed. Ground the program in the organization's leadership model, connecting curriculum to strategy, values, and the specific competencies the organization needs, because a grounded program develops leaders for this organization, and a generic program develops leaders for any organization, which means for none in particular.
 
-### Unfair Or Opaque Selection
+### Unfair Or Opaque Selection That Perpetuates Homogeneity
 
-Selecting participants through closed processes or based on relationships, perpetuating homogeneity. Select fairly and transparently.
+Selecting participants through closed processes or based on relationships — selection by nomination from senior leaders without published criteria, or selection that correlates with proximity to the decision-makers — perpetuates homogeneity, because closed selection reproduces the existing leadership's demographics and style, and each cohort that resembles the current leadership reinforces who is considered leadership material, and the pipeline remains homogeneous, and the organization's diversity strategy fails at the leadership development stage. The trap is that nomination-based selection feels like it identifies the best candidates, so it is used, but nomination identifies the most visible and connected candidates, not necessarily the best, and visibility and connection correlate with the existing leadership's profile. Select participants fairly and transparently, using published criteria, multiple assessors, calibration, and demographic examination, because fair selection broadens the pipeline, and opaque selection narrows it.
 
-### Classroom-Only Design
+### Classroom-Only Design That Produces Knowledge Without Capability
 
-Delivering leadership development primarily through courses, producing knowledge without capability. Balance learning with experience.
+Delivering leadership development primarily through courses — a program that consists of workshops, readings, and lectures, with little or no experiential component — produces knowledge without capability, because leadership is learned primarily through experience, challenge, and reflection, and the classroom provides frameworks but not the practice that converts frameworks into capability, and the graduate who has taken many courses but has not led under real conditions knows about leadership but cannot lead, and the gap between knowledge and capability is discovered when the graduate is placed in a leadership role and struggles. The trap is that courses feel like the primary development vehicle, so they dominate the design, but courses are the smallest component of leadership development, and a program that is all classroom produces graduates who can discuss leadership but cannot exercise it. Balance formal learning with experiential development, through stretch assignments, action learning, and reflection, because experience builds capability and courses build knowledge, and leadership requires both.
 
-### Assessment Without Follow-Up
+### Assessment Without Follow-Up That Wastes The Insight
 
-Delivering 360 or personality results without coaching or development planning, wasting the insight. Provide interpretation and action planning.
+Delivering 360 or personality results without coaching or development planning — handing participants their assessment results and assuming that the insight will produce change — wastes the insight, because assessment data without interpretation is data without action, and the participant who receives a 360 report without coaching may be overwhelmed, defensive, or unsure of how to act on the feedback, and the report goes into a drawer and the behavior does not change, and the investment in assessment produces no development. The trap is that the assessment feels like the intervention, so follow-up is not provided, but assessment is the beginning of development, not the end, and assessment without follow-up is diagnosis without treatment. Provide interpretation and action planning, with coaching or facilitation to help participants understand and act on the feedback, because assessment with follow-up produces development, and assessment without follow-up produces a report.
 
-### Event Without Sustainment
+### Event Without Sustainment That Lets Development Fade
 
-Running the program as an intensive event with no ongoing support, so development fades. Provide ongoing support and accountability.
+Running the program as an intensive event with no ongoing support — a program that ends with graduation and a certificate, with no follow-up, no coaching, and no connection to ongoing development — lets development fade, because development is a process, not an event, and the intensive program produces a spike of learning and motivation that decays without reinforcement, and the graduate who returns to their role without support gradually reverts to prior patterns, and the investment in the program produces a credential without lasting capability. The trap is that the program feels complete when it ends, so sustainment is not provided, but the ending of the formal program is the beginning of the development period, and without sustainment the development does not take hold. Provide ongoing support and accountability, through coaching, follow-up sessions, connection to development planning, and tracking of progression, because sustainment converts the program experience into lasting capability, and an event without sustainment produces a spike that fades.
 
-### No Leader Involvement
+### No Leader Involvement That Disconnects The Program From Reality
 
-Teaching entirely with external faculty, disconnecting the program from organizational reality. Engage senior leaders genuinely.
+Teaching entirely with external faculty — a program delivered by consultants and academics with no involvement from the organization's own leaders — disconnects the program from organizational reality, because external faculty can teach frameworks but cannot speak to the specific challenges, culture, and politics of the organization, and the participants who learn from external faculty alone do not build relationships with the senior leaders who will sponsor their growth, and the program feels disconnected from the organization's actual leadership context. The trap is that external faculty feel polished and authoritative, so they are the sole instructors, but polish without organizational grounding produces a program that feels theoretical, and the absence of leader involvement signals that leadership is not invested in the program. Engage senior leaders genuinely as teachers, sponsors, and mentors, because leader involvement grounds the program in reality and builds the relationships that support career growth, and external-only faculty produce a program that is polished but disconnected.
 
-### Satisfaction-Only Measurement
+### Satisfaction-Only Measurement That Provides False Confidence
 
-Evaluating only whether participants liked the program, not whether it changed behavior or filled the pipeline. Measure at multiple levels over time.
+Evaluating only whether participants liked the program — measuring reaction and satisfaction, and treating high scores as evidence of effectiveness — provides false confidence, because participants can enjoy a program that changes nothing, and a program that is engaging but ineffective produces high satisfaction scores while leadership capability remains unchanged, and the satisfaction scores reassure the organization that the program is working when it is not, and the false confidence prevents the improvement that would make the program effective. The trap is that satisfaction scores are easy to collect and feel like evidence, so they are the only measure used, but satisfaction is the weakest level of evaluation, and a program evaluated only by satisfaction is a program whose impact is unknown. Measure at multiple levels over time — reaction, learning, behavior change, progression, and pipeline impact — because multi-level measurement reveals whether the program produces leaders, and satisfaction-only measurement reveals only whether the program was enjoyable.
 
-### Elite In-Group Creation
+### Elite In-Group Creation That Divides The Organization
 
-Allowing the program to create a permanent high-potential caste that divides the organization. Manage perceptions and provide alternative paths.
+Allowing the program to create a permanent high-potential caste — a program whose graduates are permanently marked as elite, who receive preferential treatment, and who are visibly distinct from those not selected — divides the organization, because the permanent designation creates an in-group and an out-group, and those not selected feel excluded from the leadership pipeline, and those selected feel entitled to advancement regardless of demonstrated capability, and the division damages morale, culture, and the credibility of the development system. The trap is that selection feels like a permanent designation, so it is treated as one, but development is ongoing, not permanent, and a program that creates a permanent caste produces entitlement in the in-group and alienation in the out-group. Manage perceptions and provide alternative paths, framing the program as one stage in a journey, avoiding permanent status markers, and ensuring that graduates are assessed on demonstrated capability, because development should be inclusive and ongoing, not a one-time designation that divides.
 
 ## Self-Check
 

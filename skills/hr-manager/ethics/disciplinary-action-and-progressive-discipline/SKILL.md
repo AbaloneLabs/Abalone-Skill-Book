@@ -87,33 +87,33 @@ The level of discipline should consider the circumstances, not just the conduct.
 
 ## Common Traps
 
-### Undocumented Discipline
+### Discipline Without Documentation
 
-Issuing verbal warnings or actions without documentation, leaving no record and creating disputes. Document thoroughly.
+Issuing verbal warnings, informal coaching, or disciplinary actions without creating a contemporaneous written record leaves the organization unable to prove that the discipline occurred, what was communicated, or what expectations were set, and when the employee later disputes the action or claims they were never warned, the absence of documentation converts a defensible decision into a credibility contest that the employer often loses. The trap is that documentation feels bureaucratic and confrontational in the moment, so managers rely on verbal conversations that felt clear at the time but leave no trace. Document every disciplinary action in writing, provide a copy to the employee, and retain the record, because in a dispute the question is not what happened but what can be proven to have happened, and undocumented discipline cannot be proven.
 
-### Inconsistent Application
+### Inconsistent Application Across Employees
 
-Handling similar issues differently across employees, creating liability and perceptions of bias. Apply consistently.
+Handling similar conduct differently across employees — a warning for one, termination for another, for the same offense — creates direct evidence of disparate treatment that supports discrimination claims and destroys the credibility of the disciplinary system, because the inconsistency itself becomes the evidence that the stated reason is a pretext. The trap is that each decision feels justified in isolation — the first employee had a clean record, the second had prior issues — but the rationale is not documented, so the pattern of inconsistency is visible while the justifications are invisible. Apply disciplinary standards consistently, document the factors that justify different treatment for similar conduct (prior record, role, impact), and review disciplinary decisions across the organization for consistency, because inconsistent discipline is not just unfair, it is the factual basis for a discrimination claim.
 
 ### Vague Or Character-Based Discipline
 
-Disciplining for "attitude" without specifics, providing no guidance and no defense. Be specific about conduct and impact.
+Disciplining an employee for "attitude," "professionalism," or "not being a team player" without specifying the concrete behaviors that constitute the problem provides no guidance to the employee about what to change and no defensible basis for the discipline, because character labels are subjective and unfalsifiable, and they invite the response that the label reflects bias rather than conduct. The trap is that character-based language feels accurate to the manager who is frustrated, but it cannot be investigated, measured, or corrected. Describe the specific behaviors — the dates, actions, words, and impacts — that violate the standard, connect them to the policy or expectation, and define what changed behavior looks like, because an employee cannot correct conduct that has not been described and an employer cannot defend discipline that has not been specified.
 
-### Predetermined Outcomes
+### Predetermined Outcomes Disguised As Due Process
 
-Treating the employee's response opportunity as a formality with a predetermined result, undermining fairness. Be genuinely open to response.
+Conducting a disciplinary meeting or investigation where the outcome has already been decided — where the employee's response opportunity is a formality rather than a genuine consideration — undermines the fairness that due process is meant to provide and creates evidence that the process was a sham, which can invalidate the outcome in a challenge. The trap is that the evidence may seem overwhelming, so the decision feels inevitable, but presenting the process as open when it is not is worse than being transparent that a decision has been made. Be genuinely open to the employee's response, document the factors considered, and if the response changes the outcome, change it, because a process that cannot change its conclusion is not a process, it is a performance, and the performance is discoverable.
 
-### Discipline Without Expectation Of Improvement
+### Discipline Without Defined Expectations Or Follow-Up
 
-Issuing discipline without defining what must change or following up, ensuring recurrence. Set clear expectations and follow up.
+Issuing discipline without specifying what must change, by when, and how it will be measured, and without following up to confirm improvement or address recurrence, ensures that the behavior continues and that the next disciplinary step appears arbitrary because the employee was never told what success looked like. The trap is that the discipline documents the problem but not the expectation, so the employee is punished for failing to meet a standard that was never articulated. Define the specific behavioral change required, the timeframe, the support provided, and the consequences of non-improvement, and schedule follow-up, because discipline without defined expectations is a punishment, not a correction, and it guarantees recurrence.
 
-### Ignoring Protected Activity
+### Retaliatory Timing After Protected Activity
 
-Disciplining shortly after an employee engaged in protected activity, such as complaining, creating retaliation claims. Avoid timing that appears retaliatory and document the independent basis.
+Disciplining an employee shortly after they engaged in protected activity — filing a complaint, requesting accommodation, taking protected leave — creates an inference of retaliation that shifts the burden to the employer to prove the discipline was independent of the protected activity, and the temporal proximity alone may be sufficient to send the claim to a jury. The trap is that the discipline may be entirely justified on its own merits, but the timing makes it look retaliatory, and the appearance is what triggers the claim. Before disciplining an employee who recently engaged in protected activity, document the independent basis for the discipline thoroughly, confirm that the conduct predates the protected activity or was already being addressed, and consider whether the timing can be explained, because discipline that follows protected activity must survive the inference that the activity caused the discipline.
 
 ### Rigid Or Erratic Departure From Progressive Steps
 
-Either following progressive steps rigidly when immediate action is warranted, or departing erratically without rationale. Use judgment with documented rationale.
+Following progressive discipline steps rigidly — issuing a written warning for serious misconduct that warrants immediate termination, because the "process" requires escalation — allows dangerous conduct to continue, while departing from the steps erratically — skipping steps for some employees but not others, without documented rationale — creates inconsistency that undermines the system's fairness and defensibility. The trap is that the progressive framework becomes either a straitjacket that prevents appropriate response or a fiction that is ignored at will. Use progressive discipline as a framework that allows judgment, document the rationale for any departure (the severity of the conduct, the role, the risk), and apply the departure consistently, because a framework that cannot bend to severity is dangerous and one that bends without rationale is indefensible.
 
 ## Self-Check
 

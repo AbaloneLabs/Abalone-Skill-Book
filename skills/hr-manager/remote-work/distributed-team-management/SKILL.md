@@ -93,29 +93,29 @@ New distributed team members face a steeper integration curve than co-located ne
 
 ## Common Traps
 
-### Undocumented Decisions And Context
+### The Decision That Existed Only In The Room
 
-Making decisions in conversations or headquarters meetings without documenting them, leaving distributed members without context. Document decisions and rationale.
+A decision is reached in a headquarters meeting room. The people present nod, agree, and move on. The distributed members — who could not attend due to time zone, or who joined a meeting where the real discussion happened before and after the official agenda — learn about the decision when they receive a task assignment flowing from it. They have no context for why the decision was made, no opportunity to raise concerns, and no record to reference. This trap is corrosive because it is invisible to headquarters: they held a meeting, people agreed, the decision was made — it feels inclusive to them. But to the distributed members, it is evidence that they are executors of others' decisions, not participants in making them. The damage compounds because each undocumented decision widens the context gap between headquarters and distributed locations, making the next exclusion easier to justify ("they don't have the full picture") when the lack of picture is the problem.
 
-### Meeting Times That Always Burden The Same Region
+### The Region That Always Pays The Time Zone Tax
 
-Scheduling meetings at headquarters convenience, consistently requiring others to attend at bad hours. Rotate times and share the burden.
+When meetings cluster at headquarters convenience, the same region — typically Asia-Pacific or Europe relative to a U.S. headquarters — bears the burden of 6 AM or 10 PM calls every single time. The trap is that headquarters does not notice, because the meeting time is normal for them, and the affected region does not complain because complaining about meeting times marks you as uncooperative. Over time this creates structural disadvantage: the burdened region has less energy, worse work-life balance, and lower meeting participation, which headquarters interprets as lower engagement or capability, reinforcing the cycle. The deeper harm is that the pattern becomes self-fulfilling — the region that is always tired performs worse, confirming the headquarters bias that the region is less capable. Rotating meeting times is not courtesy; it is equity infrastructure.
 
-### Synchronous Decision-Making That Excludes
+### Synchronous Decisions That Exclude By Schedule
 
-Making decisions in live meetings that some cannot attend, excluding their input. Use written proposals and comment periods.
+A significant decision is made in a live meeting that half the team cannot attend. Those present make the call, rationalizing that "we will share the notes." But notes capture the outcome, not the deliberation — the tradeoffs considered, the alternatives rejected, the concerns raised. The absent members cannot challenge a decision they did not participate in, and by the time they see the notes, the decision has already propagated into action. The trap is that synchronous decision-making feels efficient and democratic to those present (we discussed it as a group!), while systematically excluding anyone not in the room. For decisions that affect the whole team, the default must be written proposals with comment periods, not live meetings, because synchronous processes structurally advantage whoever can attend.
 
-### Headquarters-Centric Influence And Advancement
+### Headquarters As The Center Of Gravity
 
-Concentrating leadership, decisions, and opportunities at headquarters, disadvantaging other locations. Distribute influence and monitor equity.
+Leadership, informal influence, career opportunity, and information all cluster at headquarters, because that is where the senior people sit, where the hallway conversations happen, and where the visibility is highest. Distributed employees advance more slowly, not because they are less capable, but because they are less present to the decision-makers. The trap is that this clustering feels organic — it is just where things happen — rather than structural. Headquarters-based leaders promote the people they know well, who are the people they see, who are the people at headquarters. Without deliberate countermeasures (distributing leadership roles across regions, tracking advancement by location, ensuring stretch assignments flow equitably), the headquarters becomes the only path to advancement, and the distributed locations become second-class outposts.
 
-### Informal Channels That Exclude
+### The Informal Network That Replaces The Org Chart
 
-Allowing information and influence to flow through headquarters-based informal networks, excluding distributed members. Default to documented, accessible channels.
+In a distributed organization, the formal structure says information flows through documented channels. The reality is that a headquarters-based informal network — the people who eat lunch together, who were on the original team, who have the senior leaders' phone numbers — makes the real decisions and holds the real context. The formal channels become performative, announcing decisions already made informally. Distributed employees who follow the formal process (submitting proposals, requesting meetings) are slow-walked while headquarters insiders get decisions over coffee. This trap is nearly impossible to detect from inside headquarters, because to them the informal network is just "how we work." It is visible only from the outside, as a pattern of slow responses, unexplained decisions, and a sense that the formal process is theater. The fix is to make the informal network's function explicit: if context-sharing and decision-input happen informally at headquarters, build formal equivalents for distributed members.
 
-### Equating Fluency With Competence
+### Accent As A Proxy For Competence
 
-Judging non-native speakers as less capable due to accent or fluency, creating bias. Separate language from competence.
+A non-native English speaker presents an idea with an accent and hesitations. The team unconsciously down-weights the contribution, attributing the delivery to the quality of the idea. Meanwhile, a native speaker presenting a weaker idea is heard more charitably. This trap is pervasive in distributed, multilingual teams and is almost entirely unconscious — no one believes they are biased, yet the pattern shows up in whose ideas are adopted, who is interrupted, and who is promoted. The harm is compounded because the non-native speaker, sensing their contributions are undervalued, contributes less, which is then taken as confirmation of lower capability. Separating language fluency from competence requires active effort: explicitly soliciting input, allowing written contributions where delivery matters less, and tracking whose ideas are acted upon.
 
 ## Self-Check
 

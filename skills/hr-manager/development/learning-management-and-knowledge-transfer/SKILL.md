@@ -129,35 +129,35 @@ In a culture where sharing is the norm, knowledge management systems flourish an
 
 ### Explicit-Only Capture
 
-Documenting procedures and manuals while missing the tacit judgment that drives effective application. Capture tacit knowledge deliberately.
+Documenting the "what" of a procedure while never surfacing the experienced judgment that governs the "when" and "why" produces manuals that a novice can follow in routine cases and abandon in every exception. The trap is seductive because explicit content is measurable, easy to produce, and looks complete — yet it omits precisely the tacit knowledge (when to deviate, which exception matters, how to prioritize under pressure) that distinguishes an expert from a competent beginner. When the expert departs, the organization discovers that the documentation answers every question except the hard ones. Tacit capture requires deliberate interview, observation, and annotated case work, not just writing down steps.
 
 ### Event-Based Transfer
 
-Treating knowledge transfer as a single handover meeting, producing incomplete transfer. Design as an extended process.
+Treating knowledge transfer as a single handover meeting before the expert retires transfers only what can be said in two hours, which is a small fraction of what the expert applies daily. The format assumes knowledge is information that can be handed off, when much of it is skill that must be practiced with feedback. The successor then encounters real situations with no expert available to correct course, and the gap surfaces as errors, rework, or stalled decisions. Effective transfer is a staged process — demonstrate, observe, perform-with-supervision, perform-independently — spread over weeks or months, because that is how judgment is actually built.
 
-### Unused Repository
+### The Digital Graveyard Repository
 
-Building a knowledge base that no one contributes to or consults, wasting the investment. Build for usability, ownership, and culture.
+A knowledge base built around the org chart, requiring contributors to leave their workflow to post, and maintained by no one, becomes a graveyard of outdated documents that no one trusts and therefore no one consults. Once trust collapses, contribution collapses with it, and the platform is abandoned despite its cost. The trap is treating the repository as a technology project when its value depends on taxonomy that matches how people search, frictionless contribution embedded in daily work, named owners who keep content current, and a culture that recognizes sharing. Without those, the system documents the organization's past, not its usable knowledge.
 
 ### No Departure Planning
 
-Allowing experts to leave without planned transfer, losing critical knowledge permanently. Plan for departing expert knowledge specifically.
+When a retiring expert's departure triggers only an exit interview, the organization loses access to judgment accumulated over decades — knowledge that is expensive to rebuild and sometimes impossible to reconstruct. The trap is assuming that a successor hired into the role will somehow absorb the departing expert's context, or that documentation already covers it, when neither is true. Retirement waves are predictable months or years in advance, which is exactly the lead time structured transfer requires; squandering that window and then rushing a handover in the final week guarantees permanent loss of the most valuable, hardest-to-capture knowledge.
 
-### Technology As Solution
+### Technology As The Solution
 
-Implementing an LMS or platform without parallel process and culture investment, resulting in underuse. Use technology to enable human transfer.
+Implementing an LMS or knowledge platform and declaring knowledge management "solved" ignores that technology stores and retrieves content but does not create the human interaction through which tacit knowledge moves. The platform arrives, the launch is celebrated, and six months later it holds compliance modules and abandoned courses because no process populates it and no culture values contribution. The investment then looks like a failure of the tool when it was a failure of the parallel investment in process, ownership, and incentives. Technology enables knowledge sharing among people who are already willing to share; it cannot manufacture that willingness.
 
 ### Perfunctory Compliance Training
 
-Assigning mandatory training as a click-through checkbox that documents but does not educate. Make compliance training effective.
+Assigning mandatory training as a click-through module that employees resent and rush through satisfies the completion-record checkbox while changing no behavior — and in some jurisdictions a completion record with no demonstrable learning can increase liability by proving the organization knew the risk and addressed it superficially. The trap is optimizing for tracking efficiency rather than for the behavior change that compliance training exists to produce. Effective compliance training is role-targeted, concise, scenario-based, and refreshed when regulations change; perfunctory training protects the audit trail, not the organization.
 
-### No Measurement
+### No Effectiveness Measurement
 
-Not tracking whether knowledge is accessible or transfers are effective, so gaps remain hidden. Measure effectiveness.
+When no one tracks time-to-productivity, repository usage, or whether employees can actually find what they need, knowledge-transfer gaps remain invisible until they cause a missed deadline, a regulatory error, or a failed handover. The trap is assuming that because a system exists and content was posted, knowledge is accessible — an assumption that feels safe precisely because nothing contradicts it until the damage is done. Measurement is what converts knowledge management from a faith-based initiative into a discipline that improves; without it, the organization cannot tell the difference between a working program and an expensive one.
 
-### Hoarding Culture
+### The Hoarding Culture
 
-Operating in a culture where knowledge is power and sharing is discouraged, undermining all systems and processes. Build a sharing culture.
+In an organization where knowledge is treated as power and people who make themselves replaceable fear being replaced, no system, process, or platform can overcome the cultural barrier to sharing. Employees rationally hoard what makes them indispensable, the repository stays empty, and transfers stall — and leaders may even reinforce hoarding by rewarding individual heroics over team capability. The trap is investing in tools and processes while leaving the incentive system intact. Until sharing is recognized, modeled by leaders, and woven into performance expectations, the technical infrastructure sits unused, and the organization remains dependent on the very tribal knowledge it set out to eliminate.
 
 ## Self-Check
 

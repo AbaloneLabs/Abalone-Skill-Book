@@ -90,33 +90,33 @@ Beyond policy, the culture determines whether working parents stay. A culture th
 
 ## Common Traps
 
-### Forcing Pregnant Employees Onto Leave
+### Forced Leave When Accommodation Would Work
 
-Requiring leave when an accommodation would allow continued work, which can violate pregnancy accommodation laws. Accommodate first.
+A pregnant employee in her third trimester needs to sit periodically and avoid heavy lifting. Rather than providing a stool and modifying the lifting requirement — accommodations that would let her continue working — the employer places her on leave two months before her due date, because leave is easier to administer than an accommodation. The trap is that forcing leave when an accommodation is available treats pregnancy as a disability requiring absence rather than a condition requiring modification, and it violates pregnancy accommodation laws that specifically require accommodations short of leave. The employee loses income, loses professional standing, and is pushed out of the workforce earlier than necessary — all because the employer chose the administratively convenient option over the legally required one. Accommodation must be considered before leave, because the law does not permit the employer to default to the option that is easiest for the organization when a less restrictive option would allow the employee to continue working.
 
-### Unequal Bonding Leave For Fathers And Mothers
+### The Father Who Gets Side-Eye For Bonding Leave
 
-Providing more leave to mothers than fathers, or treating fathers' leave as less legitimate. Provide equal bonding leave.
+A father requests eight weeks of bonding leave after the birth of his child. His manager approves it reluctantly, then makes comments about "really needing all that time" and assigns his best projects to a colleague while he is out. The father returns to find he has been marginalized, and the message is clear: bonding leave is for mothers, not for men who are serious about their careers. The trap is that unequal treatment of fathers' and mothers' bonding leave is gender discrimination — the law requires equal bonding leave regardless of gender — but it manifests not in the formal policy (which is gender-neutral) but in the informal treatment, the comments, the project reassignments, the career consequences. Fathers who take bonding leave face the maternal wall that mothers face, and the organization that tolerates this informal penalty while maintaining a gender-neutral policy is discriminating in practice even if not on paper. Equal bonding leave must mean equal treatment of those who take it, because a right that is formally granted but informally punished is not a right at all.
 
-### Expecting Work During Leave
+### The Employee Who Never Really Leaves Work
 
-Pressuring the employee to remain involved, check email, or complete projects during leave. Respect the leave.
+The employee is on parental leave but receives daily emails asking about projects, a Slack message from their manager about "just one quick thing," and a request to join a client call because "no one else knows the account." Each contact is small and seems reasonable, but together they prevent the employee from actually being on leave — they are working reduced hours while formally on full leave, and the bonding time with their new child is interrupted by work demands that were supposed to stop. The trap is that "just one quick thing" feels harmless to the requester (it will only take five minutes!) but it signals that the leave is not respected, that the employee is still expected to be available, and that the organization has not actually planned for their absence. Leave means disconnection from work, and any contact beyond administrative matters (benefits, return date) must be initiated by the employee, not the employer, because a leave that is interrupted by work is a leave that is not being taken.
 
-### Poorly Managed Coverage
+### Coverage That Falls On One Person
 
-Leaving the team to absorb the workload without support, creating pressure on the leave-taker to remain involved. Plan coverage.
+The employee goes on parental leave, and their entire workload is assigned to a single colleague — who is already fully loaded. The colleague works evenings and weekends for three months, develops resentment toward both the leave-taker ("they're resting while I'm drowning") and the organization ("they didn't plan for this"), and begins looking for another job. The trap is that assigning coverage to one person is the easiest solution (no hiring, no redistribution, no temp) but it transfers the cost of parental leave onto a coworker, creating a second retention risk and generating pressure on the leave-taker to return early to relieve the burden. Coverage must be distributed — through temporary help, redistribution across the team, or prioritization that defers non-critical work — because the alternative is a coverage strategy that sacrifices one employee to support another, and the colleague who burns out during someone else's leave is a predictable and preventable loss.
 
-### Overwhelming Return
+### The Backlog Wall On Return
 
-Expecting the returning parent to clear an accumulated backlog and re-establish routine without support, driving them out. Support the return.
+The employee returns from parental leave and finds three months of accumulated work waiting: hundreds of unread emails, projects that stalled in their absence, decisions that were deferred, and a backlog that would take weeks to clear even without new work. The expectation, never stated but clearly implied, is that the returning parent will clear the backlog while also resuming their normal duties — effectively doing three months of work in their first weeks back. The trap is that this return experience — overwhelming, impossible, punitive — drives new parents out of the workforce, because the combination of sleep deprivation, childcare logistics, and an insurmountable backlog makes quitting the rational choice. The backlog must be managed before return: prioritized, redistributed, or written off, with only critical work held for the returning employee. A return that dumps three months of accumulated work on a new parent is not a return; it is an exit interview waiting to happen.
 
-### Inadequate Lactation Support
+### Lactation In A Bathroom Stall
 
-Providing a bathroom or inadequate space, or making the employee feel burdensome for requesting lactation breaks. Provide proper support.
+The nursing employee returns from leave and is told that the lactation room is available — it is a multi-stall bathroom with a chair in the corner, or a storage room that doubles as a pumping space, or a manager's office that must be reserved in advance and is often occupied. The employee pumps in a bathroom stall or in her car, because the "lactation accommodation" is so inadequate that it is functionally nonexistent. The trap is that the law requires a private space that is not a bathroom, and providing a bathroom or a shared space that is not reliably available is noncompliance dressed up as accommodation. The message to the nursing employee — that her basic physiological needs are an inconvenience the organization cannot be bothered to meet — is both a legal violation and a retention decision, because nursing parents who cannot pump at work face a choice between their job and their feeding goals, and many choose to leave. Lactation accommodation must be a dedicated, clean, private space with the required equipment, available on demand, because anything less is a signal that the organization supports parental leave in theory but not in practice.
 
-### Maternal Wall Bias
+### The Maternal Wall In Performance Reviews
 
-Channeling parents away from advancement based on assumptions about commitment or availability. Evaluate on performance.
+The mother returns from leave and receives a lower performance rating than she did before, despite no change in her actual performance. Her manager, consciously or not, has factored in assumptions about her "distraction," her "reduced availability," or her "focus" — assumptions that are never articulated but are embedded in the rating. She is passed over for a promotion that goes to a colleague with comparable performance but no children. The trap is that the maternal wall operates through subjective evaluations that are individually defensible (the manager can cite specific examples of reduced output) but collectively constitute gender discrimination, because the assumptions underlying the evaluation — that mothers are less committed, less available, less focused — are stereotypes applied to a protected characteristic. Performance evaluations must be based on objective results and documented performance, not on subjective impressions of commitment or availability, because a rating system that penalizes motherhood is a liability that compounds across annual cycles and across the careers of every woman who becomes a parent.
 
 ## Self-Check
 

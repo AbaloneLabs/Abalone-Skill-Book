@@ -90,33 +90,33 @@ Some conflicts cannot be resolved through mediation and require escalation. Reco
 
 ## Common Traps
 
-### Mediating Matters That Require Investigation
+### Mediation For The Unmediatable
 
-Treating harassment, bullying, or policy violations as interpersonal conflict to be mediated, shielding misconduct and harming the victim. Investigate, do not mediate.
+Two employees are in conflict. One has been subjected to a pattern of racial slurs by the other. HR routes the matter to mediation, sitting both parties in a room to "work it out." The trap is that mediation assumes a roughly equal power dynamic and a dispute that is negotiable, but harassment, discrimination, threats, and violence are not negotiable disputes — they are policy violations that require investigation and adjudication, not a facilitated conversation between victim and perpetrator. Mediating a harassment case forces the victim to justify their boundaries to the person who violated them, signals that the behavior is a "communication problem" rather than misconduct, and shields the organization from the finding it should reach. Triage must distinguish interpersonal friction (mediateable) from protected-class misconduct or threats (investigate, do not mediate), because mediating a case that requires adjudication is not neutrality — it is complicity.
 
-### Diagnosing Without Listening
+### The Manager Who Is The Conflict
 
-Imposing a diagnosis of the conflict based on one party's account or the agent's assumptions, missing the root cause. Listen to all parties.
+Two team members are in chronic conflict. HR mediates between them, develops communication agreements, and follows up monthly. The conflict persists. What no one examines is that both employees report to a manager who openly favors one, pits them against each other for resources, and criticizes the other in front of peers — the manager is the source and sustainer of the conflict, and the employees are symptoms. The trap is that mediation addresses the visible dispute while leaving the structural cause intact, so the conflict recurs because the conditions that produce it are still active. Diagnosing the system around the conflict — reporting relationships, incentive structures, manager behavior, resource allocation — before mediating the individuals is essential, because mediating two people whose manager is manufacturing their conflict is treating the symptom while the disease continues to generate new symptoms.
 
-### Forcing A Settlement
+### The Agreement No One Keeps
 
-Pressuring parties to accept an agreement to close the matter quickly, producing a fragile resolution that does not hold. Facilitate genuine dialogue.
+The mediation produces a written agreement: both parties will communicate respectfully, share information promptly, and escalate concerns through the manager. Both sign it. Two weeks later, the behavior has reverted, because the agreement addressed the symptoms (how they communicate) but not the causes (competing priorities, unclear roles, a resource dispute), and because there is no mechanism to enforce or review the agreement. The trap is that a mediation agreement without follow-up is a ceremony, not a resolution, and the conflict resumes because nothing structural changed. The agreement must include specific behavioral commitments, a review checkpoint, and a clear escalation path if the agreement is breached, because an agreement that is signed and forgotten is an agreement that was never really agreed to — it was a performance to end an uncomfortable meeting.
 
-### Vague Agreements
+### Conflict Pathologized As Personality
 
-Settling for commitments to "communicate better" without specific behaviors or follow-up. Develop concrete agreements.
+Two high-performing employees disagree sharply and often about technical direction. Their manager, uncomfortable with the tension, labels it a "personality conflict" and refers them to HR for resolution. The trap is that substantive disagreement — about strategy, priorities, methods, tradeoffs — is not dysfunction; it is the normal friction of capable people working on hard problems, and pathologizing it as personality suppresss the productive disagreement that produces better decisions. The manager's discomfort with conflict is the problem, not the conflict itself, and routing genuine intellectual disagreement through a conflict-resolution process teaches the organization that disagreement is a defect rather than a feature of rigorous work. Distinguishing productive disagreement (which should be channeled, not eliminated) from interpersonal hostility (which must be addressed) requires judgment, because a culture that cannot tolerate disagreement is a culture that cannot think.
 
-### Ignoring Structural Causes
+### The Quick Fix That Suppresses The Signal
 
-Resolving the interpersonal conflict while leaving the role ambiguity, competing incentives, or dysfunctional structure in place, ensuring recurrence. Address structural causes.
+The conflict is loud and uncomfortable. HR intervenes rapidly, separates the parties, reassigns one to a different team, and declares the conflict resolved. The trap is that the rapid separation eliminates the symptom (the visible conflict) but buries the cause, which will resurface elsewhere — in the reassigned employee's new team, in the departing employee's exit interview, in the pattern of conflicts that cluster around a particular manager or process. Conflict is a signal that something in the system is broken (unclear roles, competing incentives, a toxic actor, resource scarcity), and suppressing the signal without diagnosing the cause ensures the cause persists. The rapid fix feels like resolution but is actually deferral, because the structural condition that produced this conflict will produce the next one, and the next, until someone examines the system rather than the symptom.
 
-### No Follow-Up
+### The Mediator With A Stake
 
-Declaring resolution at the end of the session and not monitoring whether it holds. Follow up and reinforce.
+HR mediates a conflict between an employee and their manager. The HR person who mediates reports to the same senior leader as the manager, has worked with the manager for years, and depends on the manager's cooperation for other initiatives. The mediation proceeds, and the outcome subtly favors the manager. The trap is that a mediator who has a stake in the outcome — a relationship with one party, a reporting line that creates dependence, an institutional interest in a particular result — cannot be neutral, and the party who perceives the bias (correctly or not) will experience the process as rigged. Perceived bias destroys the mediation's legitimacy even when the mediator acts in good faith, because the appearance of impartiality is as important as the reality. Using a neutral third party with no reporting relationship to either side, or an external mediator for high-stakes conflicts, is necessary because a mediator with a stake is not a mediator — they are an advocate in mediator's clothing.
 
-### Ignoring Power Imbalances
+### Forcing Resolution On The Unready
 
-Mediating between parties with a significant power imbalance, where the weaker party cannot freely negotiate. Escalate or restructure.
+The mediation is scheduled for next week. One party is still angry, feels unheard, and is not ready to engage constructively. The mediator proceeds anyway, because the calendar says it is time. The session devolves into re-litigation, accusation, or shutdown, because the parties were not prepared — emotionally, informationally, or relationally — to have the conversation. The trap is that mediation requires readiness: both parties must understand the process, have had a chance to be heard individually, and be in a state where they can engage rather than defend. Forcing mediation on unprepared parties does not resolve conflict; it entrenches it, because a failed mediation becomes evidence that "talking doesn't work" and pushes the conflict toward more destructive resolution paths. Pre-mediation preparation — individual sessions, expectation-setting, emotional readiness assessment — is not a delay; it is the work that makes the mediation possible.
 
 ## Self-Check
 
