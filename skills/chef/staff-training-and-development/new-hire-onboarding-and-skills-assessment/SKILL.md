@@ -1,0 +1,78 @@
+---
+name: new-hire-onboarding-and-skills-assessment.md
+description: Use when the agent is designing a new-hire onboarding program, assessing a new cook's baseline skills, structuring a probationary training period, or diagnosing why new hires are not reaching competent performance within the expected timeframe.
+---
+
+# New Hire Onboarding and Skills Assessment
+
+Onboarding is the process by which a new hire becomes a competent, safe, and integrated member of the kitchen, and its failure is the root cause of both high turnover and the quality and safety variance that plagues understaffed kitchens. This skill covers the judgment of how to design onboarding so that it builds competence systematically, how to assess skills accurately, and how to diagnose why onboarding fails. The harm this skill prevents is the cycle of hiring and losing new hires because they were dropped onto a station without structured training, performed poorly, and quit or were fired, leaving the kitchen perpetually short and over-reliant on a few experienced cooks.
+
+## Core Rules
+
+### Design onboarding as a staged progression, not as sink-or-swim
+
+A new hire should move through defined stages: orientation to the kitchen's layout, safety, and culture; observation of each station; supervised prep and execution at a single station; gradual expansion to more stations; and independent service. Each stage has entry criteria, learning objectives, and exit criteria that must be met before advancing. Sink-or-swim, dropping a new hire onto a station during service, produces panic, errors, and turnover, because the hire is asked to perform before they have been trained. Staged progression builds competence and confidence in the right order.
+
+### Assess baseline skills before assigning training
+
+Before designing a training plan, assess what the new hire already knows: knife skills, cooking techniques, station experience, allergen and safety knowledge. A hire with strong knife skills but no saute experience needs a different plan than a hire with general experience but weak technique. Assessment prevents both under-training, leaving gaps that surface in service, and over-training, boring the hire and wasting time. Use a structured assessment, not a conversation, because self-reported skill is unreliable.
+
+### Pair the new hire with a defined trainer, not with whoever is free
+
+Assign a specific trainer or mentor who is responsible for the hire's progression, who tracks the stages, and who is accountable for the hire reaching competence. Pairing with whoever is free produces inconsistent training, gaps in coverage, and no accountability for the outcome. The trainer must be selected for both skill and teaching ability, because a great cook who cannot teach will frustrate the hire and produce poor results. Define the trainer's role and time commitment explicitly.
+
+### Build safety and allergen training into the first stage, not as an afterthought
+
+Safety, hygiene, allergen, and fire protocols must be trained in the first stage, before the hire touches any food that will be served, because a new hire who does not understand these protocols is a hazard to guests and to the team. Treat safety training as a gate, not as a topic that will be covered eventually, because the consequence of an untrained hire causing an allergic reaction or a fire is too severe to defer. Verify safety understanding before advancing the hire to food handling.
+
+### Use structured skill demonstration, not verbal explanation, as the training method
+
+People learn kitchen skills by doing, not by hearing, so training must be structured as demonstrate, guide, observe: the trainer demonstrates the skill, guides the hire through it, then observes the hire performing it independently and corrects. Verbal explanation alone produces a hire who understands the words but cannot execute the skill, and the gap is discovered in service. Build repetition into training so the skill becomes automatic before the hire is evaluated on it.
+
+### Define objective criteria for reaching competence at each stage
+
+Each stage of onboarding must have objective criteria for completion: the hire can execute the station's dishes to standard within ticket time, can maintain their mise, can follow safety and allergen protocol, can communicate with the team. Subjective criteria, the hire seems ready, are interpreted differently by different leads and advance hires who are not ready. Define the criteria, evaluate against them, and advance only when they are met.
+
+### Diagnose onboarding failure as a program issue, not as a hire issue
+
+When new hires consistently fail to reach competence, the cause is usually the onboarding program, not the hires, but kitchens tend to blame the hires and continue hiring into the same broken program, producing the same failures. When a hire struggles, examine whether the training was staged, whether a trainer was assigned, whether the criteria were defined, and whether the hire was assessed correctly at baseline. Fixing the program reduces future failures; blaming the hires guarantees them.
+
+## Common Traps
+
+### Dropping a new hire onto a station during service to learn by doing
+
+This is a trap because learning by doing during service is sink-or-swim, and the hire is asked to perform under pressure before they have been trained, producing panic, errors, slow tickets, and a damaged relationship between the hire and the team, and often the hire's departure. The mechanism is that service is the highest-pressure, lowest-patience environment in the kitchen, and a hire who is still learning cannot execute at service pace, so they fall behind, make mistakes that the team must cover, and absorb the team's frustration, which destroys their confidence and their relationship with the kitchen. The false signal is that the hire is getting real experience, which reads as training. The harm is turnover, because the hire quits under the stress or is fired for performance that the onboarding caused, and the kitchen loses the hire and the time invested, and must hire again into the same broken program. The correct response is to stage onboarding so that the hire observes, then executes under supervision at low volume, then gradually takes on service pace, and to never place an untrained hire on a station during service as a training method.
+
+### Assessing skills through conversation instead of demonstration
+
+This trap operates because a conversation about experience is faster than a skills demonstration, and the hire's self-description feels informative, but self-reported skill is unreliable because the hire may overstate from confidence or understate from modesty, and the kitchen cannot verify what the hire can actually do without observing them. The mechanism is that a hire's verbal account of their skills reflects their self-perception, which may not match their actual performance, so the kitchen designs a training plan based on the stated skills, and the plan is wrong, leaving gaps if the skills were overstated or wasting time if they were understated. The false signal is that the hire described their experience, which reads as assessed. The harm is training plans that do not match the hire's actual skills, producing either gaps that surface as service failures or boredom and turnover from under-utilization, and a hire whose true capability is unknown until they are tested in service. The correct response is to assess baseline skills through structured demonstration, having the hire perform knife work, cooking techniques, and station tasks under observation, and to design the training plan from the observed skills rather than from self-report.
+
+### Assigning training to whoever is free instead of a defined trainer
+
+This trap exists because assigning a trainer requires planning and commitment, while having whoever is free show the hire the ropes feels sufficient, but free-person training is inconsistent, has gaps, and has no accountability for the outcome, so the hire receives fragments of training from multiple people and never reaches coherent competence. The mechanism is that without a defined trainer, each person who interacts with the hire teaches what they know in their own way, leaving gaps where no one taught a skill and contradictions where different people taught differently, and no one is accountable for whether the hire reaches competence, so the hire's progression is untracked and the outcome is left to chance. The false signal is that the hire is being shown things, which reads as trained. The harm is hires who reach service with fragmented and inconsistent training, who perform unevenly across skills, and whose gaps surface as errors that the kitchen attributes to the hire rather than to the training structure. The correct response is to assign a specific trainer who is responsible for the hire's staged progression, who tracks the stages and criteria, and who is accountable for the outcome, and to select the trainer for teaching ability as well as for skill.
+
+### Deferring safety and allergen training until the hire is more settled
+
+This is a trap because safety and allergen training feels like it can wait until the hire knows the kitchen, but a hire who is handling food without safety and allergen knowledge is a hazard from day one, and deferring the training means the hazard is active during the deferral, with potentially severe consequences. The mechanism is that the hire begins handling food before they understand the safety and allergen protocols, and during the gap between starting and the eventual training, the hire may cause a cross-contamination event, an allergen failure, or a safety incident, because they were never taught the protocols that would have prevented it. The false signal is that the hire is being eased in, which reads as supportive. The harm is a safety or allergen incident caused by an untrained hire during the deferral period, an incident that the training was supposed to prevent but that occurred because the training was deferred, and that can cause guest injury and legal liability. The correct response is to train safety, hygiene, allergen, and fire protocols in the first stage, before the hire handles any food that will be served, to verify understanding before advancing, and to treat safety training as a gate, not as a topic that can wait.
+
+### Explaining skills verbally and assuming the hire can execute them
+
+This trap operates because verbal explanation is fast and feels like training, but kitchen skills are motor and judgment skills that are learned by doing, so a hire who has only heard an explanation cannot execute the skill, and the gap is discovered in service when the hire performs poorly and the kitchen concludes the hire is incapable when in fact the hire was never trained in the method that produces capability. The mechanism is that verbal explanation transmits the concept but not the skill, and the hire, having heard the explanation, believes they understand, and the kitchen, having explained, believes they have trained, but neither has verified that the hire can execute, so the skill is untested until service exposes the gap. The false signal is that the hire nodded and said they understood, which reads as trained. The harm is hires who reach service unable to execute skills they were told about but never practiced, producing errors that are attributed to the hire's capability rather than to the training method, and that erode the hire's standing and confidence. The correct response is to use demonstrate-guide-observe as the training method, to have the hire perform each skill under observation and correction until it is automatic, and to treat verbal explanation as an introduction, not as the training itself.
+
+### Advancing the hire on subjective readiness instead of objective criteria
+
+This trap exists because readiness feels like a judgment call, so the hire is advanced when they seem ready, but subjective readiness is interpreted differently by different leads and is biased by the kitchen's need for staff, so hires are advanced before they meet objective criteria, and the gap surfaces in service as errors and slow tickets. The mechanism is that subjective criteria are elastic, they stretch when the kitchen is short-staffed and needs the hire on the line, so a hire who is not ready is advanced because the need is urgent, and the advancement produces exactly the errors and stress that sink-or-swim produces, because the hire is performing before they are competent. The false signal is that the hire seems to be doing okay, which reads as ready. The harm is hires who are advanced before competence, who perform poorly in service, and whose poor performance is attributed to the hire rather than to the premature advancement, and who may quit or be fired for failures that the criteria, if enforced, would have prevented by keeping them in training longer. The correct response is to define objective criteria for each stage, to evaluate against them, and to advance only when they are met, resisting the pressure to advance prematurely when short-staffed, because an unready hire on the line costs more than the staffing gap they fill.
+
+### Blaming hires for onboarding failures instead of examining the program
+
+This is a trap because when new hires consistently fail to reach competence, it is easier to attribute the failure to the hires than to examine the onboarding program, so the kitchen fires the hires and continues hiring into the same broken program, producing the same failures, and the cycle of turnover becomes chronic and is accepted as the nature of the industry rather than as a fixable program failure. The mechanism is that each hire's failure is investigated as an individual performance issue, so the program that produced the failure is never examined, and the pattern across hires is never recognized as a signal that the program, not the hires, is the problem, so the kitchen keeps hiring and losing people while the program remains unchanged. The false signal is that each hire was individually weak, which reads as the explanation. The harm is chronic turnover that keeps the kitchen short-staffed and over-reliant on a few experienced cooks, because the program failure is never addressed and each new hire fails in the same way, and the kitchen accepts the turnover as inevitable rather than as the consequence of a program it could fix. The correct response is to examine the onboarding program when hires consistently fail, to check whether it is staged, trainer-assigned, criteria-defined, and method-sound, and to fix the program rather than to continue hiring into it, recognizing that a pattern of hire failure is a signal from the program, not from the labor pool.
+
+## Self-Check
+
+- Did I design onboarding as a staged progression with entry criteria, learning objectives, and exit criteria, rather than as sink-or-swim?
+- Did I assess the hire's baseline skills through structured demonstration rather than through conversation?
+- Did I assign a defined trainer who is accountable for the hire's progression, selected for teaching ability as well as skill?
+- Did I train safety, hygiene, allergen, and fire protocols in the first stage and verify understanding before the hire handles food?
+- Did I use demonstrate-guide-observe as the training method, with repetition until the skill is automatic?
+- Did I define objective criteria for reaching competence at each stage, and advance only when they are met?
+- Did I examine the onboarding program, not just the hires, when new hires consistently fail to reach competence?
