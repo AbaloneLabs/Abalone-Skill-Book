@@ -70,3 +70,4 @@ Before treating a medication administration as complete, verify:
 - The administration, time, response, and any refusal or reaction were documented accurately, not assumed or rounded up.
 - Any refusal, vomiting, or missed dose was handled by the documented procedure and reported where required, with no improvised doubling.
 - Any new symptom following a medication change was considered potentially drug-related and escalated rather than attributed to coincidence.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

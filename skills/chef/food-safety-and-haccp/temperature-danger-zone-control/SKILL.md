@@ -74,3 +74,4 @@ A persistent belief is that freezing renders previously mishandled food safe. It
 - Are reheated foods brought to at least 74°C / 165°F within two hours using rapid equipment, not a holding unit?
 - Are thermometers calibrated on a set schedule in ice and boiling water, and is the correct instrument matched to each measurement?
 - Are temperature logs being recorded at defined intervals with times and initials, so the kitchen's practices are defensible during inspection or investigation?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

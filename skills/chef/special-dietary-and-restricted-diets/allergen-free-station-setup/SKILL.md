@@ -76,3 +76,4 @@ This trap exists because the recipe and the station are compliant, so the kitche
 - Did I account for airborne allergens through ventilation and scheduling, rather than assuming clean surfaces stay clean?
 - Did I train staff behaviorally on the mechanism of cross-contact and rehearse handwashing, apron changes, and verbal call-outs?
 - Did I audit the station on a schedule for tool migration, ingredient compliance, workflow drift, and surface contamination?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

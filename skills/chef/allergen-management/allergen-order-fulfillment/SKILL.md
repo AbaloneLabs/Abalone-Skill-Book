@@ -74,3 +74,4 @@ A cook catches a wrong-garnish error just in time, tosses it, and says nothing; 
 - Does the finished plate carry a physical marker and undergo a verbal closed-loop handoff where cook and server confirm the allergen?
 - Are allergen errors and near-misses documented and reviewed to improve the protocol, not hidden?
 - Is the full protocol rehearsed regularly with all staff, with new hires trained before their first service and competence verified by observation?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

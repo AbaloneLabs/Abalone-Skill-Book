@@ -78,3 +78,4 @@ The line opens without anyone checking that pars are met and components are to s
 - Are vegetables blanched in small batches in rolling salted water and shocked immediately and completely in ice water, with blanch times standardized?
 - Are marinades, cures, and brines done under refrigeration with specified duration and concentration, never at room temperature?
 - Is there a non-negotiable pre-service verification of pars, specs, portions, labels, and dates by the lead before the line opens?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

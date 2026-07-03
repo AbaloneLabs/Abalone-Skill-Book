@@ -70,3 +70,4 @@ Before treating workload and boundary management as complete, verify:
 - Requests that exceeded sustainable capacity were declined clearly and briefly without excessive apology or justification.
 - High-risk tasks such as medication, transfers, and assessments were protected from rushing regardless of time pressure.
 - An unsafe assignment was raised as a patient-safety concern rather than hidden to avoid appearing difficult.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -76,3 +76,4 @@ This is a trap because the kitchen records a station as cross-trained when one b
 - Did I allocate dedicated training time and protect it from production, rather than leaving it to leftover time?
 - Did I verify cross-trained competence through supervised execution at service pace, not through training attendance?
 - Did I balance specialization depth with cross-training breadth, and provide genuine redundancy, not single-backup, for critical stations?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

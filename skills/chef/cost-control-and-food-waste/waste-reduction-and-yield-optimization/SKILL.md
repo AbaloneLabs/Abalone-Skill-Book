@@ -76,3 +76,4 @@ This is a trap because plate waste is feedback from the guest, but it is attribu
 - Did I design utilization into the menu and prep so trim becomes an ingredient rather than waste?
 - Did I improve forecasting to control overproduction, accepting calculated sellouts as more profitable than waste?
 - Did I observe plate waste systematically and adjust portions or reformulate dishes to eliminate it?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

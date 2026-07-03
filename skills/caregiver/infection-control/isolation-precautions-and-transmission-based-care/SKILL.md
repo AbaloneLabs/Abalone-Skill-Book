@@ -85,6 +85,10 @@ A caregiver may apply or continue precautions more broadly or for longer than ne
 
 When a person is behind a precautions sign, the caregiver may begin to relate to them primarily as a source of infection, reducing eye contact, touch, conversation, and time in the room, so the person feels shunned and stigmatized on top of being isolated. The mechanism is that the PPE and the signage reframe the person as a hazard, so the caregiver's protective instinct extends to minimizing contact, and the human relationship that is central to care erodes. The false signal is the appropriateness of the precautions, which is taken to justify the withdrawal. The harm is that the person experiences isolation as rejection, becomes depressed or anxious, receives less attentive care, and may even hide symptoms to end the isolation, while the caregiver believes they are simply following protocol. The defense is to distinguish the organism, which the precautions address, from the person, who still deserves warmth, respect, and full care; to increase the quality of contact within the precautions; to explain and reassure; and to remember that the PPE protects the caregiver so they can stay close, not so they can stay away.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I confirm the type of precautions (contact, droplet, airborne, or enhanced) from the care plan and signage, and perform the specific requirements for that type?

@@ -74,3 +74,4 @@ Monitoring is the routine measurement at the CCP performed by the line; verifica
 - Are corrective actions predetermined, documented, and aimed at both the unsafe food and the root cause of the deviation?
 - Is verification performed independently and on schedule, including thermometer calibration, log review, observation, and product testing?
 - Is the plan reassessed and re-documented whenever the menu, process, equipment, suppliers, or regulations change?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

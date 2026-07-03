@@ -74,3 +74,4 @@ To save labor, one cook runs both the standard and allergen-free versions of a d
 - Is task sequencing built into station setup so allergen-free items are prepared first on clean surfaces, before any allergen-containing ingredient is opened?
 - Are garnish containers, sauce bottles, and the pass lane dedicated or sanitized for allergen-free plates, with a verbal handoff so no finishing touch contaminates the dish?
 - Before the plate leaves, do both the cook and expediter verbally confirm the dish was prepared allergen-free and which allergen was avoided?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

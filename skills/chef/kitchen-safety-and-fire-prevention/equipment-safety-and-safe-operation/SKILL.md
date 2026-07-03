@@ -76,3 +76,4 @@ This trap exists because it is simplest to attribute an equipment injury to the 
 - Did I train a verification step before opening any pressure or steam equipment, and opening away from the face and body?
 - Did I maintain equipment on a schedule and remove from service any equipment with failing safety systems?
 - Did I investigate every equipment injury for operator, equipment, and workflow causes, and address all three?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

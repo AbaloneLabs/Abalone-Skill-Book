@@ -70,3 +70,4 @@ Before treating toileting and continence care as complete, verify:
 - Bowel pattern was monitored for constipation, and any persistent change was escalated rather than self-managed.
 - Nighttime access to the toilet, commode, call bell, and lighting was arranged to prevent unassisted trips in the dark.
 - Continence products were used as a backup to a toileting program, not as a replacement for prompting and assistance.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

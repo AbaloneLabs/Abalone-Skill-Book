@@ -93,6 +93,10 @@ When a transfer starts to fail — the person's knees begin to buckle, they beco
 
 A caregiver who develops a sore back, aching shoulders, or a knee that twinges after transfers often continues working through it, treating the discomfort as a personal weakness rather than a warning. The mechanism is that musculoskeletal injury accumulates over many small overloads, so each individual transfer feels tolerable even as the cumulative damage approaches failure, and the caregiver pushes on because stopping feels like letting the person down. The false signal is the absence of a single dramatic injury, which is mistaken for the absence of injury altogether. The harm is that the caregiver's body reaches failure mid-transfer, at which point both the caregiver and the care recipient are at risk, and a career-ending injury may have become unavoidable. The defense is to treat recurring discomfort as a reportable signal, to review technique and equipment when it appears, to request a reassessment of the transfer or additional staffing, and to recognize that an injured caregiver cannot care for anyone.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I plan the transfer before touching the person — assessing today's ability, checking brakes, path, destination, and equipment — and agree on the technique and a count?

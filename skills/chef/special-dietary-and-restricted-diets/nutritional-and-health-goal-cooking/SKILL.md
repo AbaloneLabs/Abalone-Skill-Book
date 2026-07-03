@@ -76,3 +76,4 @@ This trap exists because when fat or salt is reduced the dish loses flavor, and 
 - Did I build satiety through protein, fiber, and volume so the dish is satisfying within the calorie limit?
 - Did I account for the glycemic impact of carbohydrate choices, not just the total carb count?
 - Did I verify the dish against the target by calculation using actual weights, including all oils, dressings, and condiments?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

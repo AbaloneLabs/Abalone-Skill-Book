@@ -49,6 +49,8 @@ Observing, engaging respectfully, documenting, and reporting are your scope. Ass
 
 **Treating a single tidy visit as evidence that ongoing neglect is not occurring.** The mechanism of harm is that a caregiver, finding the home reasonably clean and the client presentable on one visit, concludes earlier concerns were unfounded. The false signal is that one good day disproves a pattern; in reality, neglect and self-neglect are episodic, families and clients may stage a presentable surface for visitors, and the underlying decline continues between visits. The harm is that a safeguarding concern is closed on the strength of a single observation. The fix is to look for the trend across multiple visits, document each observation, and treat one reassuring visit as one data point, not as closure.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I distinguish neglect by others (a reportable form of abuse) from self-neglect (an autonomy-sensitive decline)?

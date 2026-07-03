@@ -76,3 +76,4 @@ This is a trap exists because the stated culture, respect, teamwork, standards, 
 - Did I address conflict directly when it arose, rather than letting it fester underground?
 - Did I diagnose turnover as a culture and retention problem and invest in retention, not just in hiring?
 - Did I ensure leadership behavior embodies the stated culture, especially under pressure, recognizing that culture follows leadership?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

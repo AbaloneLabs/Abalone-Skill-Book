@@ -70,3 +70,4 @@ Before treating confidentiality and privacy handling as complete, verify:
 - Family updates respected what the client consented to share and with whom, rather than treating all family as automatically entitled.
 - No client information was accessed or discussed out of curiosity or social connection, only for care purposes.
 - Confidentiality was maintained for former and deceased clients, recognizing the duty continues after care ends.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

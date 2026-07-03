@@ -76,3 +76,4 @@ This is a trap because food cost percentage is the most visible metric and is ea
 - Did I evaluate menu items on the popularity-profitability matrix, and manage each quadrant differently?
 - Did I monitor key ingredient prices and recalculate affected dish costs when prices moved significantly?
 - Did I evaluate dishes on contribution margin and labor required, not on food cost percentage alone?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

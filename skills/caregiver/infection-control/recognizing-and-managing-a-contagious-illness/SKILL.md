@@ -90,6 +90,10 @@ When a person's fever settles, their cough eases, or their diarrhea stops for a 
 
 A caregiver who develops a sore throat, a cough, or mild gastrointestinal symptoms may continue to work, not wanting to burden colleagues, lose income, or let the care recipients down, especially if the symptoms feel mild. The mechanism is that the personal cost of staying home is weighed against the perceived mildness of the symptoms, and the caregiver, underestimating their own contagiousness, goes to work. The false signal is the mildness of the symptoms in the caregiver, who is healthy enough to function, which is mistaken for a low risk to others. The harm is that the caregiver becomes the source of an outbreak that spreads to frail care recipients for whom the same mild illness is severe or fatal, and the very dedication that drove the caregiver to work causes the harm. The defense is to treat any infectious symptom as a reason not to work with vulnerable people, to report symptoms promptly, to follow the setting's testing and exclusion guidance, and to recognize that staying home when infectious is a duty of care, not a failure of dedication.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize new symptoms against the person's baseline — respiratory, gastrointestinal, general, or skin — and report them promptly rather than dismissing them as a bad day?

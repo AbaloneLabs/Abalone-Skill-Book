@@ -76,3 +76,4 @@ This is a trap because portion control is framed as consistency for guest experi
 - Did I calibrate scales with a known weight and inspect dishers and ladles for wear on a schedule?
 - Did I distinguish precisely controlled components from judgment components, and allow latitude only in the latter?
 - Did I connect portion adherence to food cost variance in review, so the team owns the financial impact?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

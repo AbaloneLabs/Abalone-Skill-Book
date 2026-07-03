@@ -76,3 +76,4 @@ This is a trap because a clean appearance does not indicate a sanitized surface,
 - Did I design pest management around habitat elimination, sealing entry, removing food and water, and monitoring, with pesticide as a last resort?
 - Did I inspect receiving for pests and store food off the floor and away from walls to prevent entry and harborage?
 - Did I verify sanitation through inspection against the schedule, ATP or microbial testing, and pest monitoring, rather than by appearance?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

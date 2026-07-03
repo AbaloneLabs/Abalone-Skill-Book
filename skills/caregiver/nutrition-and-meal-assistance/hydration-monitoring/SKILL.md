@@ -45,6 +45,10 @@ Encouraging, assisting, and recording intake is caregiver scope. Diagnosing dehy
 
 **Assuming dark urine is the only reliable sign.** The mechanism of harm is that a caregiver looks only at urine color and, when it appears normal, concludes the client is well hydrated. The false signal is a single reassuring observation; in reality, urine concentration lags behind actual fluid status, medications and supplements alter color, and clients with kidney impairment may not concentrate urine normally. The harm is false reassurance that delays recognition of dehydration until systemic signs appear. The fix is to use the full picture — intake records, mental status, oral moisture, urine output, and behavior — rather than any single indicator.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I offer fluids proactively and repeatedly through the shift, not only on request?

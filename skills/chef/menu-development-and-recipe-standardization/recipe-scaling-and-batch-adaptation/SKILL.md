@@ -74,3 +74,4 @@ A cook needs a fifty-portion batch, takes the base recipe, and multiplies by fif
 - Is cooling planned into every scaled recipe (shallow pans, ice baths, blast chilling, probe-verified cooling curve) to stay within the safe danger-zone window?
 - Are home or test recipes deliberately converted (weights, commercial equipment, yield, holding) and tested at production volume before standardizing?
 - Is every tested scaled batch documented as its own standardized recipe with its own method, timing, seasoning, and cost, so cooks use it directly rather than re-multiplying?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

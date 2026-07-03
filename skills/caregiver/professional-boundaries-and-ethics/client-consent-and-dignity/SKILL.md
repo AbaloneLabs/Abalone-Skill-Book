@@ -70,3 +70,4 @@ Before treating consent and dignity handling as complete, verify:
 - Any conflict between safety and autonomy was handled through proper process and the least restrictive option, not by silent override.
 - Capacity was assessed as decision-specific and time-specific, not treated as all-or-nothing based on a single observation.
 - No decision the client could make was taken over simply for efficiency or because the client was slow.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

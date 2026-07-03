@@ -76,3 +76,4 @@ This is a trap because without verification, the quality of reset depends on the
 - Did I match cleaning chemicals to their task, follow contact times, and rinse food-contact surfaces after degreasing?
 - Did I maintain a deep-clean rotation that covers hidden zones, hoods, grease traps, behind and under equipment, on a defined cycle?
 - Did a lead verify reset completion against the baseline before the station was left?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

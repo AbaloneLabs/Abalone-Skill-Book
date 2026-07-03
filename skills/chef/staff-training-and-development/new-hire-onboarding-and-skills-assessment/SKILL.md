@@ -76,3 +76,4 @@ This is a trap because when new hires consistently fail to reach competence, it 
 - Did I use demonstrate-guide-observe as the training method, with repetition until the skill is automatic?
 - Did I define objective criteria for reaching competence at each stage, and advance only when they are met?
 - Did I examine the onboarding program, not just the hires, when new hires consistently fail to reach competence?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

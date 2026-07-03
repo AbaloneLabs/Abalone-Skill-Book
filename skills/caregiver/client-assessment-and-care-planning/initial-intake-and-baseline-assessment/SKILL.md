@@ -70,3 +70,4 @@ Before treating the intake assessment as complete, verify:
 - The client gave informed consent to the assessment, sensitive questions were asked privately, and the client could decline to answer.
 - Findings outside caregiving scope have been flagged and routed to the appropriate clinical or social-work channel.
 - The baseline is specific and measurable enough that a future caregiver could detect whether the client has improved, declined, or stayed the same.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

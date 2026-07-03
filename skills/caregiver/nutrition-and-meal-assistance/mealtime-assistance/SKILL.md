@@ -45,6 +45,8 @@ Mealtime assistance is within caregiver scope. Diagnosing swallowing disorders, 
 
 **Infantilizing the client during feeding.** The mechanism of harm is that a caregiver uses a sing-song voice, wipes the mouth without warning, or feeds without narrating, treating an adult like a child. The false signal is that this is "gentle" care; in reality it strips dignity and signals that the client is incompetent, which suppresses their remaining self-feeding ability and appetite. The harm is a measurable decline in intake and a client who feels humiliated at every meal. Narrate each action, seek consent for each step, protect clothing respectfully, and preserve the client's adult identity throughout.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I position the client upright with supported trunk and neutral head before any food or fluid?

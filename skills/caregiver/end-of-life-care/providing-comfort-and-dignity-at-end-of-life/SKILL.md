@@ -101,3 +101,4 @@ The caregiver, uncomfortable with death and grief, focuses on the physical tasks
 - [ ] Did I support the family through anticipatory grief and the final hours — explaining what to expect, reassuring about comfort, encouraging presence and meaningful connection, and respecting their grief, conflict, and practices?
 - [ ] Do I know what to do at and after the death — confirming signs, notifying the hospice team (not emergency services unless directed), caring for the body with dignity, supporting the family, and documenting as required?
 - [ ] Did I recognize my own emotional limits and refer complicated grief, family conflict, and spiritual distress to the hospice team, social worker, or chaplain rather than withdrawing or trying to fill every role?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -76,3 +76,4 @@ This is a trap because the baker invests hours in temperature-sensitive techniqu
 - Did I blind-bake and seal the crust for any wet filling, rather than assuming the raw dough would protect itself?
 - Did I add sugar to meringue only after soft peaks and cook custard and caramel by temperature rather than appearance?
 - Did I store each finished pastry component in the environment its technique requires and assemble close to service?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

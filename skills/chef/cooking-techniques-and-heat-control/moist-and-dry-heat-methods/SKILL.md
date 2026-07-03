@@ -74,3 +74,4 @@ A cook roasts every vegetable, or steams every fish, or fries every appetizer, b
 - For frying, is oil temperature verified with a thermometer before each batch, with recovery time respected and oil filtered and changed on schedule?
 - Is the sear treated as a non-negotiable flavor step before braising or stewing, with fond deglazed into the liquid?
 - Does the chosen method actually produce the texture the dish calls for, and where it cannot, is a combination or a different cut considered?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

@@ -74,3 +74,4 @@ A cook improves a dish on the fly — a different sear, an extra seasoning — a
 - Was every recipe tested at realistic service volume with the actual team and equipment before being standardized?
 - Are recipes version-controlled with dated, attributed, distributed changes and a single current version, with old versions retired?
 - Are cooks trained to follow the recipe exactly and to propose improvements through a formal change process rather than silent line improvisation?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

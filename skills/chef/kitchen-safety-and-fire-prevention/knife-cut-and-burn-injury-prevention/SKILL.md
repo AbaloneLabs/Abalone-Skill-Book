@@ -76,3 +76,4 @@ This is a trap because a knife in a sink or under debris is invisible, so the ne
 - Did I clean spills immediately, use anti-slip mats, and require slip-resistant footwear to prevent slips near knives and heat?
 - Did I manage shift length, breaks, ticket pacing, and staffing to control fatigue and rushing as injury causes?
 - Did I investigate every injury for its workflow cause and fix the condition, rather than blaming the individual?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

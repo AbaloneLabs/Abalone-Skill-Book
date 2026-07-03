@@ -49,6 +49,8 @@ Continence care, cleansing, barrier application per the care plan, and documenta
 
 **Expressing disgust or rushing through intimate care.** The mechanism of harm is that a caregiver, uncomfortable with incontinence, hurries the care, uses brusque movements, or allows non-verbal disgust to show. The false signal is that efficiency is professional; in reality, the client experiences shame and pain, learns to fear and avoid care, and begins to delay reporting or requesting changes. The harm is both immediate distress and worsening moisture exposure as the client suppresses requests, driving the very IAD the care was meant to prevent. The fix is to slow down, explain each step, ensure warmth and privacy, and treat continence care as a dignity-preserving interaction, not a task to rush.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I change soiled or wet briefs promptly rather than waiting for the next scheduled round?

@@ -70,3 +70,4 @@ Before treating the medication list as reconciled and current, verify:
 - A single current medication list exists, includes dose, route, frequency, indication, and prescriber, and is the version all caregivers use.
 - Any recent acute change in the client's condition was considered as a possible consequence of a medication discrepancy or change.
 - Stale copies and conflicting handwritten lists have been retired so only one source of truth remains in use.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

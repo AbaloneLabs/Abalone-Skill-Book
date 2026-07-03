@@ -95,6 +95,10 @@ When a person with no prior falls has one fall, it is easy to attribute it to a 
 
 Under time pressure, the post-fall documentation may be reduced to "resident found on floor, assisted to chair, no injury," with no detail about what was observed, what the person reported, or what was done. The mechanism is that documentation feels like a chore after a stressful event, so it is completed minimally to satisfy the requirement, and the gaps are filled with inference ("must have tripped") because the caregiver wants a tidy explanation. The false signal is that the form is complete, which is mistaken for the record being adequate. The harm is that the clinical team cannot investigate the cause from a vague record, patterns across multiple falls cannot be detected, delayed injuries cannot be correlated with the event, and the caregiver's own account is unprotected if questions arise later. The defense is to document observations and the person's own words rather than inferences, to record times and specific findings, and to complete the documentation promptly while details are fresh, recognizing that an accurate record is part of the care, not an afterthought to it.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I resist the impulse to lift the person immediately, and assess responsiveness, orientation, pain, and visible injury before any movement?

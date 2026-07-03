@@ -1,0 +1,77 @@
+---
+name: mother_sauces_and_sauce_families.md
+description: Use when the agent is building, classifying, or repairing a sauce from the classical French mother-sauce system, deriving a small sauce, stabilizing a broken emulsion such as hollandaise or béarnaise, choosing a thickener and its ratio, or training cooks on roux-based and emulsion sauce families.
+---
+
+# Mother Sauces And Sauce Families
+
+The five mother sauces are not a historical curiosity to memorize for an exam; they are the structural backbone of Western sauce work, and a cook who understands them can diagnose and rebuild almost any sauce rather than throwing it out. The judgment problem is that "making a sauce" is usually taught as a recipe — so much butter, so much flour, so much liquid — when in fact every sauce is a stabilized system: fat dispersed in water, starch suspended in liquid, or protein coagulated around flavor. When a sauce breaks, goes lumpy, thins out, or skins over, the cook who only knows the recipe is helpless, while the cook who understands the system can fix it. This skill covers the five mother sauces, their derivative families, the thickeners that hold them together, and the emulsion physics that determine whether a hollandaise is silken or a greasy puddle.
+
+Use this skill when writing or repairing a sauce recipe, choosing a thickener and its ratio, stabilizing or rescuing a broken emulsion, training cooks on sauce families, or auditing a station's sauce quality.
+
+## Core Rules
+
+### Know The Five Mother Sauces And What Stabilizes Each
+
+The classical system rests on five mother sauces, each defined by its liquid and its stabilizer. Béchamel is milk thickened with a white roux. Velouté is a light stock (chicken, veal, or fish) thickened with a white or blond roux. Espagnole is a brown stock thickened with a brown roux, often with roasted mirepoix and tomato for depth. Sauce tomate is tomato-based, traditionally thickened with roux though modern versions often rely on the tomatoes' own reduction. Hollandaise is an emulsion of clarified butter held in suspension by egg yolk and acid, stabilized by the lecithin in the yolk rather than by starch. The point of knowing these is not the names but the principle: béchamel, velouté, and espagnole are roux-thickened starch systems; hollandaise is a fat-in-water emulsion held by protein; tomato is a reduced-liquid system. The failure modes differ by family, so the diagnosis and the fix must match the system.
+
+### Derive Small Sauces Systematically, Not As Separate Recipes
+
+Each mother sauce spawns a family of small (secondary) sauces built by a consistent modification. From velouté come sauce suprême (cream and mushroom reduction), sauce allemande (egg yolk liaison and mushroom), and sauce normande (apple and cream for fish). From espagnole come demi-glace and its derivatives — bordelaise (red wine and shallot), chasseur (mushroom and tomato), robert (mustard and onion). From béchamel come Mornay (cheese), soubise (onion purée), and mustard or curry variants. From hollandaise come béarnaise (tarragon and shallot reduction), mousseline (whipped cream folded in), and Maltaise (blood orange). The systematic view prevents the trap of treating every sauce as a unique recipe to memorize: a small sauce is a mother sauce plus a defined aromatic or enrichment, and once the cook sees the pattern, dozens of sauces become trivial extensions of five bases. Train cooks to identify the mother and the modification rather than memorize finished recipes.
+
+### Match The Thickener To The System And Control The Ratio
+
+Thickener choice is a decision with texture, flavor, stability, and reheating consequences, and the ratio is not arbitrary. A classic roux uses roughly equal parts fat and flour by weight; the amount of roux to liquid determines the nappe consistency (roughly 60 to 100 grams of roux per liter of liquid for a coating sauce, less for a light velouté). A beurre manié is equal parts butter and flour kneaded together, used to thicken a simmering liquid at the end without making a separate roux. A liaison is a mixture of egg yolk and cream (typically one part yolk to two or three parts cream) stirred in off the heat to enrich and lightly thicken without curdling. A slurry is starch (cornstarch, arrowroot) dispersed in cold water, added to a simmering liquid; arrowroot gives a clearer, glossier result than cornstarch but breaks down under prolonged heat and does not reheat well. The decision matters: roux-based sauces reheat well and hold on a line, starch slurries can thin or weep over time, egg liaisons cannot boil or they scramble, and emulsion sauces cannot be held hot indefinitely without breaking. Choose the thickener for the holding and service conditions, not just for the moment of plating.
+
+### Understand Emulsion Stability Before Making Hollandaise
+
+Hollandaise and its derivatives are the sauces that break most often, because they are emulsions — two liquids (butterfat and the water-acid phase) that naturally separate and are forced together by the emulsifier (egg yolk lecithin) and mechanical action. Stability depends on four factors: the emulsifier must be present in sufficient quantity, the dispersed phase (the butter) must be added slowly enough that each addition incorporates before the next, the continuous phase (the yolk-water-acid base) must stay in the right temperature window (warm enough to melt and flow the butter, not so hot that the yolk proteins coagulate and scramble), and the agitation must be continuous and forceful enough to create tiny droplets. A stable hollandaise can be held in a warm (not hot) place for service; an unstable one breaks within minutes. The same physics governs béarnaise, beurre blanc, mayonnaise, and vinaigrette, so mastering the principle transfers across the entire emulsion family.
+
+### Build The Emulsion In The Right Order And Temperature Window
+
+For hollandaise, start with the yolks and a splash of acid or water in a bowl over gentle heat (a double boiler or a very low flame), whisking until they thicken and lighten — this is creating the continuous phase and warming it to receive fat. Then add the melted, clarified butter in a thin stream while whisking constantly; the butter must be warm but not hot enough to scramble the yolk (keep it under about 65°C / 150°F for the yolk). If the stream is too fast or the butter too cold, the emulsion cannot form and it breaks or seizes. For a cold emulsion like mayonnaise, the same slow-addition rule applies with oil into yolk. The temperature window is the most common point of failure: too hot and the yolk scrambles into scrambled-egg lumps, too cold and the butter solidifies into greasy droplets. Verify the base temperature by feel and by the visual cue of the yolks ribboning before adding fat.
+
+### Rescue A Broken Sauce By Diagnosis, Not Panic
+
+A broken emulsion is usually recoverable if the cook diagnoses the cause. If hollandaise has split into butter and yolk, the fix is to start a fresh small base — a yolk with a splash of water or acid, whisked warm — and slowly whisk the broken sauce into the new base, as if re-emulsifying from scratch. This works because the broken sauce still contains all the components; it just needs a new continuous phase to re-form around. If a roux sauce is lumpy, the cause is usually flour added to hot liquid without forming a roux first, or liquid added to a roux too fast; the fix is to strain it, or to make a slurry and whisk it in, or to blend briefly. If a sauce has thinned because the starch broke down under long holding, the fix is a small fresh roux or slurry. Diagnosis first: ask what system this is, what stabilizes it, and which condition was violated, then apply the matching repair.
+
+### Hold And Reheat Each Sauce Family According To Its Physics
+
+Each sauce family has a different holding envelope, and violating it is a primary cause of service-time failure and food-safety risk. Roux-thickened sauces hold well at service temperature (above 60°C / 140°F for hot holding) and reheat well, but they skin over if uncovered and must be stirred and covered with a cartouche or film. Emulsion sauces cannot be held at a hard boil or they break, and they cannot be held in the danger zone indefinitely for safety reasons; hold hollandaise warm (around 60°C / 140°F, no higher than needed) and for a limited time, discarding the remainder after service rather than cooling and reheating, because reheating an egg emulsion risks both breaking and bacterial growth. Liaison-thickened sauces must not be boiled after the liaison goes in or the yolks curdle. Match the holding method to the sauce's physics and to food-safety time-temperature rules.
+
+## Common Traps
+
+### Adding Fat Too Fast And Breaking The Emulsion
+
+A cook pours melted butter into hollandaise in a steady stream rather than a thin trickle, and the sauce splits into a greasy pool within seconds. The false signal is that the butter is "incorporating" because the bowl looks busy under the whisk. The mechanism is that an emulsion forms only when fat is added slower than the emulsifier can coat the new droplets; pour faster than that rate and the droplets coalesce and the system separates, because there is not enough continuous-phase surface area to hold the incoming fat. The harm is a sauce that cannot be served and a cook who believes emulsions are unreliable. The defense is to add fat in a slow, thin stream at the start, when the emulsion is most fragile, and to verify by sight that each addition incorporates before continuing; the stream can speed up slightly once the emulsion is established. Emulsion formation is rate-limited, not volume-limited.
+
+### Scrambling The Yolk With Too Much Heat
+
+A cook makes hollandaise directly over a high flame to save time, and the sauce turns into grainy, scrambled-egg lumps that no whisking can smooth. The false signal is that direct heat is "faster." The mechanism is that egg yolk proteins coagulate sharply above about 65°C / 149°F, and once they set they cannot be re-emulsified — the curds are cooked protein, not a mixing problem. The harm is an unrecoverable sauce and, worse, a food-safety blind spot, because a cook who scrambles yolks may then try to hold the sauce at marginal temperature. The defense is to use a double boiler or a very low flame, to whisk constantly, to lift the bowl off the heat if it gets too warm, and to aim for the temperature window where butter flows but yolk does not set. Heat control, not speed, is what makes hollandaise reliable.
+
+### Using A Roux Without Cooking Out The Flour
+
+A cook melts butter, stirs in flour, and immediately adds milk to make béchamel, producing a sauce that tastes raw, pasty, and floury. The false signal is that the roux "looks blended." The mechanism is that raw flour starch must be cooked to lose its cereal taste and to gelatinize properly; an undercooked roux yields a sauce that is both gritty and starchy on the palate, because the starch granules have not fully swollen and the raw flavor has not been driven off. The harm is a sauce that tastes amateur even when the texture looks correct, undermining an entire dish built on it. The defense is to cook the roux for a few minutes over moderate heat — longer for a blond or brown roux, which also deepens flavor — until it smells nutty and loses the raw-flour odor, before adding liquid. The roux cook time is a flavor and texture step, not a formality.
+
+### Thinning A Sauce By Topping Off Without Recalculating
+
+During service a cook finds the béchamel too thick and adds stock or milk to loosen it, but adds too much and the sauce goes thin and bland, so they then over-thicken with flour and create lumps. The false signal is that adjusting by eye is "flexible." The mechanism is that thickener and liquid exist in a ratio, and casual additions on the line break that ratio, cascading into a cycle of over- and under-correction that also throws off seasoning, because dilution reduces salt and flavor concentration. The harm is inconsistent sauce from one plate to the next and a station that never stabilizes. The defense is to adjust in small measured increments, to taste after each addition, and to keep a documented ratio in the recipe so the cook knows how much liquid a given amount of roux supports. Sauce consistency is a ratio problem, not an eye problem.
+
+### Holding Hollandaise Too Long Or Reheating It
+
+A cook makes a large batch of hollandaise in the morning, holds it warm through brunch, and refrigerates the leftover to reheat tomorrow, believing it is efficient. The false signal is that "it is just a sauce, it will keep." The mechanism is twofold: an egg-yolk emulsion held warm for hours is a food-safety hazard because it sits in or near the temperature danger zone supporting bacterial growth, and reheating a cold hollandaise almost always breaks it because the cold butterfat separates and the yolk, already cooked, scrambles on reheat. The harm is both a sick guest and a ruined sauce. The defense is to make emulsion sauces in small batches timed to service, to hold them only for the service window at a controlled warm temperature, and to discard the remainder rather than store and reheat. Emulsion sauces are made-to-order, not make-ahead.
+
+### Treating All Thickeners As Interchangeable
+
+A cook runs out of flour and thickens a sauce with cornstarch slurry instead, then holds it on a steam table for two hours and finds it has gone thin and glossy in an unappealing way. The false signal is that "starch is starch." The mechanism is that different starches have different gelatinization temperatures, stability under heat and acid, clarity, and reheating behavior — cornstarch and arrowroot break down under prolonged heat or acidic conditions, wheat-flour roux is more stable and reheats well, and waxy starches weep on holding. The harm is a sauce that fails in service conditions the original thickener would have survived, and a cook who blames the recipe. The defense is to choose the thickener for the holding time, acidity, and reheating needs of the dish, and to document the intended thickener in the recipe so substitutions are made deliberately, not by default.
+
+## Self-Check
+
+- Can the cook name the five mother sauces, identify the liquid and the stabilizer in each, and explain why the failure modes differ between a roux-thickened sauce and an emulsion?
+- Are small sauces understood as a mother sauce plus a defined modification, rather than memorized as separate recipes?
+- Is the thickener matched to the system and service conditions, with a documented roux-to-liquid or liaison ratio rather than adjustment by eye?
+- For hollandaise and béarnaise, is the fat added in a slow thin stream into a warmed continuous phase, with heat kept below the yolk-scrambling temperature?
+- Is the roux cooked out until it loses its raw-flour taste before liquid is added?
+- If a sauce breaks, is the cause diagnosed (system type, which condition was violated) before a matching repair is attempted, rather than the sauce being discarded?
+- Are emulsion sauces made in small service-timed batches, held only for the service window at a controlled warm temperature, and discarded rather than cooled and reheated?
+- Is the holding method for each sauce family matched to its physics (roux sauces covered and stirred, emulsion sauces temperature-limited, liaison sauces unboiled) and to time-temperature safety rules?

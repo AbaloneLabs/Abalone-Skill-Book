@@ -89,6 +89,10 @@ Many people, especially those who fear losing independence, will minimize or den
 
 When a person begins falling more often, the caregiver may focus on environmental fixes and miss that the underlying cause is a clinical change — a new medication, an infection, postural hypotension, an arrhythmia, or a neurological decline — that requires a clinician, not a grab bar. The mechanism is that a fall looks like an environmental event, so the response is environmental, and the medical driver is never reported because the caregiver assumes "falls are just part of getting older." The false signal is that environmental fixes sometimes seem to help, reinforcing the belief that the cause was environmental. The harm is that a treatable condition progresses untreated, falls continue, and a reversible cause of decline becomes permanent or fatal. The defense is to treat any change in fall pattern — new falls, more frequent falls, a different kind of fall, or falls accompanied by new symptoms — as a clinical change requiring prompt escalation to the nurse or clinician, in addition to any environmental response.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess intrinsic, extrinsic, and situational factors rather than stopping at the first hazard I noticed?

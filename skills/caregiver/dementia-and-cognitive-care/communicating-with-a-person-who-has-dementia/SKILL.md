@@ -86,6 +86,10 @@ When coordinating with a family member or another caregiver, it is convenient to
 
 When a person who communicated reasonably well yesterday is suddenly more confused, less able to find words, or unable to follow instructions, the caregiver may record it as "dementia worsening" and adjust expectations downward rather than investigate. The mechanism is that dementia is the most available explanation for any cognitive change in a person who has dementia, so the acute change is folded into the chronic disease and the possibility of a separate, treatable cause is not considered. The false signal is the person's diagnosis, which makes cognitive decline seem expected and unremarkable. The harm is that a delirium caused by a urinary tract infection, dehydration, a medication interaction, an undetected pain, or a stroke goes unrecognized and untreated, sometimes with permanent consequences, because the change was attributed to the disease the person already had. The defense is to know each person's baseline, to treat any change over hours or days as a potential acute problem rather than as progression, to look for and document associated physical signs, and to escalate promptly so a clinician can distinguish delirium from decline.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I match my communication — sentence length, pace, one idea at a time — to the person's ability at this moment, not to their history?

@@ -76,3 +76,4 @@ This is a trap because a station set up from habit replicates the same over- and
 - Did I sequence setup so perishable and time-sensitive components are prepped last, closest to service?
 - Did I define a restocking protocol with triggers, assignments, and a runner so the station does not deplete mid-rush?
 - Did I audit the station against the menu before service and against actual usage after service, and adjust the next setup?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

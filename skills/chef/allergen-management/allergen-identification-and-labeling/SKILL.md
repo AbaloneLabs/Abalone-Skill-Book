@@ -74,3 +74,4 @@ A persistent belief is that heat denatures allergen proteins and makes them safe
 - Does any ingredient or supplier change trigger an immediate allergen-matrix update and a same-day notification to service staff?
 - Are service staff trained never to answer allergen questions from memory, to consult the matrix, notify the kitchen, and escalate uncertainty rather than guess?
 - Is the team aware that cooking does not reliably destroy allergens, so avoidance and segregation — not heat — are the real controls?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

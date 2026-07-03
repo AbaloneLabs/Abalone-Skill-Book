@@ -49,6 +49,10 @@ Repositioning, continence care, skin checks, surface use, and documentation are 
 
 **Assuming a pressure-relieving surface makes turning unnecessary.** The mechanism of harm is that a caregiver, once a specialized mattress or cushion is in place, reduces or skips repositioning on the belief that the surface does the work. The false signal is that the equipment is doing the relief; in reality, no surface eliminates pressure entirely, and immobility itself causes harm beyond pressure (contractures, respiratory compromise, discomfort). The harm is preventable pressure injury and broader immobility complications. The fix is to continue scheduled repositioning and skin checks regardless of the support surface, and to confirm the surface is correctly set up and inflated.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I identify the client's pressure-injury risk and reposition at a frequency that matches it?

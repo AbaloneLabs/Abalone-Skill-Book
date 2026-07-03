@@ -61,6 +61,10 @@ The caregiver is wounded when the person accuses them of theft, fails to recogni
 
 The caregiver manages each behavioral episode as a one-off crisis and never steps back to look for the pattern, so the same triggers keep producing the same distress. The mechanism of harm is that without documentation, the triggers — a particular time, task, person, or environment — are never identified and removed, and the behavior recurs indefinitely. The false signal is that each episode is unpredictable. The harm is preventable distress that persists because no one read the pattern. Keep a simple behavior log: what happened, when, who was there, what came just before, and what helped — the pattern almost always emerges and points to the fix.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I treat the behavioral expression as communication of unmet need, and ask what the person is trying to tell me, before deciding how to respond?

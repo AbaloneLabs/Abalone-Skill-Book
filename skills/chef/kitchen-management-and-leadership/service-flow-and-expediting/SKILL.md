@@ -74,3 +74,4 @@ A dish runs out and the kitchen knows but does not tell the floor, a server cont
 - Is seating and firing paced to the kitchen's sustainable capacity, with the gate managed by the expediter and floor manager?
 - Are 86s, shortages, and substitutions communicated to the floor immediately, completely, and confirmed, with a visible 86 board?
 - Does the expediter stay calm and triage under pressure, sequencing recovery and communicating honest timing rather than panicking?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

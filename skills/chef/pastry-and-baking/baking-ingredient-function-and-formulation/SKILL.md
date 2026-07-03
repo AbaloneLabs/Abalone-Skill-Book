@@ -76,3 +76,4 @@ This is a trap because home recipes encode assumptions about pan size, leavening
 - Did I choose a mixing method that develops or protects gluten intentionally, and define a stopping point rather than mixing until it looks right?
 - Did I define doneness by objective signals (internal temperature, toothpick, color, spring) rather than time, and account for oven calibration and carryover cooking?
 - Did I document the oven, pan, and flour brand that produced the good result so the formula is reproducible across batches and operators?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

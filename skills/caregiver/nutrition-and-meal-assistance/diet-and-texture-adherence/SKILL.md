@@ -49,6 +49,8 @@ Preparing and serving food, verifying against the plan, encouraging intake, and 
 
 **Overriding a refusal by hiding restricted food.** The mechanism of harm is that a caregiver, frustrated that a client will not eat the modified meal, slips a preferred but forbidden item into the food to stimulate appetite. The false signal is that "a little bit won't matter"; in reality, even small amounts of a restricted food can cause a clinical event in a vulnerable client, and the act removes the client's informed consent. The harm is a medical crisis plus a betrayal of trust. The fix is to respect refusals, investigate the cause, advocate for appealing but safe options, and escalate persistent refusal rather than deceiving the client.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I confirm the client's identity and that the meal matched the documented diet and texture before serving?

@@ -74,3 +74,4 @@ A cook produces a mix of good and bad pieces and stacks the good ones on top, se
 - Is the claw grip taught and reinforced constantly, with the knife's flat riding the guiding hand's middle knuckles and fingertips clear of the edge?
 - Is every cutting board stabilized with a non-slip mat or damp towel, color-coded by food category, and changed between raw and ready-to-eat use?
 - Are irregular pieces sorted and redirected rather than hidden, with the cause noted so technique improves?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

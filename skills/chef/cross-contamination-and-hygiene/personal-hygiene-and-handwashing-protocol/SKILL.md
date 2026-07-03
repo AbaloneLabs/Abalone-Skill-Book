@@ -76,3 +76,4 @@ This is a trap because staff take cues from leaders, so when a lead skips handwa
 - Did I assign separate aprons for raw and ready-to-eat zones, and treat uniforms as contamination vectors?
 - Did I address the cultural conditions by having leads model correct hygiene and treating shortcuts as serious regardless of service pressure?
 - Did I verify hygiene through direct observation rather than self-report, and correct failures in the moment?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

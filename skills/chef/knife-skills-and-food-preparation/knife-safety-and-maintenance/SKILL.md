@@ -74,3 +74,4 @@ A cook cuts themselves, gets a bandage, says "I was careless," and goes back to 
 - Are cut-resistant gloves and machine guards mandatory for high-risk tasks like mandoline use, oyster shucking, and butchery?
 - Is there a clear first-aid and escalation procedure for cuts, with medical care sought for deep wounds, numbness, or uncontrolled bleeding, and blood-contamination cleanup of food and surfaces?
 - Is every cut investigated as a system failure — tool, technique, environment, training, fatigue — with the underlying condition fixed and the lesson shared?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

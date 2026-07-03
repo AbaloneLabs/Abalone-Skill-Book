@@ -70,3 +70,4 @@ Before treating controlled-substance handling as complete, verify:
 - Controlled substances remained in locked, access-controlled storage and were never left unattended on carts or in open cupboards.
 - Prescribed pain medication was not withheld out of fear of addiction, and concerns about the regimen were routed to the prescriber.
 - Stock counts were performed consistently at every required point, not only when a discrepancy was already suspected.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

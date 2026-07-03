@@ -78,3 +78,4 @@ A caregiver suspects abuse but does not report because they are unsure whether t
 - [ ] Did I protect the client from immediate further harm within my scope, without confronting the alleged perpetrator or investigating personally?
 - [ ] Did I document factually and specifically, using the client's own words and my own observations, without interpretation or accusation?
 - [ ] Did I seek support for the emotional weight of recognizing and reporting abuse?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

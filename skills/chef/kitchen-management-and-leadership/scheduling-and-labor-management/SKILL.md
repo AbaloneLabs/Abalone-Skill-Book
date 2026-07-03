@@ -74,3 +74,4 @@ A scheduler posts the schedule days late, changes it at the last minute, and rou
 - Is the team cross-trained so the schedule can flex and absences do not cripple a station?
 - Is contingency built in — on-call staff, call-out coverage plans, separate event planning — so the schedule absorbs disruption?
 - Is the schedule posted with reliable lead time, honoring time-off requests and minimizing last-minute changes, as a commitment to the team?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

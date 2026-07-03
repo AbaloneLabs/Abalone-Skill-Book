@@ -74,3 +74,4 @@ A cook tastes the edge of a stew or the top of a sauce and adjusts the whole pot
 - Is fat managed as a variable (skimming, mounting, finishing) to balance acid and bitterness and carry flavor?
 - Is umami built deliberately (aged cheese, cured meat, mushrooms, soy, miso, Maillard) to give dishes depth rather than thinness?
 - Are end adjustments made precisely in small increments from a representative stirred sample, with consistent adjustments documented in the recipe?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

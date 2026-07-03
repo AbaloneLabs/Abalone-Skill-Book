@@ -74,3 +74,4 @@ A cook uses the same burner every shift without knowing it has a cold spot, and 
 - Is doneness verified with a calibrated probe at the thickest part for every safety-critical protein, with color and time treated as secondary cues only?
 - Are starting temperature and thickness standardized so that cooking time and result are repeatable across cooks and shifts?
 - When cooking is uneven, is the heat pathway traced systematically (equipment spots, thickness, starting temp, crowding) rather than blamed on the cook?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

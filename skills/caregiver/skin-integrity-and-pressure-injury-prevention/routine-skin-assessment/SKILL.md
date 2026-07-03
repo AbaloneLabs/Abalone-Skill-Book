@@ -49,6 +49,8 @@ Looking, describing, photographing only if policy permits, and escalating are ca
 
 **Dismissing unexplained bruises as normal aging or falls.** The mechanism of harm is that a caregiver sees bruising on a client and attributes it to fragile skin, blood thinners, or an assumed fall without further thought. The false signal is that older adults bruise easily, so bruising is expected; in reality, bruises in unusual locations, of varying ages, in patterns, or inconsistent with the stated explanation may indicate physical abuse, and a pattern of repeated unexplained injury may indicate ongoing harm. The harm is that abuse goes unrecognized and continues because each mark was rationalized away. The fix is to document bruising objectively, note location and apparent age, compare against the explanation given, and escalate any unexplained, patterned, or repeated injury per the abuse and neglect response process without confronting anyone.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I perform a systematic head-to-toe skin check during care, including bony prominences, folds, between toes, and under devices?

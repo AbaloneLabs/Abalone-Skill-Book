@@ -74,3 +74,4 @@ When a guest reports illness, the instinct is to deflect, explain it away, or qu
 - Are boards, cloths, and utensils dedicated by task and sanitized between every raw-to-ready transition, with sanitizer buckets changed on schedule?
 - Does the team understand which illnesses come from toxins (not killed by cooking) and therefore require prevention through time-temperature control and worker exclusion?
 - Is there a written response procedure for guest illness complaints that includes holding suspect food, preserving records, and notifying management and the health department?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

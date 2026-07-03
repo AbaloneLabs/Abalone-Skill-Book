@@ -76,3 +76,4 @@ This is a trap because a prep list that is never updated repeats the same errors
 - Did I size quantities by calculation from covers and yields with a defined buffer, rather than by feel?
 - Did I account for shared equipment and schedule tasks to avoid resource collisions?
 - Did I capture after-service feedback and adjust the next prep list so it converges on accuracy?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

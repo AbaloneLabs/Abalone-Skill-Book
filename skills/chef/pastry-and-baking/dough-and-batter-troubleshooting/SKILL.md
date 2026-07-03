@@ -76,3 +76,4 @@ This is a trap because a broken, curdled cake batter looks catastrophic but is o
 - Did I distinguish leavening failure from structural failure by examining the crumb, rather than assuming all density means more leavener?
 - Did I audit ingredient freshness and lot, especially leaveners and fats, before assuming the recipe is at fault?
 - Did I document the signature, cause, and fix so this failure becomes a recognized pattern for the team?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

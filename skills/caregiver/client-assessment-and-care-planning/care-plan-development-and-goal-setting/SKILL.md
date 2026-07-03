@@ -70,3 +70,4 @@ Before treating the care plan as finalized, verify:
 - The plan contains enough preference and routine detail that a caregiver who has never met the client could provide consistent, respectful care.
 - Specific change triggers are documented that would require revising the plan before the next scheduled review.
 - The plan avoids vague verbs like monitor or encourage without defining what to look for and what action to take.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

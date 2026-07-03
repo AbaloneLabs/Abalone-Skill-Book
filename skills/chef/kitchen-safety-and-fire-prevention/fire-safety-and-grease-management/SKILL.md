@@ -76,3 +76,4 @@ This is a trap because a near-miss, a flare-up that was caught, a small fire tha
 - Did I enforce clearance around heat sources and remove combustibles from fire spread paths?
 - Did I conduct regular fire drills rehearsing pan fire response, suppression activation, evacuation, and extinguisher use to automaticity?
 - Did I investigate every near-miss as a signal of uncontrolled risk and correct the underlying condition?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

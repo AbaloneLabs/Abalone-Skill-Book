@@ -74,3 +74,4 @@ A kitchen runs on long hours, no breaks, low pay, and a tough-it-out ethos, and 
 - Are conflicts addressed early and structurally, looking for the overlapping responsibility or unclear standard behind the interpersonal friction?
 - Is the culture sustainable — hours, pay, breaks, advancement, respect — to retain talent, recognizing that retention is a strategic and financial asset?
 - Does the leader model the standards and conduct expected of the team, especially under pressure and fatigue?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

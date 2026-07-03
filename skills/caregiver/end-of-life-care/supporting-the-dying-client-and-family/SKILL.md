@@ -70,3 +70,4 @@ Before treating end-of-life care as complete, verify:
 - You offered presence and did not withdraw into task-focused avoidance, and the client was not left to die alone when presence was possible.
 - Your own beliefs about death were held back so the client's and family's framework governed the experience.
 - Changes were still assessed rather than automatically attributed to dying, so treatable causes of distress were not missed.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

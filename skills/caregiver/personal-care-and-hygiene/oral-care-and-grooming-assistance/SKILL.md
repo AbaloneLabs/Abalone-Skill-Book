@@ -70,3 +70,4 @@ Before treating oral care and grooming as complete, verify:
 - Clothing, hair, and presentation reflected the client's identity, culture, and longstanding preferences, not staff convenience.
 - Refusal of oral care was investigated for pain or cause and approached with adapted techniques, not abandoned.
 - No generic or default appearance choices erased the client's recognizable sense of self.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

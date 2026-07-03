@@ -74,3 +74,4 @@ Over time the menu grows as new dishes are added for variety, marketing, or chef
 - Is the menu sequenced and designed to guide guests toward high-margin items through placement, description, and pricing format?
 - Are dishes built around reliably available seasonal supply, with seasonal rotation and resilience to supplier gaps?
 - Are new items tested as specials for sales, cost, and executability before being added to the permanent menu, with a one-in-one-out rule to prevent bloat?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

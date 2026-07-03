@@ -74,3 +74,4 @@ A kitchen takes a supplier's word that they maintain HACCP and cold-chain contro
 - Are qualified backup suppliers maintained and periodically used for critical items, so they are tested before they are needed?
 - Are supplier terms reviewed against the market periodically and negotiated from volume and data, not rapport alone?
 - Are supplier relationships collaborative — with shared needs, quality feedback, and reliable payment — to earn flexibility in shortages and crises?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -76,3 +76,4 @@ This trap exists because the prep schedule may put raw-protein prep before produ
 - Did I manage ice and beverage systems by storing scoops outside the ice and cleaning dispensers on schedule?
 - Did I store raw products below ready-to-eat products and organize storage by contamination risk?
 - Did I verify pathway control through observation of vector movement and environmental testing, rather than by appearance?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

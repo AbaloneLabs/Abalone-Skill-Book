@@ -74,3 +74,4 @@ A recipe specifies "120 g portion" without stating raw or cooked, one cook porti
 - When portions drift, is the source traced (prep, supplier, tool, training) and fixed rather than the cook simply blamed?
 - Are portion specs explicit about raw versus cooked weight, with the recipe costing on the same basis?
 - Are all cooks trained to the same spec with the same tools and reference, so the dish is consistent regardless of who cooks it or which shift?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

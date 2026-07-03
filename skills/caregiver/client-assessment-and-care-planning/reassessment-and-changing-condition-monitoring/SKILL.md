@@ -70,3 +70,4 @@ Before concluding that a noticed change does not require action, verify:
 - The change has been documented as a trend with onset and progression, not as a single isolated note.
 - Ambiguous decline has been escalated for clinical judgment rather than assumed to be expected disease progression.
 - A behavioral change has been investigated for a medical or comfort cause before being treated as a personality or compliance problem.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

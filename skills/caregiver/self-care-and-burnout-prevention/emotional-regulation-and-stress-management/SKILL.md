@@ -70,3 +70,4 @@ Before treating emotional regulation and stress management as adequate, verify:
 - Warning signs that emotion is leaking into care are noticed early and acted on, not dismissed as a bad patch.
 - Peer and professional support are used without shame and reached for early, before strain becomes a crisis.
 - Emotional strain is recognized as a shared occupational hazard, not a private weakness to be hidden.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -74,3 +74,4 @@ A cook composes the plate from above at the pass, it looks balanced, and when it
 - Is the plating design executable in seconds under pressure, with a clear sequence any trained cook can reproduce at volume?
 - Is there a documented plating spec with a reference photo, with plates verified against it at the pass for consistency?
 - Has the plating been checked from the guest's seated perspective, not just the cook's overhead view?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

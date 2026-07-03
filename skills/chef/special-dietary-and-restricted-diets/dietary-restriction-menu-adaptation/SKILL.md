@@ -76,3 +76,4 @@ This is a trap because undocumented or loosely documented adaptations change as 
 - Did I source certified ingredients and verify supplier documentation for safety-critical restrictions, rather than assuming generic products are safe?
 - Did I test the adapted dish against the original for quality and iterate until the restricted version is worth ordering on its own?
 - Did I document the adaptation with a full formula, brand-level ingredient list, and component map, and train staff on the documented version?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

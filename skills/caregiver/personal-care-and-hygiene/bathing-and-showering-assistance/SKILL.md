@@ -70,3 +70,4 @@ Before treating the bathing task as complete, verify:
 - Skin was washed gently, rinsed thoroughly, patted dry, and inspected for new redness, bruising, tears, or pressure areas.
 - The staffing level matched the care plan, and no transfer was attempted short-handed to save time.
 - The client's preferences, such as water temperature, soap choice, and timing, were respected rather than overridden by routine.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

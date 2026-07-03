@@ -121,5 +121,4 @@ The family caregiver arranges respite but spends it catching up on chores, check
 - [ ] During respite, did I provide steady, reassuring care so the break genuinely rested the family caregiver and kept the client safe?
 - [ ] Did I keep the client's safety as the non-negotiable line, and escalate neglect or risk when burnout crossed into danger?
 - [ ] Did I escalate severe distress or suicidality promptly, and help the family caregiver reach their clinician or a crisis service?
-- [ ] Did I stay within my scope — supporting and referring — rather than acting as the family caregiver's counselor?
-- [ ] Did I document objective concerns and report to my supervisor where safety was involved?
+- [ ] Did I stay within my scope — supporting and referring — rather than acting as the family caregiver's counselor?; [ ] Did I document objective concerns and report to my supervisor where safety was involved?

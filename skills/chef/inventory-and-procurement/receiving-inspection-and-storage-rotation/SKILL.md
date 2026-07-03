@@ -74,3 +74,4 @@ A kitchen orders and uses product without ever counting what is on hand, and its
 - Are pars based on menu mix and projected covers, and reviewed seasonally and whenever the menu or volume changes?
 - Is inventory counted on a regular cycle and reconciled against expected levels, with variances investigated to expose waste, theft, and portion drift?
 - Are recalls and expirations handled aggressively — product pulled, segregated, and disposed or returned — supported by labeling, dating, and traceability?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

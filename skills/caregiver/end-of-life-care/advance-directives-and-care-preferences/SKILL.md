@@ -70,3 +70,4 @@ Before treating advance-directive handling as complete, verify:
 - Preferences have been translated into concrete, actionable instructions, not left as vague phrases open to interpretation.
 - The directive has been revisited after any major change in the client's condition, to confirm it still reflects current wishes.
 - The directive is immediately accessible so that a crisis does not force a decision before it can be confirmed.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

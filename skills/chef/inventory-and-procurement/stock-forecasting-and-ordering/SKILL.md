@@ -74,3 +74,4 @@ The kitchen orders from its regular suppliers and has no plan for when a supplie
 - Is there a weekly ordering calendar respecting each supplier's delivery days and cutoffs, so product arrives when needed?
 - Are events, seasonal shifts, and disruptions planned separately, with backup suppliers and emergency channels identified in advance?
 - Are pars and forecasts adjusted regularly based on shortage, waste, and variance feedback, so ordering improves over time?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

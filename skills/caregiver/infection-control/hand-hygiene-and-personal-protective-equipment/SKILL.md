@@ -84,6 +84,10 @@ When a task is brief — a quick check of a wound, a brief incontinence change, 
 
 Under pressure to conserve supplies, or from habit, a caregiver may reuse a single-use mask or pair of gloves, carry the same gown between rooms, or wipe and reuse an item meant for single use. The mechanism is that the item appears intact, so it is treated as still protective, when in fact its outer surface is now heavily contaminated and its filtration or barrier properties may be compromised by reuse, so it becomes a vehicle for transmission rather than a barrier to it. The false signal is the intact appearance of the item, which suggests it still works. The harm is that the caregiver transfers organisms between care recipients via the reused equipment, undermines the isolation precautions in place, and may be exposed through a barrier that has degraded. The defense is to use single-use items once and dispose of them correctly, to change gowns and gloves between care recipients, to report supply shortages so they can be addressed through proper channels, and never to compromise precautions by reusing equipment meant for single use.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I perform hand hygiene at each of the key moments — before touching, before clean tasks, after body-fluid exposure, after touching, and after touching surroundings?

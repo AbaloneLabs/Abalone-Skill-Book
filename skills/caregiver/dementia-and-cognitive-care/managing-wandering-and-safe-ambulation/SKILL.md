@@ -60,6 +60,10 @@ A person with dementia who is missing is an emergency. The response must be imme
 - Provide a current photo, a description of clothing, the direction last seen, known destinations, and any medical needs.
 - After any elopement, however it resolves, participate in a review of why it happened and what safeguards must change; a near-miss is a warning.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Treating All Walking As A Problem To Be Stopped
@@ -81,6 +85,10 @@ When a person goes missing, the search may focus on the person's likely destinat
 ### Attributing New Or Worsened Restlessness To The Dementia
 
 When a person who has been calm begins to pace, try doors, or wander at new times, the caregiver may record it as disease progression and adjust routines rather than investigate a medical cause. The mechanism is that the dementia diagnosis absorbs the new behavior, so the possibility that the restlessness is pain, infection, constipation, dehydration, a medication change, or delirium is not considered, and a treatable cause is missed. The false signal is the chronic diagnosis, which makes the new symptom seem expected. The harm is that a urinary tract infection causing agitation, an undiagnosed pain driving the person to move, or a medication side effect producing restlessness goes untreated, the behavior worsens, and a reversible cause of distress becomes a crisis. The defense is to treat any new or changed pattern of walking about as a possible sign of a medical problem, to look for and document associated symptoms, and to escalate to the nurse or clinician so the cause can be investigated rather than assumed.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

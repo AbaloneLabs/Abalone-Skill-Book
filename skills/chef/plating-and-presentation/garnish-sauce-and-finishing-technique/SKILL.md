@@ -74,3 +74,4 @@ A cook adds a base sauce, a drizzle of a second sauce, a scatter of garnish, a f
 - Is garnish and sauce temperature matched to the dish, with delicate garnishes applied at the last second and plates not left under heat lamps?
 - Does the plate read as visually clean and composed, with distinct components and a wiped rim, rather than muddied by overlapping elements?
 - Is the finishing sequence documented in the plating spec so every cook finishes in the same order, producing consistent plates?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?
