@@ -1,0 +1,79 @@
+---
+name: lateral_system_design_and-drift-control.md
+description: Use when the agent is selecting or proportioning a building's lateral force-resisting system, controlling wind or seismic story drift, distributing lateral force among shear walls and frames, or verifying the system meets code drift and stability limits.
+---
+
+# Lateral System Design And Drift Control
+
+The lateral system is what keeps a building standing under wind and earthquake, and its design is governed less by strength and more by drift, stability, and the distribution of force among elements of differing stiffness, which makes it a domain where intuition fails and where a system that "has enough strength" can still be unacceptable because it sways too much or because force concentrates in the wrong element. Agents who size the lateral system for base shear and stop miss that the real questions are about story drift, torsional response, the relative stiffness of walls and frames, the diaphragm that distributes force between them, and the separation that prevents pounding. This skill covers the judgment exercised while designing a lateral system, with the goal that drift is controlled, force is distributed as intended, the system is stable under second-order effects, and the building does not collide with its neighbors.
+
+## Core Rules
+
+### Select The Lateral System Against Height, Occupancy, And Seismic Design Category
+
+The lateral system, shear walls, braced frames, moment frames, or combinations, must be selected against the building's height, its seismic design category, its occupancy, and its architectural constraints, because each system has code-permitted height limits that depend on the seismic category and each has architectural implications. Shear walls are efficient and stiff but demand continuous solid walls; braced frames are efficient but occupy bays; moment frames permit openness but are flexible and drift more. Select a system permitted for the seismic design category and the height, because a system selected outside its permitted range is not code-compliant regardless of its calculated capacity. Match the system's stiffness to the drift limits, because a flexible system in a tall building cannot meet drift without excessive member sizes, and a stiff system in a short building is wasteful. The system choice is the first and most consequential lateral decision.
+
+### Distribute Lateral Force By Stiffness, Not By Wish
+
+Lateral force distributes among the resisting elements in proportion to their stiffness, not in proportion to their number or their capacity, and an engineer who assumes equal distribution over-loads the stiff elements and under-loads the flexible ones. Compute the stiffness of each wall and frame, account for cracking in concrete and for the flexible and rigid contributions, and distribute the story shear by the relative stiffness, then check that each element's demand is within its capacity. Where the layout is asymmetric, the stiffness centroid does not coincide with the mass centroid, and torsion develops, adding force to the elements on the stiff side and reducing it on the flexible side; model the torsion explicitly and design the perimeter elements for the amplified force. The distribution of force is a stiffness problem, and an engineer who treats it as an equal-share problem designs a building where the stiff elements fail first.
+
+### Control Story Drift Against Code And Performance Limits
+
+Story drift, the relative horizontal displacement of one floor relative to the next, is the governing serviceability and safety criterion for lateral systems, and it must be checked under the design wind and the design seismic event against the code limits, which are typically a fraction of a percent to a few percent of the story height depending on the system and the occupancy. Compute the drift with the cracked-section stiffness for concrete and with the appropriate deflection amplification for seismic, because the elastic drift from the analysis under-predicts the inelastic drift the building will experience. Confirm that every story meets the limit, because a single flexible story, a soft story, violates the limit and creates a weakness that concentrates damage. Drift is the lateral system's true governing criterion, and a system sized for strength alone is usually under-sized for drift.
+
+### Prevent Torsional Irregularity Through Symmetric Stiffness
+
+Torsional irregularity arises when the lateral system's stiffness is asymmetric in plan, so that the building rotates as it translates, amplifying force on the elements far from the center of rigidity. Arrange the lateral elements, walls and braces, as symmetrically as the architecture permits, so that the center of rigidity is close to the center of mass, and where asymmetry is unavoidable, model the torsion and design the perimeter elements for the amplified demand. Check the code's torsional irregularity trigger, because a building that exceeds it must use an amplified accidental torsion and may face additional penalties, and a building far over the trigger may need a re-layout. Torsion is not a secondary effect; in an asymmetric building it can govern the design of the perimeter elements, and ignoring it under-designs the corners.
+
+### Provide A Complete Load Path From Origin To Foundation
+
+The lateral force originates at the mass, travels through the floor diaphragm to the vertical lateral elements, travels down those elements to the foundation, and is resisted by the soil; every link in this path must be designed, and a single gap collapses the system. Design the diaphragm for the chord forces and the collector forces that drag shear into the walls, with the collectors detailed to develop their force and the chords designed for the diaphragm's bending. Design the connections between the diaphragm and the walls, because a wall that is not connected to the diaphragm receives no force and provides no resistance. Design the foundation for the overturning moment and the shear, with the overturning resisted by the weight of the foundation and the soil bearing, and the shear by friction and passive pressure. The load path is a chain, and the engineer must identify and design every link, because the system is only as strong as its weakest connection.
+
+### Account For Overturning And Uplift At The Foundation
+
+Lateral force produces an overturning moment that tries to tip the building, and the resistance comes from the building's weight and the foundation's bearing, with the demand concentrated at the windward and leeward edges. Check the overturning resistance against the overturning demand with the appropriate factor of safety, and where the demand exceeds the dead weight, design tension elements, rock anchors or piles, to resist the uplift, because a foundation that lifts off the soil loses its bearing and its shear capacity. Distribute the overturning demand among the lateral elements according to their tributary, and confirm that each element's foundation can resist its share. Overturning is the lateral system's interaction with the foundation, and a lateral system designed without overturning resistance is a system that tips over.
+
+### Separate Adjacent Structures To Prevent Pounding
+
+Two adjacent buildings, or a building and a neighboring structure, that sway toward each other under seismic load can collide, pounding, which causes localized catastrophic damage at the point of collision. Provide a seismic separation between adjacent structures equal to the sum of their expected drifts, so that neither can reach the other, and where separation is impossible, design the collision and its consequences explicitly, which is rarely feasible. Check the separation against the code's required gap, accounting for the inelastic drift of both structures, because the elastic drift under-predicts the real movement. Pounding is a known cause of seismic collapse in dense urban areas, and the separation must be provided in design, because retrofitting a gap into a built building is usually impossible.
+
+### Verify Stability Under Second-Order Effects
+
+The lateral system's stability under the combined gravity and lateral load, the P-delta effect, must be verified, because a system that meets strength and drift can still be unstable if the second-order amplification is large. Compute the stability coefficient or run a second-order analysis, and where the amplification exceeds the code threshold, redesign the system for additional stiffness, because stability cannot be achieved by adding strength alone. Confirm that the design accounts for both the story-level and the member-level second-order effects, and that the notional loads and the stiffness reductions required by the code are applied. Stability is the lateral system's interaction with gravity, and a system that drifts too much under lateral load becomes unstable under the gravity it carries, because the gravity acts on the displaced structure and amplifies the drift.
+
+## Common Traps
+
+### Equal Distribution Of Shear Among Lateral Elements
+
+The engineer divides the story shear equally among the walls and frames, regardless of their stiffness, and the stiff elements receive more force than designed and the flexible elements less. The mechanism is that force follows stiffness, and a stiff shear wall attracts several times the shear of a flexible moment frame in the same line, so equal distribution under-loads the wall and over-loads the frame, or vice versa. The false signal is that the shear "is shared." The harm is that the under-designed stiff element fails first, because it received more force than its capacity, while the over-designed flexible element sits idle. Shear must be distributed by computed relative stiffness, with torsion included, because force does not respect the engineer's wish for equal sharing; it respects the stiffness of each element.
+
+### Drift Checked With Elastic, Uncracked Stiffness
+
+The engineer checks story drift using the elastic analysis output, which uses gross or nominal stiffness, and the reported drift is below the limit, so the system is declared acceptable. The mechanism is that concrete cracks and steel yields under the design event, and the real drift is several times the elastic value, which the code captures with a deflection amplification factor for seismic and with cracked-section properties for concrete. The false signal is that the drift check "passes." The harm is that the built building drifts far more than predicted, damaging non-structural components, exceeding the separation to neighbors, and in the extreme, becoming unstable under P-delta. Drift must be checked with the amplified inelastic value for seismic and with cracked stiffness for concrete, because the elastic drift is the drift of a structure that does not exist at the demand level.
+
+### The Soft Story Created By Architectural Openness
+
+The architect demands an open ground floor for retail or a lobby, the lateral elements are removed or reduced at that level, and the resulting story is far more flexible than the stories above, a soft story. The mechanism is that drift concentrates in the flexible story, because the stiff stories above force the displacement into the weak link, and the soft story's drift exceeds the limit by a large margin, with its columns subject to large P-delta and possible collapse. The false signal is that the building "has lateral elements" on most floors. The harm is that the soft story collapses in an earthquake, as has happened repeatedly in real events, because the concentration of drift and demand at one level overwhelms the columns. Soft stories must be avoided or, where unavoidable, designed with the special detailing and the amplified forces the code requires, because a soft story is a known collapse mechanism.
+
+### The Incomplete Load Path At The Collector Or The Connection
+
+The engineer designs the shear wall and the diaphragm but does not design the collector that drags the diaphragm shear into the wall, or the connection between them, and the force has no path from the floor to the wall. The mechanism is that the load path is a chain, and the collector and the connection are links that are easy to overlook because they are details rather than members, but without them the wall receives no force and provides no resistance. The false signal is that the wall "is designed." The harm is that under lateral load the diaphragm shears but the force does not reach the wall, the connection fails, and the diaphragm and the non-structural components are damaged while the wall sits idle. Every link of the load path, origin to diaphragm to collector to wall to foundation, must be designed and detailed, because a load path with a gap is no load path.
+
+### Overturning Uplift Ignored At The Foundation
+
+The engineer designs the lateral elements for shear and moment but checks the foundation only for vertical bearing, ignoring the uplift from overturning, and the foundation lifts off the soil under design wind or seismic. The mechanism is that overturning produces a tensile demand at the windward edge that the soil cannot resist, because soil has negligible tension capacity, and without tension elements the foundation rotates and lifts. The false signal is that the foundation "has bearing capacity." The harm is that the lifted foundation loses its bearing and its shear resistance, the lateral element it supports loses its base, and the system fails in a mode the design never considered. Overturning uplift must be checked and resisted by tension elements where the dead weight is insufficient, because a foundation designed for bearing alone is a foundation that tips under lateral load.
+
+### Pounding Separation Under-Sized Or Omitted
+
+The engineer provides a nominal separation between the building and its neighbor, or none at all, based on elastic drift, and under the design seismic event the two structures collide. The mechanism is that the real inelastic drift of both structures, summed, exceeds the gap, and the collision concentrates immense force at the point of impact, often at a floor level where a slab smashes into a column. The false signal is that a gap "is provided." The harm is pounding damage, which has caused collapses in dense urban earthquakes, because the collision is a point load the impacted structure was not designed for. The separation must equal the sum of the inelastic drifts of both structures, with margin, because a separation sized for elastic drift is a separation that the real event will close.
+
+## Self-Check
+
+- [ ] Is the selected lateral system permitted for the building's height, seismic design category, and occupancy, with its stiffness matched to the drift limits?
+- [ ] Is the story shear distributed by computed relative stiffness, with torsion from any plan asymmetry explicitly modeled and the perimeter elements designed for the amplified demand?
+- [ ] Is story drift checked under design wind and seismic against code limits, using cracked concrete stiffness and the seismic deflection amplification factor?
+- [ ] Have torsional irregularities been checked against the code trigger, and where exceeded, is amplified accidental torsion applied and the layout reconsidered?
+- [ ] Is the complete load path designed and detailed, from origin to diaphragm to collector to vertical element to foundation, with no gap?
+- [ ] Is overturning uplift checked at every lateral element's foundation, and where dead weight is insufficient, are tension elements designed?
+- [ ] Is the seismic separation to adjacent structures equal to the sum of the inelastic drifts with margin, preventing pounding?
+- [ ] Has stability under P-delta been verified, with the stability coefficient or a second-order analysis, and where amplification is high, has stiffness been added?
