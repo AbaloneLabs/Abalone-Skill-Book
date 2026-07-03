@@ -1,0 +1,71 @@
+---
+name: residential-service-and-panel-installation.md
+description: Use when the agent is installing or upgrading a residential service entrance, sizing the meter base and main panel, establishing the grounding electrode system, bonding service equipment, or applying NEC Article 230 and 250 rules for dwelling unit services.
+---
+
+# Residential Service and Panel Installation
+
+The service entrance is where the utility's distribution system meets the dwelling's wiring, and it is the point where nearly every safety system in the building either works or fails. A service that is undersized, improperly grounded, or incorrectly bonded will defeat every downstream protective device: breakers will not clear faults, surge protection will not function, and the equipment grounding system that protects occupants from shock will float at an indeterminate voltage. The judgment problem is that residential service work looks straightforward — set a panel, pull the service conductors, drive a ground rod — but the details that determine whether it is safe and Code-compliant are buried in the interaction between Article 230 (services), Article 250 (grounding and bonding), and the local utility's service requirements. An electrician who treats a residential service as a routine pull-and-connect job will eventually install a system that passes a casual inspection but fails under a fault or a surge. This skill covers the decisions that determine whether a residential service is safe, adequate, and Code-compliant.
+
+## Core Rules
+
+### Size the Service Based on a Real Load Calculation, Not on a Round Number
+
+The service size for a dwelling is determined by the load calculation in Article 220, not by the builder's preference or the "standard" 200 amps. For a typical single-family dwelling, the calculation uses the general lighting load at 3 VA per square foot, the small-appliance and laundry branch circuits at 1500 VA each, ranges and dryers at nameplate or demand factors, and heating or air conditioning at the larger of the two (not both, because they do not run simultaneously). The trap is installing a 200-amp service because "that's what everyone gets" when the actual calculated load is 95 amps and a 100-amp service would be adequate — wasting the customer's money — or worse, installing a 100-amp service when the calculation demands 180 amps and the panel becomes a chronic overload. The defense is to perform the Article 220 calculation for the specific dwelling, document it, and size the service and the main breaker to the result with reasonable margin for future loads like EV charging.
+
+### Establish a Grounding Electrode System, Not Just a Ground Rod
+
+The grounding electrode system (GES) is the connection from the service to the earth, and it is built from all available electrodes, not just a driven rod. Article 250.50 requires that all electrodes present at the building — a concrete-encased electrode (ufer) in the foundation, a metal underground water pipe in contact with earth for at least 10 feet, a ground ring, and any driven or buried electrodes — be bonded together to form one system. The trap is driving a single ground rod, measuring 25 ohms or less (or not measuring at all), and declaring the grounding complete, while ignoring a perfectly good ufer electrode in the footing or a metal water pipe that would provide a far lower-impedance connection to earth. The defense is to identify every available electrode during rough-in, bond them all to the grounding electrode conductor, and recognize that the ground rod is often the worst electrode available, required as a supplement rather than the primary.
+
+### Bond the Service Equipment So Fault Current Has a Low-Impedance Return Path
+
+The main bonding jumper at the service connects the grounded conductor (neutral) to the equipment grounding conductor and to the grounding electrode system, and it is what makes the overcurrent protective devices operate. Without it, a fault from an ungrounded conductor to a metal enclosure must return through the earth — a high-impedance path that will not pass enough current to trip the breaker, leaving the enclosure energized at a lethal voltage. The trap is assuming that the ground rod provides fault clearing; it does not, because earth is a poor conductor at the currents needed to trip a 15-amp breaker. The defense is to install the main bonding jumper at the service disconnect (and only there — never at a subpanel), verify the neutral-to-ground bond is solid, and confirm that the equipment grounding conductors are continuous from every load back to that bond.
+
+### Keep Neutral and Ground Separate After the Service Disconnect
+
+At the service disconnect, neutral and ground are bonded. At every panel downstream (a subpanel in a garage, a detached building, a remote load center), they must be kept separate, with the neutral isolated from the enclosure and the equipment grounding conductor bonded to the enclosure. The trap is installing a subpanel with the neutral bar bonded to the enclosure and the neutral and ground conductors sharing the bar — which creates parallel neutral current paths through the equipment grounding conductors and through metal raceways, water pipes, and gas piping. The mechanism of the harm is that normal neutral current now flows on every bonded metal surface in the building, energizing enclosures and pipes under fault conditions and creating shock and fire hazards. The defense is to remove the bonding screw or strap in every subpanel, install an isolated neutral bar, and run a separate equipment grounding conductor to every subpanel.
+
+### Size the Service Entrance Conductors to the Main Breaker and the Termination Temperature
+
+Service entrance conductors must have an ampacity at least equal to the service disconnect rating, and the ampacity depends on the termination temperature rating of the equipment they connect to. Most residential service equipment is rated for 75 degrees C terminations, so the conductors must be sized from the 75 C column of Table 310.16 even if the conductor itself is rated 90 C. The trap is using the 90 C ampacity to justify a smaller conductor — for example, using 2 AWG aluminum at 90 C (115 amps) for a 100-amp service when the 75 C rating is only 90 amps — and overheating the lugs. The defense is to determine the termination temperature rating of the meter base, the main breaker, and the panel lugs, and size from the appropriate column, never assuming 90 C unless the equipment is explicitly marked for it.
+
+### Provide Adequate Working Clearance and Panel Accessibility
+
+Article 110.26 requires a minimum working clearance of 36 inches deep in front of the panel, 30 inches wide (or the width of the panel, whichever is greater), and a minimum headroom of 6.5 feet. The panel must be accessible without moving obstacles, and the area in front must be kept clear. The trap is installing a panel in a closet, behind a door swing, or in a tight mechanical room where the clearance is technically met at installation but is later obstructed by stored items, a refrigerator, or shelving. The defense is to choose a location that will remain accessible, coordinate with the builder or homeowner about what may be placed near the panel, and never install a panel in a clothes closet, bathroom, or over stairs.
+
+## Common Traps
+
+### Treating the Ground Rod as the Primary Fault Clearing Path
+
+The electrician drives a ground rod, bonds it to the panel, and believes the grounding is complete and the breakers will clear faults through the earth. The mechanism of the failure is that earth has high resistivity — a typical 25-ohm ground rod will pass only about 5 amps at 120 volts, far below the 15 to 20 amps needed to trip a residential breaker on a sustained fault. The breaker never sees enough current, the faulted enclosure stays energized at near line voltage, and anyone touching it receives a shock. The false signal is that the ground rod passed inspection and the system "is grounded," suggesting fault clearing is adequate. The harm is energized enclosures that injure or kill occupants who reasonably assume a grounded appliance is safe. The defense is to understand that the equipment grounding conductor — the low-impedance metallic path back to the neutral-ground bond at the service — is what clears faults, and the ground rod serves only to stabilize voltage and dissipate surges.
+
+### Bonding Neutral and Ground at a Subpanel
+
+The electrician installs a subpanel in a detached garage and leaves the factory bonding screw in place, connecting the neutral bar to the enclosure, and lands neutrals and grounds on the same bar. The mechanism of the failure is that the neutral current from the garage loads now has two return paths: the insulated neutral conductor back to the main panel, and the equipment grounding conductor plus any bonded metal (the conduit, the water pipe if metallic, the grounding electrode conductor) back to the main panel. Current divides between them based on impedance, and a significant portion of neutral current flows on all bonded metal in the building. The false signal is that everything works — lights are on, motors run — because the parallel paths conduct adequately. The harm is metal surfaces energized at a few volts under normal load and at dangerous voltage if the neutral opens, plus electromagnetic coupling into communication wiring and accelerated corrosion of water pipes from stray current. The defense is to isolate the neutral bar in every subpanel and run a dedicated equipment grounding conductor.
+
+### Sizing Service Conductors From the 90 C Column
+
+The electrician looks up 4 AWG aluminum in the 90 C column of Table 310.16, reads 100 amps, and uses it for a 100-amp service entrance. The mechanism of the failure is that the meter base and main breaker lugs are rated for 75 C, and at 75 C the ampacity of 4 AWG aluminum is only 75 amps. Under full load the conductor is within its own insulation rating but the lug overheats, the connection degrades, and over time the resistance rises, heating increases, and the connection fails or ignites. The false signal is that the conductor "is rated 100 amps" per the table, which is true only at 90 C terminations that the equipment does not provide. The harm is connection failure, service outage, and fire at the lug. The defense is to size from the column matching the equipment's termination rating, almost always 75 C for residential service equipment.
+
+### Driving a Single Ground Rod and Ignoring Other Electrodes
+
+The electrician drives an 8-foot ground rod, bonds it, and declares the grounding electrode system complete, while a concrete-encased electrode (rebar in the footing) is available and a metal underground water pipe enters the building. The mechanism of the failure is that the single driven rod typically has an impedance to earth of 25 to 100 ohms, while a ufer electrode or a water pipe in contact with earth for 10 feet or more often measures below 5 ohms. By ignoring the better electrodes, the service has a high-impedance earth connection that does little to dissipate surges or stabilize voltage during utility transients. The false signal is that the rod satisfies the minimum and passed inspection. The harm is inadequate surge dissipation that allows lightning and utility transients to damage appliances, and a missed opportunity to build a far better system at no extra material cost. The defense is to identify and bond all available electrodes per 250.50, using the rod only as a supplement.
+
+### Obstructing the Panel Working Clearance After Installation
+
+The panel is installed with proper clearance, the inspection passes, and the homeowner later installs shelving, parks a refrigerator in front, or builds a closet around the panel. The mechanism of the failure is that the working clearance required by 110.26 is for safe operation and maintenance, not just for the initial inspection; an obstructed panel cannot be operated quickly in an emergency, cannot be serviced without moving heavy objects, and creates a fire risk if flammable storage is against the panel. The false signal is that the panel was inspected and approved, suggesting the clearance is permanent. The harm is delayed emergency response, injury during panel operation, and fire spread from stored combustibles. The defense is to choose a location inherently resistant to obstruction, document the required clearance for the homeowner, and never install a panel where future use of the space will predictably violate the clearance.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+## Self-Check
+
+- Did I size the service from an Article 220 load calculation for this specific dwelling, including present loads and reasonable allowance for future additions such as EV charging?
+- Did I identify and bond all available grounding electrodes (ufer, metal water pipe, ground ring, driven rods) into one grounding electrode system per 250.50, rather than relying on a single driven rod?
+- Is the main bonding jumper installed at the service disconnect and only there, connecting the neutral, the equipment grounding conductor, and the grounding electrode conductor?
+- At every subpanel and remote distribution point, is the neutral isolated from the enclosure and a separate equipment grounding conductor run back to the service?
+- Did I size the service entrance conductors from the ampacity column matching the equipment's termination temperature rating (typically 75 C), not the 90 C column?
+- Does the panel location provide and maintain the 110.26 working clearance (36 inches deep, 30 inches or panel width, 6.5 feet headroom) and is it in a space that will remain accessible?
+- Are the meter base, main disconnect, and panel all rated for the service amperage and properly coordinated with the service entrance conductor size?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
