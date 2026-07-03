@@ -1,0 +1,65 @@
+---
+name: ac-compressor-and-clutch-diagnosis.md
+description: Use when the agent is diagnosing A/C compressor noise, clutch engagement failures, compressor lock-up, evaluating compressor oil condition, or deciding whether to replace a compressor versus a clutch, relay, or control circuit.
+---
+
+# A/C Compressor and Clutch Diagnosis
+
+The A/C compressor is the most expensive single component in the air conditioning system, and it is also the most frequently misdiagnosed because its symptoms—no cooling, noise, clutch not engaging—overlap with electrical control faults, charge level faults, and expansion device faults. The judgment problem is that a compressor that is not running is not necessarily failed; it may simply not be commanded to run by the control circuit because of a low-charge safety switch, a high-pressure switch, or an ECM inhibit. Conversely, a compressor that has failed internally has often been killed by a low charge, a restricted expansion device, or improper oil, and replacing the compressor without diagnosing the cause guarantees the new one fails the same way. The technician must separate the compressor's mechanical health from its electrical command and from the system conditions that protect or destroy it.
+
+## Core Rules
+
+### Verifying the Command Before Condemning the Compressor
+
+Before condemning a compressor that is not running, verify that it is actually being commanded to run, because the control circuit includes multiple inputs that can inhibit engagement. The ECM or A/C control module will not energize the compressor clutch if the refrigerant pressure is below the low-pressure switch threshold (typically around 25-30 psi), if pressure is above the high-pressure switch threshold (typically 350-450 psi), if the engine is overheating, if the throttle is wide open, or if the evaporator temperature is below freezing. Diagnose by checking for battery voltage and ground at the clutch connector with the A/C commanded on, and by checking the refrigerant pressure with a manifold gauge or a scan tool PID. If the clutch relay is the suspected failure, swap it with an identical relay and retest. On variable-displacement and clutchless compressors (many late-model vehicles), there is no traditional clutch; instead a solenoid control valve modulates displacement, and diagnosis requires scan tool command and solenoid resistance checks. Never apply battery voltage directly to a clutch coil to "test" it without confirming the coil resistance, because a shorted coil can damage the driver circuit.
+
+### Evaluating Compressor Noise and Mechanical Health
+
+Compressor noise originates from internal bearing failure, broken internal components, or clutch bearing failure, and the character of the noise points to the failure mode. A whining or growling noise that changes with compressor engagement is typically an internal bearing or swashplate failure and indicates the compressor must be replaced. A rattling or grinding noise present only when the clutch is engaged suggests broken internal components, often from liquid slugging or oil starvation. A noise present only when the clutch is disengaged, especially a steady growl that changes with engine speed, is often the clutch pulley bearing, which can be replaced separately on many applications without replacing the compressor. Diagnose by listening with a stethoscope at the compressor body and at the clutch pulley, and by engaging and disengaging the clutch to isolate. A seized compressor that locks up will snap or throw the drive belt, and the engine may stall when the clutch is engaged; this requires immediate compressor replacement and inspection of the belt and tensioner.
+
+### Compressor Oil Condition and System Contamination
+
+The condition of the compressor oil is the single best indicator of the system's internal health, and it must be inspected whenever a compressor is replaced or whenever a system has been operated with a leak. Healthy PAG oil is clear to slightly amber and flows freely; oil that is dark, gritty, metallic, or smells burnt indicates internal compressor failure and metal debris circulating through the system. Oil that is milky or cloudy indicates moisture contamination, usually from an improper evacuation or a large leak that drew in humid air. When a compressor has failed internally, the metal debris is distributed throughout the condenser, the lines, and the expansion device, and simply replacing the compressor will result in immediate failure of the new unit because the debris plugs the expansion device and starves the new compressor of oil. In these cases, the condenser must be flushed or replaced (many modern parallel-flow condensers cannot be effectively flushed and must be replaced), the expansion device or orifice tube must be replaced, and the system must be flushed with an approved solvent. The oil type and viscosity must match the compressor specification—PAG 46 is common but some compressors require PAG 100 or PAG 150, and R-1234yf systems often use POE oil.
+
+### Clutch Coil, Air Gap, and Bearing Service
+
+The compressor clutch is a wear item separate from the compressor body, and many clutch failures can be serviced without replacing the entire compressor. The clutch coil is an electromagnet that pulls the clutch plate against the pulley; it fails by open circuit, short to ground, or heat-related intermittent operation. Measure coil resistance (typically 2 to 5 ohms) and compare to specification; a reading outside range requires clutch coil replacement. The clutch air gap—the distance between the clutch plate and the pulley when disengaged—is critical and must be checked with a feeler gauge; an excessive gap (typically above 0.020 inch) causes weak engagement or slippage, while a tight gap causes drag and bearing failure. The clutch pulley bearing supports the pulley on the compressor nose and fails by noise and roughness; it can be replaced with a bearing puller and press without removing the compressor on many applications. Always check the clutch air gap and bearing condition before condemning the coil or the compressor.
+
+### Variable-Displacement and Electric Compressors
+
+Late-model vehicles increasingly use variable-displacement compressors, which have no traditional clutch and instead use a solenoid control valve to modulate pump displacement from near-zero to full. These compressors run continuously when the engine is running, and diagnosis requires a scan tool to read the commanded versus actual displacement, the control valve current, and the evaporator and pressure sensor data. A failed control valve causes no cooling or continuous full displacement, and the valve can often be replaced separately. Electric compressors on hybrid and electric vehicles run on high voltage from the traction battery and require specific high-voltage safety procedures; they cannot be diagnosed with traditional 12-volt methods, and the oil is specifically formulated to be non-conductive (typically POE). Never apply 12 volts to an electric compressor control circuit, and follow the manufacturer's high-voltage disable procedure before any service.
+
+## Common Traps
+
+### Condemning the Compressor When the Clutch Is Not Being Commanded
+
+The most common trap is replacing a compressor that is not running because it is not being commanded to run, not because it has failed. The mechanism is that the low-pressure switch opens on a low charge, the high-pressure switch opens on an overcharge or overheating condition, or the ECM inhibits compressor engagement for engine protection, and the compressor sits silent even though it is mechanically functional. The false signal is a non-running compressor with no cooling, which looks like compressor failure. The harm is that the technician installs an expensive compressor that also will not run because the underlying control fault or low charge remains, the customer is billed for an unnecessary part, and the real fault—a leak, a bad switch, or a wiring issue—goes unfixed. Always verify voltage and ground at the clutch connector and check pressure switch inputs before condemning the compressor.
+
+### Replacing a Failed Compressor Without Flushing the System
+
+A second trap is installing a new compressor after an internal failure without flushing the condenser, lines, and expansion device. The mechanism is that the failed compressor shed metal debris throughout the closed system, and that debris is trapped in the condenser passages, the expansion device orifice, and the muffler, where it cannot be seen. The false signal is that the new compressor runs and cools acceptably on initial test, so the repair appears successful. The harm is that the debris circulates, plugs the expansion device, starves the new compressor of oil, and destroys it within days or weeks, voiding the warranty because the system was not flushed per the manufacturer's requirement. Always flush or replace the condenser, replace the expansion device or orifice tube, and add the correct oil charge when replacing a compressor that failed internally.
+
+### Using the Wrong Oil Type or Viscosity
+
+A third trap is installing a compressor with the wrong PAG oil viscosity or mixing PAG with POE oil, which causes lubrication failure and premature compressor death. The mechanism is that PAG oil is hygroscopic and comes in multiple viscosities (PAG 46, 100, 150), and each compressor is engineered for a specific viscosity; mixing viscosities changes the lubrication film strength, and mixing PAG with POE (used in R-1234yf systems) causes chemical incompatibility and oil breakdown. The false signal is that the compressor runs normally at first, so the wrong oil is not detected. The harm is accelerated wear, noise, and seizure within a season, with no obvious external cause. Always verify the specified oil type and viscosity from the service information or the compressor label, measure the oil charge by volume, and never mix oil types.
+
+### Ignoring the Clutch Air Gap
+
+A fourth trap is overlooking an excessive clutch air gap as the cause of intermittent or weak clutch engagement. The mechanism is that the clutch plate wears over time, increasing the gap between the plate and the pulley, and the coil can no longer pull the plate in firmly, causing the clutch to slip, chatter, or fail to engage when hot (because coil resistance rises with temperature, reducing magnetic force). The false signal is that the clutch engages fine when cold but drops out when hot, which looks like a failing coil or a thermal intermittent. The harm is that the technician replaces the coil or the entire compressor when the real fix is adjusting the air gap with a shim kit, a low-cost repair. Always measure the clutch air gap with a feeler gauge and compare to specification before condemning the coil or compressor.
+
+### Diagnosing Electric Compressors With 12-Volt Methods
+
+A fifth trap, on hybrid and electric vehicles, is attempting to diagnose an electric compressor with traditional 12-volt tools and methods. The mechanism is that electric compressors run on high voltage (200-400 volts) from the traction battery, use a non-conductive POE oil, and are controlled by a dedicated inverter, and applying 12 volts to the control circuit or using standard PAG oil will not work and can damage the inverter or create a shock hazard. The false signal is that the compressor "looks like" a normal compressor and has familiar fittings. The harm is equipment damage, safety risk to the technician, and an incorrect diagnosis that leads to unnecessary and expensive component replacement. Always follow the manufacturer's high-voltage disable procedure, use scan tool diagnostics for the compressor and inverter, and use only the specified POE oil on electric compressors.
+
+## Self-Check
+
+- Did I verify that the compressor clutch is being commanded on by checking voltage and ground at the connector before condemning the compressor?
+- Did I check refrigerant pressure and the low- and high-pressure switch inputs before concluding the compressor is failed?
+- Did I evaluate compressor noise with a stethoscope and distinguish internal failure from clutch bearing noise?
+- Did I inspect the compressor oil condition for metal, moisture, or burn contamination before replacing the unit?
+- Did I flush or replace the condenser and replace the expansion device when replacing a compressor that failed internally?
+- Did I verify and use the correct oil type and viscosity (PAG 46/100/150 or POE) per the compressor specification?
+- Did I measure the clutch air gap with a feeler gauge and adjust with shims if excessive before condemning the clutch coil?
+- Did I check the clutch coil resistance and compare to specification before replacing the coil or compressor?
+- Did I use scan tool diagnostics for variable-displacement or electric compressors rather than 12-volt methods?
+- Did I follow high-voltage disable procedures before servicing an electric compressor on a hybrid or EV?

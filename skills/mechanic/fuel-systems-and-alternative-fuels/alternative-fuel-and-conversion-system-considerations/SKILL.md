@@ -1,0 +1,69 @@
+---
+name: alternative-fuel-and-conversion-system-considerations.md
+description: Use when the agent is servicing propane autogas, compressed natural gas CNG, flex-fuel E85 vehicles, or aftermarket fuel conversion systems, evaluating fuel system compatibility, regulator and tank inspection, or alternative fuel drivability and emissions concerns.
+---
+
+# Alternative Fuel and Conversion System Considerations
+
+Alternative fuel vehicles—flex-fuel (E85), propane autogas (LPG), compressed natural gas (CNG), and aftermarket conversion systems—present diagnosis and service challenges that gasoline-trained technicians often underestimate because the fuels have different lubricity, corrosion characteristics, storage pressures, and combustion properties. The judgment problem is that an alternative fuel system is not simply a gasoline system with a different tank; it has dedicated regulators, pressure vessels, fuel lines of different material, sensors that detect fuel composition, and in the case of CNG, pressures up to 3600 psi that require certified inspection and handling. The technician must know which fuel the vehicle uses, must understand the certification and inspection requirements for pressure vessels, and must never apply gasoline-system assumptions to a system that behaves differently and carries different safety hazards.
+
+## Core Rules
+
+### Flex-Fuel (E85) System Considerations
+
+Flex-fuel vehicles are designed to run on any blend of gasoline and ethanol from E0 (pure gasoline) to E85 (85 percent ethanol), and they use a fuel composition sensor (or inferred calculation from oxygen sensor feedback) to adjust injector pulse width and ignition timing for the fuel's different stoichiometric ratio. Ethanol has a richer stoichiometric ratio (about 9.0:1 versus 14.7:1 for gasoline), so the injectors must flow roughly 30 percent more fuel on E85, and a system that cannot compensate will run lean and set codes. Diagnose flex-fuel complaints by reading the fuel composition PID (if equipped) and verifying the PCM is adjusting accordingly; a failed composition sensor causes incorrect fueling on one fuel but not the other. Ethanol is corrosive to certain rubber and aluminum components, and older non-flex-fuel vehicles must never be fueled with E85, which will damage the fuel system. Ethanol also absorbs water and can phase-separate, especially in vehicles that sit for extended periods, causing lean running and corrosion. Fuel economy drops 20-30 percent on E85, which is normal and should be communicated to customers who expect gasoline mileage.
+
+### Propane Autogas (LPG) System Considerations
+
+Propane autogas systems store liquid propane at relatively low pressure (around 100-200 psi) in a steel or aluminum tank, and the liquid is vaporized in a regulator (vaporizer) before entering the intake or the injectors. The system includes a fuel lockoff, a regulator with coolant heating (to prevent freezing during vaporization), and dedicated propane injectors or a mixer. Diagnosis requires understanding that propane is stored as a liquid but burned as a vapor, and that the regulator must maintain consistent vapor pressure across a wide demand range. Common faults include a frozen regulator (from inadequate coolant flow or a stuck thermostat), a failing fuel lockoff solenoid (causing no-start), and contaminated fuel (heavy hydrocarbons or oils that accumulate in the regulator and affect metering). The tank is a pressure vessel that requires periodic recertification per DOT or ASME standards (typically every 5-12 years depending on type), and the system must be leak-tested with a combustible gas detector, not a soap solution alone. Propane is heavier than air and accumulates in low areas, so leak detection and ventilation differ from gasoline.
+
+### Compressed Natural Gas (CNG) System Considerations
+
+CNG systems store natural gas (mostly methane) at very high pressure—typically 3000 to 3600 psi in Type I (all-metal), Type II (metal liner with composite wrap), Type III, or Type IV (composite with plastic liner) cylinders. The high pressure is reduced in two stages (a high-pressure regulator and a low-pressure regulator) before the gas enters the engine. CNG cylinder inspection is regulated: cylinders must be visually inspected every 3 years (or per the manufacturer) by a certified CNG fuel system inspector, and they have a mandatory service life (typically 15-25 years) after which they must be replaced, not requalified. Never attempt to repair, weld, or modify a CNG cylinder. Diagnosis of CNG drivability faults requires checking the high- and low-pressure regulators, the fuel quality (CNG must meet a moisture and oil content spec), and the dedicated CNG injectors. A common fault is moisture in the CNG that freezes at the regulator in cold weather, causing pressure drop and lean running. CNG leaks are detected with a methane-specific detector (not a generic combustible gas detector), and because methane is lighter than air, leaks rise and accumulate at the ceiling, requiring overhead ventilation.
+
+### Aftermarket Conversion System Evaluation
+
+Aftermarket alternative fuel conversions—bi-fuel (switches between gasoline and alternative), dedicated (alternative only), and dual-fuel—add complexity and potential failure points, and their quality varies widely. A conversion must be EPA- or CARB-certified for the specific vehicle year, make, model, and engine, and an uncertified conversion is illegal for on-road use and can cause emissions and drivability problems. When servicing a converted vehicle, identify the conversion system manufacturer and the certification status, and obtain the conversion-specific service manual. Common conversion faults include poorly integrated fuel control (the conversion's controller fights the OEM PCM), incompatible fuel pumps or regulators, and unsafe plumbing (non-rated hose, improper fittings, missing leak detection). Evaluate the conversion's installation quality: are the lines routed away from heat and moving parts, are the fittings the correct type for the fuel and pressure, is the tank properly mounted and grounded, and are the electrical connections weatherproofed. If the conversion is uncertified or unsafe, document the findings and communicate the legal and safety implications to the customer.
+
+### Material Compatibility and Corrosion
+
+Alternative fuels require specific materials throughout the fuel system, and using incompatible materials causes leaks, corrosion, and failure. Ethanol (E85) attacks natural rubber, some elastomers, and certain aluminum alloys; systems must use Viton or fluorocarbon seals and alcohol-compatible metals. Propane and CNG require stainless steel or specially rated high-pressure hose and fittings; standard gasoline hose will not contain these fuels at their pressures. Methanol, used in some racing and experimental applications, is extremely corrosive and requires stainless steel, anodized aluminum, and specific seals. When servicing an alternative fuel system, never substitute a gasoline-rated part for an alternative-fuel-rated part, and verify that any replacement hose, fitting, seal, or injector is rated for the specific fuel. Corrosion in alternative fuel systems is often internal and invisible; inspect tanks, lines, and regulators per the inspection schedule, and replace components at the end of their service life even if they appear functional.
+
+### Safety and Regulatory Compliance
+
+Alternative fuel systems carry safety and regulatory requirements beyond gasoline systems, and the technician must be aware of them. CNG and LPG tanks are pressure vessels with mandatory inspection and service-life requirements; an expired or damaged tank must be taken out of service and cannot be repaired. Fueling requires the correct nozzle and pressure rating; over-pressurizing a tank is a catastrophic hazard. Leak detection requires fuel-specific detectors and knowledge of where the fuel accumulates (propane low, CNG high). Fire safety differs: an alternative fuel fire may require different extinguishing agents and may involve a tank that is venting under pressure. Any work on a CNG or LPG system should be performed by a technician with the appropriate certification (such as CSA CNG/LPG fuel system inspector), and the work should be documented for the customer and for regulatory compliance. Always depressurize the system per the manufacturer's procedure before opening any high-pressure line, and never vent CNG or LPG into a closed shop.
+
+## Common Traps
+
+### Applying Gasoline Assumptions to an Alternative Fuel System
+
+The most common trap is treating an alternative fuel system like a gasoline system and applying gasoline diagnostic logic. The mechanism is that the components look similar—injectors, regulators, a tank—and the technician assumes the same pressure, flow, and failure modes apply, when in fact the pressures, fuel properties, and material requirements are entirely different. The false signal is the visual similarity of the components. The harm is incorrect diagnosis (condemning a regulator that is functioning correctly for propane), unsafe service practices (venting a CNG line in a closed shop), and installation of incompatible parts (gasoline hose on a propane system) that leak or fail. Always identify the fuel system type and consult the alternative-fuel-specific service information before diagnosing or servicing.
+
+### Servicing a CNG or LPG Tank Without Certification
+
+A second trap is inspecting, repairing, or modifying a CNG or LPG tank without the required certification. The mechanism is that these tanks are regulated pressure vessels with mandatory inspection intervals, service-life limits, and specific damage criteria (cuts, gouges, heat damage, fire exposure) that render them unsafe, and a non-certified technician may miss critical damage or attempt an illegal repair. The false signal is that the tank "looks fine" externally. The harm is a catastrophic tank failure during refueling or service—CNG tanks store enormous energy and a rupture is explosive—with severe injury or death risk and legal liability for the shop. Always refer tank inspection to a certified inspector, never repair or weld a tank, and take an expired or damaged tank out of service immediately.
+
+### Using Incompatible Materials During Repair
+
+A third trap is substituting gasoline-rated hoses, fittings, seals, or injectors in an alternative fuel system. The mechanism is that alternative fuels attack or permeate gasoline-rated materials: ethanol swells natural rubber, propane and CNG escape through gasoline hose walls, and methanol corrodes incompatible metals. The false signal is that the part fits and the system holds initially. The harm is leaks that develop over days or weeks, fuel contamination, and in the case of high-pressure CNG or LPG, a catastrophic line failure. Always verify every replacement part is rated for the specific alternative fuel and pressure, and source parts from the conversion manufacturer or a supplier that specifies fuel compatibility.
+
+### Ignoring Tank Inspection and Service-Life Requirements
+
+A fourth trap is continuing to service or fuel a vehicle with an expired or damaged CNG or LPG tank without addressing the tank's status. The mechanism is that pressure vessels have mandatory service lives (15-25 years for CNG, varying for LPG) and inspection intervals (every 3 years for CNG), and a tank past its life or inspection is illegal and unsafe to fill, regardless of apparent condition. The false signal is that the tank holds fuel and the vehicle runs. The harm is that an expired tank may fail catastrophically during refueling or in service, and the shop that serviced the vehicle without flagging the expired tank bears liability. Always check the tank manufacture date and inspection label before servicing, and inform the customer if the tank requires inspection or replacement.
+
+### Misdiagnosing Fuel Quality Issues as Component Failures
+
+A fifth trap is condemning alternative fuel system components when the fuel itself is the problem. The mechanism is that alternative fuels have quality specifications—moisture content for CNG, heavy-end content for propane, water content for ethanol—that affect combustion and system health, and out-of-spec fuel causes lean running, freezing at regulators, corrosion, and poor performance that look like component failures. The false signal is drivability symptoms that point to a specific component. The harm is unnecessary component replacement while the bad fuel continues to cause problems, and potentially damage to the new components from the contaminated fuel. Always investigate fuel quality—source, storage, and age—before condemning alternative fuel system components, and drain and replace suspect fuel.
+
+## Self-Check
+
+- Did I identify the specific alternative fuel system (E85, LPG, CNG, conversion) before beginning diagnosis?
+- Did I read the fuel composition PID and verify PCM compensation on flex-fuel vehicles?
+- Did I check the regulator for freezing and verify coolant flow on propane systems?
+- Did I verify the CNG cylinder manufacture date, inspection label, and service-life status before servicing?
+- Did I use a fuel-specific leak detector (methane for CNG, propane-specific for LPG) rather than a generic detector?
+- Did I verify all replacement hoses, fittings, seals, and injectors are rated for the specific alternative fuel and pressure?
+- Did I depressurize the system per the manufacturer's procedure before opening any high-pressure line?
+- Did I evaluate the certification status and installation quality of any aftermarket conversion system?
+- Did I investigate fuel quality (moisture, heavy ends, water content) before condemning components?
+- Did I communicate tank inspection, service-life, and regulatory requirements to the customer in writing?
