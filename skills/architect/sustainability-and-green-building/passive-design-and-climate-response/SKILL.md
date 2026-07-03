@@ -1,0 +1,75 @@
+---
+name: passive_design_and_climate_response.md
+description: Use when the agent is designing passive strategies — building orientation, thermal mass, natural ventilation, daylighting, shading, and envelope tuning — for a specific climate zone, or integrating climate-responsive design moves that reduce mechanical loads before systems are sized.
+---
+
+# Passive Design And Climate Response
+
+Passive design is the set of architectural moves that harness the climate — sun, wind, temperature, humidity — to heat, cool, light, and ventilate the building without or before mechanical systems, and it is the layer of sustainability that only the architect can deliver. Passive strategies are determined by decisions made in the earliest design phases — orientation, massing, glazing distribution, envelope assemblies, thermal mass — and once these are fixed, the mechanical engineer can only work within the envelope the architect has created. Agents often treat passive design as a stylistic or symbolic gesture and miss that effective passive design is quantitative and climate-specific, that a strategy that works in a hot-arid climate fails in a hot-humid one, and that a passive feature added for appearance without analysis can increase energy use rather than reduce it. The architect owns passive design because it is an architectural problem before it is an engineering one. The goal is a building whose form, orientation, and envelope are shaped by climate analysis to minimize loads and maximize free heating, cooling, lighting, and ventilation.
+
+## Core Rules
+
+### Begin With Climate Analysis, Not With Form
+
+Passive design starts with understanding the climate, because the strategies that work are dictated by the temperature, humidity, solar, and wind patterns of the site. Obtain the climate data — typically a Typical Meteorological Year file for the nearest weather station — and analyze it: temperature distribution across the year and the day, humidity, solar radiation by orientation and season, wind direction and speed, heating and cooling degree days. Identify the dominant condition — heating-dominated, cooling-dominated, or mixed — and the diurnal temperature swing, because a large swing enables night-flush cooling and thermal mass strategies that a small swing does not. Produce a climate summary that drives the strategy: a heating-dominated cold climate prioritizes solar gain and superinsulation, a hot-arid climate prioritizes thermal mass and shading, a hot-humid climate prioritizes ventilation and dehumidification. A design that begins with form and adds climate later is not passive design; it is form with a sustainability label.
+
+### Optimize Orientation And Massing For Solar And Wind
+
+Orientation is the single most consequential passive decision, because it determines the solar exposure of every facade and the relationship of the building to prevailing winds. Orient the long axis to balance solar access for winter heating with solar control for summer cooling, which in most temperate climates favors an east-west long axis that maximizes south-facing glazing for controlled winter gain and permits horizontal shading for summer rejection. Account for the site's constraints — view, street grid, adjacent buildings — because the ideal orientation is rarely fully achievable, and prioritize the solar orientation within the site's freedom. Shape the massing to admit or reject sun and wind deliberately: self-shading courtyards in hot climates, exposed south facades in cold climates, aerodynamic forms in windy climates. Every massing move should be defensible against the climate analysis, not against aesthetics alone.
+
+### Distribute And Size Glazing By Orientation And Function
+
+Glazing is the most powerful and most dangerous passive element: it admits light and heat that can be beneficial or harmful depending on orientation, season, and the building's needs. Distribute glazing by orientation, with more on the south for controlled winter gain in heating climates, careful treatment of east and west where low sun angles are hard to shade, and less on the north where glazing loses heat without compensating gain. Tune the glazing properties — U-value for insulation, Solar Heat Gain Coefficient for solar transmission, visible transmittance for daylight — by orientation and by the thermal and lighting analysis, because a single glazing spec applied to all orientations wastes performance. Size glazing for daylight without overheating or over-cooling, because glazing area drives both the lighting benefit and the thermal load, and the optimum is a balance, not a maximum.
+
+### Use Thermal Mass And Night Flush Where The Climate Permits
+
+Thermal mass — concrete, masonry, earth — absorbs heat during the day and releases it at night, smoothing the interior temperature and reducing the mechanical load, and it is most effective in climates with a large diurnal temperature swing where nighttime cooling can flush the stored heat. Expose the mass to the interior and to the occupied space, because mass buried behind finishes or insulation does nothing, and couple it to a night-flush ventilation strategy that opens the building to cool night air. In hot-arid climates with large swings, mass and night flush can dramatically reduce cooling loads; in hot-humid climates with small swings and warm nights, mass is less effective and ventilation and dehumidification dominate. Match the mass strategy to the climate's diurnal characteristics, because mass applied in the wrong climate adds cost without benefit.
+
+### Design Natural Ventilation For The Climate And The Program
+
+Natural ventilation — cross ventilation, stack ventilation, or hybrid mixed-mode — can cool and freshen a building for free, but it depends on the climate's wind and temperature and on the program's tolerance for variable conditions. Design cross ventilation with inlet and outlet openings on opposite facades aligned to prevailing winds, and stack ventilation with low inlets and high outlets that exploit buoyancy, and size the openings to deliver the required airflow. Assess whether the climate supports natural ventilation during occupied hours: a hot-humid climate may permit it for part of the year, a cold climate for only the shoulder seasons, and a noisy or polluted site may preclude it entirely. Match the strategy to the program, because an office may tolerate mixed-mode ventilation while a laboratory may not, and design the controls and the occupant interfaces so that ventilation is actually used.
+
+### Integrate Shading As A Primary Envelope Strategy
+
+Solar shading — overhangs, fins, louvers, external screens — is the most effective way to reject unwanted solar gain, because external shading stops the heat before it enters the glazing, where internal blinds are far less effective. Design shading by orientation: horizontal overhangs on the south, where the high summer sun is blocked and the low winter sun admitted; vertical fins on the east and west, where the low sun angles are hardest to control; and egg-crate or screen solutions where multiple orientations compound. Size the shading with solar geometry analysis, because a shading device that is too small admits the heat it was meant to reject, and one that is too large blocks beneficial daylight and winter gain. Integrate shading into the architecture as a formal element, not an afterthought, because shading that is added late is often value-engineered out.
+
+### Coordinate Passive Strategies With Mechanical And Lighting Systems
+
+Passive strategies do not replace mechanical and lighting systems; they reshape them, and the integration determines whether the passive benefit is captured. A well-shaded, daylit, mass-stabilized building permits smaller mechanical equipment and reduced lighting power density, but only if the engineer designs to the reduced load, which requires the architect to communicate the passive strategy and the resulting loads early. A mixed-mode building needs controls that coordinate natural and mechanical ventilation, and daylight harvesting needs lighting controls that dim in response to available daylight, and both require specification and commissioning. The architect must lead the integration, because the engineer, working to conventional loads, will size equipment as if the passive strategies did not exist, and the savings will be lost to oversized systems.
+
+## Common Traps
+
+### Applying A Signature Passive Strategy Out Of Climate
+
+The team applies a strategy that worked on a prior project — a green roof, a double-skin facade, a courtyard — to a project in a different climate where it does not perform, because the strategy became a signature rather than a response. The mechanism is that successful strategies are memorable and teams replicate them without re-analysis, and the false signal is that the feature is "sustainable." The harm is that the strategy adds cost and either does not reduce energy use or increases it — a double-skin facade in a hot climate that traps heat, a courtyard in a cold climate that increases envelope loss — and the building performs worse than a conventional one. Every passive strategy must be evaluated against the specific climate data for the site, because climate determines whether a strategy helps or harms.
+
+### Daylight Without Heat And Glare Control
+
+The team maximizes glazing for daylight, achieving high daylight autonomy in the model, but the glazing admits solar heat that increases cooling loads and glare that forces occupants to close blinds, defeating the daylight and the view. The mechanism is that daylight metrics reward glazing area without accounting for thermal and visual comfort, and the false signal is that the daylight analysis shows success. The harm is a building that overheats, that blinds its occupants, and whose lighting energy is not reduced because the blinds are permanently closed. Daylighting must be designed with shading, with glazing tuned by orientation, and with light-redistributing strategies — light shelves, clerestories, deep reveals — that deliver daylight without glare or heat, because daylight without control is a liability.
+
+### Thermal Mass That Is Not Coupled To Ventilation Or Exposed
+
+The team specifies a heavy concrete structure for thermal mass but covers it with finishes and insulation, or fails to provide a night-flush ventilation strategy, so the mass cannot absorb and release heat and provides no passive benefit. The mechanism is that mass is treated as an inherent property of the material rather than as a strategy requiring exposure and coupling, and the false signal is that the structure is concrete and so the building "has mass." The harm is the cost of the structure without the performance, and a building whose mechanical systems are sized as if the mass worked when it does not. Thermal mass must be exposed to the occupied space, coupled to a ventilation strategy that flushes it at night, and matched to a climate with a diurnal swing large enough to make the strategy effective.
+
+### Natural Ventilation Designed Without Wind Or Program Assessment
+
+The team adds operable windows for natural ventilation without analyzing whether the wind drives airflow through the openings or whether the program tolerates the variable conditions, and the windows go unused because they admit noise, pollution, or discomfort. The mechanism is that operable windows are treated as a sustainability feature independent of performance, and the false signal is that the building "can ventilate." The harm is the cost of operable windows and controls that are never used, and a building whose ventilation depends on mechanical systems the design assumed could be reduced. Natural ventilation must be designed with wind analysis, with inlet-outlet geometry, with assessment of the site's noise and air quality, and with the program's tolerance for variable conditions, or it is a symbol rather than a strategy.
+
+### Shading Value-Engineered Out After Design
+
+The team designs an integrated shading strategy — overhangs, fins, screens — and at value engineering the shading is removed as a cost saving, leaving the glazing exposed to the solar loads the shading was meant to reject. The mechanism is that shading is visible and quantifiable as a cost while the energy saving is diffuse and future, and the false signal is that the building still has its glazing and so still functions. The harm is that the cooling loads spike, the mechanical system is undersized for the unshaded condition, and the building overheats, with the operational cost borne for the life of the building. Shading must be defended as a load-bearing element of the design — its removal increases the mechanical first cost and the operational cost — and its value must be quantified in the energy model so that value engineering cannot treat it as optional.
+
+### Passive Strategies Not Communicated To The Engineers
+
+The architect develops passive strategies but does not transmit the resulting load reductions to the mechanical engineer, who sizes equipment to conventional loads, and the passive benefit is lost to oversized systems that short-cycle and waste energy. The mechanism is that the disciplines work in parallel rather than in integration, and the false signal is that the passive strategies are in the design. The harm is that the building consumes more energy than its passive design would permit, the mechanical first cost is higher than necessary, and the sustainability claim is undermined by the as-built performance. The passive strategies, the resulting loads, and the required system responses must be communicated to the engineers early and reflected in the sizing, the specifications, and the commissioning.
+
+## Self-Check
+
+- [ ] Has a climate analysis — temperature, humidity, solar, wind, degree days, diurnal swing — been produced and used to drive the passive strategy?
+- [ ] Is the building orientation and massing optimized for solar access and control and for prevailing winds within the site's constraints?
+- [ ] Is glazing distributed and tuned by orientation, with U-value, SHGC, and visible transmittance selected to balance light, heat gain, and heat loss?
+- [ ] Is thermal mass exposed to the occupied space and coupled to a night-flush ventilation strategy, in a climate whose diurnal swing supports the approach?
+- [ ] Is natural ventilation designed with wind analysis, inlet-outlet geometry, and assessment of the site's noise, pollution, and the program's tolerance?
+- [ ] Is solar shading designed by orientation using solar geometry, integrated as a formal element, and defended against value engineering with quantified load impact?
+- [ ] Have the passive strategies and resulting load reductions been communicated to the mechanical and lighting engineers so that systems are sized to the reduced loads?
+- [ ] Are daylighting strategies paired with glare and heat control — shading, light shelves, deep reveals — so that daylight is usable rather than a liability?
