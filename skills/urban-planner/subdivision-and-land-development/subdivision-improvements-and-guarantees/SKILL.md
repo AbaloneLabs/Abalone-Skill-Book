@@ -1,0 +1,63 @@
+---
+name: subdivision-improvements-and-guarantees.md
+description: Use when the agent is administering subdivision improvements agreements, sizing performance and maintenance bonds, inspecting public infrastructure before acceptance, or managing the financial and legal instruments that protect the public when a developer defaults on roads, utilities, and common facilities.
+---
+
+# Subdivision Improvements and Guarantees
+
+The construction of subdivision infrastructure — streets, water and sewer mains, stormwater facilities, streetlights, and common-area improvements — is the moment when private development becomes a public obligation, and the financial instruments governing that transition are the public's only protection if the developer fails to perform. The judgment problem is that these instruments (improvements agreements, performance guarantees, maintenance bonds, escrows) are treated as paperwork rather than as the risk-management architecture they are, and they are typically sized, drafted, and released under deal-closing pressure that systematically under-protects the public. When a developer defaults mid-construction, or when infrastructure fails in the first maintenance cycle, the adequacy of these instruments is discovered — usually too late to avoid the public absorbing the loss. This skill covers the decisions that determine whether the public will be made whole when subdivision improvements go wrong, or whether the municipality will inherit the cost.
+
+## Core Rules
+
+### Require Improvements or Guarantees Before Any Plat Is Recorded
+
+The foundational rule is that no final plat creating lots intended for sale or development should be recorded until either the public improvements are constructed and accepted, or a financial guarantee securing their full construction cost is in place. The mechanism matters: a final plat recorded without improvements and without a guarantee transfers the development risk to lot buyers and to the public, because the lots are saleable and buildable but the infrastructure serving them may never be completed. Confirm the jurisdiction's enabling authority for this requirement (most states authorize it explicitly), and apply it consistently to every plat regardless of the developer's reputation or the project's political support. The pressure to record a plat "to keep the deal moving" without the guarantee in place is the single most common source of public exposure in subdivision administration.
+
+### Size the Performance Guarantee to the Full Cost of Completion, Independently Verified
+
+A performance guarantee is only as protective as its amount, and the amount must reflect what it would cost the municipality — not the developer — to complete the improvements if the developer defaults. Developer-furnished estimates are systematically low because they reflect the developer's negotiated prices, assume the developer's own crews and efficiencies, and are produced under incentive to minimize the tied-up capital. Require an independent engineer's estimate of completion cost, including mobilization, overhead, profit, and escalation for the time required to re-bid and complete the work, and size the guarantee to that figure. Confirm the form of the guarantee is acceptable (cash escrow, letter of credit, and surety bond are common; developer promissory notes and corporate guarantees are not), and confirm the issuer's creditworthiness, because a bond from an insolvent surety is no bond at all.
+
+### Draft the Improvements Agreement to Define Obligations, Sequence, and Remedies Precisely
+
+The improvements agreement is the contract that governs the gap between plat recording and infrastructure acceptance, and its precision determines the municipality's remedies if the developer underperforms. The agreement must specify: the exact improvements required (by reference to the approved engineering plans), the construction schedule and milestones, the standards and inspections required during construction, the procedure for drawing on the guarantee if milestones are missed, the developer's obligation to correct defects, the duration of the maintenance period after acceptance, and the conditions for final release of the guarantee. Vague agreements ("developer shall construct the improvements in a workmanlike manner") leave the municipality litigating what was required; precise agreements let the municipality draw on the guarantee or revoke acceptance when the standards are not met. Engage municipal counsel to draft or review every agreement, because this is a contract whose value is realized only in default.
+
+### Inspect Construction Against the Approved Plans, Not the Developer's Convenience
+
+Infrastructure inspection during construction is the public's opportunity to confirm that what is being built matches what was approved, before it is buried, paved over, or accepted. Require inspection at defined hold points (subgrade, base, utility installation before backfill, pavement section, final grading) by municipal staff or a municipal engineer independent of the developer's engineer, and require that any deviation from the approved plans be documented and approved in writing before it proceeds. The most common failures — inadequate pavement base, undersized or misaligned utilities, missing subdrains, compacted fill over unsuitable material — are invisible after completion and expensive to discover and correct. Treat the inspection record as the evidentiary basis for acceptance or rejection, and do not accept infrastructure whose construction record is incomplete or whose deviations were not formally resolved.
+
+### Define a Rigorous Acceptance Procedure With As-Builts and Certification
+
+Acceptance is the moment the municipality takes on the obligation to maintain the infrastructure, and it should occur only after the public is fully protected against defects. Require, before acceptance: certified as-built drawings showing the infrastructure as actually constructed; a certification from the developer's engineer that the improvements conform to the approved plans and applicable standards; successful pressure, leakage, and density tests for utilities; a final punch-list inspection with all items resolved; and the recording of any easements required for the infrastructure. Condition acceptance on the execution of a maintenance bond (typically 10-20 percent of construction cost for one to two years) to cover defects that emerge after acceptance, because the most expensive failures — pavement base failure, utility joint leaks, stormwater facility underperformance — often appear only after a full weather cycle. Do not accept infrastructure under political or developer pressure to "get it off the books," because acceptance is largely irrevocable.
+
+### Manage Guarantee Reductions and Releases Against Verified Completion
+
+Developers will request partial releases of the performance guarantee as phases complete, and the release procedure is a recurring point of pressure. Release only against verified completion of defined portions of the work, with the remaining guarantee always sufficient to complete the uncompleted portion, and require an updated engineer's estimate at each reduction to confirm the remaining amount is adequate. Never release the entire performance guarantee until all improvements are accepted and the maintenance bond is in place, because releasing performance security before the maintenance period begins leaves a gap in coverage. Document each release decision with the inspection record and the updated estimate, because release decisions are frequently challenged by successor developers, bond claimants, and courts.
+
+## Common Traps
+
+### The Guarantee Sized to the Developer's Estimate
+
+The performance bond is set at the developer's cost estimate, which is typically 20-40 percent below the municipality's actual cost to complete, and when the developer defaults the municipality discovers the gap. The trap mechanism is that the developer's estimate reflects their negotiated prices and self-performed work, while the municipality must re-bid the work at prevailing rates with mobilization, overhead, and escalation, and the difference is discovered only at default when it is too late to renegotiate. The false signal is that a bond is in place and the public is protected. The harm is that the public either inherits incomplete infrastructure, must complete it with general funds, or faces litigation with bondholders and homebuyers — and the under-collateralization is exposed at the worst possible moment.
+
+### Acceptance Under Pressure to Clear the Books
+
+The developer, the homebuyers, or the council pressures the municipality to accept the infrastructure because "the homes are occupied and the streets need to be maintained," and the municipality accepts without completing the punch list, the as-builts, or the certifications. The trap mechanism is that acceptance transfers the maintenance obligation to the public while the defects are still the developer's responsibility, and once accepted the municipality's leverage to require correction collapses. The false signal is that the subdivision is "done" and the file can close. The harm is that the public inherits and must pay to repair defects that were the developer's obligation, and the maintenance bond (if any) rarely covers the full cost of the failures that emerge.
+
+### The Maintenance Bond That Expires Before Defects Appear
+
+The maintenance bond is set for one year, on the assumption that defects will surface within that period, but the most expensive failures — pavement base failure after a freeze-thaw cycle, utility joint leaks under sustained pressure, stormwater facility capacity failures in a design storm — often appear in the second or third year. The trap mechanism is that the bond duration was chosen for administrative convenience rather than for the failure profile of the infrastructure, and when the failure appears the bond has expired. The false signal is that a maintenance bond was required. The harm is that the public bears the cost of defects that the maintenance period was supposed to capture, and the developer is long gone.
+
+### The Improvement That Was Never Inspected at the Hold Point
+
+The developer proceeds past a defined hold point (subgrade before base, utility before backfill) without the municipal inspection, on the schedule argument that waiting would delay the project, and the municipality accepts the completed work based on the developer's certification. The trap mechanism is that the most consequential failures are buried — compacted fill over unsuitable material, undersized or misaligned utilities, inadequate base — and once covered they cannot be inspected without destructive testing that no one will order. The false signal is a clean certification from the developer's engineer. The harm is that latent defects emerge years later as pavement failure, utility breaks, or settlement, by which point the cost of correction vastly exceeds the cost of the inspection that was skipped, and the public bears it.
+
+## Self-Check
+
+- Is every final plat that creates saleable or buildable lots conditioned on either completed-and-accepted improvements or a performance guarantee in place before recording?
+- Is the performance guarantee sized to an independent engineer's estimate of the municipality's full completion cost, including mobilization, overhead, profit, and escalation — not the developer's estimate?
+- Is the form of guarantee acceptable (cash, letter of credit, surety bond from a creditworthy issuer), and have I rejected unacceptable forms (promissory notes, corporate guarantees)?
+- Does the improvements agreement specify exact obligations, milestones, inspection requirements, draw procedures, defect correction, maintenance period, and release conditions — drafted or reviewed by municipal counsel?
+- Are inspections required at defined hold points by municipal staff or an independent engineer, with deviations documented and approved before proceeding?
+- Is acceptance conditioned on certified as-builts, engineer certification, successful testing, a resolved punch list, recorded easements, and a maintenance bond sized to the failure profile of the infrastructure?
+- Are guarantee reductions and releases made only against verified completion, with the remaining amount always sufficient to complete the uncompleted work, documented by updated estimates?
+- Has the maintenance bond duration been set to the likely failure profile of the infrastructure (two to three years for roads and utilities) rather than to an administrative default of one year?

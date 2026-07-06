@@ -1,0 +1,63 @@
+---
+name: snow-melt-system-design-and-antifreeze-management.md
+description: Use when the agent is designing or installing a hydronic snow melt system for a driveway, sidewalk, or ramp, sizing the snow-melt boiler and fluid volume, selecting and mixing the antifreeze (propylene glycol) concentration, laying out snow-melt loops and spacing, or managing the separation between the snow-melt fluid and the building's heating water.
+---
+
+# Snow Melt System Design and Antifreeze Management
+
+A hydronic snow-melt system circulates warm antifreeze through tubing embedded in a slab (driveway, sidewalk, loading dock, ramp) to melt falling and accumulated snow, and it is one of the most demanding hydronic applications because it operates outdoors, in freezing weather, with a huge heat load and a fluid that must never freeze. The judgment problem is that snow-melt design is governed by the snowfall rate and the design outdoor temperature (not the building heat loss), the system requires a glycol antifreeze that must be separated from the building's heating water, and the boiler and fluid volume are far larger than a typical heating system. An installer who sizes the boiler like a heating system, who under-concentrates the antifreeze, or who cross-connects the snow-melt glycol to the building's heating water will deliver a system that cannot keep up with a real snowstorm, that freezes and bursts its outdoor tubing, or that contaminates the building heat with glycol. This skill covers heat load, antifreeze, separation, controls, and the role limits that place snow-melt design with hydronic specialists.
+
+## Core Rules
+
+### Size the Boiler and System for the Snow-Melt Class and Design Conditions
+
+Snow-melt heat load is dramatically different from building heat load: it is driven by the snowfall rate, the design outdoor temperature, the wind, and the slab's heat losses to the ground and the air, and the required output is far higher per square foot than building heat. ASHRAE and the radiant industry classify snow-melt systems by performance: Class 1 (marginally heated, slow melt, used for unoccupied areas), Class 2 (substantial melt, the common residential/commercial target), and Class 3 (maximum, snow melts as it falls, used for critical areas like hospital ramps). Each class has a design BTU per square foot (commonly 50 to 150 BTU/sq ft/hr for Class 2, far higher for Class 3) and a required slab temperature. The trap is sizing the boiler by the area and a "typical" BTU/sq ft without the class and the local design conditions, so the system cannot keep up with a real storm and the slab accumulates snow. The disciplined approach is to select the snow-melt class based on the application's criticality, calculate the heat load using the local design snowfall and temperature, and size the boiler, the tubing spacing, and the fluid flow to deliver the required output. Snow-melt boilers are commonly very large (hundreds of thousands of BTU/hr for a residential driveway).
+
+### Select and Mix the Antifreeze to the Required Freeze Protection
+
+Because the tubing and fluid are outdoors and exposed to freezing temperatures, the system fluid must be an antifreeze — almost always propylene glycol (food-grade, non-toxic, the standard for snow-melt and radiant), never ethylene glycol (toxic, prohibited in many jurisdictions for any system that could leak into soil or a waterway). The glycol concentration determines the freeze protection: a 30 percent solution protects to about 0°F (burst protection to much lower), a 50 percent solution protects to about -30°F. The concentration must be set to the lowest expected temperature at the site, with margin, because a frozen snow-melt loop bursts the tubing and destroys the slab. The trap is under-concentrating the glycol ("30 percent is enough, it rarely gets below zero here") and losing the system in a cold snap, or using automotive ethylene glycol (toxic and often contains silicates that foul the heat exchanger). The disciplined approach is to determine the site's design low temperature, mix the propylene glycol to a concentration that protects below that temperature with margin, use inhibited HVAC-grade glycol (with corrosion inhibitors, not automotive silicates), and verify the concentration with a refractometer. Test the concentration annually, because glycol degrades over time and the protection declines.
+
+### Separate the Snow-Melt Glycol From the Building Heating Water
+
+The snow-melt system's glycol must not circulate through the building's heating system (where it would reduce heat transfer, foul the boiler, and create a maintenance problem), so the two systems are separated by a heat exchanger. The snow-melt fluid circulates in its own closed loop (the outdoor tubing, the snow-melt side of the heat exchanger, and its own circulator and expansion tank), and the building's heating water circulates on the other side of the heat exchanger, transferring heat to the snow-melt loop without mixing fluids. The trap is connecting the snow-melt loop directly to the building heating system (no heat exchanger), so the glycol circulates through the boiler and the building heat, reducing performance and creating a large volume of glycol to maintain. The disciplined approach is to install a heat exchanger (plate or brazed-plate) between the building heat and the snow-melt loop, give the snow-melt loop its own circulator, expansion tank, fill/purge station, and pressure gauge, and never allow the fluids to mix. Size the heat exchanger for the snow-melt heat load with margin.
+
+### Lay Out Loops for Even Coverage and Manage the Large Fluid Volume
+
+A snow-melt slab covers a large area (a driveway can be 1000 square feet or more), and the tubing must cover it evenly at the design spacing (commonly 6 to 12 inches on center, tighter for higher classes), with loops of similar length and under the maximum length for the tubing. The fluid volume is large (a 1000 sq ft system at 6-inch spacing holds 50 to 100 gallons of glycol), so the expansion tank, the fill/purge station, and the glycol storage must be sized for that volume. The trap is laying out loops of widely varying length (a short loop near the manifold and a long loop at the far end of the driveway), so the long loop is starved and the far end of the slab does not melt. The disciplined approach is to design loops of similar length, keep each under the maximum, provide adequate coverage at the design spacing (tighter at the entrance and the high-traffic areas for Class 3), and size the expansion tank and the glycol system for the total fluid volume. Include a fill/purge station with a glycol reservoir and a pump for filling and concentration adjustment.
+
+### Control the System With Slab and Snow Sensors, Not a Timer
+
+A snow-melt system controlled by a timer runs whether or not it is snowing, wasting enormous energy (the heat load is huge), and a system controlled only by a thermostat may start too late to prevent accumulation. The correct control uses a snow-and-ice sensor (an outdoor slab-mounted sensor that detects precipitation and freezing conditions) and a slab temperature sensor, so the system starts when snow begins and runs until the slab is clear and dry, then shuts off. Idling (keeping the slab slightly warm between storms) reduces the start-up time and improves performance but uses energy continuously; full automatic (cold slab, start on snow detection) saves energy but takes longer to melt the first snow. The trap is using a timer or a thermostat that runs the system regardless of conditions, wasting energy and glycol life. The disciplined approach is to install a snow-and-ice sensor and a slab temperature sensor, select the operating strategy (idle vs. automatic) based on the application's need for rapid response, and verify the controls start and stop correctly.
+
+### Respect the Role Limits — Snow-Melt Design Needs Hydronic Specialists
+
+Snow-melt systems are demanding hydronic designs with large heat loads, glycol management, heat-exchanger separation, and specialized controls, and they are designed and installed by hydronic specialists or mechanical engineers. A general plumber may participate in the tubing installation under a specialist's design, but the boiler sizing, the glycol system, the heat exchanger, and the controls are specialist work. Confirm scope before taking on snow-melt work, and escalate the design to a hydronic specialist.
+
+## Common Traps
+
+### Sizing the Boiler Like a Heating System
+
+The installer sizes the boiler by the slab area and a "typical" BTU/sq ft used for building heat, and the system cannot keep up with a real snowstorm. The trap is that snow-melt heat load is far higher per square foot than building heat, driven by snowfall rate and the outdoor slab losses. The mechanism is that the design conditions (snowfall, wind, slab losses) require a much larger boiler. The false signal is "the boiler heats the slab." The harm is a slab that accumulates snow during a real storm. The defense is to size by the snow-melt class and the local design snowfall and temperature.
+
+### Under-Concentrated or Wrong Glycol
+
+The installer uses a 25 percent glycol concentration because "it rarely gets that cold," or uses automotive ethylene glycol because it is cheap. The trap is that a cold snap below the protection temperature freezes and bursts the outdoor tubing, and automotive glycol contains silicates that foul heat exchangers and is toxic if it leaks. The mechanism is that the concentration sets the freeze point, and the wrong fluid either freezes or fouls. The false signal is "there's antifreeze in it." The harm is a burst loop and a destroyed slab, or a fouled heat exchanger. The defense is to use inhibited HVAC-grade propylene glycol at a concentration protecting below the site design low temperature, verified with a refractometer.
+
+### No Heat Exchanger — Glycol in the Building Heat
+
+The installer connects the snow-melt loop directly to the building heating system to save the heat exchanger, and the glycol circulates through the boiler and the building heat. The trap is that glycol reduces heat transfer, fouls the boiler, and creates a large, hard-to-maintain glycol volume throughout the building. The mechanism is that the fluids mix without separation. The false signal is "it's one system." The harm is degraded building heating performance and a maintenance burden. The defense is to install a heat exchanger and keep the snow-melt glycol in its own loop.
+
+### Timer Control Wastes Energy
+
+The installer controls the snow-melt system with a timer that runs it during winter "snow season," whether or not it is snowing. The trap is that the heat load is enormous, and running when there is no snow wastes a vast amount of energy and shortens the glycol life. The mechanism is that the timer has no knowledge of conditions. The false signal is "the system is set for winter." The harm is high energy bills and unnecessary wear. The defense is to use a snow-and-ice sensor and a slab temperature sensor so the system runs only when needed.
+
+## Self-Check
+
+- Did I size the boiler, tubing spacing, and fluid flow for the snow-melt class (Class 1, 2, or 3) and the local design snowfall rate and outdoor temperature, not by building-heat rules of thumb?
+- Did I select inhibited HVAC-grade propylene glycol (never automotive ethylene glycol) at a concentration that protects below the site's design low temperature with margin, verified with a refractometer?
+- Is a heat exchanger installed between the building heating water and the snow-melt glycol, with the snow-melt loop having its own circulator, expansion tank, fill/purge station, and pressure gauge — and do the fluids never mix?
+- Are the snow-melt loops of similar length, under the maximum length for the tubing, and laid out at the design spacing for even coverage (tighter at entrances and high-traffic areas for higher classes)?
+- Is the expansion tank, fill/purge station, and glycol reservoir sized for the large total fluid volume of the outdoor loops?
+- Is the system controlled by a snow-and-ice sensor and a slab temperature sensor (not a timer), with the operating strategy (idle vs. full automatic) selected for the application's response-time need?
+- Did I confirm my scope covers this work, and did I escalate the boiler sizing, glycol system, heat exchanger, and controls design to a hydronic specialist?
+- Are the snow-melt class, heat load calculation, glycol concentration, heat-exchanger sizing, loop layout, control strategy, and the annual glycol-concentration test documented for the owner and future service?
