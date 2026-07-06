@@ -1,0 +1,74 @@
+---
+name: enemy-and-encounter-design.md
+description: Use when the agent is designing enemy archetypes, boss fights, combat encounters, enemy AI behaviors, wave compositions, arena layouts, difficulty scaling, telegraph systems, or evaluating whether an encounter teaches, tests, and rewards player skill rather than overwhelming or trivializing it across action, RPG, shooter, and soulslike games.
+---
+
+# Enemy and Encounter Design
+
+An enemy is not a bag of hit points with an attack animation; it is a question posed to the player, and the encounter is the conversation made of many such questions. The judgment problem is that enemies and encounters must do three things simultaneously that pull in different directions: they must teach the player the game's systems, test whether the player has learned them, and provide a satisfying challenge that feels fair. Designers tend to miss this because the surface metrics — does the enemy look threatening, does the fight last the right number of minutes — are easy to tune, while the deeper questions — does this enemy ask a clear question, does the player understand what killed them, does the encounter reward the skills the game has taught — are invisible until playtesting reveals that players are frustrated, confused, or bored. The harm of getting it wrong is the core failure of combat games: players call an enemy "cheap" when it killed them without posing an answerable question, call a fight "a slog" when it tests nothing new but drains resources, and call a game "repetitive" when every encounter asks the same question. This skill covers the design of individual enemies as legible skill-checks and the composition of encounters as paced, escalating curricula that train and challenge the player. The agent has latitude to design creative and thematic enemies, but the obligation is to ensure every enemy telegraphs its question, every encounter has a designed difficulty and learning curve, and no enemy kills the player through information they could not have had.
+
+## Core Rules
+
+### Design Each Enemy Around a Single Core Question
+
+A strong enemy asks one clear question: can you dodge the slow heavy swing, can you interrupt the healer before it casts, can you prioritize the sniper before it chips you down, can you manage your spacing against the rusher. The player's job is to learn the question and find the answer; the enemy's job is to ask it legibly. An enemy that asks multiple unrelated questions at once — a fast attacker that also heals and also summons and also has a one-shot grab — is not harder in an interesting way; it is a pile of demands that the player cannot parse into a strategy. The discipline is to give each enemy one defining behavior and one defining weakness, then let the player discover the matchup. When an enemy needs complexity, layer it through phases or escalation rather than presenting all behaviors simultaneously. The decision criterion: can the player, after one or two deaths, articulate the rule this enemy enforces? If they cannot, the enemy is asking an illegible question and will feel unfair no matter how balanced its numbers are.
+
+### Make Telegraphs Readable, Consistent, and Proportional to the Threat
+
+A telegraph is the contract between the enemy and the player: this animation, this sound, this visual cue means a specific attack is coming, and you have this much time to respond. The contract must be legible (the cue is distinct from other cues), consistent (the same cue always means the same attack), and proportional (a lethal attack has a longer or more dramatic telegraph than a chip-damage attack). The most common failure is the untelegraphed or under-telegraphed one-shot: an attack that kills the player from full health with a cue too subtle or too fast to react to. This is not difficulty; it is a broken contract, and the player experiences it as the game cheating. The discipline is to audit every attack for its telegraph: is there a cue, is it distinguishable, does the windup time match the damage severity, and does the cue travel with the enemy so it is visible from all angles? The decision criterion: when this attack hits the player, can they point to the cue they missed, or was there no cue to miss? If the latter, the attack is unfair regardless of its damage value.
+
+### Compose Encounters as Escalating Curricula, Not Random Piles
+
+An encounter is a lesson, and like any lesson it should introduce, reinforce, and then test. The strong structure is: introduce one enemy type alone so the player learns its question, then combine it with a complementary type that forces the player to prioritize, then add a pressure element (a timer, a hazard, a third enemy) that tests whether the player has internalized the matchup. This is the language of level design as teaching. The failure mode is the encounter that throws every enemy type into an arena at once with no escalation, overwhelming the player with simultaneous questions before they have learned any single answer. The discipline is to map each encounter to a learning objective — what skill or matchup is this encounter testing — and to compose the enemy mix to serve that objective. The decision criterion: if I removed this encounter from the game, what would the player not have learned before the next challenge? If the answer is "nothing," the encounter is filler and is testing nothing.
+
+### Ensure Every Enemy Has a Counter and Every Counter Has an Enemy
+
+Combat stays interesting when the player has a toolkit of answers and the game keeps asking questions that require different answers. If one strategy defeats every enemy — the same combo, the same weapon, the same tactic — then the toolkit is wasted and the game is monotonous. The discipline is to build a matrix: for each enemy, what counters it, and for each counter in the player's kit, which enemies is it strong against. The goal is not that every enemy resists every strategy (that produces frustration) but that different enemies reward different strategies, so the player must read the encounter and choose. When an enemy has no counter, it is a damage sponge that the player grinds through; when a counter has no enemy, it is a dead tool. The decision criterion: across the enemy roster, is there a single dominant strategy that defeats all of them, and if so, have I designed enemies that specifically punish or resist that strategy?
+
+### Scale Difficulty by Decision Density, Not by Hit Points
+
+The easy and wrong way to scale difficulty is to multiply enemy health and damage. This makes fights longer and more punishing but does not make them more interesting — it turns a three-minute fight into a six-minute fight with the same decisions, which is a slog. The right way to scale difficulty is to increase the density and stakes of decisions: enemies attack more frequently, telegraph windows shrink, new behaviors unlock, adds spawn that force re-prioritization, arenas introduce hazards. The player is now making more decisions per minute, and each decision matters more because the punishment for a wrong one is more severe. The discipline is to ask, when increasing difficulty, what new decision am I asking the player to make? If the answer is "none, they just take longer and die faster," the difficulty scaling is lazy and will produce grind rather than engagement. The decision criterion: does the higher difficulty ask the player to play better, or merely to play longer with less margin for error?
+
+### Design Boss Fights as Multi-Phase Skill Exams
+
+A boss is the culmination of a learning arc, and it should test the skills the preceding enemies taught. The strong structure is a multi-phase fight where each phase introduces a new wrinkle — a new attack pattern, a phase transition, an arena change, an add wave — that forces the player to adapt a strategy that was working. This creates the dramatic arc that makes bosses memorable: the player masters phase one, feels competent, then phase two disrupts their solution and demands a new one. The failure modes are the single-phase damage sponge (the boss does the same thing for ten minutes while the player whittles its health) and the unfair phase transition (the boss gains a one-shot attack with no new telegraph). The discipline is to ensure each phase tests a distinct skill, that transitions are telegraphed and fair, and that the fight's total length is bounded so a near-death at phase three does not mean repeating ten minutes of mastered content. The decision criterion: does each phase ask a new question, and is the cost of failure proportionate to the learning the player has already demonstrated?
+
+### Bound Encounter Duration to the Player's Tolerance for Failure Cost
+
+Every death costs the player time, and the length of the encounter they must repeat is the price of failure. An encounter that takes two minutes to reach the point where the player dies is tolerable; an encounter that takes ten minutes is punishing, because the player spends most of their retry time re-executing content they have already mastered to reach the part they are learning. This is the "runback" problem, and it is a design failure even when intentional, because it taxes patience rather than skill. The discipline is to place checkpoints close to the challenge, to bound encounter length so the learning portion is reachable within a minute of retry, and to avoid gating a hard moment behind a long easy approach. The decision criterion: when the player dies to the hard part, how long does it take to get back to the hard part, and is that time teaching them anything or merely taxing their patience?
+
+## Common Traps
+
+### The Damage Sponge That Tests Patience, Not Skill
+
+An enemy is given enormous health and moderate damage so that the fight is "long and epic," but the player's strategy never changes across the fight — they execute the same dodge-attack loop dozens of times. The trap is that length without decision density is not difficulty; it is tedium, and the player's eventual victory feels like relief from a chore rather than accomplishment. The false signal is that the fight "lasts a long time, so it must be a boss." The harm is that players dread the encounter, optimize to skip or cheese it, and remember it as padding rather than a highlight.
+
+### The Untelegraphed One-Shot
+
+An enemy has an attack that kills the player from full health, and the telegraph is too short, too subtle, or visually identical to a non-lethal attack. The trap is that the attack is technically avoidable, so the designer considers it fair, but the window is shorter than the player's reaction time plus input latency under real conditions. The false signal is that "good players dodge it," ignoring that those players memorized the timing rather than reacted to a cue. The harm is that every death to this attack feels stolen rather than earned, eroding the player's trust that the game is fair and driving them to quit.
+
+### Throwing Every Enemy Type Into One Arena
+
+An encounter designer wants a climactic fight and dumps six different enemy types into a room simultaneously, each asking a different question. The trap is that the player cannot parse six simultaneous questions into a strategy, so they flail, take chip damage from all sides, and die to something they never had the attention budget to track. The false signal is that the encounter is "chaotic and intense." The harm is that the fight feels unfair and unmanageable, and the player's only viable strategy is to exploit AI pathing or funnel enemies through a door, which bypasses the intended design entirely.
+
+### The Enemy With No Counter
+
+An enemy is immune to the player's main tools — a shield that blocks all melee, an enemy that dodges all projectiles, a boss phase that is only vulnerable during a tiny window — and the player has no kit answer for it. The trap is that the designer intended the enemy to force a specific approach but did not provide the tool or teach the approach, so the player hits a wall with no path forward. The false signal is that the enemy "has a clear weakness." The harm is a hard stop where the player either looks up the solution (breaking immersion) or quits, and the encounter is remembered as a gate rather than a challenge.
+
+### Scaling Difficulty by Inflating Numbers
+
+The designer increases difficulty by multiplying enemy health and damage without adding new behaviors, telegraphs, or decision points. The trap is that the higher difficulty is the same fight with less margin for error and more time investment, which is harder but not more interesting. The false signal is that players die more often, which reads as "harder." The harm is that the difficulty modes feel like padding, skilled players are bored, and the game's reputation becomes "the hard mode is just a grind," undermining the sense that difficulty reflects skill.
+
+### The Runback That Taxes Patience Instead of Skill
+
+A difficult boss is placed behind a long stretch of minor enemies or a long traversal with no checkpoint, so every attempt begins with several minutes of re-clearing content the player has already mastered. The trap is that this is sometimes defended as "building tension" or "punishing failure," but it actually taxes the player's patience and time rather than their combat skill, and it ensures that the player arrives at the hard fight already frustrated and fatigued. The false signal is that the runback "raises the stakes." The harm is that players quit not because the boss is too hard but because the cost of retrying is too high, and the boss fight is never reached in a fresh, focused state.
+
+## Self-Check
+
+- Can I articulate the single core question each enemy asks the player, and does the enemy present that question legibly after one or two encounters rather than as an opaque pile of behaviors?
+- For every attack, especially lethal ones, is there a readable, consistent, and threat-proportional telegraph that the player could identify in retrospect after being hit?
+- Is each encounter mapped to a learning objective, and does its composition escalate (introduce, reinforce, test) rather than dumping all enemy types simultaneously?
+- Have I built an enemy-counter matrix confirming that no single strategy defeats every enemy, and that every tool in the player's kit has an enemy it is strong against?
+- When scaling difficulty, am I increasing decision density and behavioral complexity, or merely inflating health and damage to produce longer, more punishing fights?
+- Does each boss phase test a distinct skill, are transitions telegraphed and fair, and is the retry cost bounded so the player reaches the learning moment quickly after a death?
+- Is the runback from checkpoint to the hard moment short enough that retry taxes skill rather than patience, and have I verified this by timing it?
