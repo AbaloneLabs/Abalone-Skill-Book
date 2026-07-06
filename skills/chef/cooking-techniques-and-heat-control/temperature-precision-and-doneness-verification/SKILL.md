@@ -1,0 +1,73 @@
+---
+name: temperature-precision-and-doneness-verification.md
+description: Use when the agent is cooking proteins to precise doneness, calibrating and using thermometers, managing carryover cooking and resting, or applying time-temperature combinations for food safety and quality across different proteins and cooking methods.
+---
+
+# Temperature Precision and Doneness Verification
+
+Cooking proteins to the correct doneness is a food safety and a quality decision simultaneously, and the judgment problem is that "done" is judged by appearance, time, or feel — all unreliable — when the actual determinant of both safety and quality is the internal temperature, measured accurately at the correct point, with the carryover and rest accounted for. The recurring failures are thermometers that are out of calibration and read wrong, temperature taken at the wrong point (the surface or a thin edge rather than the thermal center), doneness judged by color or time rather than by temperature, and carryover cooking ignored so that a steak cooked perfectly to the target is overcooked by the time it reaches the customer. The discipline is to treat temperature as the single source of truth for doneness, to calibrate the instrument, to measure at the correct point, and to account for the thermal dynamics that continue after the heat is removed. This skill covers the temperature measurement, calibration, and thermal management that produce accurate, safe, and consistent doneness.
+
+This skill complements the heat-transfer skill. Here the focus is the measurement and verification of doneness and the management of carryover and rest.
+
+## Core Rules
+
+### Use a Calibrated Thermometer and Verify Its Calibration Each Shift
+
+A thermometer that is out of calibration reads wrong by a consistent offset, and cooking to its reading produces systematically overcooked or undercooked food — and, for food safety, a reading that is high by a few degrees can leave poultry below the kill temperature. Calibrate the thermometer each shift, using the ice-point method (32°F / 0°C in a slurry of ice and water) and, for higher-temperature verification, the boiling-point method (adjusting for altitude), and adjust or replace the instrument if it is out of tolerance. Use a thermometer with the right probe for the task: a thin-tipped instant-read probe for thin items and for accuracy, a leave-in probe for roasts and long cooks, and an infrared thermometer only for surface temperature (it cannot read internal temperature). A thermometer that is not calibrated is a guess dressed as a measurement; verify it before relying on it.
+
+### Measure at the Thermal Center, Not the Surface or the Edge
+
+The internal temperature that determines doneness and safety is the temperature at the thermal center — the point that heats slowest, typically the geometric center of the thickest part — because if the center has reached the target, the rest has exceeded it, and if the center has not, the food is undercooked at its core. Measuring at the surface, at a thin edge, or near a bone reads high and gives false assurance of doneness. Insert the probe to the center of the thickest part, away from bone and fat, and allow the reading to stabilize (instant-read probes stabilize in seconds; dial probes may take longer). For uneven items, measure at multiple points and use the lowest reading as the determinant. The point of measurement is as important as the instrument; a calibrated thermometer in the wrong location produces a wrong reading.
+
+### Apply the Correct Time-Temperature Combination for Safety, Not Just a Temperature
+
+Food safety for proteins is governed by time-temperature combinations, not by a single temperature, because pathogen reduction is a function of both. The FDA Food Code specifies temperatures that are instantly safe (165°F for poultry) and lower temperatures that are safe when held for a defined time (155°F for 15 seconds for ground meat, 145°F for 15 seconds for whole-muscle fish, and the pasteurization time-temperature tables that permit lower temperatures held longer, such as sous vide). Cooking to a temperature without the required hold time may not achieve the kill; cooking to a lower temperature with an adequate hold may be equally safe. Know the specific requirement for each protein and method, and verify both the temperature and the time. The single-temperature rule (for example, "poultry to 165°F") is a simplification; the underlying science is the combination, and the combination matters for both safety and quality.
+
+### Account for Carryover Cooking and Pull at the Temperature That Yields the Target
+
+Carryover cooking is the continued rise in internal temperature after the food is removed from the heat, caused by the thermal gradient between the hotter exterior and the cooler interior equilibrating. The rise can be 5-15°F depending on the cooking temperature, the mass, and the density: a high-heat seared steak carries less than a slow-roasted large cut, and a dense roast carries more than a porous one. To serve at the target doneness, pull the food from the heat at a temperature lower than the target by the expected carryover, determined from experience with the specific cut, method, and equipment. Failing to account for carryover overcooks the food: a steak pulled at the target medium-rare temperature arrives medium or more after the rest. Learn the carryover for each preparation, and pull based on the temperature that yields the target after carryover, not the target itself.
+
+### Rest the Protein to Allow Temperature Equilibration and Juice Redistribution
+
+Resting the protein after cooking serves two purposes: it allows the carryover cooking to complete and the temperature to equilibrate, and it allows the juices, which are driven to the center by the cooking heat, to redistribute through the muscle, so that slicing does not release them onto the board. The rest time depends on the size: a steak may rest 5 minutes, a roast 15-30 minutes, a large brisket longer. Rest at a temperature that does not continue cooking aggressively (room temperature or a warm holding oven, not a hot one), and tent loosely if at all (tight tenting steams the crust). Skipping the rest produces a product that is both less evenly cooked and less juicy, and the carryover that would have completed during the rest is still occurring when the food is served, so the doneness is inconsistent. Build the rest into the timing of every protein.
+
+### Match the Doneness Target to the Protein and the Customer's Request
+
+Different proteins have different optimal doneness ranges for quality, and different safety floors. Beef and lamb are commonly served medium-rare to medium for quality and are safe at lower temperatures (whole-muscle, with the surface pasteurized); pork is safe at 145°F (with a rest) and is quality-optimal medium; poultry must reach 165°F for safety and is not served rare; fish varies by species and preparation. Match the target to the protein's safety floor and quality range, and honor the customer's specific doneness request within the safety constraint. A customer who orders a burger medium-rare is requesting a preparation (ground beef) that the FDA recommends to 155°F; in jurisdictions that permit undercooked ground beef on request, the request is honored with disclosure, but the staff must understand the safety implication. Know the safety floor for each protein and do not serve below it without the customer's informed request where legally permitted.
+
+## Common Traps
+
+### Judging Doneness by Color, Time, or Feel Instead of Temperature
+
+A cook judges doneness by the color of the meat or juices, by the time on the clock, or by the feel of the prod, and serves food that is overcooked or undercooked relative to the target, because color, time, and feel are unreliable proxies for internal temperature. The mechanism is that these methods are fast and traditional, and they correlate roughly with doneness, so they are trusted, but the correlation is weak and affected by factors the cook does not account for (the meat's pH affects color, the starting temperature affects time-to-doneness, the feel depends on the hand and the cut). The false signal is the familiar method, which reads as experienced judgment. The harm is inconsistent doneness, food that is below the safety temperature, and quality that varies with every cook and every piece of meat. The defense is to use a calibrated thermometer at the thermal center as the determinant of doneness, to treat color and feel as supplementary cues only, and to verify the temperature on every protein.
+
+### Using an Uncalibrated Thermometer
+
+A thermometer is used shift after shift without calibration, drifts out of tolerance, and reads several degrees high or low, so the cook pulls the food at the wrong point and the doneness is systematically off — and for poultry, a thermometer reading high can leave the meat below the safety temperature. The mechanism is that calibration is a separate step that is easy to skip, and the thermometer appears to work, so the drift is not detected, and the error accumulates silently. The false signal is the thermometer reading, which reads as a measurement. The harm is food that is consistently overcooked (thermometer reads low) or, more dangerously, undercooked relative to the safety floor (thermometer reads high), and the cook trusts the wrong number. The defense is to calibrate every thermometer each shift with the ice-point method, to verify and adjust or replace out-of-tolerance instruments, and to treat an uncalibrated thermometer as untrustworthy.
+
+### Measuring at the Surface or Edge Instead of the Thermal Center
+
+The probe is inserted shallowly or into a thin edge, reads the higher temperature of the surface or the edge, and the cook concludes the food is done when the center is still undercooked. The mechanism is that the surface and edges heat faster and read higher, and shallow insertion is easier than finding the true center, so the measurement reflects the hot zone rather than the cold zone that determines doneness. The false signal is the temperature reading on the display, which reads as a valid measurement. The harm is food served undercooked at the center, which for poultry or ground meat means a food safety failure, and for any protein means inconsistent doneness. The defense is to insert the probe to the thermal center of the thickest part, away from bone and fat, to allow the reading to stabilize, and to measure at multiple points for uneven items.
+
+### Ignoring Carryover Cooking and Overcooking After the Pull
+
+The cook pulls the food at the target temperature, the carryover raises the internal temperature well past the target during the rest, and the food is overcooked when served. The mechanism is that the target temperature is treated as the pull temperature, and the carryover — which is real and significant for many preparations — is not accounted for, so the food that was at the target when pulled is past it by the time it reaches the customer. The false signal is the correct temperature at the pull, which reads as spot-on. The harm is overcooked food that is dry and tough, inconsistent with the requested doneness, and the cause is invisible because the overcooking occurs after the measurement. The defense is to learn the carryover for each preparation and to pull at a temperature lower than the target by the expected carryover, so the food reaches the target during the rest rather than exceeding it.
+
+### Skipping the Rest and Serving Before Equilibration
+
+The food is sliced and served immediately after cooking, the juices run onto the board because they have not redistributed, and the internal temperature is uneven because the carryover has not equilibrated. The mechanism is that the rest is seen as delay, so it is skipped to expedite service, and the benefits (juice redistribution, temperature equilibration) are sacrificed for speed. The false signal is the fast service, which reads as efficient. The harm is food that is drier (the juices lost to the board), less evenly cooked (the temperature gradient not equilibrated), and less consistent with the target doneness (the carryover still in progress). The defense is to build the rest into the timing of every protein, to rest at a temperature that does not continue cooking, and to treat the rest as an integral step, not an optional delay.
+
+### Applying a Single-Temperature Rule Without the Required Hold Time
+
+The cook brings poultry to 165°F and serves it, which is instantly safe, but for a preparation that uses a lower temperature with a hold (a sous vide chicken at 150°F held for a defined time), the cook reaches 150°F and serves immediately, without the hold, and the kill is not achieved. The mechanism is that the temperature is treated as the sole criterion, and the time component of the time-temperature combination is overlooked, so the lower-temperature preparation that is safe only with the hold is served without it. The false signal is the target temperature reached, which reads as safe. The harm is food that meets the temperature but not the time, the pathogens survive, and the food is unsafe despite the temperature reading. The defense is to know the time-temperature combinations for each protein and method, to verify both the temperature and the hold time, and to treat a temperature without its required hold as non-compliant.
+
+## Self-Check
+
+- Did I use a calibrated thermometer, verified each shift by the ice-point method, with the appropriate probe type for the task?
+- Did I measure at the thermal center of the thickest part, away from bone and fat, and allow the reading to stabilize?
+- Did I apply the correct time-temperature combination for the protein and method, verifying both the temperature and any required hold time, rather than relying on a single temperature?
+- Did I account for carryover cooking and pull at a temperature lower than the target by the expected carryover for the specific preparation?
+- Did I rest the protein for the appropriate time to allow temperature equilibration and juice redistribution, at a temperature that does not continue cooking?
+- Did I match the doneness target to the protein's safety floor and quality range, and honor the customer's request within the safety constraint?
+- Did I use temperature as the determinant of doneness, treating color, time, and feel as supplementary cues only?
+- Does the output stay within the agent's scope, deferring final food safety determinations to the certified food safety professional and health authority where the question exceeds the agent's competence?
