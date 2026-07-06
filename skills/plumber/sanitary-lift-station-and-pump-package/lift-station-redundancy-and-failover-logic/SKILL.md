@@ -1,0 +1,64 @@
+---
+name: lift-station-redundancy-and-failover-logic.md
+description: Use when the agent is designing sanitary lift station redundancy and failover, applying N+1 or 2N pump redundancy, configuring alternating lead to equalize wear, setting failover on lead failure (timer or current sensor), choosing common versus independent discharge, providing check-valve redundancy, or testing failover to prevent total station failure and sewage backup into occupied space.
+---
+
+# Lift Station Redundancy and Failover Logic
+
+A single pump in a sanitary lift station is a guarantee of a sewage backup, because every pump eventually fails — the question is whether the station's redundancy and failover logic catch the failure before the basin overflows into the occupied space. The judgment problem is that redundancy is more than installing two pumps: the lead must alternate to equalize wear, the lag must start when the lead cannot keep up or has failed, the failover must be triggered by a reliable signal (level, timer, or motor current), the discharge must be arranged so a failed pump does not block the healthy one, and the check valves must prevent backflow that could defeat the whole station. An agent who installs two pumps on a common discharge with one check valve, who fails to test the failover, or who lets one pump sit idle until it seizes will discover, at the worst moment, that the "redundant" station is not redundant at all. This skill covers the redundancy and failover decisions that determine whether a lift station survives a pump failure — and the role limits that place large-station design with a licensed engineer.
+
+## Core Rules
+
+### Apply N+1 or 2N Redundancy Matched to the Station's Criticality
+
+Redundancy is sized by the station's criticality and the cost of a failure. N+1 redundancy (one more pump than the number needed to meet peak flow) is the baseline for most stations: if one pump can meet peak flow, install two; if two are needed, install three. The extra pump covers a failure during peak flow. 2N redundancy (twice the needed capacity) is reserved for stations whose failure is unacceptable (a hospital, a critical facility, a station whose overflow enters occupied space), because it covers a failure during peak flow with a full backup set, not just one extra pump. The redundancy must be matched to the actual peak inflow, not to a guessed average — a station sized to average flow overflows at the first peak, redundancy or not. The trap is installing a simplex pump (no redundancy) in a critical application, or N+1 in a station whose failure is truly unacceptable; the harm is a total station failure and a sewage backup. Size the redundancy to the peak inflow and the criticality, defaulting to N+1 and using 2N for unacceptable-failure stations.
+
+### Alternate the Lead Pump to Equalize Wear and Prevent the Idle Pump From Seizing
+
+In a redundant station, the lead pump must alternate each cycle so that all pumps share the run time and wear equally. This serves two purposes: it equalizes wear (so both pumps reach end-of-life together rather than one failing early while the other is unused), and it prevents the idle pump from seizing (a pump that sits for months has its bearings freeze, its impeller corrode in place, and its seal dry out — and it will not start when called upon). The alternation is handled by the control panel (an alternating relay or a PLC), rotating the lead assignment each cycle or on a time basis. The trap is hard-wiring one pump as permanent lead; the harm is a lead that wears out and a lag that has seized, so the "redundancy" is an illusion — when the lead fails, the lag does not start. Configure alternation, verify each pump rotates into the lead, and run the idle pump periodically (the alternation does this automatically if configured correctly).
+
+### Trigger Failover on a Reliable Signal: Level, Timer, or Motor Current
+
+Failover — starting the lag pump when the lead has failed or cannot keep up — must be triggered by a signal that reliably detects the failure, and the reliable signals are level, timer, and motor current. Level-based failover (the most common) starts the lag pump when the level continues to rise after the lead has started, indicating the lead cannot keep up or has failed to start. Timer-based failover starts the lag if the lead has run for a defined time without lowering the level (a proxy for "the lead is not moving water"). Motor-current-based failover uses a current sensor to detect that the lead is running dry (low current), is jammed (high current), or is not running at all (no current), and starts the lag. The trap is relying on a single, failure-prone signal (one float) for failover, so that the same failure that disables the lead also disables the failover detection; the harm is an undetected lead failure that overflows the basin. Use a reliable failover signal (level rise, timer, or current), backed up by the independent high-water alarm, and test the failover.
+
+### Choose Common or Independent Discharge So a Failed Pump Does Not Block the Healthy One
+
+The discharge piping arrangement determines whether a failed pump can block the healthy pump's flow. A common discharge (both pumps tee into one discharge line) is simpler and cheaper but requires a check valve on each pump's branch so that the healthy pump's output does not simply circulate back through the failed pump's open path — and a failed check valve on the idle pump's branch lets the healthy pump's flow back into the basin through the idle pump, defeating the station. Independent discharge (each pump has its own discharge to the gravity sewer) eliminates this failure mode but costs more and requires two wall penetrations. For most stations, a common discharge with a check valve on each pump branch is acceptable, provided the check valves are reliable and maintained; for critical stations, independent discharge removes the common-mode failure. The trap is a common discharge with a single shared check valve, or unmaintained check valves that fail open; the harm is a station whose healthy pump recirculates through the failed pump and never lifts the sewage. Provide a check valve on each pump branch, maintain them, and consider independent discharge for critical stations.
+
+### Provide Check-Valve Redundancy and Test the Failover on Schedule
+
+Check valves are the components that keep the discharge flowing the right way, and their failure is a common cause of station malfunction — a check valve stuck open lets the discharged sewage flow back into the basin when the pump stops (re-filling the basin and short-cycling the pump), and a check valve stuck closed prevents the pump from discharging (the pump runs deadheaded and burns out). For critical stations, check-valve redundancy (two check valves in series on each branch) protects against a single stuck-open valve recirculating flow. The failover logic itself must be tested on schedule: simulate a lead-pump failure (disconnect the lead, or simulate a high level) and confirm the lag starts and clears the basin. The trap is never testing the failover, so the station's redundancy is unverified and fails silently when needed; the harm is a station that was believed redundant but is not. Provide check valves on each branch (redundant for critical stations), maintain them, and test the failover on schedule.
+
+## Common Traps
+
+### Installing a Simplex Pump With No Redundancy in a Critical Application
+
+The agent installs a single pump in a station serving a finished basement or a critical facility, reasoning that "one pump is enough for the load." The trap mechanism is that every pump eventually fails (motor burnout, float failure, clogged impeller, power outage), and a simplex pump has no backup and no warning until the basin overflows into the occupied space. The false signal is that "the pump has been running fine." The harm is a sewage flood in a finished or critical space. The defense is to apply N+1 redundancy (at least two pumps) for any station whose failure is unacceptable, and 2N for truly critical stations.
+
+### Hard-Wiring One Pump as Permanent Lead Until It Fails and the Seized Lag Does Not Start
+
+The agent wires one pump as permanent lead and the second as permanent lag, with no alternation. The trap mechanism is that the lead wears out from continuous duty while the lag sits idle and seizes (bearings freeze, impeller corrodes), so that when the lead finally fails, the lag — called up for the first time in years — does not start, and the station overflows despite having a second pump. The false signal is that "the station has two pumps." The harm is a total station failure when the lead dies. The defense is to configure alternation so each pump rotates into the lead, equalizing wear and keeping both pumps exercised.
+
+### Relying on a Single Float for Failover, So the Same Failure Disables Lead and Detection
+
+The agent uses a single float chain for pump-on, pump-off, lag-start, and high-water alarm, all on one circuit. The trap mechanism is that the same float failure (a tangled cable, a worn contact) that prevents the lead from starting also prevents the lag-start and the alarm, so the overflow is both caused and concealed by the single failure. The false signal is that "the floats control the station." The harm is an undetected overflow from a single point of failure. The defense is to use a reliable failover signal (level rise, timer, or motor current) backed up by an independent high-water alarm float on a separate circuit.
+
+### Common Discharge With a Failed Check Valve Letting the Healthy Pump Recirculate
+
+The agent pipes both pumps to a common discharge with a check valve on each branch, but never maintains the check valves. The trap mechanism is that a check valve on the idle pump's branch that fails open lets the healthy pump's discharge flow back through the idle pump into the basin, so the healthy pump runs continuously but never lowers the level, and the basin overflows despite a working pump. The false signal is that "the pump is running." The harm is an overflow from recirculation through a failed check valve. The defense is to maintain the check valves on each branch, provide redundant check valves for critical stations, and consider independent discharge for critical stations.
+
+### Never Testing the Failover, Leaving Redundancy Unverified
+
+The agent installs a redundant station and never tests the failover, assuming the logic works. The trap mechanism is that failover logic, alternation relays, lag-start circuits, and high-water alarms all degrade or were never commissioned correctly, and an untested failover is an article of faith that fails silently when a pump actually fails — the redundancy that was believed to exist does not. The false signal is that "the station has two pumps." The harm is a station that overflows because the untested failover did not engage. The defense is to test the failover on schedule: simulate a lead failure and confirm the lag starts and clears the basin, and test the high-water alarm and its notification path.
+
+## Self-Check
+
+- Did I size the redundancy to the peak inflow and the station's criticality — N+1 as the baseline (one more pump than needed for peak flow) and 2N for stations whose failure is unacceptable?
+- Is the lead pump configured to alternate each cycle so all pumps share run time and wear equally, and did I verify each pump rotates into the lead role?
+- Is failover triggered by a reliable signal (level rise after lead start, timer, or motor-current sensor), backed up by an independent high-water alarm float on a separate circuit?
+- Did I choose common or independent discharge based on the criticality — common discharge with a check valve on each branch for most stations, independent discharge for critical stations?
+- Is there a check valve on each pump branch (redundant check valves for critical stations), are they maintained, and did I confirm a failed check valve cannot let the healthy pump recirculate into the basin?
+- Did I test the failover by simulating a lead-pump failure and confirming the lag starts and clears the basin, and is this test on the maintenance schedule?
+- Is the high-water alarm on an independent float and circuit, does it trigger above the lag-start level but below the invert, and does it notify remotely for unattended or critical stations?
+- Did I confirm my licensing scope covers the station size and redundancy design (plumber for small stations, licensed engineer for large or engineered stations), and did I escalate engineered-station design?
+- Are the redundancy basis (peak inflow and criticality), alternation logic, failover signal, discharge arrangement, check-valve maintenance, and failover test results documented for inspection and maintenance?

@@ -1,0 +1,64 @@
+---
+name: deluge-valve-setup-and-trim-piping-decisions.md
+description: Use when the agent is setting up or servicing a deluge valve and its trim piping for a high-hazard open-sprinkler system, configuring detection release (electric, pneumatic, or hydraulic), routing priming drain test and alarm trim, providing a manual emergency release, or performing the set and reset procedure under NFPA 13 and NFPA 25.
+---
+
+# Deluge Valve Setup and Trim Piping Decisions
+
+A deluge system floods an entire high-hazard area from open sprinklers or nozzles the moment a fire is detected, and the deluge valve is the single component that holds the water back until the release system commands it to open. The judgment problem is that the deluge valve's reliability depends entirely on its trim piping — the small-bore priming, drain, test, and alarm lines that prime the valve, release it, test it, and signal it — and on a detection release system that must trip the valve in a real fire while ignoring everything else. An agent who misroutes the trim, who mismatches the detection release type, or who cannot correctly set and reset the valve will create a system that either false-trips and floods a facility (costly water damage, business interruption) or fails to trip in a fire (catastrophic loss). This skill covers the deluge valve, trim, release, and reset decisions that determine whether the system works — and the role limits that place this work with licensed fire protection contractors.
+
+## Core Rules
+
+### Match the Deluge Valve to the Open-Sprinkler High-Hazard Application
+
+A deluge valve serves systems with open sprinklers or nozzles (no heat-sensitive glass bulb): when the valve opens, water floods every outlet simultaneously, which is the desired behavior for high-challenge hazards such as flammable-liquid processing, transformer vaults, aircraft hangars, and high-pile storage where rapid flame spread must be overwhelmed. The valve itself is a differential valve held closed by priming pressure on a larger diaphragm or chamber; when the release system vents the priming pressure, the supply pressure lifts the valve and water floods the system. The valve must be listed for deluge service, sized to the system's flow and pressure demand, and piped with its manufacturer-specified trim — the trim is not generic, and substituting parts or routing defeats the differential logic. The trap is treating the deluge valve like a standard wet-pipe riser valve; the harm is a valve that cannot be primed, released, or reset correctly. Always use the manufacturer's listed trim kit and drawings for the specific valve model.
+
+### Route Trim Piping Exactly to the Manufacturer's Listed Configuration
+
+Trim piping is the small-bore piping that connects the deluge valve to its priming line, drain, test connection, alarm device (water motor gong or pressure switch), and release system. Each manufacturer publishes a listed trim diagram for each valve model, and the pipe sizes, lengths, fitting arrangement, valve types, and drain routing must match that diagram — the differential logic depends on specific priming volumes, vent paths, and drain rates. The priming line keeps the chamber pressurized (commonly from the supply through a restricted priming line with a check valve), the drain line empties the system for reset, the test connection verifies alarm and release operation without flooding the system, and the alarm line signals water flow. The trap is improvising trim with on-hand fittings, adding an extra elbow, or upsizing a line "for flow"; the harm is a valve that false-trips (priming too slow to recover), fails to trip (vent path restricted), or cannot be reset (drain too small). Always install the listed trim kit per the manufacturer's diagram, with no substitutions.
+
+### Configure the Detection Release System for the Hazard and the Reliability Required
+
+The release system is what vents the priming pressure and trips the deluge valve, and NFPA 13 recognizes three types. Electric release uses heat or flame detectors wired to a releasing panel that energizes a solenoid to vent the priming line; it is fast, flexible, and easily integrated with alarm and shutdown logic, but it depends on power and electronics. Pneumatic release uses a pilot line of heat-activated pneumatic detectors (or closed sprinkler heads) on pressurized tubing; a detector opens, vents the tubing, and a pneumatic actuator trips the deluge valve; it needs no power but is vulnerable to tubing damage and slow leaks. Hydraulic release uses a wet pilot line of closed sprinkler heads; a head fuses, the pressure drops, and the valve trips. The choice depends on the hazard, the environment, the required speed, and the acceptable false-trip risk. The trap is mismatching the release type (electric release in a facility that loses power, pneumatic release where tubing will be damaged); the harm is either a failure to trip in a fire or chronic false trips. Match the release to the hazard and the site conditions, and coordinate the release with the fire alarm and suppression interlocks.
+
+### Provide a Manual Emergency Release and Train on Its Use
+
+Every deluge valve must have a manual emergency release — a pull, lever, or valve that vents the priming pressure and trips the valve by hand, independent of the detection system — so that personnel can flood the area if they see a fire before detection acts, or if the detection fails. The manual release must be located at a safe, accessible, and signed location (commonly at the valve or at a remote pull station), and its operation must be obvious and quick. The trap is burying the manual release behind the valve, failing to sign it, or never training facility staff on its use; the harm is a release that exists but cannot be operated in an emergency. Install the manual release per the manufacturer's design, sign it clearly, document its location in the emergency plan, and train staff on its operation and on the consequences of a deliberate trip (the area will flood).
+
+### Follow the Manufacturer's Set and Reset Procedure Without Shortcut
+
+Setting and resetting a deluge valve is a precise sequence: set (prime the chamber to hold the valve closed, restore the release system, open the supply slowly to avoid a pressure spike), and reset (close the supply, drain the system through the drain trim, vent the priming chamber, restore the release line pressure or reconnect the detection, re-prime, and slowly reopen the supply). Each manufacturer publishes the exact sequence for its valve, and skipping a step or reversing the order causes either a false trip (priming before the release is restored), a failure to reset (air trapped in the chamber), or a pressure spike that damages the valve. The trap is resetting by feel or from memory of a different valve model; the harm is a valve left in an unknown state that may trip unexpectedly or fail to trip. Always follow the manufacturer's published set/reset procedure for the specific model, verify the priming pressure and the release status, and document the reset.
+
+## Common Traps
+
+### Substituting Trim Fittings or Routing Against the Manufacturer's Diagram
+
+The installer builds the deluge valve trim from on-hand fittings, adds an elbow to clear an obstruction, or changes a line size, reasoning that "trim is just small pipe." The trap mechanism is that the deluge valve's differential logic depends on specific priming volumes, vent paths, and drain rates defined by the listed trim, and any substitution changes the timing and can cause false trips, failure to trip, or inability to reset. The false signal is that "the trim is piped up." The harm is an unreliable valve that floods the facility or fails in a fire. The defense is to install only the manufacturer's listed trim kit per the published diagram, with no substitutions, and to verify the trim matches the model.
+
+### Mismatching the Detection Release Type to the Hazard or Environment
+
+The designer specifies an electric release for a facility with unreliable power, or a pneumatic release for an area where the tubing will be damaged by traffic or maintenance. The trap mechanism is that each release type has vulnerabilities (power dependence, tubing damage, slow leaks), and a mismatch makes the system either fail to trip in a fire or false-trip repeatedly, and repeated false trips often lead owners to disable the system. The false signal is that "the release is installed and tested." The harm is a system that is unreliable in the real environment. The defense is to match the release type to the hazard and the site conditions, considering power reliability, mechanical damage risk, required speed, and integration needs.
+
+### Burying or Failing to Sign the Manual Emergency Release
+
+The installer mounts the manual emergency release behind the deluge valve, omits signage, and never briefs facility staff. The trap mechanism is that a manual release that cannot be found or operated in an emergency is functionally absent, and personnel who do not know it exists cannot use it. The false signal is that "the manual release is installed." The harm is a fire where the system could have been tripped manually but was not, because no one could find or operate the release. The defense is to locate the manual release per the manufacturer's design at an accessible, signed position, document it in the emergency plan, and train staff.
+
+### Resetting the Valve by Feel Instead of the Manufacturer's Procedure
+
+The technician resets the deluge valve from memory of a different model, opening the supply before the priming chamber is restored or before the release system is re-pressurized. The trap mechanism is that the set/reset sequence is model-specific, and a wrong order causes a false trip (the valve opens as the supply rises because the chamber is not holding), trapped air (the valve will not reset), or a pressure spike that damages the diaphragm. The false signal is that "the valve is back in service." The harm is a valve in an unknown state that trips unexpectedly or fails to trip. The defense is to follow the manufacturer's published procedure for the specific model, verify priming and release status, and document the reset.
+
+### False-Trip Flooding From a Leaky Priming Line or Slow Release Leak
+
+The system repeatedly false-trips, flooding the protected area, because the priming line weeps, the release tubing has a slow leak, or the pneumatic pilot pressure bleeds down over days. The trap mechanism is that the deluge valve depends on sustained priming pressure to stay closed, and any slow loss of priming or release pressure eventually vents the chamber and opens the valve without a fire, causing costly water damage and business interruption — and often prompting the owner to disable the system. The false signal is that "the system is sensitive." The harm is repeated floods and a disabled system. The defense is to verify priming line and release integrity on every inspection, repair leaks promptly, and confirm the priming pressure holds over the full interval between inspections.
+
+## Self-Check
+
+- Did I select a deluge valve listed for deluge service and sized to the system's flow and pressure demand, for an open-sprinkler high-hazard application?
+- Did I install the trim piping exactly to the manufacturer's listed diagram for the specific valve model, using the listed trim kit with no substitutions in fittings, sizes, or routing?
+- Did I configure the detection release (electric, pneumatic, or hydraulic) to match the hazard, the environment, the required speed, and the acceptable false-trip risk, and coordinate it with fire alarm and suppression interlocks?
+- Is the priming line, drain, test connection, and alarm line all routed per the manufacturer's trim diagram, with the alarm device (water motor gong or pressure switch) verified to signal on water flow?
+- Is a manual emergency release installed per the manufacturer's design at an accessible, signed location, documented in the emergency plan, and are facility staff trained on its operation and consequences?
+- Did I follow the manufacturer's published set and reset procedure for the specific valve model, verifying priming pressure and release status, and document the reset?
+- Did I verify that the priming line and release system hold pressure over time (no slow leaks that would cause a false trip), and are these checked on every NFPA 25 inspection?
+- Did I confirm my licensing scope covers deluge valve work, and did I escalate design and acceptance testing to a NICET-certified designer and licensed fire protection contractors?
+- Is the valve model, trim diagram reference, release type, manual release location, set/reset records, and inspection results documented for AHJ review and the NFPA 25 record?
