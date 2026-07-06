@@ -1,0 +1,73 @@
+---
+name: continuous-vs-noncontinuous-load-and-circuit-sizing.md
+description: Use when the agent is distinguishing continuous from noncontinuous loads, applying the 125% sizing rule to continuous loads, sizing overcurrent protection and conductors for continuous and mixed-load circuits, or determining whether a specific load qualifies as continuous under NEC Article 100 and 210.
+---
+
+# Continuous vs Noncontinuous Load and Circuit Sizing
+
+The distinction between continuous and noncontinuous loads is one of the most consequential in the NEC, because it changes how conductors and overcurrent devices are sized, and it is one of the most frequently misapplied. A continuous load is defined as a maximum current expected to continue for three hours or more, and the NEC requires that branch circuits, feeders, and overcurrent protection for continuous loads be sized at 125% of the load. The judgment problem is that the three-hour threshold is a definition, not a guarantee about how a load will be used, and electricians routinely misclassify loads based on their typical use rather than on the code's definition, or they apply the 125% rule inconsistently across conductors, overcurrent devices, and equipment ratings. The result is a circuit that either fails under sustained load — overheating conductors, nuisance tripping breakers — or is over-built at unnecessary cost. This skill covers how to classify loads correctly, how to apply the 125% rule consistently, and how to handle circuits that mix continuous and noncontinuous loads.
+
+This skill complements the demand-factor skill, which addresses diversity. Here the focus is the continuous-load definition and its sizing consequences.
+
+## Core Rules
+
+### Classify the Load by the Code Definition, Not by Typical Use
+
+Article 100 defines a continuous load as one where the maximum current is expected to continue for three hours or more. The classification turns on what the load is expected to do, which depends on the application, not merely on the equipment type. Commercial lighting in an office or retail space is generally continuous because it runs for the full business day; residential lighting generally is not. Electric heating, data center loads, process loads, and refrigeration are often continuous. Receptacles are generally noncontinuous unless a specific receptacle serves a known continuous load. The discipline is to evaluate each load against the three-hour expectation based on the application, to document the basis for the classification, and to default to continuous when the use pattern is uncertain or could become continuous. The error of classifying a continuous load as noncontinuous under-sizes the circuit; the error of classifying everything as continuous over-builds and increases cost. Make the classification deliberately, per load.
+
+### Apply the 125% Rule Consistently to Conductors and Overcurrent Devices
+
+NEC 210.19(A)(1) requires branch-circuit conductors for continuous loads to have an ampacity not less than 125% of the load, and 210.20(A) requires the overcurrent device to be rated not less than 125% of the continuous load. These two requirements must be applied together and consistently: a conductor sized to 125% with an overcurrent device sized to 100% (or vice versa) is non-compliant and unsafe. The overcurrent device protects the conductor, and if either is sized for 100% of a continuous load, sustained current at the load rating will eventually trip the device or heat the conductor beyond its design. Apply 125% to both, confirm the conductor ampacity equals or exceeds 125% of the load after all derating, and confirm the overcurrent device rating is at least 125%. The exception is equipment rated for 100% continuous duty (marked as such), which permits sizing at 100%; this is uncommon and must be verified on the equipment listing, not assumed.
+
+### Size Mixed-Load Circuits by Adding the Continuous Portion at 125% and the Noncontinuous at 100%
+
+A branch circuit serving both continuous and noncontinuous loads is sized to the sum of the noncontinuous loads plus 125% of the continuous loads (210.19(A)(1) Exception, and 210.20(A)). This is the rule for most real circuits, which often mix lighting (continuous) with receptacles (noncontinuous). Compute the continuous portion, apply 125%, compute the noncontinuous portion at 100%, and sum them for the circuit sizing basis. Do not apply 125% to the entire circuit if part is noncontinuous, and do not apply 100% to the entire circuit if part is continuous. Identify each load's classification, apply the factor to each portion, and document the breakdown so the calculation is transparent and reviewable.
+
+### Account for Continuous Load Status When Applying Derating and Correction
+
+Conductor ampacity is affected by temperature correction and by the number of current-carrying conductors in a raceway or cable (310.15). When a continuous load requires 125% sizing, the 125% value must still satisfy the derated ampacity, not the uncorrected ampacity. The sequence is: determine the continuous load, apply 125%, then verify that the conductor's ampacity after temperature correction and bundling derating equals or exceeds that value. An electrician who selects a conductor based on the 125% load against the uncorrected ampacity, then derates, may end up with an effective ampacity below the continuous-load requirement. Perform the derating on the ampacity first or check the 125% load against the derated ampacity; either way, the final installed conductor must carry 125% of the continuous load under the actual installation conditions.
+
+### Verify Equipment Ratings for Continuous Duty, Do Not Assume
+
+Some overcurrent devices and equipment are listed for 100% continuous duty, meaning they can carry their rated current continuously without exceeding their temperature limits, and when so listed they permit sizing at 100% rather than 125%. This listing is marked on the equipment and is uncommon; most standard breakers and panels are rated for 80% continuous duty (i.e., require the 125% sizing). Do not assume a device is 100% rated because it is heavy-duty or because the installation "feels" robust; verify the marking. Applying 100% sizing to equipment that is not 100%-rated overloads the device under continuous current, causing thermal tripping or damage. Conversely, insisting on 125% for genuinely 100%-rated equipment is not unsafe but is wasteful. Read the listing and size accordingly.
+
+### Recognize That the Continuous-Load Rule Applies to Feeders and Services, Not Only Branch Circuits
+
+The 125% rule is most commonly discussed for branch circuits, but it applies equally to feeders and services serving continuous loads (215.2(A)(1) for feeders, and the service calculation must account for continuous loads). A feeder serving continuous lighting or process loads must have conductors and overcurrent protection sized to 125% of the continuous portion, and the service must be calculated with the continuous loads appropriately factored. The same classification logic and the same mixed-load addition apply at every level. An electrician who sizes branch circuits correctly but ignores the continuous status at the feeder under-sizes the feeder, which then carries sustained current above its effective rating. Apply the rule consistently from the branch circuit through the feeder to the service.
+
+## Common Traps
+
+### Classifying by Equipment Type Instead of by Application
+
+An electrician classifies all lighting as noncontinuous because "lights cycle on and off," or classifies all receptacles as noncontinuous regardless of what they serve, and a continuous load is sized at 100%, overloading the circuit under sustained use. The mechanism is that the classification is made by pattern-matching the equipment type rather than by evaluating the expected duration in the specific application, so the three-hour definition is never actually applied. The false signal is the familiar equipment category, which reads as sufficient for classification. The harm is that the circuit operates above its rating for hours, the conductor heats, the breaker may nuisance-trip or, worse, fails to trip because the overload is modest but sustained, and the insulation degrades over time toward failure. The defense is to evaluate each load against the three-hour definition based on its actual use, to document the basis, and to default to continuous when the use is uncertain.
+
+### Applying 125% to the Conductor but Not the Overcurrent Device
+
+An electrician sizes the conductor to 125% of a continuous load but selects the breaker at 100% of the load (or the next standard size up from 100%), reasoning that the conductor is protected, and the mismatch goes unnoticed because the breaker "fits." The mechanism is that the two requirements (210.19 and 210.20) are applied separately and one is overlooked, so the overcurrent device is undersized for continuous duty relative to the load. The false signal is the installed circuit that has both a conductor and a breaker, which reads as complete. The harm is that the breaker carries sustained current at or near its rating, heats beyond its design, and trips thermally under load that should be sustainable, or its calibration drifts from repeated thermal stress. The defense is to apply 125% to both conductor and overcurrent device as a paired step, to verify both against the continuous load, and to treat a circuit with mismatched sizing as non-compliant.
+
+### Applying 125% to an Entire Mixed Circuit
+
+A circuit serves continuous lighting and noncontinuous receptacles, and the electrician applies 125% to the entire connected load rather than to the continuous portion only, over-sizing the circuit and increasing cost. The mechanism is that the mixed-load rule (sum of noncontinuous at 100% plus continuous at 125%) is more complex than a blanket factor, so the simpler approach is taken, and the over-sizing feels conservative and safe. The false signal is the larger-than-necessary circuit, which reads as robust design. The harm is primarily economic — larger conductors, larger raceway, larger breaker, higher cost — but it can also cause coordination problems if the over-sized breaker no longer protects downstream branch circuits correctly. The defense is to separate the continuous and noncontinuous portions, apply the factor to each correctly, and document the breakdown.
+
+### Ignoring Continuous Status at the Feeder and Service Level
+
+Branch circuits are sized correctly for continuous loads, but the feeder and service calculations treat the loads at 100%, so the feeder is sized to the sum of the branch-circuit loads without the 125% factor on the continuous portion. The mechanism is that the continuous-load rule is associated with branch circuits in the electrician's mind, so it is not carried up to the feeder and service, and the higher-level sizing uses the un-factored sum. The false signal is the feeder sized to the connected branch loads, which reads as accounting for everything. The harm is that the feeder carries the sustained continuous current from all the branch circuits and is itself under-sized, overheating under the aggregate continuous load. The defense is to apply the continuous-load rule at every level — branch, feeder, service — and to carry the 125% factor on continuous portions through the entire calculation.
+
+### Assuming Equipment Is 100% Continuous-Duty Rated Without Verifying
+
+An electrician sizes a circuit at 100% of a continuous load because the breaker is a heavy-duty molded-case device and "should handle it," without confirming the 100% continuous-duty listing, which most standard breakers do not have. The mechanism is that the 100% rating is a specific listing that is uncommon, but the electrician generalizes from the device's rugged appearance to an assumption of continuous-duty capability, and the listing is not checked. The false signal is the industrial-grade device, which reads as capable. The harm is that the device carries sustained current above its actual continuous rating, its internal temperature rises beyond design, and it trips or degrades. The defense is to verify the 100% continuous-duty marking on the equipment before sizing at 100%, to default to 125% sizing when the marking is absent, and to treat appearance and brand reputation as irrelevant to the listing.
+
+### Derating the Conductor but Checking the 125% Load Against the Underrated Ampacity
+
+An electrician selects a conductor for a continuous load by checking 125% of the load against the table ampacity, then applies temperature correction and bundling derating, and the derated ampacity falls below the 125% value without being noticed. The mechanism is that the derating is performed as a separate step after conductor selection, and the re-check against the derated ampacity is skipped, so the conductor that was adequate on the table is inadequate under the actual conditions. The false signal is the completed calculation with derating noted, which reads as thorough. The harm is that the conductor runs above its effective ampacity under continuous load, overheats in the raceway, and the insulation degrades. The defense is to check the 125% continuous load against the derated and corrected ampacity, to perform derating before or as part of the selection, and to re-verify the final conductor against the actual installation conditions.
+
+## Self-Check
+
+- Did I classify each load as continuous or noncontinuous based on the three-hour definition applied to the actual application, not on the equipment type, and document the basis?
+- Did I apply the 125% rule consistently to both the conductor ampacity (210.19) and the overcurrent device rating (210.20), as a paired step?
+- For mixed-load circuits, did I sum the noncontinuous portion at 100% and the continuous portion at 125%, rather than applying a factor to the whole?
+- Did I carry the continuous-load 125% factor through the feeder (215.2) and service calculations, not only the branch circuits?
+- Did I verify the equipment's 100% continuous-duty listing before sizing at 100%, and default to 125% sizing when the listing is absent?
+- Did I check the 125% continuous load against the conductor ampacity after temperature correction and bundling derating, not against the uncorrected table ampacity?
+- Is the classification and sizing documented clearly enough that another practitioner could reproduce the calculation?
+- Does the output stay within the agent's scope, deferring final load calculation and licensed sign-off to the qualified person where the question exceeds the agent's competence?
