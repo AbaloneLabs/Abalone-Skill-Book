@@ -1,0 +1,53 @@
+---
+name: equity-and-curation-balance-in-pda.md
+description: Use when the agent is examining whether a patron-driven acquisition program serves the whole community, auditing PDA purchases for diversity and representation, balancing demand-driven acquisition with curated selection for depth and underserved voices, addressing the bias embedded in demand data, or ensuring PDA does not reproduce existing inequities in a public, school, or academic library.
+---
+
+# Equity and Curation Balance in PDA
+
+Patron-driven acquisition is often presented as democratic, because it lets patrons shape the collection through their own demand. But demand is not neutral, and a collection built only on what patrons already request will reflect existing privilege, majority preferences, and the patrons who already know how to use the library, while systematically under-serving the communities whose needs are less visible, less vocal, or less resourced. The equity problem in PDA is not accidental; it is structural, because the model is designed to respond to expressed demand, and expressed demand skews toward those with the time, language, digital access, and comfort to express it. Balancing PDA with deliberate curation, auditing what demand-driven acquisition actually buys, and protecting representation that demand alone will never surface are therefore core obligations, not optional refinements. A PDA program that ignores equity builds an efficient collection that serves the already-served and quietly abandons everyone else.
+
+## Core Rules
+
+### Recognize that demand data is structurally biased
+
+The foundational equity insight is that demand data over-represents patrons who already engage with the library and under-represents those who do not. Patrons with digital access, English fluency, time to browse, familiarity with academic publishing, and confidence to request titles generate demand; patrons without these advantages do not, regardless of how much they need the material. Faculty who assign course readings trigger monograph purchases; students who struggle silently do not. Bestsellers and mainstream genres circulate; works in minority languages, by marginalized creators, or on niche subjects may never reach the trigger threshold. Treating demand as a neutral expression of community need is the core error; demand is a signal filtered through access, privilege, and visibility, and a collection built on it alone will reproduce and amplify existing inequity.
+
+### Audit PDA purchases for diversity and representation
+
+Because demand skews, the only way to know whom a PDA program is actually serving is to audit the purchases. Periodically code a sample of PDA-acquired titles for creator identity, subject, language, audience, and publisher, and compare the distribution against the community demographics and against the curated collection. Look for patterns: are purchases concentrated in majority languages, mainstream publishers, and already-popular subjects? Are marginalized creators, minority-language works, and diverse subjects underrepresented relative to the community? Are certain patron segments driving most triggers while others generate none? An audit transforms equity from impression into evidence and reveals whether the program is serving the whole community or only its most visible patrons. Repeat the audit over time to track whether interventions close the gaps.
+
+### Balance PDA with curated selection for depth and breadth
+
+PDA captures current demand, but a healthy collection also needs depth, breadth, diverse voices, and material of lasting value that demand will not surface. Balance PDA deliberately with curated selection: use firm orders to fill gaps in diverse, minority-language, and specialized material that demand overlooks; maintain standing orders for essential series and reference works that patrons will not trigger; run evidence-based rounds to let use inform selection of material from underrepresented publishers; and set aside dedicated budget for representation that demand alone will never fund. The proportion matters: a collection built predominantly on PDA drifts toward the majority's interests, while a balanced program uses PDA for responsive demand and curation for everything demand misses. State the balance explicitly in the collection-development policy so it survives staff turnover and budget pressure.
+
+### Configure profiles to counter default bias
+
+Profile configuration is where equity can be engineered in or designed out, because the profile determines what patrons can ever trigger. Counter default bias by deliberately including diverse publishers, independent and small presses, minority-language material, and works by marginalized creators in the profile, rather than relying on the vendor's default pool, which reflects mainstream publishing. Configure subject scopes to cover the communities the library serves, not only the most visible ones, and set price caps and triggers that do not systematically exclude higher-cost academic or specialized material that serves smaller audiences. Review the profile periodically for drift, because vendor pools change and can quietly narrow diversity. Configuration is selection, and equitable configuration is an active, ongoing choice.
+
+### Engage underserved communities about needs demand will not surface
+
+The patrons whose needs PDA misses are precisely those whose demand is not visible, so the library cannot learn what they need from the trigger data alone. Engage underserved communities directly through partnerships with community organizations, conversations with the groups affected, and attention to who is and is not using the library. Ask what material would serve them, rather than assuming, and recognize that needs may include languages, formats, reading levels, and subjects that the default profile excludes. Feed what is learned into both curated selection and profile configuration, so the program begins to serve communities demand data rendered invisible. This work is slower and harder than reading dashboards, but it is the only way to counter the structural bias of demand.
+
+### Protect against gaming and concentrated demand
+
+Because PDA responds to triggers, patrons or groups who learn the system can shape the collection disproportionately, and this often reinforces existing privilege. A faculty member who assigns readings from a PDA pool, a class whose assignments generate coordinated triggers, or a few active patrons who request heavily can drive purchases that serve a narrow segment while the budget for the broader community shrinks. Monitor for concentrated demand, set rules that prevent a single course or patron from dominating, and consider mediation or caps for titles triggered by identifiable patterns. The goal is not to punish engaged patrons but to ensure the program serves the whole community rather than becoming a procurement channel for the most active users.
+
+### Evaluate equity outcomes alongside efficiency
+
+PDA is usually evaluated on efficiency metrics like cost-per-use, but efficiency alone can mask inequity, because serving already-engaged patrons at low cost-per-use looks successful even if underserved communities are ignored. Evaluate equity outcomes alongside efficiency: whom does the program serve, whom does it miss, and is the gap closing or widening over time. Report equity findings to leadership and governance alongside the financial metrics, and let them inform decisions about budget balance, profile configuration, and curated supplementation. A program that is efficient but inequitable is not a success by the library's broader mission, and treating efficiency as the only measure lets equity gaps persist unnoticed.
+
+## Common Traps
+
+The most fundamental trap is treating demand as a neutral expression of community need, when in fact demand data is structurally filtered through access, privilege, language, and visibility, so a demand-driven collection reproduces existing inequity. Another is assuming that because PDA is democratic in mechanism, it is equitable in outcome, which conflates the input, patron triggers, with the result, a collection that serves the whole community. Relying on the vendor's default profile without auditing or configuring it for diversity lets mainstream publishing shape the collection while minority-language, independent, and marginalized-creator works remain invisible. Evaluating PDA only on efficiency metrics like cost-per-use hides equity gaps, because serving already-engaged patrons efficiently looks successful even when underserved communities are ignored. Building the collection predominantly on PDA, without balanced curated selection for depth, breadth, and representation, causes drift toward majority interests and abandons material of lasting value that demand overlooks. Failing to engage underserved communities directly means the library never learns what demand data cannot reveal, and the invisible needs stay invisible. Allowing concentrated demand from a few active patrons or a single course to dominate triggers lets a narrow segment capture the budget at the community's expense. Finally, treating equity as an optional refinement rather than a core obligation allows efficient, inequitable programs to continue out of inertia while the patrons most in need of the library are quietly excluded.
+
+## Self-Check
+
+- Did you recognize that demand data is structurally biased toward patrons with access, language, time, and confidence, rather than treating it as a neutral expression of community need?
+- Did you audit a sample of PDA purchases for creator identity, subject, language, and publisher, and compare the distribution against community demographics and the curated collection?
+- Did you balance PDA with curated selection, including dedicated budget for diverse, minority-language, and specialized material that demand will not surface?
+- Did you configure the profile to deliberately include diverse publishers, independent presses, minority-language works, and marginalized creators, rather than relying on the vendor default pool?
+- Did you engage underserved communities directly about their needs, rather than relying on demand data that renders them invisible?
+- Did you monitor for concentrated demand from a few patrons or a single course, and set rules to prevent a narrow segment from dominating the budget?
+- Did you evaluate equity outcomes alongside efficiency, reporting whom the program serves and misses, and whether the gap is closing or widening?
+- Did you treat equity as a core obligation embedded in policy and configuration, rather than an optional refinement?
