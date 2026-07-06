@@ -80,3 +80,4 @@ Programs without metrics cannot demonstrate value or improve. Track enrollment, 
 - Am I providing support services — tutoring, wraparound services, cohorts, check-ins — to remove barriers and improve completion?
 - Have I planned the post-completion pathway — role, wage, development — and communicated it throughout the program?
 - Am I measuring program effectiveness — enrollment, completion rate, retention, performance, diversity, cost — and iterating based on data?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

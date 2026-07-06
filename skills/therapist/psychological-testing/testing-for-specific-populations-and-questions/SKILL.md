@@ -61,6 +61,10 @@ A therapist may treat a forensic, disability, or fitness-for-duty evaluation as 
 
 A therapist may conclude dementia from clinical impression of cognitive decline in an older adult, without ensuring a medical workup for reversible causes and a formal neuropsychological evaluation, when the impression cannot distinguish dementia from depression, delirium, or reversible medical conditions. The mechanism of harm is that the impression is mistaken for a diagnosis, and a treatable condition, depression, medication effect, thyroid dysfunction, is filed under dementia and left unworked up. The harm is that a reversible condition progresses, sometimes irreversibly, because the workup was not done. Referring for medical workup and neuropsychological evaluation, rather than diagnosing from impression, protects the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I refer to evaluators with the relevant specialization when the population or question required it?

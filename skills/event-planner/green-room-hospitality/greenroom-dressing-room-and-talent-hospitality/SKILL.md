@@ -70,12 +70,9 @@ Backstage closeout is part of talent care. Lost personal items can sour an other
 - Allowing staff, guests, and media to crowd backstage rooms.
 - Letting sponsor, donor, media, or executive requests reach talent without approval, timing, and escort.
 - Failing to update talent when the program runs early or late.
-- Providing hospitality that does not match call length, diet, culture, or stage timing.
-- Forgetting mirrors, power, garment racks, steamers, and restrooms.
-- Letting the room deteriorate without resets.
-- Not labeling allergens and perishable food.
-- Having no escalation path for security, medical, wardrobe, or emotional issues.
-- Leaving personal items, confidential papers, or microphones behind after talent exits.
+- Providing hospitality that does not match call length, diet, culture, or stage timing; forgetting mirrors, power, garment racks, steamers, and restrooms
+- Letting the room deteriorate without resets; not labeling allergens and perishable food
+- Having no escalation path for security, medical, wardrobe, or emotional issues; leaving personal items, confidential papers, or microphones behind after talent exits
 
 ## Self-Check
 

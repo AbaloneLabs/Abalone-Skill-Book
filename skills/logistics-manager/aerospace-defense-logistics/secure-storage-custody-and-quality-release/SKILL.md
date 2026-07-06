@@ -60,12 +60,9 @@ Warehouse personnel should know when to stop: broken seal, missing certificate, 
 - Allowing unauthorized access to export-controlled parts or technical data.
 - Ignoring shelf life, environmental excursions, ESD, FOD, humidity, and packaging integrity.
 - Moving serialized parts manually without updating custody and system location.
-- Shipping because a customer is urgent before release evidence is complete.
-- Letting scrap or rejected material remain recognizable and re-enterable.
-- Losing repair core documents, ownership records, or return deadlines.
-- Discovering contract storage or audit requirements only when a customer visit is scheduled.
-- Mixing customer-owned, government-furnished, exchange, and company stock without program controls.
-- Training handlers to move fast but not to stop when release evidence or custody is wrong.
+- Shipping because a customer is urgent before release evidence is complete; letting scrap or rejected material remain recognizable and re-enterable
+- Losing repair core documents, ownership records, or return deadlines; discovering contract storage or audit requirements only when a customer visit is scheduled
+- Mixing customer-owned, government-furnished, exchange, and company stock without program controls; training handlers to move fast but not to stop when release evidence or custody is wrong
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Warehouse personnel should know when to stop: broken seal, missing certificate, 
 - Do records link serial, lot, part, revision, condition, certificate, ownership, export status, location, and release status?
 - Are repair, core return, warranty, unserviceable, rejected, and scrap flows segregated and documented?
 - Can the facility show audit evidence for access, environment, training, release, nonconformance, and custody without special cleanup?
-- Are customer-owned, government-furnished, consigned, exchange, warranty, and company-owned materials segregated by rights and program rules?
-- Do handlers have explicit stop conditions for seal, certificate, serial, shelf-life, environment, visitor, packaging, and system mismatches?
+- Are customer-owned, government-furnished, consigned, exchange, warranty, and company-owned materials segregated by rights and program rules?; do handlers have explicit stop conditions for seal, certificate, serial, shelf-life, environment, visitor, packaging, and system mismatches?

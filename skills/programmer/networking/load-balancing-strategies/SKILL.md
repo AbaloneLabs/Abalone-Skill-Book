@@ -55,6 +55,10 @@ A pool sized for average load collapses at peak or when instances fail. Size for
 - **Account for retries amplifying load.** During a partial failure, clients retry, increasing load above the original; the pool must absorb the retry multiplier.
 - **Consider multi-zone or multi-region distribution.** A pool in one zone fails when the zone fails; distribute across zones/regions for availability, and ensure the balancer routes around a failed zone.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Round-Robin On Varying-Cost Requests
@@ -93,3 +97,5 @@ L4 load balancing where routing depends on request content (path, host, cookie),
 - [ ] Health checks keep the pool healthy without cascading: they reflect serving capability, a shared-dependency failure does not empty the pool, removal/re-addition uses sustained thresholds to avoid flapping, and the pool is designed to operate with fewer instances.
 - [ ] The pool is sized for peak traffic with headroom, for the loss of N instances (failure, rolling deploy), and for retry amplification during partial failures; multi-zone/multi-region distribution is used for availability with routing around failed zones.
 - [ ] The highest-risk cases were verified — a varying-cost workload balanced by least-connections not round-robin, a session that survived instance loss via externalized state, a health check that did not cascade on a shared-dependency failure, and a pool that absorbed a peak without collapsing — not only the clean uniform-load path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

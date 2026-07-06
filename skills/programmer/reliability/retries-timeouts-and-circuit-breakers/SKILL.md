@@ -129,19 +129,15 @@ A payment or order-creation call times out (did it succeed?), and the code retri
 
 Setting a 10-second downstream timeout inside a request handler that must respond in 2 seconds. The downstream call can run far past the point where its result is useful, and the upstream timeout fires first, wasting the work. Align downstream budgets with the propagated deadline.
 
-### A Circuit Breaker That Never Opens (Or Never Closes)
+### A Circuit Breaker That Never Opens (Or Never Closes) and no Fallback, So Failure Propagates Synchronously
 
 Configuring the failure threshold so high that the breaker never trips during real outages — providing no protection — or the cooldown so long that it never recovers even after the dependency is healthy. Tune the breaker against observed failure and recovery patterns, and verify it actually opens and closes under simulated failure.
 
-### No Fallback, So Failure Propagates Synchronously
-
 A dependency fails, and because no fallback or degradation path exists, the failure propagates directly to the caller, which propagates to its callers, cascading the outage. Define the degraded behavior before you need it.
 
-### One Shared Pool For All Dependencies
+### One Shared Pool For All Dependencies and treating Retry Count As The Goal
 
 A single thread or connection pool shared across all downstream calls. One slow dependency exhausts the pool, and calls to healthy dependencies also fail for lack of resources. Use bulkheads (separate pools per dependency) so one failure does not starve the others.
-
-### Treating Retry Count As The Goal
 
 Optimizing for "more retries" or "higher success rate" without measuring the cost — added latency, load on the dependency, work whose results are discarded. A high retry success rate can still indicate a harmful policy if it comes at the cost of prolonged outages and wasted capacity. Optimize for system availability and honest failure, not for retry success.
 

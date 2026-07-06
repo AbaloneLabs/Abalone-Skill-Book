@@ -156,7 +156,7 @@ Plan:
 
 Do not confuse language development with lower thinking ability. Keep cognitive demand meaningful while supporting language.
 
-### Include Advanced Learners Without Only Adding More Work
+### Include Advanced Learners Without Only Adding More Work and coordinate With Specialists And Families
 
 Advanced learners need depth, complexity, choice, and challenge, not simply extra problems.
 
@@ -173,8 +173,6 @@ Use:
 - real-world application.
 
 Do not use advanced students as unpaid tutors in a way that replaces their own learning.
-
-### Coordinate With Specialists And Families
 
 Some adaptations require collaboration. Teachers should not work alone when plans, services, or safety issues are involved.
 

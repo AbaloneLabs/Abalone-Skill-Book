@@ -1,6 +1,6 @@
 ---
 name: stroke-and-neurological-rehabilitation.md
-description: Use when the nurse is caring for patients recovering from stroke, traumatic brain injury, spinal cord injury, or other neurological deficits during inpatient or outpatient rehabilitation, managing post-stroke complications, supporting neuroplasticity, preventing secondary injury, coordinating intensive therapy schedules, or monitoring for neurological deterioration.
+description: Use when the agent is caring for patients recovering from stroke, traumatic brain injury, spinal cord injury, or other neurological deficits during inpatient or outpatient rehabilitation, managing post-stroke complications, supporting neuroplasticity, preventing secondary injury, coordinating intensive therapy schedules, or monitoring for neurological deterioration.
 ---
 
 # Stroke and Neurological Rehabilitation

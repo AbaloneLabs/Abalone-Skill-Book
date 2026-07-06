@@ -29,6 +29,10 @@ Every prescription verification must include a check of the patient's documented
 
 When a pharmacist contacts a prescriber to clarify or correct a prescription, the interaction must be documented with specificity: what was questioned, what was discussed, what was changed, and the name of the prescriber who confirmed. This documentation is not bureaucratic overhead — it is the evidence that the pharmacist exercised professional judgment, and it is the record that protects both the patient and the pharmacist if an adverse event occurs later. A note that says "verified" without describing the clinical reasoning is functionally equivalent to no documentation at all.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Legibility Trap — Confusing Readable With Correct
@@ -47,6 +51,14 @@ When a patient sees multiple specialists, each prescriber acts on partial inform
 
 Prescribers frequently write standard doses without adjusting for renal impairment, either because they do not have the current lab values, because they assume the pharmacy will adjust, or because the adjustment simply does not occur to them. The trap is that the pharmacy system may not flag the omission if the patient's creatinine clearance is not entered or is outdated. The pharmacist sees a standard dose, the system raises no alert, and the verification proceeds. The harm is that a nephrotoxic or renally cleared drug at a standard dose accumulates in a patient whose kidneys cannot eliminate it, producing toxicity that could have been prevented by a dose the pharmacist could have recommended.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I confirm that the prescribed drug matches a documented or plausible indication for this patient, or did I verify only the form of the prescription?
@@ -55,3 +67,5 @@ Prescribers frequently write standard doses without adjusting for renal impairme
 - Did I check for allergies and cross-reactivity within drug classes, and did I assess the severity of any documented reaction?
 - If I contacted the prescriber, did I document what was questioned, what was discussed, what changed, and who confirmed — or did I write only "verified"?
 - Did I read the content of every system alert before deciding to override it, or did I override reflexively based on the alert's mere presence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?
+- Has the edge case or exception been considered, not only the typical or textbook scenario?

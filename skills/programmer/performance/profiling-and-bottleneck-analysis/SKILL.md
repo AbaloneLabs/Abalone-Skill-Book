@@ -142,19 +142,15 @@ Profiling locally with tiny data, no concurrency, and warm caches, concluding th
 
 Reporting and optimizing average latency while p99 is multiple seconds. The average looks fine, the dashboard is green, and real users time out. Always look at percentiles, and treat a wide spread between p50 and p99 as a distinct problem from a uniformly slow system.
 
-### Benchmark That Measures Nothing (Dead-Code Elimination)
+### Benchmark That Measures Nothing (Dead-Code Elimination) and ignoring Amdahl's Law
 
 A benchmark whose result is unused, so the compiler removes the work being measured, and the benchmark reports the speed of an empty loop. The number looks great and proves nothing. Ensure the benchmark consumes its results in a way the compiler cannot optimize away.
 
-### Ignoring Amdahl's Law
-
 Spending days optimizing code that is 5% of runtime to run twice as fast, for a 2.5% system improvement, while a 40% hotspot goes untouched. Prioritize by the share of total time a change can remove, not by how clever the optimization is or how slow the local code looks.
 
-### Optimizing Past The Target
+### Optimizing Past The Target and confusing Throughput With Good Latency
 
 Continuing to optimize after the latency target is met, because "it could be faster." Each further change adds complexity for shrinking gains. Define the target and stop when it is reached; preserve the remaining simplicity.
-
-### Confusing Throughput With Good Latency
 
 Reporting a high requests-per-second number achieved by batching and buffering, while individual requests queue and their latency balloons. Throughput without a latency constraint is not a performance win; it is a trade of latency for capacity that may not serve users.
 

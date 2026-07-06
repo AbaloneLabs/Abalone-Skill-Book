@@ -60,8 +60,7 @@ Use partner feedback to improve future packages and operations. If partners repe
 - Selling vague category exclusivity that blocks future revenue or creates disputes.
 - Forgetting partner load-in, power, internet, badges, parking, storage, and permits.
 - Delivering benefits to unpaid partners without policy or approval.
-- Letting sponsors bypass the liaison and pull producers into routine problems.
-- Creating post-event reports without checking the obligation tracker.
+- Letting sponsors bypass the liaison and pull producers into routine problems; creating post-event reports without checking the obligation tracker
 
 ## Self-Check
 

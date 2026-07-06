@@ -65,10 +65,8 @@ Present value by traveler type. Experts, families, beginners, and luxury travele
 - Choosing lodging by nightly rate while ignoring daily lift access and gear logistics.
 - Missing blackout dates, reservations, sellouts, and dynamic lift ticket pricing.
 - Forgetting non-skiers, injured travelers, and rest days.
-- Underestimating altitude effects and first-day fatigue.
-- Ignoring meal reservations, grocery access, and peak lunch crowding.
-- Treating ski-in/ski-out as always worth it or never worth it.
-- Comparing resorts by lodging price without full ski-system cost.
+- Underestimating altitude effects and first-day fatigue; ignoring meal reservations, grocery access, and peak lunch crowding
+- Treating ski-in/ski-out as always worth it or never worth it; comparing resorts by lodging price without full ski-system cost
 
 ## Self-Check
 

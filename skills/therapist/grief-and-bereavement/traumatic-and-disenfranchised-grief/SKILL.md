@@ -61,6 +61,10 @@ A therapist may underestimate how isolating a stigmatized loss is, treating the 
 
 A therapist, uncomfortable with the specifics of a traumatic or stigmatized death, may avoid the details, the method of suicide, the circumstances of the overdose, the violence of the homicide, and conduct the grief work at a general level, when the client needs to process the specifics to integrate the loss. The mechanism of harm is that the therapist's avoidance signals that the specifics are unspeakable, and the client, sensing this, does not share the material that most needs processing. The harm is that the traumatic material remains unprocessed, the grief stays stuck, and the client is isolated with the details they could not share. Tolerating the specifics, following the client's lead about what to share, and processing the details when the client is ready, is part of the work.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize whether the loss was traumatic, assess for traumatic stress symptoms, and integrate trauma-focused work sequenced appropriately?

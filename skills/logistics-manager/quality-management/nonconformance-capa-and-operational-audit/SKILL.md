@@ -51,23 +51,19 @@ If the nonconformance comes from supplier packaging, carrier handling, late pick
 
 Internal CAPA cannot fix an external party's process unless the partner is included and held accountable.
 
-### Verify effectiveness
+### Verify effectiveness and audit the process, not only records
 
 After implementation, review defect rates, audit results, customer complaints, recurrence, and process observation. Define the time period and success measure before closing CAPA.
 
 Effectiveness checks prevent premature closure. A fix that does not work is not complete.
 
-### Audit the process, not only records
-
 Operational audits should observe actual work, interview employees, sample transactions, inspect equipment, and compare records to physical reality. Records can look compliant while process behavior drifts.
 
 Audit should detect weak controls before customers do.
 
-### Keep audit samples traceable
+### Keep audit samples traceable and use trends to prioritize systemic fixes
 
 Record what orders, loads, cartons, items, dates, shifts, lanes, or users were sampled and why. Traceable samples make findings defensible and help repeat the audit later.
-
-### Use trends to prioritize systemic fixes
 
 Group nonconformances by process, customer, supplier, carrier, shift, item, facility, and root cause. Recurring minor issues may show a major system weakness.
 
@@ -79,14 +75,10 @@ CAPA should not treat every case as isolated if the pattern is obvious.
 - Jumping to root cause before containing affected inventory or shipments.
 - Calling every problem human error and ignoring process, system, training, and workload causes.
 - Writing corrective actions that are reminders rather than control changes.
-- Treating low-risk paperwork issues and high-risk safety or customer failures with the same urgency.
-- Closing CAPA with no owner, due date, evidence, or effectiveness check.
-- Auditing paperwork while ignoring what operators actually do.
-- Reporting audit findings without traceable samples, scope, and selection rationale.
-- Failing to sample similar items, lanes, customers, or lots for spread of issue.
-- Keeping CAPA internal when supplier or carrier behavior caused the failure.
-- Treating repeat nonconformances as isolated cases.
-- Letting supplier or carrier corrective actions go unverified.
+- Treating low-risk paperwork issues and high-risk safety or customer failures with the same urgency; closing CAPA with no owner, due date, evidence, or effectiveness check
+- Auditing paperwork while ignoring what operators actually do; reporting audit findings without traceable samples, scope, and selection rationale
+- Failing to sample similar items, lanes, customers, or lots for spread of issue; keeping CAPA internal when supplier or carrier behavior caused the failure
+- Treating repeat nonconformances as isolated cases; letting supplier or carrier corrective actions go unverified
 
 ## Self-Check
 
@@ -98,7 +90,5 @@ CAPA should not treat every case as isolated if the pattern is obvious.
 - Is CAPA priority based on customer, safety, regulatory, financial, recurrence, detectability, and spread risk?
 - Does each action have owner, due date, scope, completion evidence, and escalation?
 - Are supplier and carrier corrective actions issued, evidenced, deadline-driven, and verified when they own root cause?
-- Is effectiveness verified through recurrence, defect rate, audit result, complaint, or observation?
-- Do audits compare records to actual work and physical reality?
-- Are audit samples traceable by order, load, item, date, shift, lane, user, scope, and selection rationale?
-- Are trends used to identify systemic logistics quality failures?
+- Is effectiveness verified through recurrence, defect rate, audit result, complaint, or observation?; do audits compare records to actual work and physical reality?
+- Are audit samples traceable by order, load, item, date, shift, lane, user, scope, and selection rationale?; are trends used to identify systemic logistics quality failures?

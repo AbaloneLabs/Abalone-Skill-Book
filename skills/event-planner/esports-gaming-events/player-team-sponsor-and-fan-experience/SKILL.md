@@ -70,12 +70,9 @@ Make enforcement visible enough to build trust. Fans and players should know whe
 - Ignoring guardian consent, youth safety, player privacy, harassment reporting, and welfare needs.
 - Assuming fans understand bracket state and match timing without signage.
 - Designing sponsor activations that feel disconnected from gaming culture.
-- Letting creator meet-and-greet lines block circulation.
-- Placing merch or side events where they distract from matches or create crowd hazards.
-- Optimizing broadcast while neglecting onsite screen, audio, and seating needs.
-- Optimizing room atmosphere while ignoring stream readability.
-- Forgetting minors, harassment, cosplay props, and online community behavior risks.
-- Treating players as promotional assets rather than competitors with welfare needs.
+- Letting creator meet-and-greet lines block circulation; placing merch or side events where they distract from matches or create crowd hazards
+- Optimizing broadcast while neglecting onsite screen, audio, and seating needs; optimizing room atmosphere while ignoring stream readability
+- Forgetting minors, harassment, cosplay props, and online community behavior risks; treating players as promotional assets rather than competitors with welfare needs
 
 ## Self-Check
 

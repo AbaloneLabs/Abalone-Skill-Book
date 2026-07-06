@@ -141,11 +141,9 @@ Matching two records derived from the same source confirms the feed, not the cor
 
 Matching with no record of which rule cleared which item cannot satisfy audit evidence requirements.
 
-### No Monitoring Of Match Rate Drift
+### No Monitoring Of Match Rate Drift and matching Treated As Balance Substantiation
 
 A changing match rate can signal a data feed problem or a rule that no longer fits the business.
-
-### Matching Treated As Balance Substantiation
 
 A high match rate does not establish framework-compliant correctness of a balance; confirm with qualified professionals.
 

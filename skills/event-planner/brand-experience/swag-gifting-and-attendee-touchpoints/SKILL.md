@@ -70,12 +70,9 @@ Post-event reporting should show delivery, not just purchase. A box of undistrib
 - Ignoring gift compliance rules for government, healthcare, corporate, or international attendees.
 - Approving branded items without samples and proofing.
 - Underplanning kitting, storage, receiving, and onsite distribution.
-- Failing to track inventory, damaged goods, late registrants, leftovers, and opt-outs.
-- Assuming hotel room drops are simple or free.
-- Creating waste with low-quality novelty items.
-- Running out of gifts or giving VIP variations in a way that embarrasses guests.
-- Forgetting dietary, religious, accessibility, and size considerations.
-- Reporting sponsor gift benefits without proof of distribution.
+- Failing to track inventory, damaged goods, late registrants, leftovers, and opt-outs; assuming hotel room drops are simple or free
+- Creating waste with low-quality novelty items; running out of gifts or giving VIP variations in a way that embarrasses guests
+- Forgetting dietary, religious, accessibility, and size considerations; reporting sponsor gift benefits without proof of distribution
 
 ## Self-Check
 

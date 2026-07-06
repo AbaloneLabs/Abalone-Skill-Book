@@ -29,6 +29,10 @@ Many drugs that are safe in adults are contraindicated or carry specific warning
 
 The caregiver is the actual administrator of the medication, and the counseling must equip them to do it correctly. The pharmacist must demonstrate the measurement using the provided device, must specify the dose in the units the device uses (milliliters, not a translated "half teaspoon" that invites a household spoon), must explain the timing and the relationship to meals, must explain what to do if the child spits up or vomits a dose (generally, if vomiting occurs within 15-30 minutes, the dose may be repeated; later, do not), and must explain the expected effect, the common adverse effects, and the danger signs. The pharmacist must address adherence barriers specific to children: palatability (a flavor may be added or an alternative formulation chosen), refusal (never force a struggling child, which causes aspiration; use a syringe to the inside of the cheek in small amounts), and the importance of completing a course (antibiotics) even when the child improves. The counseling must verify, by teach-back, that the caregiver can state the dose, the timing, and the danger signs.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Pound-Kilogram Conversion Error
@@ -51,6 +55,10 @@ The prescription or label says "give one teaspoon" and the caregiver uses a hous
 
 The pharmacist verifies the dose calculation but does not check whether the drug is appropriate for the child's age, dispensing codeine to a young child or a cough and cold preparation to an infant. The mechanism is that the dose calculation feels like the complete verification. The false signal is that the dose is correct, so the prescription is appropriate. The harm is that the drug is contraindicated regardless of dose — codeine can kill a child through respiratory depression at any dose in an ultra-rapid metabolizer, and infant cough and cold preparations have caused serious adverse events and deaths. The pharmacist must verify the drug against age-specific contraindications in addition to verifying the dose, because a correct dose of a contraindicated drug is still dangerous.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I calculate the dose from the child's actual current measured weight in kilograms (confirming the unit and converting from pounds explicitly), using an authoritative pediatric reference for the mg/kg dose and interval, and capping at the adult maximum?
@@ -59,3 +67,5 @@ The pharmacist verifies the dose calculation but does not check whether the drug
 - Did I select a pediatric-appropriate dosage form and a concentration that allows accurate measurement, and did I provide a milliliter-marked dosing syringe rather than relying on household spoons?
 - Did I verify the drug against age-specific contraindications (codeine and tramadol under 12, tetracyclines under 8, fluoroquinolones, aspirin and Reye syndrome, cough and cold preparations in young children)?
 - Did I counsel the caregiver with a demonstration of measurement using the provided device, instructions in milliliters, guidance on vomiting a dose, expected and adverse effects, danger signs, and adherence strategies, verified by teach-back?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

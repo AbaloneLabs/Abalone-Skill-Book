@@ -105,6 +105,10 @@ Commissioning shadow, wind, and daylight studies only to satisfy a review requir
 
 Treating community and planning engagement as a procedural hurdle to clear after the massing is designed, rather than as input that shapes the massing, invites the opposition that reshapes the project unfavorably. The trap is that the massing is resolved and the project is ready for review, so engagement feels like a formality, while in reality the community and planning authority have not been heard, and the massing is publicly contested for the first time at the moment of decision. The harm is delayed or denied approvals, forced redesign under pressure, and damaged relationships with neighbors and regulators. Engaging the planning authority and community early, while massing can still respond, and documenting the design logic for defense in review, are what build support rather than opposition.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the surrounding fabric — heights, setbacks, rhythms, lot coverage, street wall, ground-floor character, landmarks, and view corridors — been surveyed and documented?

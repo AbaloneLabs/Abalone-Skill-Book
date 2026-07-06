@@ -39,6 +39,10 @@ Contingencies should address delayed key guests, weather, overbooked hotel, reso
 
 For destination weddings, contingency options may be limited. If there is only one daily flight, one ferry, one mountain road, or seasonal storms, communicate the importance of early arrival. If the venue is outdoors, coordinate with the event planner on weather and transport implications.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Overbooking contracted room blocks without attendance confidence or attrition awareness.

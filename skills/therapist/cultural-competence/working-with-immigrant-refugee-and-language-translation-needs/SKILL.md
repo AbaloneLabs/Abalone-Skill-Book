@@ -61,6 +61,10 @@ A therapist may neglect the practical and legal stressors the client faces, focu
 
 A therapist may minimize or not ask about the client's experience of discrimination, racism, and xenophobia, either because it feels uncomfortable or because the therapist does not recognize its clinical significance, and the client's experience is not addressed. The mechanism is that discrimination is uncomfortable to discuss, and the therapist, avoiding the discomfort, does not raise it, when it is a significant stressor for many immigrant and refugee clients. The harm is that the client's experience is not validated or addressed, the client feels unseen, and a significant stressor is omitted from the formulation. Addressing discrimination, validating the experience, and recognizing its clinical significance, is what makes the care complete.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Do I understand the client's migration context, pre-migration, migration, and post-migration, and its clinical implications?

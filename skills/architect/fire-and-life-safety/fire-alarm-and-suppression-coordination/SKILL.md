@@ -105,6 +105,10 @@ The fire alarm is designed to activate, but the doors it must release, the eleva
 
 The fire protection design proceeds without early engagement of the Authority Having Jurisdiction, and at plan review the AHJ raises requirements or interpretations, based on local amendments or preferences, that require substantial redesign. The trap is that the model code appears to govern, so the design proceeds against it, while local amendments and AHJ interpretation can differ significantly and are discovered only at review. The harm is costly late redesign, schedule delay, and potential conflict with the very authority whose approval is required for occupancy. The false signal is that the design meets the model code, masking the divergence from local requirements. Engaging the AHJ early, confirming local amendments and preferences, and incorporating their input into the design is what prevents the late, costly surprises that late AHJ involvement produces.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are fire alarm and suppression requirements determined by systematic code analysis, with the basis documented and the sprinkler status coordinated with the broader code analysis?
@@ -113,3 +117,5 @@ The fire protection design proceeds without early engagement of the Authority Ha
 - [ ] Are alarm devices and notification appliances located to achieve required detection, audible levels, and visible notification throughout, including for occupants with disabilities?
 - [ ] Is the fire alarm sequence of operations coordinated across all controlled systems, doors, elevators, HVAC, access control, with each interface documented and tested?
 - [ ] Has a fire protection engineer designed the systems, and has the AHJ been engaged early to confirm local amendments, preferences, and acceptance requirements?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

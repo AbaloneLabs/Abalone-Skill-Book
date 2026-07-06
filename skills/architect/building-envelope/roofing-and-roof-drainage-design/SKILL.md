@@ -104,6 +104,10 @@ A membrane specified without a wind uplift calculation for the specific building
 
 Selecting insulation, vapor retarder, adhesive, and membrane independently can produce chemically or thermally incompatible layers: an adhesive that solvents the membrane, a polystyrene insulation dissolved by a solvent-based adhesive, or a vapor retarder that traps moisture in an assembly that needs to dry. The trap is that each product is reputable and specified by category, so the assembly appears sound component by component. The harm is that incompatibility manifests as membrane blistering, adhesive failure, insulation degradation, or concealed condensation, failures that are expensive to diagnose and require full roof replacement. The false signal is that each layer meets its individual specification. Specifying a complete, manufacturer-validated assembly, and confirming compatibility across all layers for the specific climate, is what prevents the systemic failures that component-by-component selection invites.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the roof system matched to the actual structural slope and intended use, with low-slope membranes provided positive slope to drain?
@@ -112,3 +116,5 @@ Selecting insulation, vapor retarder, adhesive, and membrane independently can p
 - [ ] Has wind uplift resistance been calculated for the specific building and zone, with attachment, enhanced at perimeters and corners, specified to meet the loads?
 - [ ] Are insulation, vapor control, air barrier, and membrane coordinated as a compatible, climate-appropriate assembly with the dew point managed?
 - [ ] Is safe, code-compliant roof access and fall protection provided, with protected paths for maintenance of drains and equipment?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

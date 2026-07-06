@@ -59,6 +59,10 @@ When the ATS is cumbersome, recruiters route candidates through email, spreadshe
 
 Integrations degrade silently. A background check integration that fails may result in candidates advancing without cleared checks. Build monitoring and alerting for every integration, and test after vendor upgrades on either side.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is my application flow optimized for candidate completion, especially on mobile, with minimal required fields at the initial stage?

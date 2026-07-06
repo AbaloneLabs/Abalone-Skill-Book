@@ -104,19 +104,15 @@ Enabling a multi-region or global feature with default last-write-wins conflict 
 
 Promoting a replica without ensuring the old primary cannot keep accepting writes, so a partitioned-but-alive primary diverges from the new primary and produces unreconcilable histories. Fencing is essential to safe failover; a failover procedure without it risks two primaries.
 
-### A DR Runbook That Has Never Been Run
+### A DR Runbook That Has Never Been Run and multi-AZ Mistaken For Multi-Region DR
 
 Writing a failover runbook and trusting it, then discovering during a real incident that the commands, endpoints, permissions, or tooling have drifted and the steps do not work. Rehearse the failover on a cadence and update the runbook against reality each time.
 
-### Multi-AZ Mistaken For Multi-Region DR
-
 Believing a multi-AZ deployment provides disaster recovery against a regional failure, when a regional outage takes the whole system down. Multi-AZ handles zonal failure; only a multi-region design handles regional failure. Match the design to the failure you need to survive.
 
-### Skipping Failback In The Plan
+### Skipping Failback In The Plan and dR Investment Mismatched To Criticality
 
 Designing and rehearsing failover to the standby but never failback to the primary, so after a real event the system is stranded in the DR region with no clean path back. Plan and rehearse failback too; it is often the harder half of the operation.
-
-### DR Investment Mismatched To Criticality
 
 Spending on maximal resilience for low-criticality workloads while leaving a tier-1 system with only nightly backups, or skipping DR entirely for a workload whose outage would be catastrophic. Size DR investment to the actual cost of the outage prevented, per workload.
 

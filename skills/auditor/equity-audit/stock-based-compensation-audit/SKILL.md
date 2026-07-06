@@ -176,5 +176,4 @@ Disclosure of valuation methods, assumptions, and period activity is required an
 - Is total recognized expense reconciled to the general ledger and the correct income statement classification?
 - Are capitalized stock compensation amounts, if any, included in inventory or assets appropriately?
 - Is disclosure of valuation methods, assumptions, expense, activity, and tax effects complete and consistent with the testing?
-- Are related-party and executive grants identified and given appropriate scrutiny?
-- Is the unrecognized compensation cost and weighted-average remaining service period disclosed and supported?
+- Are related-party and executive grants identified and given appropriate scrutiny?; is the unrecognized compensation cost and weighted-average remaining service period disclosed and supported?

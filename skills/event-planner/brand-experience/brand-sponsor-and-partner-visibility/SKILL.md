@@ -70,12 +70,9 @@ If sponsor expectations conflict with event mission or audience trust, escalate 
 - Using outdated logos or unapproved brand treatments.
 - Creating category conflicts through exhibitors, swag, food, or digital partners.
 - Overbranding the event until wayfinding and design suffer.
-- Assigning sponsor benefits to surfaces attendees barely see while promising meaningful exposure.
-- Forgetting livestream, app, email, and post-event video visibility.
-- Missing approval deadlines and forcing reprints.
-- Promising speaking or stage mentions without run-of-show integration.
-- Failing to collect proof of sponsor deliverables.
-- Letting sponsor demands undermine event mission or audience trust.
+- Assigning sponsor benefits to surfaces attendees barely see while promising meaningful exposure; forgetting livestream, app, email, and post-event video visibility
+- Missing approval deadlines and forcing reprints; promising speaking or stage mentions without run-of-show integration
+- Failing to collect proof of sponsor deliverables; letting sponsor demands undermine event mission or audience trust
 
 ## Self-Check
 

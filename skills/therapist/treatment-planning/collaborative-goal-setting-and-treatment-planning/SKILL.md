@@ -70,6 +70,10 @@ When progress is assessed by the therapist's and client's general impression rat
 
 When the client's goal conflicts with a clinical priority, the therapist may impose the clinical priority, framing it as non-negotiable, without engaging the client's reasoning or autonomy. The mechanism is that the clinical priority feels obviously correct to the therapist, so negotiation feels like compromising on safety or evidence, when it is actually respecting the client's decision-making capacity. The harm is that the client experiences the therapy as coercive, disengages, and may leave, while the clinical priority goes unaddressed because the client never owned it. The corrective is to name the divergence, explain the clinical reasoning honestly, listen to the client's perspective, and negotiate a plan that integrates both, recognizing that the client is the ultimate decision-maker about their own life and that honest advice is compatible with respect for autonomy.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I elicit the client's goals in their own language before proposing clinical objectives?

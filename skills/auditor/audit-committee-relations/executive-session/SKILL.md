@@ -185,5 +185,4 @@ If the committee asks for follow-up and it is not tracked, the matter disappears
 - Are matters requiring escalation beyond the committee identified, with escalation paths and documented basis?
 - Is internal audit's perspective considered without replacing the auditor's independent conclusions?
 - Are committee-directed follow-ups tracked and reported in subsequent sessions?
-- Is the executive session record kept in a controlled location with restricted distribution?
-- Has the auditor avoided characterizing individuals without factual basis, focusing on behavior and evidence?
+- Is the executive session record kept in a controlled location with restricted distribution?; has the auditor avoided characterizing individuals without factual basis, focusing on behavior and evidence?

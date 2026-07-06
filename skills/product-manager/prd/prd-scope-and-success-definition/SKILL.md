@@ -84,3 +84,4 @@ Holding scope and success fixed when learning invalidates them. The trap is work
 - [ ] Scope and success are connected, enabling accountability on both what is built and what it achieves.
 - [ ] Scope and success are revisited as learning emerges, with adjustments justified and documented.
 - [ ] The PRD commits to both what will be built and what outcome that build is meant to achieve.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -81,6 +81,10 @@ Violence risk decisions, especially those involving the duty to protect, are hig
 
 The therapist must distinguish venting from planning, and errors in both directions are harmful. Reading genuine planning as mere venting leads to missed duty and an un-warned victim; reading ordinary venting as planning leads to unnecessary disclosure that breaches confidentiality and damages the client. The mechanism is that the distinction rests on specificity, intent, preparatory acts, and weapon access, not on the emotional tone, and a therapist who attends only to tone will misclassify. The corrective is to assess the content systematically: is there a target, a method, a timeline, preparatory behavior, means access, and stated intent? Venting lacks these; planning has them. When the distinction is genuinely unclear, consult before acting.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess violent ideation, target identifiability, plan, intent, means, and history of violence directly and specifically?

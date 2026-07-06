@@ -79,6 +79,10 @@ When the client is the abuser or strongly opposes the report, the therapist may 
 
 In anxiety about the duty, a therapist may report on thin suspicion, or report disclosures that do not meet the threshold, such as a client's own adult childhood abuse by a perpetrator with no current access to children, or intimate partner violence against a competent adult where reporting is not mandatory. The mechanism is that the duty feels absolute and the therapist, wanting to be safe, reports whenever abuse is mentioned, without assessing whether the legal threshold is met. The harm is unnecessary breaches of confidentiality that damage clients, sometimes re-traumatize them, and erode trust in the therapeutic relationship and in the reporting system. The threshold is reasonable suspicion of abuse of a protected person; assess whether the disclosure meets it, consult when unclear, and do not report reflexively.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I screen routinely for child abuse, elder and dependent adult abuse, and intimate partner violence, using direct questions in private?

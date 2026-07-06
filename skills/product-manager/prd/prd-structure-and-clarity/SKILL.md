@@ -84,3 +84,4 @@ Organization that obscures rather than communicates. The trap is readers who can
 - [ ] The document includes the context stakeholders need: users, constraints, assumptions, risks, dependencies, and rationale.
 - [ ] The structure supports navigation and review, with clear headings, logical progression, and summaries.
 - [ ] Open questions are called out explicitly, and the document is versioned to track changes through review.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -29,6 +29,10 @@ Anaphylaxis is a rare but potentially fatal adverse event following vaccination,
 
 Every vaccine administration must be documented completely and accurately, both for the patient's record and for the public health immunization registry. The documentation must include the vaccine (type, brand, manufacturer, lot number, expiration date), the patient, the date of administration, the site and route, the dose, the administering pharmacist, and the VIS (Vaccine Information Statement) edition provided to the patient. The lot number is critical because it enables recall tracing (if a lot is recalled, the patients who received it must be identified) and adverse event investigation. The VIS must be provided to the patient before each dose (the current edition), and the edition date must be documented. The administration must be reported to the immunization registry (where required or available), because the registry provides the consolidated record that prevents duplicate vaccination, supports catch-up scheduling, and enables public health surveillance. The pharmacist must complete the documentation at the point of administration (not deferred), because deferred documentation loses the lot number and the details, and must report to the registry within the required timeframe.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Defaulting to the Same Needle and Site for Every Patient and Every Vaccine
@@ -51,6 +55,10 @@ Epinephrine that is stored in the pharmacy (in a drawer, in the emergency kit, i
 
 The lot number is the link between the patient and the vaccine's manufacturing and safety record, and it is essential for recall tracing and adverse event investigation, but some dispensing systems do not require it (or make it optional), so it is omitted. The trap is that the omission produces no immediate consequence (the vaccination appears complete), so it persists, and the lot number is missing from the record until a recall or an adverse event requires it, at which point the patient cannot be identified as having received the affected lot. The harm is that a recalled lot cannot be traced to the patient (so the patient is not notified and re-vaccinated), or an adverse event cannot be linked to the lot (so the signal is missed). The fix is to capture the lot number at every administration (from the vial, before it is discarded), to require it in the documentation, and to report it to the immunization registry.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each vaccine administered, did I verify and use the correct route, site, needle gauge, needle length, and angle for the specific vaccine and the specific patient (adjusting for age, size, and muscle mass)?
@@ -60,3 +68,4 @@ The lot number is the link between the patient and the vaccine's manufacturing a
 - Is epinephrine immediately available at the immunization site (not stored elsewhere), is the dose known (adult and pediatric by weight), is the route known (IM, anterolateral thigh), and is there a practiced response plan with EMS activation?
 - Did I document the administration completely — vaccine type, brand, manufacturer, lot number, expiration, patient, date, site, route, dose, administering pharmacist, and the VIS edition provided?
 - Did I report the administration to the immunization registry within the required timeframe, so the record supports catch-up scheduling, prevents duplicate vaccination, and enables public health surveillance?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

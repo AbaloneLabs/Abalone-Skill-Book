@@ -84,3 +84,4 @@ Stories completed by opinion rather than verification. The trap is disputes and 
 - [ ] Testable is verified through objective acceptance criteria that define done without subjective judgment.
 - [ ] INVEST is applied as diagnosis pointing to specific remedies, not as pass-fail gatekeeping.
 - [ ] The rigor of application matches the context, with higher standards for near-term planning.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

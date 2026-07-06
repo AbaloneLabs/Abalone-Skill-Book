@@ -78,6 +78,10 @@ Pain is documented as "6/10" without quality (burning, sharp, throbbing), locati
 
 Pressure injuries develop where they are not looked at: the sacrum, heels, occiput, and under devices. The mechanism is that inspecting these areas requires repositioning an immobile, heavy, or uncomfortable patient, which takes time and effort, so the nurse documents "skin intact" based on what was visible without turning. The harm is that the earliest pressure injuries — non-blanchable erythema over a bony prominence — develop exactly where no one looked, progress to deeper injury, and are then discovered late when they are harder to treat and are classified as hospital-acquired harm. The defense is to always complete the skin assessment including high-risk areas under devices, to use help to turn the patient when needed, to document a baseline on admission so later injuries can be correctly staged, and to never document skin integrity for an area that was not visually inspected.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I tailor the depth of the exam to the patient's acuity and at-risk systems, rather than applying a uniform checklist?

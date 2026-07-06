@@ -52,8 +52,7 @@ Track why exceptions happen: missing master data, late invoices, wrong Incoterms
 - Letting storage, demurrage, and detention charges accumulate while no one owns a decision.
 - Treating tracking milestones as sufficient visibility without cause, next action, and owner.
 - Using one provider globally without checking country-specific licensing, commodity expertise, or language support.
-- Failing to control provider access to sensitive product, customer, or pricing data.
-- Closing exceptions once the shipment releases without fixing the master data or SOP issue that caused the hold.
+- Failing to control provider access to sensitive product, customer, or pricing data; closing exceptions once the shipment releases without fixing the master data or SOP issue that caused the hold
 
 ## Self-Check
 

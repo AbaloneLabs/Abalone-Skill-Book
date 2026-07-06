@@ -153,6 +153,10 @@ Border adjustments create reporting and cost obligations along the supply chain.
 
 Declining caps and expanding coverage make static assumptions misallocate capital.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is allowance allocation, banking, and surrender managed precisely with registry tracking, deadline awareness, banking and borrowing rules, and reconciliation against verified emissions?

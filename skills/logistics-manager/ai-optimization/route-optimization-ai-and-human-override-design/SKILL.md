@@ -70,12 +70,9 @@ The goal is not to win arguments against dispatchers. The goal is to make the ro
 - Using generic stop service times that ignore product, paperwork, customer wait, and reverse flow.
 - Allowing dispatchers to override without reason codes, or blocking overrides that protect service and safety.
 - Optimizing route density while violating driver safety, breaks, hours, or return timing.
-- Reporting planned mileage savings without measuring actual execution and reattempt costs.
-- Dynamically changing routes after departure without communicating to drivers, customers, and warehouses.
-- Improving route efficiency internally while leaving customer ETAs, appointments, and service teams outdated.
-- Ignoring driver feedback because it is anecdotal.
-- Leaving recurring route problems in dispatcher memory instead of master data.
-- Letting incentives push drivers to complete routes that are not safe or realistic.
+- Reporting planned mileage savings without measuring actual execution and reattempt costs; dynamically changing routes after departure without communicating to drivers, customers, and warehouses
+- Improving route efficiency internally while leaving customer ETAs, appointments, and service teams outdated; ignoring driver feedback because it is anecdotal
+- Leaving recurring route problems in dispatcher memory instead of master data; letting incentives push drivers to complete routes that are not safe or realistic
 
 ## Self-Check
 

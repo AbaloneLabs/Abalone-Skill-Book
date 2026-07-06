@@ -54,8 +54,7 @@ Travelers should know what to do if ticket inspection occurs, a train is delayed
 - Buying flexible products for an itinerary that is otherwise locked.
 - Ignoring missed-train rules and operator boundaries.
 - Choosing third-party convenience without considering changes and disruption support.
-- Forgetting accessibility, luggage, seat type, and station transfer needs.
-- Leaving travelers with tickets in an app only, with no offline backup.
+- Forgetting accessibility, luggage, seat type, and station transfer needs; leaving travelers with tickets in an app only, with no offline backup
 
 ## Self-Check
 

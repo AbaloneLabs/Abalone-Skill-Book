@@ -61,6 +61,10 @@ A therapist may end treatment when the client achieves abstinence, treating abst
 
 A therapist may impose a generic relapse prevention plan, based on a template, without tailoring it to the client's specific triggers, situations, and resources, and the plan is not used because it does not fit. The mechanism is that a generic plan is efficient, and the therapist, pressed for time, uses a template, when the plan must be tailored to the individual to be useful. The harm is that the client has a plan that does not address their actual risks, and they relapse, because the plan was generic. Building a collaborative, concrete, tailored plan, owned by the client, is what makes it useful.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the relapse prevention plan collaborative, concrete, tailored, written, and reviewed regularly?

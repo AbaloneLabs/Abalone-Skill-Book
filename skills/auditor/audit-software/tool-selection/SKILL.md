@@ -195,5 +195,4 @@ A successful pilot at small scale does not guarantee performance at engagement p
 - Does the tool integrate with firm systems, client data sources, and reporting workflows without forcing manual workarounds?
 - Is total cost of ownership analyzed, including implementation, training, support, and scaling, not just license price?
 - Is vendor risk assessed for financial stability, product maturity, support, and exit or data portability options?
-- Has the build-versus-buy decision been made on fit and sustainability, accounting for governance and maintenance of custom tools?
-- Does the tool's strength align with the dominant engagement type (financial, internal, IT, performance, forensic)?
+- Has the build-versus-buy decision been made on fit and sustainability, accounting for governance and maintenance of custom tools?; does the tool's strength align with the dominant engagement type (financial, internal, IT, performance, forensic)?

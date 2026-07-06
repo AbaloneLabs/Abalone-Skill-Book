@@ -70,12 +70,9 @@ Awards mistakes can be deeply personal and hard to correct live. Proofing is par
 - Using one script file for presenters, teleprompter, trophy crew, press, and volunteers despite different confidentiality needs.
 - Rehearsing general show flow but not winner reveal mechanics.
 - Forgetting trophy order, envelope custody, and backup envelopes.
-- Giving presenters scripts without pronunciation or stage instructions.
-- Seating finalists where they cannot reach the stage quickly or accessibly.
-- Having no plan for absent winners, long speeches, or political remarks.
-- Publishing slides or programs with unproofed names and categories.
-- Allowing sponsors to alter category language at the last minute.
-- Assuming AV can infer cues from a script alone.
+- Giving presenters scripts without pronunciation or stage instructions; seating finalists where they cannot reach the stage quickly or accessibly
+- Having no plan for absent winners, long speeches, or political remarks; publishing slides or programs with unproofed names and categories
+- Allowing sponsors to alter category language at the last minute; assuming AV can infer cues from a script alone
 
 ## Self-Check
 

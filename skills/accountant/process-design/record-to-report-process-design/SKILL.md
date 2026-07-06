@@ -158,11 +158,9 @@ Cutting reconciliation, review, or approval to close faster produces unreliable 
 
 A process that is never reviewed accumulates inefficiency and control drift.
 
-### Reporting That Misses Decisions
+### Reporting That Misses Decisions and process Design Without Framework Review
 
 Statements and reports that arrive too late or lack needed dimensions reduce R2R's value.
-
-### Process Design Without Framework Review
 
 R2R must implement framework-compliant policy confirmed by qualified professionals.
 

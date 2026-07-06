@@ -105,6 +105,10 @@ A product is substituted during construction, a faucet, a door closer, a dispens
 
 The architect details accessibility from remembered dimensions rather than the current standard, and small errors accumulate: a reach range slightly off, a clearance slightly small, a slope slightly steep. The trap is that memory feels reliable because the dimensions are familiar, while standards are revised and memories are approximations. The false signal is the confidence of the detailer, which appears experienced while encoding values that may be wrong or outdated. The harm is systematic minor non-compliance, each error small enough to seem trivial but collectively exposing the project, and a defense undermined because the errors show the standard was not consulted, suggesting negligence rather than good-faith error.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the layered legal structure, ADA, ICC A117.1, and local code scoping, understood, with the more stringent requirement applied where they conflict?
@@ -114,3 +118,4 @@ The architect details accessibility from remembered dimensions rather than the c
 - [ ] Are alteration, existing-building, path-of-travel, and feasibility rules correctly applied and documented?
 - [ ] Is compliance documented in a matrix, reviewed in submittals, and verified during construction observation?
 - [ ] Has an accessibility specialist been engaged for plan review or field verification where the project complexity warrants it?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

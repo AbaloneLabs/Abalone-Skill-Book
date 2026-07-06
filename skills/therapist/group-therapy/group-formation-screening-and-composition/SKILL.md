@@ -61,6 +61,10 @@ A therapist may fail to prepare members for the group's demands, sending them in
 
 A therapist may ignore violations of the group agreements, such as lateness, absenteeism, breaking confidentiality, or outside contact, hoping they will resolve, and the violations erode the group's safety and norms. The mechanism is that addressing violations is uncomfortable, and the therapist, avoiding the discomfort, lets them pass, when unaddressed violations signal that the agreements do not matter. The harm is that the group's safety erodes, members become cynical or anxious, and the norms that allow the work break down. Addressing violations directly, early and consistently, is what maintains the group's safety and norms.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I screen each member individually for suitability and fit before offering a place?

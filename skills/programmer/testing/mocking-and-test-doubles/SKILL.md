@@ -85,13 +85,11 @@ Decide per project, and ideally per test, which pressure matters more:
 
 A common, durable compromise is classical by default and London at the seams where interaction is the contract. Mixing the two is fine; the error is applying one style dogmatically to a unit where the other fits.
 
-### Prefer Hand-Rolled Fakes Over Heavy Frameworks Where Behavior Matters
+### Prefer Hand-Rolled Fakes Over Heavy Frameworks Where Behavior Matters and keep Doubles Close To The Real Interface
 
 Mocking frameworks make it cheap to program a double's return values and expectations inline, and that cheapness encourages over-use. For a one-off stubbed query, a framework is appropriate. For a collaborator used across many tests, a hand-rolled fake — a small class implementing the real interface with in-memory semantics — is usually better: it is shared, it evolves with the interface, it expresses real behavior rather than per-test expectations, and it does not require every test to re-state the collaborator's contract.
 
 Reach for the framework when the double is trivial and local; reach for a fake when the collaborator is stateful, shared, or behaviorally meaningful. The trap is reaching for the framework by reflex and ending up with a suite where every test re-programs the same collaborator's behavior from scratch.
-
-### Keep Doubles Close To The Real Interface
 
 A double that drifts from the real interface is worse than no double, because it makes tests pass against a fictional collaborator. Keep doubles honest by deriving them from the same interface the real implementation satisfies, and by having at least one integration test that exercises the real implementation so the contract is verified somewhere. A suite where every collaborator is doubled and the real integrations are never exercised can be entirely green while the system is broken.
 
@@ -139,7 +137,5 @@ A suite where every external dependency is mocked verifies only that the code un
 - [ ] No test required private-field reflection, access-modifier weakening, or test-only constructors to inject a double; dependencies are explicit in the public interface.
 - [ ] Pure functions and value objects are used for real, not doubled.
 - [ ] At least one integration tier exercises the real collaborator for each doubled dependency, so the contract the double assumes is verified somewhere.
-- [ ] The mocking style (London/classical) was chosen per project or per test based on whether the unit's interactions are the design or whether real collaboration should be verified, not applied dogmatically.
-- [ ] Framework doubles are used for trivial, local stubs; stateful or shared collaborators are backed by hand-rolled fakes rather than re-programmed per test.
-- [ ] For each mock expectation, a refactor that preserves behavior but changes internal calls would still pass the test; if not, the test is coupled to implementation.
-- [ ] The bug being investigated is not in a collaborator that was doubled away to make the test pass.
+- [ ] The mocking style (London/classical) was chosen per project or per test based on whether the unit's interactions are the design or whether real collaboration should be verified, not applied dogmatically; [ ] Framework doubles are used for trivial, local stubs; stateful or shared collaborators are backed by hand-rolled fakes rather than re-programmed per test
+- [ ] For each mock expectation, a refactor that preserves behavior but changes internal calls would still pass the test; if not, the test is coupled to implementation; [ ] The bug being investigated is not in a collaborator that was doubled away to make the test pass

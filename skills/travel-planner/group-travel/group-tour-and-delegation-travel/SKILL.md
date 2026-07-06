@@ -137,11 +137,9 @@ Group trips need clear ownership for practical tasks. Assign who manages documen
 
 The matrix does not need to be bureaucratic for small groups, but it should prevent "everyone thought someone else had it" failures. Large groups especially need written ownership before deposits are paid.
 
-### Plan For Group Member Exceptions
+### Plan For Group Member Exceptions and protect Privacy While Collecting Data
 
 Someone may arrive late, lose a passport, get sick, skip an activity, or need a different meal. Define how the group continues while that person receives help. The whole itinerary should not depend on every person moving perfectly together all the time.
-
-### Protect Privacy While Collecting Data
 
 Groups often require passports, birth dates, medical notes, dietary needs, rooming preferences, and emergency contacts. Collect only what is necessary, store it carefully, and avoid sharing sensitive details with the full group. Suppliers should receive operational needs, not unnecessary personal history. Privacy discipline builds trust and reduces avoidable exposure.
 

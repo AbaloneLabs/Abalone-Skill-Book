@@ -70,12 +70,9 @@ Do not present a winter plan as static. The plan should include how to monitor a
 - Planning night mountain driving after a long flight.
 - Underestimating ski gear and winter clothing volume in luggage and vehicles.
 - Giving vague packing advice that ignores wet cold, wind, altitude, and activity type.
-- Scheduling fixed commitments too soon after winter arrival.
-- Moving travelers toward a mountain or remote area before confirming suppliers and roads are still operating.
-- Ignoring daylight limits and cold fatigue.
-- Booking remote cabins without confirming plowed access, heat, check-in, and emergency contacts.
-- Assuming shuttles, ferries, and lifts run normally in storms.
-- Failing to recheck official conditions close to departure.
+- Scheduling fixed commitments too soon after winter arrival; moving travelers toward a mountain or remote area before confirming suppliers and roads are still operating
+- Ignoring daylight limits and cold fatigue; booking remote cabins without confirming plowed access, heat, check-in, and emergency contacts
+- Assuming shuttles, ferries, and lifts run normally in storms; failing to recheck official conditions close to departure
 
 ## Self-Check
 

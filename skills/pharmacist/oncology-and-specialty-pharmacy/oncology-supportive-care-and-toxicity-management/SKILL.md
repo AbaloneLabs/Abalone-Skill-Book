@@ -29,6 +29,10 @@ The oncology patient manages much of their toxicity at home (the nausea, the dia
 
 The supportive care for the oncology patient involves the prescriber (the oncologist who orders the regimen and the modifications), the pharmacist (who verifies, dispenses, counsels, and monitors), the nurse (who administers, assesses, and educates), and the patient (who self-manages and reports), and the coordination across the team and the cycle is what makes the supportive care coherent. The pharmacist must communicate the supportive care plan to the team (the antiemetic regimen, the growth factor support, the toxicity monitoring plan, the dose modifications), must ensure the patient has the medications and the instructions before the cycle starts (the antiemetics filled, the G-CSF arranged, the supportive agents available), and must follow up across the cycle (the toxicity check at the expected nadir, the response to the breakthrough symptoms, the assessment before the next cycle). The pharmacist must recognize that the supportive care is a cycle-spanning process, not a single dispensing event, and that the patient who is supported across the cycle (with the prophylaxis, the monitoring, the follow-up) completes the regimen, while the patient who is supported only at the dispensing may not.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Under-Prophylaxing a Highly Emetic Regimen
@@ -51,6 +55,10 @@ The counseling on the expected toxicities and the self-management is delivered (
 
 The supportive care is dispensed at the start of the cycle (the antiemetics, the G-CSF, the supportive agents), and the pharmacist who treats the dispensing as the completion of the supportive care misses the cycle-spanning process (the toxicity at the nadir, the breakthrough symptoms, the assessment before the next cycle). The trap is that the dispensing is the visible event, so the follow-up is not built into the workflow, and the patient manages the toxicity alone between the cycles. The harm is the unmanaged toxicity (the breakthrough CINV, the unrecognized FN, the severe mucositis) that the follow-up would have caught, and the harm may result in a hospitalization or a regimen discontinuation. The fix is to build the cycle-spanning follow-up into the supportive care (the toxicity check at the expected nadir, the response to the breakthrough, the assessment before the next cycle), treating the supportive care as a process that spans the cycle rather than an event at its start.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each chemotherapy regimen, did I classify the emetic risk and apply the guideline-directed prophylaxis (four-drug for high, three-drug or two-drug for moderate, single-agent for low) for both the acute and the delayed phases, including olanzapine for high-risk regimens?
@@ -60,3 +68,4 @@ The supportive care is dispensed at the start of the cycle (the antiemetics, the
 - Did I counsel the patient on each expected toxicity (recognition, self-management, warning signs, when to call, when to seek emergency care), and did I verify the understanding with the teach-back and provide written instructions?
 - Did I coordinate the supportive care across the team and the cycle (the plan communicated, the medications available before the cycle, the follow-up at the nadir and before the next cycle), treating the supportive care as a cycle-spanning process rather than a single dispensing?
 - Did I avoid the under-prophylaxis of emesis, the withholding of growth factor support, the continuation at full dose despite toxicity, the unverified counseling, and the single-event supportive care that produce the predictable oncology harms?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

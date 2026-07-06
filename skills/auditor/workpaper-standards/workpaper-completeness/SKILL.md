@@ -105,10 +105,8 @@ The final completeness check should be performed by someone with sufficient pers
 - **Open items, exceptions, or passed adjustments left unresolved** at file completion.
 - **Concluding sufficient appropriate evidence without aggregating** across the file to confirm it.
 - **Significant judgements documented only as conclusions**, without basis, alternatives, or consultation.
-- **Under-documenting disclosures** relative to the primary statements.
-- **A file still being changed after the report date**, or lacking final sign-offs.
-- **Skipping the independent cross-file review**, missing gaps that the close team cannot see.
-- **Treating completeness as a clerical task** rather than a substantive assurance that the file supports the opinion.
+- **Under-documenting disclosures** relative to the primary statements; **A file still being changed after the report date**, or lacking final sign-offs
+- **Skipping the independent cross-file review**, missing gaps that the close team cannot see; **Treating completeness as a clerical task** rather than a substantive assurance that the file supports the opinion
 
 ## Self-Check
 

@@ -105,6 +105,10 @@ Submitting the Part 2 description of proposed work after the design is complete 
 
 Allowing construction to deviate from the Part 2-approved work — substituting materials, altering treatments, demolishing features that were to be retained — because the field conditions or contractor preferences drove changes, jeopardizes Part 3 certification and the credits. The trap is that each change feels minor and field-driven, so no one flags it, while in reality the cumulative deviations may no longer meet the Standards, and Part 3 certification — based on what was actually built — is denied. The harm is forfeited credits, financial loss, and sometimes remediation. Communicating Standards constraints to the construction team, reviewing all changes against the approved work, and documenting construction thoroughly for Part 3 are what protect the credits through to certification.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the property's certified historic structure status been confirmed through Part 1 submission before design is committed?

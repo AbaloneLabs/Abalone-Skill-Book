@@ -112,3 +112,4 @@ When a high-coupon prerefunded bond is called, the investor receives cash to rei
 - [ ] The issuer's refunding economics and incentives are assessed, and callable bonds trading above par are flagged as call candidates.
 - [ ] Residual risks (rate, reinvestment, liquidity, escrow-asset, tax-law) are identified after defeasance.
 - [ ] The conclusion avoids presenting a prerefunded bond as identical to the original and references the investor's income objective and reinvestment horizon.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

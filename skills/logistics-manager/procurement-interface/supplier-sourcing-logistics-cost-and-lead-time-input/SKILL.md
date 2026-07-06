@@ -57,13 +57,11 @@ If sourcing runs for months, update freight rates, fuel, port conditions, duties
 
 Market conditions change faster than some bid calendars. Revalidate the logistics model before commitment.
 
-### Document assumptions and owners
+### Document assumptions and owners and run sensitivity analysis on key assumptions
 
 Record freight rates, fuel assumptions, duties, lead times, MOQ, pack size, service level, inventory assumptions, and who owns updates. Sourcing models should be auditable when actuals differ.
 
 Without documented assumptions, teams argue later about whether sourcing savings were real.
-
-### Run sensitivity analysis on key assumptions
 
 Test what happens if freight rates rise, fuel changes, port dwell increases, lead time slips, MOQ grows, duty changes, demand falls, or air expedite is needed. Identify which supplier options are fragile under plausible changes.
 
@@ -76,12 +74,9 @@ Sourcing decisions should not depend on one perfect scenario. Sensitivity analys
 - Treating lead time as a single value and ignoring variability and inspection time.
 - Selecting suppliers without testing ASN, labels, documents, packaging, and visibility capability.
 - Ignoring MOQ, case pack, pallet, container, and packaging effects on inventory and freight.
-- Choosing lowest source without resilience or recovery options.
-- Leaving supplier logistics performance out of scorecards and sourcing decisions.
-- Letting old freight, fuel, duty, lead-time, port, packaging, and capacity assumptions survive to final award.
-- Forgetting customs, duties, brokerage, and import document complexity in cost comparisons.
-- Failing to document assumptions for later variance and savings review.
-- Selecting a supplier based on one scenario without testing rate, fuel, lead-time, MOQ, duty, and expedite sensitivity.
+- Choosing lowest source without resilience or recovery options; leaving supplier logistics performance out of scorecards and sourcing decisions
+- Letting old freight, fuel, duty, lead-time, port, packaging, and capacity assumptions survive to final award; forgetting customs, duties, brokerage, and import document complexity in cost comparisons
+- Failing to document assumptions for later variance and savings review; selecting a supplier based on one scenario without testing rate, fuel, lead-time, MOQ, duty, and expedite sensitivity
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Sourcing decisions should not depend on one perfect scenario. Sensitivity analys
 - Is supplier history for ready date, damage, shortages, documents, customs, expedite, quality, and responsiveness included?
 - Are freight, fuel, port, duty, exchange, lead-time, packaging, and capacity assumptions refreshed before award?
 - Are freight, fuel, duty, lead time, MOQ, service, inventory, and ownership assumptions documented?
-- Has sensitivity analysis tested freight, fuel, port dwell, lead time, MOQ, duty, demand, and expedite scenarios?
-- Can procurement compare suppliers by real logistics cost, risk, and lead-time impact?
+- Has sensitivity analysis tested freight, fuel, port dwell, lead time, MOQ, duty, demand, and expedite scenarios?; can procurement compare suppliers by real logistics cost, risk, and lead-time impact?

@@ -54,8 +54,7 @@ Caregiver roles should be realistic. If one adult is managing luggage, documents
 - Renting safety-critical gear without confirming type, availability, cleanliness, condition, and installation responsibility.
 - Ignoring child document requirements, consent letters, custody issues, or surname mismatches until departure.
 - Choosing lodging by star rating rather than sleep setup, kitchen access, laundry, noise, and midday return feasibility.
-- Planning late dinners or long transfers immediately after arrival when time-zone change and child fatigue are highest.
-- Packing critical formula, medication, diapers, or comfort items in checked luggage only.
+- Planning late dinners or long transfers immediately after arrival when time-zone change and child fatigue are highest; packing critical formula, medication, diapers, or comfort items in checked luggage only
 
 ## Self-Check
 

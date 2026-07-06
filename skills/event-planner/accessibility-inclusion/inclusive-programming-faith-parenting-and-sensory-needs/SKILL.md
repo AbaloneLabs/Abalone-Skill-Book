@@ -58,8 +58,7 @@ Inclusive supports often fail during peak pressure: registration rush, meal serv
 - Adding childcare without safeguarding, staffing, insurance, and check-in/out planning.
 - Using loud music, flashing lights, scent, or forced interaction without warning or alternative.
 - Treating parents, religious attendees, or sensory-sensitive attendees as exceptions to be handled privately.
-- Collecting needs but failing to confirm support.
-- Forgetting staff and volunteers also may need inclusive supports.
+- Collecting needs but failing to confirm support; forgetting staff and volunteers also may need inclusive supports
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Inclusive supports often fail during peak pressure: registration rush, meal serv
 - Does the agenda offer legitimate alternatives to alcohol-centered, late-night, loud, or forced-participation activities?
 - Are supports communicated clearly and respectfully before and during the event?
 - Is privacy protected when attendees use supports?
-- Are staff trained to direct attendees without judgment or confusion?
-- Have inclusion supports been checked during peak arrival, meal, transition, reception, and departure periods?
+- Are staff trained to direct attendees without judgment or confusion?; have inclusion supports been checked during peak arrival, meal, transition, reception, and departure periods?

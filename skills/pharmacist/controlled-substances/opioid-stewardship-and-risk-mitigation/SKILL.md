@@ -29,6 +29,10 @@ When the opioid risks have come to exceed the benefits — high MME without func
 
 Opioid stewardship is not only about reducing opioids; it is about ensuring effective pain management through safer means. The pharmacist should be familiar with non-opioid pharmacologic options (acetaminophen, NSAIDs, certain anticonvulsants and antidepressants for neuropathic pain, topical agents, muscle relaxants for specific indications) and their appropriate use, contraindications, and interactions. The pharmacist should also support non-pharmacologic approaches (physical therapy, exercise, cognitive behavioral therapy for pain, interventional procedures) by understanding their role and encouraging their integration. When a patient's pain is not controlled by opioids or when the opioid risks are high, the pharmacist should raise with the prescriber the option of a multimodal plan that reduces opioid reliance — not as a substitute for clinical judgment, but as a contribution of drug expertise to a shared plan.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Dose-as-Written Without MME Conversion
@@ -51,6 +55,10 @@ The pharmacist or prescriber identifies excessive opioid risk and stops the opio
 
 The pharmacist focuses on reducing the opioid without engaging the underlying pain that the opioid was treating. The mechanism is that the opioid is the visible risk, so reducing it is the visible task. The false signal is that the opioid dose is decreasing, so stewardship is succeeding. The harm is that unmanaged pain drives both non-adherence to the taper and the substitution of illicit opioids or alcohol, and the patient whose pain is untreated is not improved by the opioid reduction. Effective stewardship integrates the opioid reduction with a plan for the pain — non-opioid medications, non-pharmacologic therapies, and the prescriber's clinical reassessment — or the taper fails and the patient is worse off.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I calculate the total daily MME across all opioids the patient is taking, and did I apply risk thresholds (50 MME/day, 90 MME/day) to determine the required safeguards?
@@ -59,3 +67,5 @@ The pharmacist focuses on reducing the opioid without engaging the underlying pa
 - When risks exceed benefits, did I support a coordinated, slow, individualized taper with the prescriber — addressing breakthrough symptoms and integrating behavioral support — rather than advocating abrupt discontinuation?
 - Did I integrate non-opioid and multimodal pain management options into the discussion with the prescriber and the patient, rather than treating the opioid in isolation from the underlying pain?
 - For any patient on opioids plus benzodiazepines, did I raise the combination with the prescriber and advocate for a plan, rather than normalizing the combination through familiarity?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

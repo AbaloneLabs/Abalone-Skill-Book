@@ -72,8 +72,7 @@ Repeated expedites are a process defect, not a heroic normal state.
 - Counting quarantined, damaged, wrong-label, or wrong-sequence parts as available coverage.
 - Approving premium freight without evidence, authority, or cost recovery path.
 - Forgetting returnable packaging, racks, totes, inserts, and dunnage as flow constraints.
-- Sending vague delay updates that do not include coverage hours and risk time.
-- Treating repeated premium recovery as normal rather than root-cause evidence.
+- Sending vague delay updates that do not include coverage hours and risk time; treating repeated premium recovery as normal rather than root-cause evidence
 
 ## Self-Check
 

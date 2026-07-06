@@ -60,12 +60,9 @@ Even compliant visitors create pressure when many ships or groups visit the same
 - Arriving with contaminated boots, Velcro, tripods, or hiking gear.
 - Pressuring guides for closer wildlife photos.
 - Stepping off marked paths because the ground looks durable.
-- Bringing or flying drones without current authorization.
-- Ignoring polar bear, cold exposure, zodiac, sea ice, and evacuation risks.
-- Photographing communities, staff, or passengers without consent.
-- Treating guide enforcement as bad service instead of required environmental protection.
-- Booking special photography, filming, collecting, or research expectations without checking permits.
-- Ignoring Indigenous and local community protocols in Arctic settlements.
+- Bringing or flying drones without current authorization; ignoring polar bear, cold exposure, zodiac, sea ice, and evacuation risks
+- Photographing communities, staff, or passengers without consent; treating guide enforcement as bad service instead of required environmental protection
+- Booking special photography, filming, collecting, or research expectations without checking permits; ignoring Indigenous and local community protocols in Arctic settlements
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Even compliant visitors create pressure when many ships or groups visit the same
 - Are cold, wind, wet clothing, slips, zodiacs, sea ice, glaciers, polar bear, and evacuation risks addressed?
 - Are drone, telephoto, geotagging, community photography, and consent issues handled responsibly?
 - Does the traveler understand that guides may deny landing, require cleaning, stop behavior, or report violations?
-- Have special filming, research, collecting, mobility, or photography goals been checked against permits and site rules?
-- Are local and Indigenous community protocols, capacity, waste, and consent included where relevant?
+- Have special filming, research, collecting, mobility, or photography goals been checked against permits and site rules?; are local and Indigenous community protocols, capacity, waste, and consent included where relevant?

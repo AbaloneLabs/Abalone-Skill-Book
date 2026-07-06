@@ -57,13 +57,11 @@ Track pick status, pack completion, staging, loading start, trailer seal, depart
 
 Outbound planning is incomplete until the shipment leaves with the right records and customer visibility.
 
-### Plan recovery for missed appointments
+### Plan recovery for missed appointments and review service failures by planning cause
 
 If a delivery appointment is at risk, define when to request a new appointment, upgrade mode, split the load, hold the shipment, notify the customer, or escalate commercially. Track detention, storage, and penalty exposure.
 
 Missed appointments can create more cost than late transit alone. Recovery should be chosen before the trailer arrives to a closed or full receiving dock.
-
-### Review service failures by planning cause
 
 Late deliveries, missed appointments, partials, accessorials, refused loads, and customer complaints should be traced to release timing, picking, staging, carrier capacity, load build, documentation, or promise setting.
 
@@ -76,12 +74,9 @@ Root cause should improve future load planning rather than only explain failure.
 - Building loads by destination while ignoring cube, weight, compatibility, unload method, and stop order.
 - Planning outbound volume without dock doors, trailers, drivers, yard, and labor capacity.
 - Delaying orders for consolidation without understanding service impact.
-- Treating documents as afterthoughts after the trailer is loaded.
-- Capturing proof of delivery that does not support the customer's commitment, claim, or penalty process.
-- Failing to monitor whether tendered loads actually departed as planned.
-- Waiting until a truck misses an appointment before deciding recovery, penalty, and customer communication.
-- Blaming carriers for delays caused by late release, poor staging, or incomplete paperwork.
-- Ignoring refused loads and accessorials as signals of load-planning defects.
+- Treating documents as afterthoughts after the trailer is loaded; capturing proof of delivery that does not support the customer's commitment, claim, or penalty process
+- Failing to monitor whether tendered loads actually departed as planned; waiting until a truck misses an appointment before deciding recovery, penalty, and customer communication
+- Blaming carriers for delays caused by late release, poor staging, or incomplete paperwork; ignoring refused loads and accessorials as signals of load-planning defects
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Root cause should improve future load planning rather than only explain failure.
 - Does proof of delivery capture time, recipient, condition, shortages, overages, seal, temperature, and appointment outcome?
 - Is execution monitored from pick through pack, stage, load, seal, departure, ETA, and delivery?
 - Are missed-appointment recovery options, customer notices, mode upgrades, holds, penalties, and cost owners defined?
-- Are service failures traced to release, pick, stage, carrier, load build, documents, or promise setting?
-- Does outbound planning protect customer commitments while using capacity intelligently?
+- Are service failures traced to release, pick, stage, carrier, load build, documents, or promise setting?; does outbound planning protect customer commitments while using capacity intelligently?

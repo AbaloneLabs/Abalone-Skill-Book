@@ -176,5 +176,4 @@ Failing to compare last year's estimates to this year's actuals forfeits the str
 - For inventory, was net realizable value tested against current selling prices and costs to complete?
 - Was a retrospective review of prior estimates performed and used to assess management bias?
 - Are disclosure of key assumptions, estimation uncertainty, hierarchy levels, and sensitivity consistent with the testing performed?
-- Were highly sensitive assumptions subjected to sensitivity analysis?
-- Is the valuation conclusion documented with the evidence supporting each material assumption?
+- Were highly sensitive assumptions subjected to sensitivity analysis?; is the valuation conclusion documented with the evidence supporting each material assumption?

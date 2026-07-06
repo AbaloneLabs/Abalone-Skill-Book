@@ -54,8 +54,7 @@ Alcohol-related incidents can dominate post-event memory. Harassment, injury, pr
 - Providing weak nonalcoholic options, making abstaining guests feel excluded.
 - Asking volunteers or junior staff to confront intoxicated guests.
 - Allowing hosts or VIPs to override bartender refusal decisions.
-- Ending the event late in a remote area without safe transport options.
-- Tracking beverage cost but not consumption risk, overtime, service charges, and incident exposure.
+- Ending the event late in a remote area without safe transport options; tracking beverage cost but not consumption risk, overtime, service charges, and incident exposure
 
 ## Self-Check
 

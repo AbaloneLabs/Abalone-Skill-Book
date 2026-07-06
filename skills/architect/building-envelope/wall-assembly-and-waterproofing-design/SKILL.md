@@ -102,6 +102,10 @@ Placing a vapor barrier, such as a polyethylene sheet, on the interior of a wall
 
 Mechanical louvers, plumbing vents, electrical conduits, and equipment supports penetrate the envelope without coordinated detailing, and the contractor seals them in the field with whatever is available. The trap is that penetrations are treated as other trades' concerns, so they fall through the coordination gap between disciplines. The harm is that each uncoordinated penetration is a potential leak and air-infiltration point, and the field-sealed solutions are inconsistent and often inadequate, compromising the carefully designed control layers around them. The false signal is that the penetration is small and the other trade will handle it. Coordinating every penetration through integrated details, showing the sleeve, the seal, and the flashing, is what keeps the envelope intact at the points where it is most vulnerable.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the water management strategy, barrier, drainage, or rainscreen, been selected deliberately based on climate, exposure, and building height, with the rationale documented?
@@ -110,3 +114,5 @@ Mechanical louvers, plumbing vents, electrical conduits, and equipment supports 
 - [ ] Has vapor control been located according to the specific climate, and can the assembly dry to at least one side, with hygrothermal modeling used for complex or high-performance walls?
 - [ ] Are structural thermal bridges, fenestration perimeters, and mechanical penetrations coordinated in the details rather than left to field resolution?
 - [ ] Are flashing materials specified to be compatible and durable, with through-wall flashing at horizontal interruptions and weep openings provided and protected?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

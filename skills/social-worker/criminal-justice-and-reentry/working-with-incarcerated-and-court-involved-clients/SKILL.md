@@ -55,6 +55,10 @@ Release planning is often deferred until the client is near release, when the wi
 
 The client who is released may lose contact with the worker who provided services during incarceration, because the worker's role was tied to the institutional setting. The trap is treating release as the end of the worker's involvement, when the release period is the highest-risk and highest-need period. The harm is that the client enters the community without the continuity of the relationship that sustained them during incarceration. The mechanism is that institutional roles end at release and community roles begin, with no bridge between them. The corrective is to plan for continuity — warm handoffs to community providers, records transfer, follow-up contact — and to maintain the relationship across the transition where the worker's role permits.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I learn the setting's protocols and constraints before engaging, rather than assuming community norms?

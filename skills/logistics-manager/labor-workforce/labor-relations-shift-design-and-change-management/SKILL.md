@@ -57,13 +57,11 @@ During changeover, productivity may dip and supervision demand may rise. Add tra
 
 Do not expect new schedules and work rules to perform at steady state on day one.
 
-### Track outcomes and adjust
+### Track outcomes and adjust and treat grievances and complaints as early warning
 
 After implementation, review service, cost, overtime, absence, turnover, safety, quality, grievances, and employee feedback. Adjust shift rules, staffing, training, or process design when evidence shows problems.
 
 Change is complete only when the operation is stable and people know how to work the new model.
-
-### Treat grievances and complaints as early warning
 
 Repeated complaints about assignments, standards, safety, favoritism, overtime, or supervisor behavior often signal a design issue before it becomes a labor dispute or service failure. Track themes and respond through the agreed process.
 
@@ -76,12 +74,9 @@ Do not dismiss informal complaints as noise. They may reveal unclear rules, poor
 - Ignoring fatigue, night work, commute, overtime, and safety risk.
 - Announcing changes before supervisors can explain them accurately.
 - Treating frontline feedback as resistance rather than operational information.
-- Changing productivity targets before training and system data are stable.
-- Creating attendance, overtime, weekend, or shift-bidding rules that appear arbitrary or unfair.
-- Assuming new shifts reach steady-state performance immediately.
-- Ignoring grievances, absenteeism, turnover, and quality errors after rollout.
-- Dismissing repeated complaints before they become formal disputes, safety events, or turnover.
-- Letting labor relations issues become service failures before escalation.
+- Changing productivity targets before training and system data are stable; creating attendance, overtime, weekend, or shift-bidding rules that appear arbitrary or unfair
+- Assuming new shifts reach steady-state performance immediately; ignoring grievances, absenteeism, turnover, and quality errors after rollout
+- Dismissing repeated complaints before they become formal disputes, safety events, or turnover; letting labor relations issues become service failures before escalation
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Do not dismiss informal complaints as noise. They may reveal unclear rules, poor
 - Are attendance, overtime, shift bidding, weekends, holidays, transportation, and exception rules transparent and fair?
 - Are trainers, floaters, HR, safety, supervision, and buffers planned for transition?
 - Are service, cost, overtime, absence, turnover, safety, quality, grievances, and feedback monitored after rollout?
-- Are complaints and grievance themes reviewed for rule clarity, supervisor behavior, safety, and process design issues?
-- Can the workforce model operate without relying on unmanaged conflict or exhaustion?
+- Are complaints and grievance themes reviewed for rule clarity, supervisor behavior, safety, and process design issues?; can the workforce model operate without relying on unmanaged conflict or exhaustion?

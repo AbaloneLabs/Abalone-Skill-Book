@@ -84,3 +84,4 @@ Imposing rigid planning on an exploratory product or chaotic planning on a commi
 - [ ] Stakeholder expectations about uncertainty are managed continuously, not only when changes occur.
 - [ ] The planning style, predictability or adaptability, is chosen deliberately based on context.
 - [ ] Historical unplanned-work rates are built into the plan so commitments are realistic.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

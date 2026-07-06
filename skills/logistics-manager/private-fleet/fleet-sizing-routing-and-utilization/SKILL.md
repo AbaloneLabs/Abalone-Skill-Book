@@ -71,10 +71,8 @@ Fleet size should evolve with the network. Fixed assets should not force outdate
 - Optimizing utilization while violating delivery windows, driver hours, or customer requirements.
 - Forgetting maintenance downtime and spare ratio in asset counts.
 - Using private fleet for low-density irregular lanes where carriers are better suited.
-- Hiding unprofitable routes or stops inside average fleet utilization metrics.
-- Measuring utilization by miles alone while ignoring empty miles, dwell, stops, and cube.
-- Letting owned assets drive route decisions after the network changes.
-- Ignoring backhaul potential and return-to-base timing.
+- Hiding unprofitable routes or stops inside average fleet utilization metrics; measuring utilization by miles alone while ignoring empty miles, dwell, stops, and cube
+- Letting owned assets drive route decisions after the network changes; ignoring backhaul potential and return-to-base timing
 
 ## Self-Check
 

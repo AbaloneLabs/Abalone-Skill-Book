@@ -70,12 +70,9 @@ A safe activation is one where staff can pause or close when conditions become u
 - Underestimating setup, ballast, power, weather, and trip hazards.
 - Training ambassadors only on slogans, not rules and escalation.
 - Sampling food, beauty, alcohol, or health products without compliance controls.
-- Touring a damaged or incomplete kit from stop to stop.
-- Losing brand consistency because remote teams lack setup references.
-- Failing to restock, clean uniforms, charge devices, and replace consumables.
-- Running mobile stops without daily field reports on proof, stock, incidents, feedback, and maintenance.
-- Ignoring staff breaks, restroom access, hydration, harassment, and stop-work authority.
-- Collecting no opening or closing proof from the field.
+- Touring a damaged or incomplete kit from stop to stop; losing brand consistency because remote teams lack setup references
+- Failing to restock, clean uniforms, charge devices, and replace consumables; running mobile stops without daily field reports on proof, stock, incidents, feedback, and maintenance
+- Ignoring staff breaks, restroom access, hydration, harassment, and stop-work authority; collecting no opening or closing proof from the field
 
 ## Self-Check
 

@@ -84,3 +84,4 @@ Exception data locked in individual approvals gives no view of concentration or 
 - Does each exception carry a remediation expectation, with chronic renewal escalated to a structural decision rather than perpetuated?
 - Is exception health reported to governance bodies, including population size, risk profile, renewal and closure rates, and orphan counts?
 - Could the organization demonstrate to an auditor that the exception population is actively governed, not merely recorded?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

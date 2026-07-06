@@ -70,12 +70,9 @@ For international groups, include local phone format and messaging app preferenc
 - Letting grocery, staff overtime, delivery, fuel, and cash expenses accumulate without approval and receipts.
 - Underestimating the need for cars or drivers because the map distance looks short.
 - Ignoring staff schedules and privacy boundaries.
-- Treating security as either irrelevant or alarmist rather than practical.
-- Bringing outside vendors without property approval.
-- Forgetting trash, laundry, linen, towels, gas, pool, and maintenance routines.
-- Sharing villa address, guest names, or gate codes too widely.
-- Not planning child safety around pools, balconies, stairs, and roads.
-- Giving travelers one generic contact instead of issue-specific support.
+- Treating security as either irrelevant or alarmist rather than practical; bringing outside vendors without property approval
+- Forgetting trash, laundry, linen, towels, gas, pool, and maintenance routines; sharing villa address, guest names, or gate codes too widely
+- Not planning child safety around pools, balconies, stairs, and roads; giving travelers one generic contact instead of issue-specific support
 
 ## Self-Check
 

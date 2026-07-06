@@ -29,6 +29,10 @@ Contamination control extends beyond compounding. Hazardous drugs must be receiv
 
 A hazardous drug spill is a foreseeable event, and the response must be planned, equipped, and rehearsed before it happens. Spill kits appropriate to the volume and type of hazardous drug must be available at every handling location, with contents including chemotherapy-rated gloves and gowns, respiratory protection, absorbent materials, a scoop and puncture-resistant sharps container, and hazardous waste bags. The spill procedure must be written, posted, and known: isolate the area, don full PPE including respiratory protection, contain the spill from the outside in, absorb liquids and collect solids, place all materials in hazardous waste, clean the area three times with appropriate detergent and then a deactivating agent where applicable, document the spill, and assess any personnel exposure. The pharmacist must not allow a spill to be cleaned with standard supplies by an unprepared worker, because that converts a contained event into a workforce exposure.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The "Just This Once" PPE Bypass
@@ -51,6 +55,10 @@ Work surfaces in the compounding area, storage area, and administration area acc
 
 A hazardous drug spill occurs and the responder uses whatever supplies are at hand — paper towels, standard gloves, a trash bag — because no spill kit is accessible or no one remembers the procedure. The mechanism is that the spill is unexpected and the responder acts on instinct with available materials. The false signal is that the spill was cleaned up, so it must be handled. The harm is that standard supplies do not contain the hazardous drug — they spread it, contaminate the responder's skin and airway, and place the residue in standard waste where it continues to expose workers downstream. Spill response must be pre-planned, with kits accessible and the procedure rehearsed, because the moment of the spill is the worst time to improvise contamination control.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I confirm the drug's hazardous status against the current facility NIOSH-based list before any handling, and is the list reviewed at least annually?
@@ -59,3 +67,5 @@ A hazardous drug spill occurs and the responder uses whatever supplies are at ha
 - Did I manage receiving, storage (separate, negative pressure), transport (labeled, secondary containment), and waste (hazardous waste stream) as distinct contamination-control points with defined procedures?
 - Are spill kits accessible at every handling location, is the spill procedure written and known, and has it been rehearsed so that response is not improvised in the moment?
 - Did I perform routine surface decontamination of compounding, storage, and administration areas with appropriate agents on a defined schedule, recognizing that visible cleanliness is not evidence of decontamination?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

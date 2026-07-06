@@ -41,11 +41,9 @@ Self-care is the active, ongoing maintenance of the capacity to practice, not th
 
 Burnout — exhaustion, cynicism, and reduced efficacy from chronic workplace stress — develops gradually and is often denied by the worker until it is severe. Recognize the early signs: persistent fatigue, dread of work, irritability, withdrawal, cynicism about clients or the work, reduced empathy, somatic symptoms, increased substance use, difficulty recovering between shifts. Act early: reduce load, seek supervision and support, address the systemic causes, take leave if needed, seek professional help. Burnout that is denied and pushed through becomes severe, harms clients, and can end careers. Early action is more effective and less costly. Document the signs and the action.
 
-### Use Supervision and Support Proactively
+### Use Supervision and Support Proactively and recognize When Your Own History Is Activated
 
 Supervision, peer support, debriefing, and professional support (including therapy) are the structural protections of the worker's wellbeing and practice, and they must be used proactively, not only in crisis. Use supervision to discuss the emotional impact of the work, boundary questions, signs of over-involvement or burnout, and your own needs. Use peer support to normalize the experience and gain perspective. Use debriefing after critical incidents. Use therapy when the work activates your own material or when signs of burnout or vicarious trauma appear. Proactive use maintains practice; reactive use, after collapse, is harder and slower. Document the support used.
-
-### Recognize When Your Own History Is Activated
 
 Social workers bring their own histories — of trauma, loss, family dynamics, mental health, identity — and these histories can be activated by client work, sometimes consciously and often not. A worker with their own history of addiction may be triggered by a substance-using client; a worker with childhood loss may over-identify with a bereaved child; a worker with family mental illness may respond intensely to a mentally ill client. Recognize when your own history is activated, examine the effect on your practice, manage it through supervision and your own therapy, and consider transferring the case if the activation compromises your objectivity. Your history is not disqualifying, but it must be known and managed. Document the recognition and management.
 

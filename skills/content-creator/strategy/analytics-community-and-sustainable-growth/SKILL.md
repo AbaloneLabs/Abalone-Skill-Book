@@ -215,5 +215,4 @@ Before approving a growth or iteration plan, verify:
 - Monetization fits audience trust, creator expertise, and content purpose.
 - The plan avoids revenue incentives that require misleading, fear-based, or high-risk advice.
 - Production cadence and community load are sustainable.
-- Learning from past content is documented as testable observations.
-- The strategy can grow without trapping the creator in content they do not want to keep making.
+- Learning from past content is documented as testable observations; the strategy can grow without trapping the creator in content they do not want to keep making

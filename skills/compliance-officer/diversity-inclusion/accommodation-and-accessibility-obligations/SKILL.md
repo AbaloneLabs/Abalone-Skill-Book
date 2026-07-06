@@ -135,6 +135,10 @@ Pregnancy fairness laws often impose a lower hardship threshold, making denials 
 
 Screening out candidates with disabilities through inaccessible application systems creates liability before employment begins.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Has the triggering accommodation regime been identified, recognizing that disability, religious, pregnancy, and lactation obligations have different standards?

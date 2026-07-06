@@ -49,6 +49,8 @@ Teach (with teach-back): inhaler technique, oxygen safety (no smoking, no open f
 
 **Missing hypercapnia because the SpO2 looks acceptable.** A COPD patient has an SpO2 of 91% (within target) but is becoming somnolent, confused, and headachey, and the nurse is reassured by the SpO2. The mechanism of harm is that SpO2 reflects oxygenation, not ventilation, and a COPD patient can be retaining CO2 to dangerous levels while maintaining an acceptable SpO2. The harm is undetected hypercapnic respiratory failure progressing to coma. Assess mental status, work of breathing, headache, and asterixis; check arterial or venous blood gases when CO2 retention is suspected; do not let an acceptable SpO2 override clinical signs of hypercapnia.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I titrate oxygen to the patient's target range (commonly 88–92% for COPD), not to "normal" saturations?

@@ -52,8 +52,7 @@ Incoterms should appear consistently in quotes, sales contracts, purchase orders
 - Quoting international sales without estimating duty, tax, brokerage, destination handling, and inspection risk.
 - Assuming the broker or forwarder owns compliance truth. They usually file based on shipper or importer data.
 - Letting sales, finance, logistics, and customer service use different terms for the same shipment.
-- Ignoring returns. Import terms for the outbound sale may not solve duty recovery, re-export, repair, or customer return complexity.
-- Using one default term for every country, customer, mode, and product type.
+- Ignoring returns. Import terms for the outbound sale may not solve duty recovery, re-export, repair, or customer return complexity; using one default term for every country, customer, mode, and product type
 
 ## Self-Check
 

@@ -61,6 +61,10 @@ A leader may focus on individual members and neglect the group as a whole, allow
 
 A leader may allow boundary violations, such as repeated confidentiality breaches or pressuring behavior, to persist, hoping they will resolve, when the persistence erodes the group's safety and signals that the norms do not matter. The mechanism is that addressing violations is uncomfortable, and the leader, avoiding the discomfort, allows them, when the violations undermine the group's foundation. The harm is that members feel unsafe, the norms erode, and serious harm can occur, such as predatory behavior or confidentiality breaches. Addressing violations early and firmly, and removing members whose violations persist, is what protects the group.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I establish confidentiality as an explicit, agreed-upon group norm, and revisit it?

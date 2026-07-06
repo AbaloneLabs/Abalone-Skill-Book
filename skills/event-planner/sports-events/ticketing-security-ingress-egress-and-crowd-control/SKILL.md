@@ -57,10 +57,8 @@ Monitor queue lengths, social media signals, fan chants, seat migration, alcohol
 - Treating ejection as complete once a person leaves the seating bowl.
 - Allowing aisles, accessible seating, player tunnels, or field edges to be blocked.
 - Planning exit traffic less carefully than entry.
-- Forgetting mobile ticket failures, dead batteries, counterfeit tickets, and group ticket confusion.
-- Lacking a command structure that links security, ticketing, police, EMS, parking, and teams.
-- Resolving invalid tickets or bag disputes inside the main screening lane, slowing entry and escalating frustration.
-- Ejecting or denying guests without a safe path away from dense crowds and rival groups.
+- Forgetting mobile ticket failures, dead batteries, counterfeit tickets, and group ticket confusion; lacking a command structure that links security, ticketing, police, EMS, parking, and teams
+- Resolving invalid tickets or bag disputes inside the main screening lane, slowing entry and escalating frustration; ejecting or denying guests without a safe path away from dense crowds and rival groups
 
 ## Self-Check
 

@@ -84,3 +84,4 @@ Labeling layer work as slices when no user value is delivered. The trap is the a
 - [ ] Integration happens continuously through slice delivery, not as a big-bang at the end.
 - [ ] Feedback from each released slice is reviewed and reshapes the remaining sequence.
 - [ ] The program delivers continuous value and could be stopped at any point having produced something real.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

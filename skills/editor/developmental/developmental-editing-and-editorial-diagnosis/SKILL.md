@@ -192,9 +192,6 @@ Before treating developmental editing as complete, verify:
 - Structural feedback is based on reader movement, not outline preference.
 - Major issues are diagnosed with symptom, cause, effect, and revision direction.
 - Blocking issues are clearly separated from optional improvements.
-- Feedback names what to preserve as well as what to change.
-- The editor has not begun line-level polishing before solving structural problems.
-- Unsupported claims, missing evidence, or missing scenes are flagged as material gaps.
-- The revision path is actionable and not merely evaluative.
-- The writer can tell what to do first after reading the edit.
-- The edit strengthens the draft's own best version rather than imposing a different piece.
+- Feedback names what to preserve as well as what to change; the editor has not begun line-level polishing before solving structural problems
+- Unsupported claims, missing evidence, or missing scenes are flagged as material gaps; the revision path is actionable and not merely evaluative
+- The writer can tell what to do first after reading the edit; the edit strengthens the draft's own best version rather than imposing a different piece

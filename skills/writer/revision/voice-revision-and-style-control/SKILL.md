@@ -138,7 +138,7 @@ Ask:
 
 The reader will infer importance from space, placement, and detail.
 
-### Keep The Writer Present At The Right Level
+### Keep The Writer Present At The Right Level and revise The Title, Opening, And Ending Together
 
 Some pieces need a visible "I." Others need the writer to disappear behind evidence or story. The question is not whether first person is allowed, but what role the writer plays.
 
@@ -159,8 +159,6 @@ Avoid writer presence that:
 - overexplains the writer's process;
 - creates false humility;
 - turns every topic into memoir.
-
-### Revise The Title, Opening, And Ending Together
 
 The title, opening, and ending form the reader contract. They should belong to the same piece.
 
@@ -210,11 +208,7 @@ Before treating writer-side revision as complete, verify:
 - Voice follows a clear stance toward reader, subject, evidence, and emotion.
 - Tone is consistent with the genre and stakes.
 - Claims are precise rather than inflated.
-- Abstract ideas are grounded in examples, scenes, consequences, or definitions.
-- Sentence rhythm varies intentionally and supports meaning.
-- Repetition is either purposeful or removed.
-- The most important ideas receive appropriate space and placement.
-- Strong but irrelevant material has been cut or moved out of the piece.
-- Writer presence serves the reader rather than the writer's self-display.
-- The title, opening, and ending make the same promise and fulfill it.
-- The draft is clear without becoming generic, and stylish without becoming vague.
+- Abstract ideas are grounded in examples, scenes, consequences, or definitions; sentence rhythm varies intentionally and supports meaning
+- Repetition is either purposeful or removed; the most important ideas receive appropriate space and placement
+- Strong but irrelevant material has been cut or moved out of the piece; writer presence serves the reader rather than the writer's self-display
+- The title, opening, and ending make the same promise and fulfill it; the draft is clear without becoming generic, and stylish without becoming vague

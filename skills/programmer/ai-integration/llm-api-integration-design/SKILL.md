@@ -97,19 +97,15 @@ Letting the context window overflow and the default trimming drop the system ins
 
 A streaming endpoint that starts returning tokens, fails halfway, and leaves the client with partial output and no error signal. Forward stream errors and define the partial-output contract.
 
-### Burning Tokens After Client Disconnect
+### Burning Tokens After Client Disconnect and routing Everything To The Largest Model
 
 Continuing to generate after the client disconnects mid-stream, paying for output no one reads. Cancel upstream generation on client disconnect.
 
-### Routing Everything To The Largest Model
-
 Defaulting every call to the most capable (and most expensive, slowest) model, when a small model would handle most tasks at a fraction of the cost and latency. Route by task.
 
-### No Per-Tenant Budget, So One User Creates A Huge Bill
+### No Per-Tenant Budget, So One User Creates A Huge Bill and hardcoding A Floating Model Version
 
 A feature with no per-user or per-tenant spend cap, so an abusive user or a looping bug generates unbounded token spend. Set and enforce budgets with hard limits.
-
-### Hardcoding A Floating Model Version
 
 Pinning business logic to `gpt-4-latest` or equivalent, so a silent provider upgrade changes behavior in production. Pin specific versions, abstract model choice, and plan migrations.
 

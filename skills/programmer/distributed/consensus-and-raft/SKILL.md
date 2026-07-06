@@ -63,13 +63,11 @@ Cluster sizing is a fault-tolerance decision, not a capacity decision. The stand
 
 Plan for **permanent quorum loss**, because it happens: in a 5-node cluster, losing 3 nodes means no majority and the cluster cannot accept writes. Recovery from permanent quorum loss is dangerous — the documented procedure (force a new cluster from surviving replicas) can lose already-committed data if the surviving nodes are behind, and must be done with full awareness of the risk. Have a runbook, know that it exists, and treat invoking it as a last resort. Backups and the ability to restore to a managed service are your real safety net; consensus protects against node failures, not against catastrophic quorum loss or operator error.
 
-### Handle Snapshotting And Log Compaction Operationally
+### Handle Snapshotting And Log Compaction Operationally and decide Read Consistency Explicitly — Reads Are Not Free Of The Stale-Leader Hazard
 
 A consensus log grows without bound as commands are replicated, and replaying it on restart or on a new joiner would be infeasible. Consensus systems address this with **snapshotting and log compaction**: periodically the applied state is snapshot, and the log entries the snapshot subsumes are discarded. A follower that is far behind, or a new node joining, receives the snapshot plus the log tail rather than the full history.
 
 The operational points: snapshotting is expensive (it serializes state and can pause the state machine), so the snapshot threshold must be tuned to balance log size against snapshot cost. A node that falls behind the leader's oldest retained log entry must receive a snapshot to catch up — if snapshots are misconfigured or storage is constrained, a lagging follower may be unable to catch up at all. Monitor log size, snapshot frequency, and follower lag. A weak operation ignores compaction until the log fills the disk or a rejoin fails. A strong operation tunes snapshot thresholds, monitors log and snapshot growth, and verifies that new nodes can join and catch up within an acceptable window.
-
-### Decide Read Consistency Explicitly — Reads Are Not Free Of The Stale-Leader Hazard
 
 Consensus clusters are often read from as well as written to, and read consistency is a decision that is easy to get wrong because "it's just a read." The options, from strongest to weakest: **linearizable reads** require the read to go through the leader (or a quorum-confirmed read-index / lease-based read) so the result reflects all committed writes and never returns stale data; **stale or local reads** served from any follower are fast and scalable but can return data behind the committed state, including from a node that is partitioned or lagging. The hazard is symmetric with the stale-leader write problem: a follower serving a local read may be arbitrarily behind, and if clients read from followers to reduce leader load, they can observe values older than what they just wrote or observe time moving backwards across consecutive reads hitting different nodes.
 
@@ -101,19 +99,15 @@ Assuming "high availability" means every node serves under partition, then being
 
 Leaving election timeouts at defaults on a cross-region or high-latency link, then suffering constant leader churn under latency jitter. Measure round-trip times and set timeouts conservatively above them.
 
-### Treating Quorum-Loss Recovery As Routine
+### Treating Quorum-Loss Recovery As Routine and ignoring Log Compaction Until It Fills The Disk
 
 Invoking the force-new-cluster procedure casually after losing quorum, without recognizing it can discard committed data if the surviving nodes are behind. Treat it as a last resort with a runbook, and rely on backups as the real safety net.
 
-### Ignoring Log Compaction Until It Fills The Disk
-
 Never tuning snapshot thresholds or monitoring log size, so the log grows unbounded and a lagging follower cannot catch up. Tune compaction and monitor log size, snapshot frequency, and follower lag.
 
-### Applying Uncommitted Entries Or Crashing Before Persisting
+### Applying Uncommitted Entries Or Crashing Before Persisting and assuming Every Read From The Cluster Is Consistent
 
 In a custom implementation, applying entries before they are committed, or acknowledging before durably persisting, introducing data loss on crash. Persist before acknowledging, apply only committed entries, and verify the implementation handles the persisted-vs-committed distinction.
-
-### Assuming Every Read From The Cluster Is Consistent
 
 Reading from any follower to reduce leader load and assuming the result reflects committed state, when followers lag and can return stale data or data from a partitioned node. Make read consistency an explicit choice per operation — linearizable for correctness-critical reads, stale/local only where the business tolerates the lag.
 
@@ -128,5 +122,4 @@ Reading from any follower to reduce leader load and assuming the result reflects
 - [ ] A managed consensus system (etcd, Consul, ZooKeeper, managed database) is used unless there is a compelling, documented reason to run a custom implementation, and even self-operated clusters have a runbook for sizing, backups, upgrades, and quorum-loss recovery.
 - [ ] Quorum-loss recovery is treated as a dangerous last resort with a runbook that acknowledges the risk of losing committed data, and backups/restores are the real safety net.
 - [ ] Snapshotting and log compaction are tuned and monitored — log size, snapshot frequency, and follower lag are tracked, and new nodes can join and catch up within an acceptable window.
-- [ ] Read consistency is an explicit per-operation choice — correctness-critical reads are linearizable (leader or quorum-confirmed), stale/local reads are used only where the business tolerates the lag and the implementation's default is known.
-- [ ] No operational step (force-new-cluster, bulk membership edit, stale-leader tolerance, even-size cluster) silently violates the consensus safety invariant, and the highest-risk procedures were traced through their failure modes before an incident.
+- [ ] Read consistency is an explicit per-operation choice — correctness-critical reads are linearizable (leader or quorum-confirmed), stale/local reads are used only where the business tolerates the lag and the implementation's default is known; [ ] No operational step (force-new-cluster, bulk membership edit, stale-leader tolerance, even-size cluster) silently violates the consensus safety invariant, and the highest-risk procedures were traced through their failure modes before an incident

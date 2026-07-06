@@ -65,10 +65,8 @@ For high-profile travelers, coordinate communication through agreed channels and
 - Forgetting customs and immigration requirements for private international flights.
 - Sending drivers to the main terminal instead of the FBO.
 - Failing to update ground transfers when aircraft timing changes.
-- Discovering luggage, ski, golf, pet, or medical equipment limits too late.
-- Having no plan if weather forces an alternate airport.
-- Overcomplicating passenger instructions with operational details they do not need.
-- Sharing sensitive tail, passenger, or address details too broadly.
+- Discovering luggage, ski, golf, pet, or medical equipment limits too late; having no plan if weather forces an alternate airport
+- Overcomplicating passenger instructions with operational details they do not need; sharing sensitive tail, passenger, or address details too broadly
 
 ## Self-Check
 

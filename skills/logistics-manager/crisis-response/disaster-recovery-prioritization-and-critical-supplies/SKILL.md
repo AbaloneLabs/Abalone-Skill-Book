@@ -60,12 +60,9 @@ As recovery stabilizes, close temporary warehouses, return rented equipment, rec
 - Losing control of emergency inventory because systems are down and manual tracking is weak.
 - Accepting donated or transferred goods that do not match verified needs.
 - Substituting parts or supplies without technical, safety, or regulatory review.
-- Forgetting fuel, batteries, chargers, labels, pallets, temperature monitors, and handling equipment.
-- Failing to document emergency purchases and transfers for insurance, finance, or audit.
-- Letting early priorities persist after conditions change.
-- Holding no regular cross-functional recovery cadence, causing duplicate orders and informal priority overrides.
-- Shipping critical supplies without checking utilities, staff, permits, IT, quality release, or other dependencies.
-- Forgetting demobilization, rented equipment returns, inventory reconciliation, and disposal after the urgent phase.
+- Forgetting fuel, batteries, chargers, labels, pallets, temperature monitors, and handling equipment; failing to document emergency purchases and transfers for insurance, finance, or audit
+- Letting early priorities persist after conditions change; holding no regular cross-functional recovery cadence, causing duplicate orders and informal priority overrides
+- Shipping critical supplies without checking utilities, staff, permits, IT, quality release, or other dependencies; forgetting demobilization, rented equipment returns, inventory reconciliation, and disposal after the urgent phase
 
 ## Self-Check
 

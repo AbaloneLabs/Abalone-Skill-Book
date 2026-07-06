@@ -65,10 +65,8 @@ If the traveler's priority is quiet, low cost, or spontaneity, peak season may b
 - Using normal transfer times during airport, road, border, or attraction congestion.
 - Assuming restaurants, attractions, and services operate normally during holidays.
 - Hiding nonrefundable deposits, minimum nights, blackout dates, and penalty windows.
-- Planning too many must-do experiences in crowded conditions.
-- Depending on last-minute recovery options when all travelers are competing for them.
-- Recommending a peak trip to travelers who primarily want quiet or low cost.
-- Failing to explain why early decisions and deposits are necessary.
+- Planning too many must-do experiences in crowded conditions; depending on last-minute recovery options when all travelers are competing for them
+- Recommending a peak trip to travelers who primarily want quiet or low cost; failing to explain why early decisions and deposits are necessary
 
 ## Self-Check
 

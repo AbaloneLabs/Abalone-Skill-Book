@@ -39,6 +39,10 @@ Returns abuse data should improve product content, packaging, carrier selection,
 
 Measure success beyond fraud savings. Track false positives, customer complaints, chargebacks, support time, conversion impact, repeat purchase behavior, recovery value, and operational cost. A control that saves shrink but drives away profitable honest customers may not be a good policy.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Treating high return rate as proof of fraud. Fit, quality, damage, or poor descriptions may explain behavior.

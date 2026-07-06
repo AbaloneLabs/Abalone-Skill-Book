@@ -54,8 +54,7 @@ Use an issue log. Track recurring failures, device numbers, location, time, acti
 - Relying on shared admin credentials or one person's phone for two-factor authentication.
 - Planning critical registration, payment, or streaming without manual fallback.
 - Ignoring outdoor, basement, backstage, loading dock, and crowded lobby coverage.
-- Understaffing tech support during arrival and session-change peaks.
-- Failing to reconcile offline or manual data after the event.
+- Understaffing tech support during arrival and session-change peaks; failing to reconcile offline or manual data after the event
 
 ## Self-Check
 

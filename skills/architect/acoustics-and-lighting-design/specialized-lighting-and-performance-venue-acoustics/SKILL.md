@@ -1,6 +1,6 @@
 ---
 name: specialized-lighting-and-performance-venue-acoustics.md
-description: Use when the architect is designing performance venues, museums, galleries, worship spaces, broadcast studios, or other buildings with demanding acoustic and lighting requirements, coordinating specialist consultants, balancing preservation and performance criteria, or navigating the unique technical requirements of spaces where light and sound are the primary design media.
+description: Use when the agent is designing performance venues, museums, galleries, worship spaces, broadcast studios, or other buildings with demanding acoustic and lighting requirements, coordinating specialist consultants, balancing preservation and performance criteria, or navigating the unique technical requirements of spaces where light and sound are the primary design media.
 ---
 
 # Specialized Lighting and Performance Venue Acoustics

@@ -142,6 +142,10 @@ Heat and workplace violence are cited under the general duty clause and state st
 
 State plans must be at least as effective as federal rules and often are stricter.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are recognized hazards assessed under the general duty clause where no specific standard applies, with feasible abatement implemented and documented?

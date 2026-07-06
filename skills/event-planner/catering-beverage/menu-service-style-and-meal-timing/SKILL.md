@@ -54,8 +54,7 @@ If meal timing is uncertain, choose foods that tolerate delay. Delicate plated i
 - Offering standing reception foods that require two hands, cutting, or messy handling.
 - Placing all coffee, water, or dessert in one location and creating avoidable surges.
 - Forgetting that dietary questions slow service if labels and staff briefings are weak.
-- Choosing fragile menu items for events with uncertain timing.
-- Failing to include catering cues in the run of show.
+- Choosing fragile menu items for events with uncertain timing; failing to include catering cues in the run of show
 
 ## Self-Check
 

@@ -54,8 +54,7 @@ Use A/B or controlled lane tests when adding carriers. Do not shift large volume
 - Adding regional carriers without integration, coverage, returns, and customer support planning.
 - Setting automated rate-shopping rules once and never revisiting them.
 - Ignoring warehouse cutoff and pickup realities when promising service levels.
-- Forgetting PO boxes, military addresses, rural zones, weekend holds, and signature needs.
-- Measuring parcel success by freight spend only, not service recovery and customer contacts.
+- Forgetting PO boxes, military addresses, rural zones, weekend holds, and signature needs; measuring parcel success by freight spend only, not service recovery and customer contacts
 
 ## Self-Check
 

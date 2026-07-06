@@ -29,6 +29,10 @@ Critically ill patients do not behave like the population averages in dosing ref
 
 TDM is not a perpetual process. The pharmacist must define when monitoring will end: when the patient is stable and on a predictable regimen, when the infection has resolved, when the drug is being de-escalated to an oral agent, or when the patient is being transitioned to outpatient care. Continuing to draw levels on a stable, long-term regimen (unless the clinical state changes) exposes the patient to unnecessary phlebotomy and the team to alert fatigue. Conversely, the pharmacist must escalate monitoring when the clinical state changes — new nephrotoxin, new renal impairment, significant weight change, or change in dialysis status — because a previously stable regimen may suddenly become toxic or subtherapeutic.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating a Trough Target as the Goal Rather Than a Surrogate for Exposure
@@ -47,6 +51,14 @@ A patient was started on vancomycin three days ago when their creatinine clearan
 
 Extended-interval aminoglycoside dosing relies on a high peak followed by a drug-free interval that allows renal tubular uptake to recover. The trap is applying this approach to a patient for whom the assumptions fail: a patient with endocarditis needs sustained concentration, not a high peak; a patient with ascites or large burns has an expanded volume of distribution that prevents the high peak; a patient with significant renal impairment never clears the drug during the extended interval and accumulates toxicity. The mechanism is that the nomogram feels like a shortcut — one level, one lookup, one dose — and the pharmacist applies it without checking the exclusion criteria. The harm is that the patient receives a regimen that is either ineffective (no adequate peak) or toxic (no drug-free interval), and the single-level monitoring cannot detect the failure because it assumes the model is correct.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I reconstruct the actual dosing and sampling timeline before interpreting the level, or did I act on the laboratory number without verifying when the dose was given and when the level was drawn?
@@ -55,3 +67,5 @@ Extended-interval aminoglycoside dosing relies on a high peak followed by a drug
 - For aminoglycosides, did I confirm the patient meets the criteria for extended-interval dosing, or did I apply the nomogram to a patient whose volume of distribution, indication, or renal function excludes that approach?
 - Did I account for ICU-specific pharmacokinetic changes — augmented renal clearance, large-volume resuscitation, burns — that make population averages unreliable?
 - Did I define when monitoring will end and when it must escalate, or am I drawing levels on autopilot without a stop condition or a trigger for reassessment?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

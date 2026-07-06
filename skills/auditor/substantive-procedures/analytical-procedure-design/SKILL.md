@@ -96,8 +96,7 @@ For each substantive analytical procedure, document: the expectation and how it 
 - **Treating a risk-assessment analytical procedure as substantive evidence**, substituting a looser standard where a tighter one is required.
 - **Using analytical procedures to replace detail testing in high-risk areas** where only detail evidence is sufficiently persuasive.
 - **Running analytical and detail procedures in parallel** without designing them to complement each other.
-- **Building precise expectations on incomplete or inconsistent data**, providing false assurance.
-- **Documenting the procedure as "performed; no differences"** without the expectation, comparison, investigation, and conclusion.
+- **Building precise expectations on incomplete or inconsistent data**, providing false assurance; **Documenting the procedure as "performed; no differences"** without the expectation, comparison, investigation, and conclusion
 
 ## Self-Check
 

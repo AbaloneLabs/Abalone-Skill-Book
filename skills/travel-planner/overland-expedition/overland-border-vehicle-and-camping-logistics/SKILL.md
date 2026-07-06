@@ -54,8 +54,7 @@ If a process requires unofficial payments or feels unsafe, pause and seek local 
 - Using outdated camping advice from forums without checking current legality and local sentiment.
 - Overloading the vehicle with gear and increasing breakdown risk.
 - Carrying recovery gear or spare parts that travelers cannot use.
-- Ignoring waste, fire, water, and community impact because the trip feels independent.
-- Handing passports or vehicle papers to informal helpers without fee, identity, and legal-risk controls.
+- Ignoring waste, fire, water, and community impact because the trip feels independent; handing passports or vehicle papers to informal helpers without fee, identity, and legal-risk controls
 
 ## Self-Check
 

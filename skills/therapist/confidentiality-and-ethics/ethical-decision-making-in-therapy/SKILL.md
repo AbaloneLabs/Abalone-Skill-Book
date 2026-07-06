@@ -84,6 +84,10 @@ A therapist who documents the decision, "terminated treatment," "disclosed to fa
 
 A therapist who consults the ethics code only to find a provision that justifies a preferred decision, or who treats compliance with the letter of the code as sufficient regardless of the spirit, uses the code as a shield rather than a guide. The mechanism is that the code's provisions can be read selectively to support a desired outcome, and compliance with the letter can coexist with violation of the spirit. The harm is that decisions that technically comply but ethically fail, because they serve the therapist's interest or compromise the client's, are defended as compliant. The code guides reasoning; it does not replace it, and the spirit of the principles, not just their letter, is what ethical practice requires.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the ethical dimension of the decision, rather than treating it as routine?

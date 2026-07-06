@@ -54,8 +54,7 @@ Plan overruns and failures. What happens if a keynote runs long, a video fails, 
 - Lighting the stage for decor while speakers, interpreters, cameras, or stairs are poorly lit.
 - Letting multiple people call cues during the live program.
 - Rehearsing speeches but not transitions, video rolls, award handoffs, Q&A, or failure paths.
-- Forgetting backstage accessibility, cable hazards, dark stairs, and safe stage movement.
-- Not defining what to do when the program runs late.
+- Forgetting backstage accessibility, cable hazards, dark stairs, and safe stage movement; not defining what to do when the program runs late
 
 ## Self-Check
 

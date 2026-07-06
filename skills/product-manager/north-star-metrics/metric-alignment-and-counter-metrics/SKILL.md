@@ -84,3 +84,4 @@ Keeping a metric set fixed as the product changes. The trap is effort misdirecte
 - [ ] Metrics are explicitly categorized as optimization targets, guardrails, or diagnostic monitors, and few are targets.
 - [ ] A cadence exists for reviewing whether metrics still represent and predict value, and decaying metrics are replaced.
 - [ ] Gaming is detected through metric-outcome divergence, not through trust in the team's intentions.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

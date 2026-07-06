@@ -54,8 +54,7 @@ Back-of-house logistics affect service. Catering needs dock access, freight elev
 - Placing buffets or bars where lines block entrances, exits, restrooms, session doors, or sponsor areas.
 - Forgetting water access, coffee timing, ice, waste, rentals, and back-of-house space.
 - Assuming alcohol service is harmless because the event is professional or private.
-- Ignoring food safety and permit requirements at outdoor, temporary, or nontraditional venues.
-- Letting catering strike begin before attendees, speakers, or staff still need service.
+- Ignoring food safety and permit requirements at outdoor, temporary, or nontraditional venues; letting catering strike begin before attendees, speakers, or staff still need service
 
 ## Self-Check
 

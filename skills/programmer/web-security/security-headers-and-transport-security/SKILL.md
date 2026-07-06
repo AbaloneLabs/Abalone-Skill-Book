@@ -121,11 +121,9 @@ The app and the reverse proxy both setting `Content-Security-Policy` or `X-Frame
 
 Not setting Permissions-Policy, so a compromised page can request camera, microphone, geolocation, or payment access. Deny features the page does not use.
 
-### Headers Stripped By A CDN Or Proxy, Verified Only In Code
+### Headers Stripped By A CDN Or Proxy, Verified Only In Code and x-Content-Type-Options Missing On User-Content Endpoints
 
 Setting headers in code but never testing the response as it reaches the browser, so a CDN that strips unknown headers silently removes the protection. Test end-to-end.
-
-### X-Content-Type-Options Missing On User-Content Endpoints
 
 Forgetting `nosniff` on endpoints that serve user-uploaded files, allowing MIME sniffing to turn an uploaded "image" into executed script. Set `nosniff` universally.
 

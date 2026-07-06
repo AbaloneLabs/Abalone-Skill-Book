@@ -29,6 +29,10 @@ The monitoring produces data, but the data must be converted into a decision (co
 
 The monitoring parameter is often a surrogate (the blood pressure, the A1C, the LDL, the INR, the drug level) that predicts the clinical outcome (the stroke, the complications, the cardiovascular event, the thrombosis, the infection resolution), and the pharmacist must recognize the distinction and must monitor both where feasible. The surrogate is measured because it is responsive (it changes with the therapy in a defined timeframe) and accessible (it can be measured in the clinic or the lab), while the clinical outcome may take years to manifest and may not be measurable in the routine setting. But the surrogate is not the outcome, and the therapy that achieves the surrogate may not achieve the outcome (the blood pressure at target but the stroke occurs, the A1C at target but the complications progress), and the therapy that achieves the outcome may not normalize the surrogate (the patient with the cardiovascular event reduction despite the LDL above target). The pharmacist must monitor the surrogate as the proximal marker, must track the clinical outcome as the distal marker (the events, the hospitalizations, the symptoms, the function), and must recognize when the surrogate and the outcome diverge (the therapy that achieves the surrogate but not the outcome warrants a reassessment of the therapy, not merely an intensification of the surrogate target).
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Setting an Implicit Goal and Then Being Unable to Assess the Response
@@ -51,6 +55,10 @@ The chronic therapy is initiated, the goal is set, and the monitoring is defined
 
 The surrogate (the blood pressure, the A1C, the LDL) is monitored and is at target, but the clinical outcome (the stroke, the complications, the event) occurs, and the response is to intensify the surrogate target (a lower blood pressure, a lower A1C, a lower LDL) on the assumption that the surrogate was not controlled enough. The trap is that the surrogate is the visible marker, so the intensification feels correct, but the divergence may indicate that the surrogate is not the right marker for this patient, or that the outcome has other drivers (the atrial fibrillation causing the stroke despite the blood pressure control, the glycemic variability causing the complications despite the A1C). The harm is the intensification that adds therapy, cost, and adverse-effect risk without addressing the actual driver of the outcome, and the patient who suffers the outcome again despite the intensified surrogate control. The fix is to recognize the divergence, to investigate the actual driver of the outcome, and to adjust the therapy based on the driver rather than reflexively intensifying the surrogate.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each therapy I am managing, did I define the therapeutic goal as a specific, measurable, time-bound target (the exact parameter, the target value or range, the expected timeframe), individualized to the patient?
@@ -60,3 +68,4 @@ The surrogate (the blood pressure, the A1C, the LDL) is monitored and is at targ
 - Did I distinguish the surrogate endpoint (the blood pressure, the A1C, the level) from the clinical outcome (the event, the complication, the function), and did I monitor both, recognizing when they diverge?
 - Did I define a reassessment point for each chronic therapy (the annual review, the goal-achievement review, the life-change review) to prevent the indefinite continuation of therapies that are no longer needed or appropriate?
 - Did I avoid the implicit goal, the non-goal-directed monitoring, the premature failure conclusion, the indefinite continuation, and the surrogate-outcome confusion that undermine the therapeutic evaluation?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

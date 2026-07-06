@@ -61,6 +61,10 @@ A therapist may apply standard, protocol-based CBT to a client with complex trau
 
 A therapist may rely heavily on thought records and cognitive restructuring while neglecting the behavioral components of CBT, behavioral activation, exposure, behavioral experiments, and skills practice, producing a therapy that is cognitive but not behavioral. The mechanism is that thought records are structured, easy to assign, and produce visible material, while behavioral interventions require more in-session work and risk management. The harm is that the client develops intellectual understanding of their cognitive patterns without the behavioral change that produces lasting improvement, because the behavioral component was neglected. Balancing cognitive and behavioral interventions, and using behavioral experiments and activation alongside restructuring, is what makes CBT effective for the full range of its indications.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess whether CBT's structured, present-focused approach fits this client and problem?

@@ -84,3 +84,4 @@ Treating headcount as a static capacity multiplier. The trap is estimates that i
 - [ ] Capacity is assessed by role and skill, with the bottleneck role's capacity as the real constraint.
 - [ ] Buffer is built in for uncertainty and protected from being consumed by additional commitments.
 - [ ] When demands exceed effective capacity, the tradeoff is made visible rather than silently accepted.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

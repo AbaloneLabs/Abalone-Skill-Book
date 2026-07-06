@@ -55,6 +55,10 @@ Electronic pharmacy systems create records automatically and maintain audit trai
 
 When an inspection is announced or anticipated, the pharmacy may scramble to assemble the policies, the records, the logs, and the notes that should have been maintained continuously, and the assembly produces incomplete, inconsistent, or backdated documentation that an inspector recognizes as manufactured. The trap is that continuous documentation feels burdensome and the panic-assembly feels efficient, so the pharmacy defaults to the latter, and the documentation produced under pressure does not withstand scrutiny. The harm is that the manufactured or incomplete documentation is cited as a deficiency, and the underlying practice (which may have been sound) is overshadowed by the documentation failure. The fix is to maintain documentation continuously — each record at the point of the action, periodic audits of completeness, organized and retrievable filing — so that an inspection requires no special preparation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each action I performed (dispense, counseling, intervention, decision), did I create a complete and accurate record at the point of the action, treating the documentation as the completion of the action?

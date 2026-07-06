@@ -55,6 +55,10 @@ A fax number transposed by one digit, a text sent to a number the patient change
 
 Because disclosures for treatment, payment, and operations are permitted under HIPAA, pharmacists may treat these channels as unrestricted and send entire medication histories, full diagnoses, or unrelated clinical detail when a narrower disclosure would serve. The trap is that the permission feels like a license, so the pharmacist attaches the full record rather than selecting the minimum necessary, and the over-disclosure exposes information the patient did not expect to share with that party. The harm is a privacy violation even within a permitted channel, because the minimum-necessary standard still applies to TPO disclosures. The fix is to ask, for every TPO disclosure, what minimum information serves the purpose, and to curate the disclosure rather than forwarding the whole record.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For every disclosure of PHI described or implied in the work, did I apply the minimum-necessary standard and limit the information to what serves the stated purpose?

@@ -101,6 +101,10 @@ A submittal proposes a product that appears to match the specified category, a s
 
 Under schedule pressure, the architect answers an RFI that touches on structural capacity, fire protection, or mechanical coordination without routing it to the responsible engineer, reasoning that the answer seems obvious or that there is no time to wait. The trap is that the architect has now authored a technical answer outside their expertise, and if that answer conflicts with the engineer's later judgment or with code requirements, the architect bears the consequences. The false signal is that the answer appears reasonable and the project moves forward, so the risk feels hypothetical. The harm is a coordination conflict, a code violation, or a defect that traces directly to an answer the architect was not qualified to give. Routing discipline-specific questions to the appropriate consultant, even under pressure, is what preserves the proper division of responsibility.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is every RFI and submittal logged with a number, date received, required response date, and reviewer, and is no deadline allowed to pass without a response or agreed extension?
@@ -109,3 +113,5 @@ Under schedule pressure, the architect answers an RFI that touches on structural
 - [ ] Have discipline-specific items been routed to the appropriate consultant with adequate lead time, and have consultant responses been consolidated into a single coherent answer?
 - [ ] Have substitutions been evaluated against the specified salient performance characteristics, and have out-of-window substitutions been rejected or handled through the formal procedure?
 - [ ] Has every verbal direction been confirmed in writing the same day, and does the record retain the logs, correspondence, and consultant input supporting each response?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

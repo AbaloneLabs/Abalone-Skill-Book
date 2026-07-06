@@ -65,10 +65,8 @@ If the flight supports a wedding, cruise, medical appointment, court date, or bo
 - Treating security-sensitive itineraries like ordinary travel confirmations.
 - Promising catering that the aircraft, airport, deadline, or allergy controls cannot support.
 - Forgetting pet documents, cleaning fees, carrier rules, and international restrictions.
-- Assuming private aviation automatically solves mobility without boarding and FBO confirmation.
-- Allowing multiple assistants, drivers, and brokers to create conflicting day-of-flight instructions.
-- Having no backup when aircraft, weather, or airport constraints change.
-- Scheduling private arrival too close to an immovable event because the flight is "flexible."
+- Assuming private aviation automatically solves mobility without boarding and FBO confirmation; allowing multiple assistants, drivers, and brokers to create conflicting day-of-flight instructions
+- Having no backup when aircraft, weather, or airport constraints change; scheduling private arrival too close to an immovable event because the flight is "flexible."
 
 ## Self-Check
 

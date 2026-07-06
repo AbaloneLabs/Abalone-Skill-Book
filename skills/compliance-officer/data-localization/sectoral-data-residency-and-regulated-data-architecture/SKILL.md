@@ -70,3 +70,4 @@ Sectoral notification obligations may be separate from and faster than general p
 - Did I surface and resolve operational tensions between residency and efficiency, including support, analytics, and disaster recovery, during architecture design?
 - Did I maintain compliance documentation and build incident response that accounts for sectoral notification obligations and regulator engagement?
 - Did I verify the applicable sectoral residency rules and consult sector-specialist counsel before finalizing any architecture handling regulated data?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -148,6 +148,10 @@ Reverification is triggered by work authorization expiration, not identity docum
 
 Accepting obviously fraudulent documents can establish knowing hire despite the genuine-appearing standard.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is verification completed within the strict timeframe with section 1 by the first day and section 2 within three business days for every new hire?

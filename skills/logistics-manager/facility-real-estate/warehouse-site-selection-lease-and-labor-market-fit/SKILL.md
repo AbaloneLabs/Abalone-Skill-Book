@@ -71,10 +71,8 @@ Site selection should include launch feasibility, not only steady-state attracti
 - Omitting transportation, utilities, buildout, security, incentives, and startup costs from site comparison.
 - Signing leases that restrict yard use, hours, expansion, sublease, or required operations.
 - Assuming zoning and neighborhood rules allow the planned process.
-- Ignoring flood, fire, storm, power, water, and climate resilience.
-- Counting incentives without understanding hiring commitments, reporting, clawbacks, traffic limits, and public obligations.
-- Selecting a site that cannot be permitted, built out, staffed, and launched in time.
-- Failing to involve operations, transportation, HR, finance, legal, IT, and safety in evaluation.
+- Ignoring flood, fire, storm, power, water, and climate resilience; counting incentives without understanding hiring commitments, reporting, clawbacks, traffic limits, and public obligations
+- Selecting a site that cannot be permitted, built out, staffed, and launched in time; failing to involve operations, transportation, HR, finance, legal, IT, and safety in evaluation
 
 ## Self-Check
 

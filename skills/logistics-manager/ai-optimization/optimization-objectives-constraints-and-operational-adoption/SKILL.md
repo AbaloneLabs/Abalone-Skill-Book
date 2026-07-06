@@ -70,12 +70,9 @@ A deployed optimizer needs governance. It is not finished after go-live.
 - Treating legal, safety, or customer commitments as soft penalties.
 - Missing real-world constraints such as parking, dwell, sequence, breaks, dock hours, and labor timing.
 - Expecting operators to adopt recommendations they cannot understand.
-- Allowing overrides with no reason codes or outcome review.
-- Ignoring incentive conflicts across transportation, warehouse, inventory, finance, and customer teams.
-- Rolling out across the network before a controlled pilot exposes friction.
-- Training users on screens and buttons without teaching decision boundaries and exception handling.
-- Measuring model quality but not actual execution outcomes.
-- Letting the optimizer drift as data, market, and operations change.
+- Allowing overrides with no reason codes or outcome review; ignoring incentive conflicts across transportation, warehouse, inventory, finance, and customer teams
+- Rolling out across the network before a controlled pilot exposes friction; training users on screens and buttons without teaching decision boundaries and exception handling
+- Measuring model quality but not actual execution outcomes; letting the optimizer drift as data, market, and operations change
 
 ## Self-Check
 

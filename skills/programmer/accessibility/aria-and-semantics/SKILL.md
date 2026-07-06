@@ -119,11 +119,9 @@ Applying `aria-hidden="true"` to an element that contains focusable children (or
 
 Two `<nav>` elements with no distinguishing `aria-label`, so the screen-reader user hears "navigation" twice and cannot tell which is which. Label landmarks when there is more than one of the same type.
 
-### Trusting ARIA Without Screen-Reader Verification
+### Trusting ARIA Without Screen-Reader Verification and overusing `aria-live` As A Catch-All
 
 Writing correct-looking ARIA and concluding the widget is accessible. ARIA support and behavior differ across screen-reader/browser combinations; a `aria-live` region that works in one may be silent in another. Verify with a real screen reader through the real workflow.
-
-### Overusing `aria-live` As A Catch-All
 
 Slapping `aria-live="polite"` on large containers to "announce changes," producing a stream of irrelevant updates. Scope live regions narrowly to the specific message element.
 

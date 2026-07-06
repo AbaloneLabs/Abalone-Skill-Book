@@ -52,8 +52,7 @@ Even careful planning may face airline refusal, document interpretation, weather
 - Confusing cabin, checked baggage, and cargo rules.
 - Ignoring breed, age, weight, crate, aircraft, and seasonal restrictions.
 - Relying on unofficial blogs for current entry rules.
-- Waiting too late to start microchip, rabies titer, import permit, or government endorsement steps.
-- Treating pet welfare questions as logistics only instead of involving a veterinarian.
+- Waiting too late to start microchip, rabies titer, import permit, or government endorsement steps; treating pet welfare questions as logistics only instead of involving a veterinarian
 
 ## Self-Check
 

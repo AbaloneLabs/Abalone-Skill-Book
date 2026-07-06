@@ -55,6 +55,10 @@ The most common cause of post-discharge non-adherence is not patient choice but 
 
 The patient's primary care provider and specialists often learn about the hospitalization and medication changes from the patient themselves, at a follow-up visit weeks later, by which time the changes may have caused harm. The trap is assuming that the discharge summary reaches the outpatient provider in time, when in practice it may be delayed, unread, or routed to the wrong provider. The harm is that the outpatient provider cannot monitor, adjust, or reconcile what they do not know about, and medication errors propagate. The corrective is to communicate the discharge regimen and rationale directly and promptly to the outpatient provider and pharmacy, not solely through the discharge summary.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I reconcile the discharge regimen against both the pre-admission home list and the final inpatient orders?

@@ -55,6 +55,10 @@ A pharmacy may perform every function correctly — dispense accurately, compoun
 
 When a dispensing error reaches a patient, or a compounding failure occurs, or a privacy breach is discovered, the impulse to minimize, delay, or conceal the report is driven by fear of board sanction, professional embarrassment, or liability. The trap is that the concealment feels protective in the moment, but it transforms a reportable, correctable event into a concealment violation, which the board treats far more seriously — boards consistently penalize concealment more heavily than the underlying event, because concealment defeats the reporting system that protects patients. The harm is compounded: the original event may have caused patient harm that is not addressed, and the concealment adds a regulatory violation that threatens the license. The fix is to report adverse events completely and promptly as required, to investigate the root cause, to implement corrective action, and to document the response, treating the report as the protective action rather than the threat.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each operational decision, did I identify the applicable federal and state rules and apply the stricter one, rather than defaulting to the more familiar federal rule?
@@ -64,3 +68,4 @@ When a dispensing error reaches a patient, or a compounding failure occurs, or a
 - If inspected today, could I produce the policies and records the board expects for each function the pharmacy performs?
 - For any adverse event, complaint, or inspection, did I respond cooperatively and completely, report as required, investigate the root cause, implement corrective action, and document the response — rather than minimizing or concealing?
 - Have I monitored and integrated recent legal updates (legislation, board rules, guidance) into the pharmacy's policies, training, and workflow?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

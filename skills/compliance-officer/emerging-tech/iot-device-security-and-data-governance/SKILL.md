@@ -70,3 +70,4 @@ Devices that retain user data and credentials after disposal create privacy and 
 - Did I design for resilience against cloud, app, and platform dependency withdrawal, and communicate the dependencies and risks to purchasers?
 - Did I build secure decommissioning with factory reset, data deletion, and credential revocation for returned, resold, or discarded devices?
 - Did I confirm the applicable IoT cybersecurity, safety, and data-protection standards with specialist counsel for safety-critical or regulated device classes?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

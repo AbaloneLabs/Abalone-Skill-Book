@@ -61,6 +61,10 @@ A therapist may fail to recognize when a workplace is causing clinical harm, dep
 
 A therapist may ignore the grief and identity dimensions of job loss, unemployment, and retirement, focusing on the practical, job search, finances, planning, when these transitions involve profound losses of identity, structure, community, and meaning. The mechanism of harm is that the emotional and identity work is neglected, the client's grief and disorientation are unaddressed, and the practical focus leaves the client functioning logistically but psychologically adrift. The harm is that the client does not reconstruct a viable identity and structure, the transition is poorly navigated, and the client may develop depression or chronic aimlessness. Attending to grief and identity prevents this harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess workplace distress as an interaction of environment and person, avoiding both pure externalization and pure pathologizing?

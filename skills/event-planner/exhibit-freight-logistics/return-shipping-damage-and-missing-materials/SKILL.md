@@ -70,12 +70,9 @@ Outbound lessons should feed into future inbound planning. If a crate is too fra
 - Leaving pack-out to staff who do not know asset value or destination.
 - Sealing crates without inventory reconciliation.
 - Shipping or discarding tablets, lead data, prototypes, samples, or confidential materials without special controls.
-- Leaving before empty crates return and outbound paperwork is accepted.
-- Missing forced freight deadlines and triggering expensive contractor shipping.
-- Reporting damage without photos, labels, time, and location evidence.
-- Filing claims with the wrong party or after the deadline.
-- Treating missing cables, tablets, lead scanners, or demo parts as minor until the next event.
-- Failing to inspect and repair materials before storing them.
+- Leaving before empty crates return and outbound paperwork is accepted; missing forced freight deadlines and triggering expensive contractor shipping
+- Reporting damage without photos, labels, time, and location evidence; filing claims with the wrong party or after the deadline
+- Treating missing cables, tablets, lead scanners, or demo parts as minor until the next event; failing to inspect and repair materials before storing them
 
 ## Self-Check
 

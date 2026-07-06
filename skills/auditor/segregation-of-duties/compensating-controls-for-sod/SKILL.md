@@ -94,8 +94,7 @@ Document the compensating control's contribution to severity explicitly. Do not 
 - **Treating an undocumented, memory-only review as a control.** No evidence means no assurance for the periods not evidenced.
 - **Assuming a compensating control is effective because it has never found anything**, when the real explanation may be that the review is too shallow to catch real errors.
 - **Over-relying on a single diligent individual** whose absence or pressure would cause the control to lapse.
-- **Letting the compensating control erase the conflict in the documentation** rather than reducing its assessed severity.
-- **Failing to re-test the compensating control each period**, assuming last year's effectiveness persists without evidence.
+- **Letting the compensating control erase the conflict in the documentation** rather than reducing its assessed severity; **Failing to re-test the compensating control each period**, assuming last year's effectiveness persists without evidence
 
 ## Self-Check
 

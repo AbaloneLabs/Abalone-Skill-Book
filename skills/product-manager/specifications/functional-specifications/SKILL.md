@@ -84,3 +84,4 @@ Specs written incrementally that contradict themselves. The trap is a spec that 
 - [ ] Error and exception behavior is specified explicitly for each possible error, with detection, response, and user experience defined.
 - [ ] The specification is complete, with no undefined behavior, and consistent, with no contradictions.
 - [ ] A builder could implement the system from the spec without inferring undefined behavior.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

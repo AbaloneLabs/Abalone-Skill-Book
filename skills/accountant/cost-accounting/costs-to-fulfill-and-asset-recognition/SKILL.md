@@ -143,11 +143,9 @@ Amortization must follow the transfer of the related goods or services. A straig
 
 Capitalized fulfillment costs must be assessed for impairment each period. Leaving the asset at cost when expected revenue has fallen overstates assets and profit.
 
-### Treating Expected Recovery As Automatic
+### Treating Expected Recovery As Automatic and overlooking Anticipated Contract Costs
 
 Recovery is not automatic just because a resource was created. The transaction price must cover the cost plus margin, and unrecoverable portions must be expensed.
-
-### Overlooking Anticipated Contract Costs
 
 Costs incurred for an anticipated contract that is expected to be obtained may qualify, but only if the contract is genuinely probable. Capitalizing costs for speculative opportunities that never materialize overstates assets and defers expense.
 

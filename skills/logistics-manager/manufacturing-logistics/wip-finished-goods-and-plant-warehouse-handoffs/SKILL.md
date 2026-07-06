@@ -57,12 +57,9 @@ Repeated handoff issues usually indicate unclear ownership, rushed production cl
 - Letting production drop pallets without scans, counts, or status checks.
 - Shipping before quality release or documentation completion.
 - Missing customer-specific labels, country marks, serialization, or routing requirements.
-- Losing control during internal transfers between buildings or offsite warehouses.
-- Resolving discrepancies only in systems without checking physical cause.
-- Ignoring aging staging inventory until customer orders fail.
-- Allowing backflush, production receipt, quality release, and warehouse putaway to occur in an order no one has validated.
-- Relying on verbal hold warnings instead of visible and system-enforced containment.
-- Splitting, relabeling, or consolidating lots without preserving traceability and customer restrictions.
+- Losing control during internal transfers between buildings or offsite warehouses; resolving discrepancies only in systems without checking physical cause
+- Ignoring aging staging inventory until customer orders fail; allowing backflush, production receipt, quality release, and warehouse putaway to occur in an order no one has validated
+- Relying on verbal hold warnings instead of visible and system-enforced containment; splitting, relabeling, or consolidating lots without preserving traceability and customer restrictions
 
 ## Self-Check
 
@@ -75,5 +72,4 @@ Repeated handoff issues usually indicate unclear ownership, rushed production cl
 - Are handoff discrepancies reconciled quickly with owner, cause, and physical verification?
 - Are recurring produced-not-received, hold-shipped, duplicate, wrong-quantity, or aging-staging issues analyzed for root cause?
 - Are backflush, production receipt, quality release, putaway, allocation, and shipment cutoffs sequenced so stock cannot become available too early?
-- Does the process handle physically complete but documentation-blocked, test-blocked, or system-posting-blocked material without losing control?
-- Are permissions clear for breaking pallets, relabeling, splitting lots, consolidating lots, releasing holds, and moving restricted stock?
+- Does the process handle physically complete but documentation-blocked, test-blocked, or system-posting-blocked material without losing control?; are permissions clear for breaking pallets, relabeling, splitting lots, consolidating lots, releasing holds, and moving restricted stock?

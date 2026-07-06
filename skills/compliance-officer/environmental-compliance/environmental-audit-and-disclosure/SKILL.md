@@ -150,6 +150,10 @@ Identified but uncorrected violations create knowledge of ongoing violations.
 
 Mandatory reporting obligations exist independent of mitigation incentives.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the conditional nature of audit privilege and penalty mitigation understood, including voluntariness, prompt disclosure, correction period, no recurrence, exclusions, and documentation?

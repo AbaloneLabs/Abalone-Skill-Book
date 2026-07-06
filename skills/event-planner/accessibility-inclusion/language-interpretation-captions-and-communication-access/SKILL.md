@@ -58,8 +58,7 @@ For high-stakes events, assign a monitor during live sessions. Captions can drif
 - Moving rooms without moving access services.
 - Translating marketing content but not arrival, safety, wayfinding, or help information.
 - Updating the agenda in one language only.
-- Assuming bilingual staff can provide professional interpretation for complex content.
-- Making attendees publicly identify themselves to receive communication access.
+- Assuming bilingual staff can provide professional interpretation for complex content; making attendees publicly identify themselves to receive communication access
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ For high-stakes events, assign a monitor during live sessions. Captions can drif
 - Are machine translation limits recognized for sensitive or critical content?
 - Can attendees using access services ask questions, get help, and participate fully?
 - Do staff know how to direct attendees and troubleshoot access services?
-- Is privacy protected for attendees requesting or using communication access?
-- Has communication access been tested from actual attendee seats, devices, and virtual permissions?
+- Is privacy protected for attendees requesting or using communication access?; has communication access been tested from actual attendee seats, devices, and virtual permissions?

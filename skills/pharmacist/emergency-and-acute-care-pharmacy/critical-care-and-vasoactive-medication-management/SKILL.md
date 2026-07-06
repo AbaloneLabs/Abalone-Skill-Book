@@ -29,6 +29,10 @@ The critically ill patient's drug handling is altered by organ failure (renal fa
 
 The ICU admission and discharge are the transitions where the medication regimen is most disrupted (the patient arrives on a home regimen that is suspended, modified, or replaced; the patient leaves on a regimen that may or may not reconcile with the home regimen), and the pharmacist must support the reconciliation at both points. At admission, the pharmacist must obtain the home medication history (the outpatients meds, the doses, the adherence, the last doses, the allergies), must assess which to continue, suspend, or modify in the ICU, and must flag the medications that require specific management (the beta-blocker that should not be stopped abruptly, the opioid or benzodiazepine that requires continuation to prevent withdrawal, the anticoagulant that requires bridging). At discharge (from the ICU to the floor, or from the hospital), the pharmacist must reconcile the regimen, must ensure the home medications that were suspended are re-evaluated (resumed, modified, or stopped with rationale), and must communicate the changes to the receiving team and the patient. The ICU reconciliation failures (the home beta-blocker not resumed, the sedative continued beyond the ICU stay, the home medication stopped without rationale) produce harm that extends the recovery and the hospitalization, and the reconciliation is the control that prevents them.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Preparing a Vasoactive Infusion at a Non-Standard Concentration Without Explicit Justification
@@ -51,6 +55,10 @@ The CRRT and ECMO circuits alter the drug clearance and the volume of distributi
 
 The ICU admission and discharge are the transitions where the home medications are most likely to be lost (suspended at admission and never re-evaluated, or continued at the acute dose at discharge without reconciliation), and the failure produces both omissions (the home beta-blocker not resumed, causing rebound ischemia or tachycardia) and commissions (the ICU sedative continued at discharge, causing oversedation at home). The trap is that the ICU team focuses on the acute illness and treats the home regimen as suspended or irrelevant, so the reconciliation is not done, and the home medications are lost or inappropriately continued. The harm is the rebound effects of the omitted medications, the adverse effects of the inappropriately continued ones, and the readmissions that result. The fix is to reconcile the home medications at admission (documenting, continuing, suspending, or modifying each with rationale) and at discharge (re-evaluating each, resuming or adjusting, communicating the plan), treating the reconciliation as the control that preserves the patient's chronic therapy through the acute episode.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For every vasoactive and high-alert infusion, did I prepare and verify the concentration against the institutional standard, and did I flag any non-standard concentration for explicit justification, double-check, and team communication?
@@ -60,3 +68,4 @@ The ICU admission and discharge are the transitions where the home medications a
 - At ICU admission, did I obtain the home medication history, assess each medication (continue, suspend, modify), and flag the medications requiring specific management (beta-blockers, opioids, benzodiazepines, anticoagulants)?
 - At ICU discharge, did I reconcile the regimen, re-evaluate the suspended home medications, ensure the ICU-specific medications were stopped or transitioned, and communicate the plan to the receiving team and the patient?
 - Did I avoid the concentration-variation errors, the DERS bypass, the continued sedation without liberation, the unadjusted CRRT/ECMO dosing, and the unreconciled transitions that produce the predictable critical care harms?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

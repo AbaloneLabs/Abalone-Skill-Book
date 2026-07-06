@@ -58,12 +58,9 @@ Crisis markets attract fake capacity, inflated prices, counterfeit PPE or medica
 - Pressuring workers or drivers into unsafe areas.
 - Continuing normal customer promises after capacity or legal conditions have changed.
 - Rerouting through countries or modes that create new customs, insurance, or handling risk.
-- Ignoring labor relations and legal boundaries during strikes.
-- Failing to document fast decisions, making audits and claims difficult.
-- Returning to the old network without fixing the dependency that caused the crisis.
-- Bypassing sanctions, embargo, or export control concerns through informal rerouting or renamed parties.
-- Letting rumor-driven communication push workers, suppliers, or customers into unsafe or noncompliant actions.
-- Using emergency suppliers or brokers without fraud, quality, sanctions, and capacity checks.
+- Ignoring labor relations and legal boundaries during strikes; failing to document fast decisions, making audits and claims difficult
+- Returning to the old network without fixing the dependency that caused the crisis; bypassing sanctions, embargo, or export control concerns through informal rerouting or renamed parties
+- Letting rumor-driven communication push workers, suppliers, or customers into unsafe or noncompliant actions; using emergency suppliers or brokers without fraud, quality, sanctions, and capacity checks
 
 ## Self-Check
 

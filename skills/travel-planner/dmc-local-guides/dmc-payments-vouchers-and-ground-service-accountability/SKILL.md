@@ -65,10 +65,8 @@ For luxury, accessibility, family, medical, or high-stakes trips, push for stron
 - Failing to update vouchers after flight, hotel, traveler count, or luggage changes.
 - Depending on one informal message thread without updated service orders.
 - Not knowing who can authorize a replacement service during a no-show.
-- Missing cancellation penalties for weather, late arrival, port miss, or illness.
-- Ignoring currency fees, wire delays, and refund path.
-- Closing the trip without reconciling delivered services against paid services.
-- Treating repeated local operator failures as isolated inconveniences.
+- Missing cancellation penalties for weather, late arrival, port miss, or illness; ignoring currency fees, wire delays, and refund path
+- Closing the trip without reconciling delivered services against paid services; treating repeated local operator failures as isolated inconveniences
 
 ## Self-Check
 

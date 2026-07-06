@@ -61,6 +61,10 @@ A therapist may personalize the client's idealization, believing they are unique
 
 A therapist may treat every self-harm episode as an emergency requiring escalation, hospitalizing a client for chronic low-lethality cutting that serves an affective function, or may minimize genuine acute suicide risk by assuming it is "just" the chronic pattern. The mechanism of harm is that the conflation leads to the wrong response: chronic emergency visits that disrupt the treatment and reinforce the behavior, or missed acute risk that ends in suicide. The harm is that the chronic client is hospitalized repeatedly without benefit and the acute risk is not addressed. Assessing each episode for function and lethality, and responding with the appropriate level of care, prevents both errors.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I build a frame that is consistent, predictable, and humane, and discuss it as part of the treatment?

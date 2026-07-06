@@ -99,19 +99,15 @@ Cloud security groups are stateful (return traffic is allowed automatically); ne
 
 Peering is fine for two or three VPCs, but it is non-transitive and O(n²) in a mesh. Past a handful of networks, the peering graph becomes unmanageable and overlapping-CIDR conflicts multiply. Move to a Transit Gateway once the count grows.
 
-### Private Endpoints Assumed Secure Without Checking Their Security Groups
+### Private Endpoints Assumed Secure Without Checking Their Security Groups and rules Added In An Emergency And Never Removed Or Narrowed
 
 A private endpoint keeps traffic off the internet, but if its security group is broad, the endpoint is reachable from more of the network than intended. Private connectivity is not a substitute for least-privilege rules on the endpoint itself.
 
-### Rules Added In An Emergency And Never Removed Or Narrowed
-
 An outage is fixed by opening a broad rule, the fix works, and the rule stays forever. Over years the rule set becomes permissive by accumulation. Track emergency rule changes as debt and review them in post-incident cleanup.
 
-### Trusting The Tier Name Instead Of The Route Table And Rules
+### Trusting The Tier Name Instead Of The Route Table And Rules and no Flow Logs, So Incidents And Stale Rules Are Invisible
 
 A subnet called "isolated" that has a NAT route, or a security group called "restricted" that allows broad ingress, gives false assurance. Verify the actual routes and rules; the name is documentation, not enforcement.
-
-### No Flow Logs, So Incidents And Stale Rules Are Invisible
 
 Without flow logs there is no evidence of what traversed the network, so incident response is blind and stale-rule cleanup is guesswork. Enable and retain flow logs as a baseline, not an afterthought.
 

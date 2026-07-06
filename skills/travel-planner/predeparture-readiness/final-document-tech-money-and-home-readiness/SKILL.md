@@ -54,8 +54,7 @@ The final output should distinguish "must do before departure" from "nice to hav
 - Bringing one payment card and no backup cash or emergency contact numbers.
 - Packing medication in checked luggage or without documentation for controlled or refrigerated items.
 - Ignoring first-night late check-in, transfer, local cash, and first meal after a long travel day.
-- Reconfirming glamorous tours while forgetting airport transfer, hotel arrival, or rental car deposit rules.
-- Producing a long packing-style checklist that hides the few items that can stop the trip.
+- Reconfirming glamorous tours while forgetting airport transfer, hotel arrival, or rental car deposit rules; producing a long packing-style checklist that hides the few items that can stop the trip
 
 ## Self-Check
 

@@ -53,6 +53,10 @@ Document the time, who was contacted, the information given, and the response (o
 
 **Failing to escalate operational crises until they become clinical crises.** The unit is short-staffed, out of critical equipment, or over capacity, and the charge nurse absorbs the strain shift after shift without escalating to the supervisor, until a patient is harmed. The mechanism of harm is that operational strain (staffing, capacity, resources) directly produces clinical risk, and unescalated operational problems convert into adverse events. The harm is preventable patient harm and staff burnout. Escalate operational crises to the supervisor and administrator early, document them, and treat them as the patient-safety issues they are.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Do I know the escalation pathways, criteria, and expected response times for my setting?

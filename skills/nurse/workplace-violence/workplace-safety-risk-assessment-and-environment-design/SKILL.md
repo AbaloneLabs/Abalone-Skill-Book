@@ -59,6 +59,10 @@ The trap is that the high-risk patient is assigned to whoever has the bed, regar
 
 The trap is that the unit has panic alarms and a security protocol, so the team assumes they work, without testing them or rehearsing the response. The mechanism of harm is that alarms malfunction, batteries die, response times are longer than expected, and staff do not know their roles in a real event — and these failures are discovered only during an actual incident when they matter most. The harm is a failed response that training and testing could have prevented. Test the alarms regularly, rehearse the behavioral code with role clarity, and coordinate with security on realistic response times and protocols.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I walked the unit recently with a safety lens, and have I documented and advocated for remediation of identified hazards (blind corners, single-exit rooms, unsecured equipment, isolated work areas)?

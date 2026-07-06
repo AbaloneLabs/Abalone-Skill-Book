@@ -84,3 +84,4 @@ Refusing to re-sequence when assumption tests change the risk profile. The trap 
 - [ ] Initiatives are sequenced to maximize learning per unit of capacity in the early part of the plan.
 - [ ] Re-sequencing is triggered by the results of assumption tests, so the plan adapts as uncertainty resolves.
 - [ ] No extensive build rests on an assumption that a small early test could have invalidated.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

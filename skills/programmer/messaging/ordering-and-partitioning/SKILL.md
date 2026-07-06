@@ -115,11 +115,9 @@ Choosing a small partition count that fits current load, then discovering at pea
 
 Changing the key or partition count to fix a problem, and breaking per-key ordering because old messages remain on old partitions while new messages hash to new ones. The trap is treating partitioning as configurable. Treat the key and count as near-permanent; if change is unavoidable, plan a migration that preserves ordering (e.g., a full replay onto the new scheme).
 
-### Frequent Rebalances Degrading The System
+### Frequent Rebalances Degrading The System and salting A Hot Key And Silently Breaking Ordering
 
 Flapping consumers or aggressive autoscaling triggering constant rebalances, so the system spends its time coordinating rather than processing, with latency spikes and duplication throughout. The trap is treating rebalancing as free. Stabilize consumer membership and use sticky assignment.
-
-### Salting A Hot Key And Silently Breaking Ordering
 
 Applying key salting to relieve a hot partition without recognizing that the affected entity's events are no longer ordered, so consumers that depended on that ordering produce wrong results. The trap is a load fix that is silently a correctness regression. Make the ordering tradeoff explicit before salting.
 

@@ -70,12 +70,9 @@ The event begins before the stage lights. A chaotic arrival creates a late and u
 - Letting every guest use the red carpet when only priority photos are needed.
 - Failing to brief photographers on priority shots and sponsor requirements.
 - Lacking a discreet path for guests, minors, or VIPs who should not be photographed or interviewed.
-- Forcing privacy-sensitive or mobility-limited VIPs through public photo lines.
-- Producing seating charts that ushers cannot actually use.
-- Allowing multiple people to make last-minute seating changes.
-- Forgetting brand hierarchy and sponsor logo crop in photos.
-- Letting interviews stall the photo line.
-- Having no cutoff to move from arrivals into ceremony seating.
+- Forcing privacy-sensitive or mobility-limited VIPs through public photo lines; producing seating charts that ushers cannot actually use
+- Allowing multiple people to make last-minute seating changes; forgetting brand hierarchy and sponsor logo crop in photos
+- Letting interviews stall the photo line; having no cutoff to move from arrivals into ceremony seating
 
 ## Self-Check
 

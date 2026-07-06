@@ -29,6 +29,10 @@ A single dose may fall within the safe range while the total daily dose exceeds 
 
 Standard adult dosing does not apply to the extremes of age. Pediatric patients require weight-based dosing with age-specific maximums, and certain drugs are contraindicated entirely in specific pediatric age groups (tetracyclines in children under 8, fluoroquinolones generally avoided in children). Geriatric patients often require reduced doses due to decreased renal clearance, increased sensitivity (lower starting doses for antipsychotics, benzodiazepines, opioids), and higher risk of adverse effects. The pharmacist must apply these adjustments proactively — not wait for the prescriber to specify a reduced dose, but recommend the adjustment when the standard dose is prescribed for a patient whose age requires modification.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Round Number Illusion
@@ -47,6 +51,14 @@ Weight-based dosing requires a current weight, but the weight in the electronic 
 
 The per-dose amount is prominent on every prescription; the maximum daily dose is not. The pharmacist verifies that the individual dose is within range but does not always calculate the total daily exposure. The trap mechanism is that the safety check focuses on the visible number (the per-dose amount) and skips the invisible calculation (per-dose times frequency). When a prescriber increases the frequency without reducing the per-dose amount — or when a patient is taking the same drug through multiple prescriptions — the total daily dose can exceed the safe maximum while every individual dose appears correct. The harm is cumulative toxicity from a drug that was "verified" at every step, because no step checked the aggregate.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I independently verify the dose calculation against the patient's actual current weight, or did I accept the prescribed number as a transcription?
@@ -55,3 +67,5 @@ The per-dose amount is prominent on every prescription; the maximum daily dose i
 - Did I verify that the weight used for weight-based dosing is current and in the correct unit (kg vs lb)?
 - Did I check for decimal notation errors (missing leading zero, trailing zero) and treat any ambiguity as a clarification requirement?
 - Did I apply pediatric or geriatric dose adjustments proactively, or did I wait for the prescriber to specify a modified dose?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

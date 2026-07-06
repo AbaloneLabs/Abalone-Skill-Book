@@ -1,6 +1,6 @@
 ---
 name: acoustic-design-and-noise-control.md
-description: Use when the architect is designing for sound isolation between spaces, controlling reverberation and speech intelligibility in assembly and learning environments, mitigating mechanical and environmental noise, specifying acoustic treatments and assemblies, coordinating with acoustic consultants, or addressing code and standard requirements for sound transmission in residential, commercial, healthcare, educational, or performance buildings.
+description: Use when the agent is designing for sound isolation between spaces, controlling reverberation and speech intelligibility in assembly and learning environments, mitigating mechanical and environmental noise, specifying acoustic treatments and assemblies, coordinating with acoustic consultants, or addressing code and standard requirements for sound transmission in residential, commercial, healthcare, educational, or performance buildings.
 ---
 
 # Acoustic Design and Noise Control

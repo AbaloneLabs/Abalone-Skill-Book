@@ -59,6 +59,10 @@ The trap is that confusion, constipation, and fatigue are attributed to the canc
 
 The trap is that the nurse or team wants to repeat the blood cultures, or wait for a peripheral IV to place a new line for culture, before giving antibiotics, to avoid "contaminating" the culture results. The harm is that the delay in antibiotics increases mortality in febrile neutropenia. Cultures are important, but they are not more important than timely antibiotics. Draw what cultures you can, then give the antibiotics within the hour. The infectious disease team can interpret cultures taken around the antibiotic dose; they cannot reverse septic shock from a delay.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For any neutropenic patient with fever, have I drawn cultures and administered broad-spectrum antibiotics within one hour?

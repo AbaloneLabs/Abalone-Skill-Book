@@ -53,10 +53,8 @@ Assign owners for data correction. Missing weights, wrong modes, bad lane distan
 - Shifting modes without considering inventory, service, damage, spoilage, and expedite rebound.
 - Using one emissions KPI that can be gamed or misread.
 - Comparing carriers using incompatible calculation methods.
-- Claiming carbon-neutral or zero-emission service without verifying methodology and double-counting controls.
-- Ignoring returns, empty miles, parcel split shipments, and inbound freight.
-- Producing emissions reports that are not used in S&OP, procurement, network, packaging, or customer promise decisions.
-- Leaving data defects unresolved because sustainability owns the report but operations owns the source systems.
+- Claiming carbon-neutral or zero-emission service without verifying methodology and double-counting controls; ignoring returns, empty miles, parcel split shipments, and inbound freight
+- Producing emissions reports that are not used in S&OP, procurement, network, packaging, or customer promise decisions; leaving data defects unresolved because sustainability owns the report but operations owns the source systems
 
 ## Self-Check
 

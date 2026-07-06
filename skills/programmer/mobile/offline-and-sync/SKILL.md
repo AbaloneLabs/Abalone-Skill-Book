@@ -52,6 +52,10 @@ Offline-first changes the user's mental model: their edits may not yet be on the
 - **Surface conflicts that need resolution.** When a conflict requires a user decision, tell them clearly what conflicted and offer the resolution options; do not silently pick.
 - **Communicate failures honestly.** A sync that keeps failing should tell the user, not silently queue forever; the user may need to act (open the app, fix connectivity, resolve a conflict).
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Assuming Connectivity
@@ -91,3 +95,4 @@ A sync that keeps failing without telling the user, so edits sit queued forever 
 - [ ] Partial connectivity is treated as the normal case: sync tolerates the connection dropping mid-sync and resumes cleanly, captive portals and degraded networks are detected and treated as offline, and retry uses exponential backoff with jitter respecting OS network signals.
 - [ ] Sync state is communicated to the user (pending, syncing, synced, conflict), conflicts needing a decision are surfaced with clear options, and persistent failures are reported honestly rather than queued silently.
 - [ ] The highest-risk cases were verified — an offline edit reconciled without loss, a conflict detected by versioning and resolved by strategy, a sync interrupted mid-batch resumed without duplication, and a captive/degraded network treated as offline — not only the clean always-online path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

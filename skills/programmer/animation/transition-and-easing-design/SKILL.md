@@ -111,11 +111,9 @@ Using physics-based spring easing without tuning, so the element overshoots dram
 
 Reading a start value once and animating from it, so an interruption mid-flight causes a visible jump to the stored start before continuing. Animate from the current rendered state so interruptions are smooth.
 
-### Blocking Interaction For The Full Transition
+### Blocking Interaction For The Full Transition and page Transition That Impresses But Disorients
 
 A modal or page transition that disables all input until the animation completes, making the interface feel slow. Let the user act as soon as the content is usable; the transition can finish visually in parallel.
-
-### Page Transition That Impresses But Disorients
 
 An elaborate page transition (a 3D flip, a full-screen sweep) that looks impressive but does not convey where the user went or how the views relate. Use transitions to convey structure and direction, not to impress; keep them short and meaningful.
 

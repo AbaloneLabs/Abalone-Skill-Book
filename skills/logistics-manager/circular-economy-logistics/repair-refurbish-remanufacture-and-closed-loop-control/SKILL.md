@@ -70,12 +70,9 @@ The closed loop is a feedback system, not just a cost center.
 - Crediting or valuing returns before inspection and functional testing.
 - Resolving the customer case while losing the physical return's identity, condition, and recovery path.
 - Building return transport without enough repair, diagnostic, and parts capacity.
-- Reusing harvested parts without traceability, testing, and quality release.
-- Letting finance, warranty, and physical disposition statuses diverge.
-- Overlooking personal data, batteries, fluids, contamination, counterfeit, and recall risks.
-- Returning refurbished goods to stock without clear quality and warranty standards.
-- Measuring only return volume rather than recovery yield, cycle time, and root causes.
-- Failing to use reverse-flow data to prevent future failures.
+- Reusing harvested parts without traceability, testing, and quality release; letting finance, warranty, and physical disposition statuses diverge
+- Overlooking personal data, batteries, fluids, contamination, counterfeit, and recall risks; returning refurbished goods to stock without clear quality and warranty standards
+- Measuring only return volume rather than recovery yield, cycle time, and root causes; failing to use reverse-flow data to prevent future failures
 
 ## Self-Check
 

@@ -52,6 +52,10 @@ Synthetic monitoring tells you that something is broken from the user's perspect
 - **Synthetic for detection, observability for diagnosis.** The synthetic alerts that users are failing; the metrics, logs, and traces localize the cause. Both are needed; neither alone is sufficient.
 - **Link the synthetic alert to the relevant dashboards and traces.** When the synthetic fires, the responder should land one step from the diagnostic context, not have to hunt for it.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Probes That Test Liveness, Not The Transaction
@@ -91,3 +95,4 @@ A synthetic that detects the symptom but no metrics/traces to diagnose the cause
 - [ ] Synthetic monitoring is paired with diagnostic observability (metrics, logs, traces) so detection (users are failing) leads directly to diagnosis (why), with alerts linked to the relevant dashboards.
 - [ ] Critical business transactions are prioritized (the revenue path, signup, core API) over shallow coverage of every endpoint, so the most important journeys are protected first.
 - [ ] The highest-risk cases were verified — a probe that detected a failure real users would hit (not just liveness), an external probe that caught a problem invisible internally, a content assertion that caught a 200-with-wrong-data, and a tuned threshold that suppressed a false-positive storm — not only the clean happy-path probe.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

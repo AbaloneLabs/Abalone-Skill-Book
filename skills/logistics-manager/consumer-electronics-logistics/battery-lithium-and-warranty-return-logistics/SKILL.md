@@ -71,10 +71,8 @@ Evidence matters for safety investigation, supplier recovery, insurance, and reg
 - Depending on customers to package lithium devices safely without clear instructions.
 - Ignoring state of charge, accidental activation, terminal protection, and mode restrictions.
 - Losing serial, IMEI, claim, accessory, or diagnostic identity during return flow.
-- Exposing personal data by handling returned devices without privacy controls.
-- Issuing warranty replacements without evidence, fraud, or condition checks.
-- Sending damaged batteries into repair or recycle streams without quarantine and special handling.
-- Discarding or disturbing incident evidence before safety, supplier, insurance, or regulatory review.
+- Exposing personal data by handling returned devices without privacy controls; issuing warranty replacements without evidence, fraud, or condition checks
+- Sending damaged batteries into repair or recycle streams without quarantine and special handling; discarding or disturbing incident evidence before safety, supplier, insurance, or regulatory review
 
 ## Self-Check
 

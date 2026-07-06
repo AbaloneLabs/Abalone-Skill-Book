@@ -61,6 +61,10 @@ A therapist may take on the role of the family's advocate in school disputes, at
 
 A therapist, committed to the child's confidentiality, may share so little with parents that they are left uninformed, unsupported, and unable to reinforce the treatment, when parents need at least themes, skills, and warning signs to parent effectively. The mechanism of harm is that confidentiality is treated as absolute, and the parents, receiving nothing, cannot support the work and may disengage or undermine it. The harm is that the child's gains do not generalize to the home, the parents feel excluded, and the treatment's effect is limited to the session hour. Sharing strategically, with the child's involvement where possible, gives parents what they need without betraying the child's trust.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I establish a clear confidentiality frame with both the child and the parents, explaining what is shared, what is private, and what must be reported?
@@ -70,3 +74,4 @@ A therapist, committed to the child's confidentiality, may share so little with 
 - [ ] Did I coordinate with schools and outside providers as a clinician, with proper authorization and clear role limits?
 - [ ] Did I address family conflict, parental mental health, and systemic stress in the formulation and plan?
 - [ ] Did I avoid over-sharing, blaming parents, conducting unsafe family sessions, role drift into advocacy, and withholding all information?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

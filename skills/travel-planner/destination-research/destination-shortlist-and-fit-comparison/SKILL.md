@@ -65,10 +65,8 @@ When options are close, identify the deciding question: budget, flight tolerance
 - Treating shoulder season as automatically better.
 - Underestimating ferries, rural roads, airport transfers, visas, and internal travel.
 - Leaving a destination on the shortlist because it is popular even though it lacks the traveler's main interest.
-- Presenting too many options and forcing the traveler to do the analysis.
-- Hiding safety, weather, accessibility, or disruption concerns to keep a destination attractive.
-- Ranking options with vague labels such as best value or most authentic without defining criteria.
-- Failing to state what facts still need current verification.
+- Presenting too many options and forcing the traveler to do the analysis; hiding safety, weather, accessibility, or disruption concerns to keep a destination attractive
+- Ranking options with vague labels such as best value or most authentic without defining criteria; failing to state what facts still need current verification
 
 ## Self-Check
 

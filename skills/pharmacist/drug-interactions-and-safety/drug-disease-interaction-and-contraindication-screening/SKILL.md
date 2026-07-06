@@ -29,6 +29,10 @@ Pregnancy and lactation status changes the safety profile of nearly every medica
 
 Lab values often reveal disease states that are not in the problem list. A creatinine clearance below 30 mL/min indicates significant renal impairment that requires dose adjustment for renally cleared drugs, even if "chronic kidney disease" is not in the diagnosis list. Elevated liver enzymes indicate hepatic impairment that affects drugs metabolized by the liver. A low platelet count or elevated INR indicates a bleeding risk that contraindicates anticoagulants and NSAIDs. The pharmacist must review available lab values as part of the screening process, using them to detect disease states that the prescriber may not have documented but that nonetheless change the safety profile of the prescribed medication.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Indication Tunnel — Verifying the Drug Against the Diagnosis, Not the Patient
@@ -47,6 +51,14 @@ The pharmacist identifies an absolute contraindication — metformin in a patien
 
 For female patients of childbearing age, the pharmacist assumes the patient is not pregnant unless told otherwise. The trap is that early pregnancy is asymptomatic — the patient may not know she is pregnant — and the assumption leads to dispensing teratogenic medications without any screening. The harm is that the window of greatest teratogenic risk (the first trimester, before pregnancy is recognized) is exactly the window where the assumption "not pregnant" is most likely to be wrong. The pharmacist must ask about pregnancy status and last menstrual period for any female patient of childbearing age receiving a potentially teratogenic medication, and must document the response. The question takes five seconds; the harm it prevents is irreversible.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I check the prescribed medication against the patient's active problem list and documented comorbidities, not just against the indication?
@@ -55,3 +67,5 @@ For female patients of childbearing age, the pharmacist assumes the patient is n
 - Did I screen pregnancy and lactation status for any female patient of childbearing age receiving a medication with reproductive risk?
 - Did I review available lab values (renal function, liver enzymes, platelets, INR) to detect undocumented disease states that change the safety profile?
 - When the problem list was unavailable, did I use the medication list and lab values to infer disease states, or did I assume the absence of disease data meant the absence of disease?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

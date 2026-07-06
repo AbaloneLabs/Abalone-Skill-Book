@@ -1,6 +1,6 @@
 ---
 name: electronic-health-record-safety-and-clinical-decision-support.md
-description: Use when the nurse is documenting in the electronic health record, interpreting or overriding clinical decision support alerts, managing copy-forward or templated notes, reconciling order-entry mismatches, reviewing the accuracy of flowsheet data, or responding to EHR downtime and safety risks at the bedside.
+description: Use when the agent is documenting in the electronic health record, interpreting or overriding clinical decision support alerts, managing copy-forward or templated notes, reconciling order-entry mismatches, reviewing the accuracy of flowsheet data, or responding to EHR downtime and safety risks at the bedside.
 ---
 
 # Electronic Health Record Safety and Clinical Decision Support

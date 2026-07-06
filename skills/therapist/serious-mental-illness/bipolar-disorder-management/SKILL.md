@@ -1,6 +1,6 @@
 ---
 name: bipolar-disorder-management.md
-description: Use when the therapist is working with clients with bipolar I or bipolar II disorder, managing the oscillation between depression and mania or hypomania, addressing medication adherence, recognizing early warning signs of mood episodes, supporting functional stability, or navigating the relational and occupational consequences of the illness.
+description: Use when the agent is working with clients with bipolar I or bipolar II disorder, managing the oscillation between depression and mania or hypomania, addressing medication adherence, recognizing early warning signs of mood episodes, supporting functional stability, or navigating the relational and occupational consequences of the illness.
 ---
 
 # Bipolar Disorder Management

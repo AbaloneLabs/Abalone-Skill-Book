@@ -41,6 +41,10 @@ The agent should ensure the traveler knows who to contact if the local situation
 
 Also confirm whether the provider will refund, reassign, or safely remove a traveler if the placement is materially different from what was promised or if safeguarding concerns require withdrawal.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Treating nonprofit language as proof of ethical practice.

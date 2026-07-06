@@ -112,11 +112,9 @@ Building replay tooling that re-publishes DLQ messages with fresh ids, defeating
 
 Performing the side effect and acknowledging the message in separate steps, so a crash between them causes the side effect to be re-performed on retry. The trap is assuming the broker's redelivery is the only duplicate source. Couple the side effect and the acknowledgement transactionally.
 
-### Retry Storm Against A Degraded Downstream
+### Retry Storm Against A Degraded Downstream and conflating Quarantine And Retry-Exhaustion DLQ
 
 Aggressive retries with short backoff and no circuit breaker against a downstream that is degraded, multiplying the load and preventing recovery — turning a partial outage into a total one. The trap is that each consumer's retries look reasonable in isolation but combine destructively. Use backoff with jitter, bound concurrency, and circuit-break under sustained failure.
-
-### Conflating Quarantine And Retry-Exhaustion DLQ
 
 Mixing structurally-unprocessable poison messages with messages that simply exhausted retries against a transient outage, so the DLQ contains messages needing opposite responses (fix-the-data versus wait-and-replay). The trap is a single DLQ that no one knows how to triage. Separate them or at least tag them distinctly.
 

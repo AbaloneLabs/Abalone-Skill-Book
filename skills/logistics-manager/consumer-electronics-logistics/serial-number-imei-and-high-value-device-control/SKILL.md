@@ -57,13 +57,11 @@ Perform cycle counts and reconciliations by serial, location, status, order, and
 
 Unit-level counts can hide identity-level errors. A site may have the right quantity and still have the wrong serials.
 
-### Investigate serialized exceptions as security events
+### Investigate serialized exceptions as security events and govern data sharing and audit access
 
 Duplicate serials, missing IMEIs, unexplained activation, serial swaps, repeated scan failures, and mismatched customer claims should trigger structured investigation. Check receiving records, camera footage, pack scans, carrier handoffs, returns inspection, and system logs.
 
 Not every serialized exception is theft, but every unresolved exception weakens warranty, recall, and security control. Close the loop with documented cause and corrective action.
-
-### Govern data sharing and audit access
 
 Serial and IMEI data may be needed by carriers, marketplaces, manufacturers, insurers, law enforcement, warranty providers, and customer support. Share only necessary fields through controlled channels and maintain audit trails.
 
@@ -76,12 +74,9 @@ Device identity data supports legitimate operations but can also create security
 - Assigning serials after shipment based on assumptions rather than pack scans.
 - Treating high-value security as separate from inventory control.
 - Shipping devices whose activation, lock, whitelist, or carrier status is wrong.
-- Accepting returns without matching serial to original order and condition.
-- Missing serial swaps, counterfeit returns, locked devices, and empty-box fraud.
-- Handling data-bearing devices without wipe, quarantine, and custody controls.
-- Reconciling only quantity while identity-level discrepancies remain.
-- Treating duplicate, missing, swapped, or unexpectedly activated serials as clerical noise.
-- Sharing serial and IMEI data too broadly without audit trail.
+- Accepting returns without matching serial to original order and condition; missing serial swaps, counterfeit returns, locked devices, and empty-box fraud
+- Handling data-bearing devices without wipe, quarantine, and custody controls; reconciling only quantity while identity-level discrepancies remain
+- Treating duplicate, missing, swapped, or unexpectedly activated serials as clerical noise; sharing serial and IMEI data too broadly without audit trail
 
 ## Self-Check
 

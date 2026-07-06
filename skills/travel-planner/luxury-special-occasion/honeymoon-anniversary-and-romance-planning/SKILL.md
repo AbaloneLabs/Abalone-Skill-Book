@@ -65,10 +65,8 @@ If planning through one partner, ask tactful questions about the other partner's
 - Planning public surprises without considering the partner's personality and consent.
 - Ignoring bad seasonal weather because the destination is iconic.
 - Booking tickets in a new married name before documents are updated.
-- Spending heavily on room category while neglecting flights, transfers, or pacing.
-- Sharing too much private couple information with suppliers.
-- Assuming one partner's preferences represent the couple.
-- Leaving service recovery channels unclear for high-emotion moments.
+- Spending heavily on room category while neglecting flights, transfers, or pacing; sharing too much private couple information with suppliers
+- Assuming one partner's preferences represent the couple; leaving service recovery channels unclear for high-emotion moments
 
 ## Self-Check
 

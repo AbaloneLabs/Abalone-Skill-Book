@@ -55,13 +55,11 @@ Backorder is a promise, not a storage status. Manage it actively.
 
 When backorders age or supply changes, decide who can cancel, substitute, downgrade, upgrade, or ask the customer to choose. Record approvals and customer preference so teams do not make inconsistent decisions.
 
-### Measure outcome, not only ship speed
+### Measure outcome, not only ship speed and simulate policy effects before changing defaults
 
 Track split frequency, incremental freight, customer satisfaction, cancellations, backorder age, fill rate, contacts, claims, and margin impact. Use data to tune policies.
 
 Fast partial shipments are not always better if they create cost, confusion, and repeat contacts.
-
-### Simulate policy effects before changing defaults
 
 Before changing split-ship or ship-complete rules, model expected impact on freight cost, packages per order, delivery speed, backorder age, warehouse labor, packaging use, customer contacts, and allocation fairness. Test by segment if possible.
 
@@ -74,12 +72,9 @@ Policy defaults affect thousands of orders. A small rule change can shift cost a
 - Shipping accessories or partial kits that the customer cannot use.
 - Letting partial shipments consume constrained inventory outside allocation policy.
 - Creating WMS/OMS status confusion between shipped lines and remaining balances.
-- Communicating shipment status without explaining backorder timing and customer options.
-- Leaving aged backorders open without owner, priority, and cancellation review.
-- Canceling, substituting, upgrading, or downgrading backorders without authority and customer preference records.
-- Measuring success by ship speed while ignoring cost, contacts, claims, and satisfaction.
-- Changing split-ship defaults without modeling freight, labor, packaging, contact, and allocation impact.
-- Applying one split-ship rule to every customer, channel, and product type.
+- Communicating shipment status without explaining backorder timing and customer options; leaving aged backorders open without owner, priority, and cancellation review
+- Canceling, substituting, upgrading, or downgrading backorders without authority and customer preference records; measuring success by ship speed while ignoring cost, contacts, claims, and satisfaction
+- Changing split-ship defaults without modeling freight, labor, packaging, contact, and allocation impact; applying one split-ship rule to every customer, channel, and product type
 
 ## Self-Check
 
@@ -92,5 +87,4 @@ Policy defaults affect thousands of orders. A small rule change can shift cost a
 - Are backorders owned, aged, prioritized, allocated, and reviewed for cancellation or promise changes?
 - Are cancellation, substitution, downgrade, upgrade, and customer-choice authorities defined and recorded?
 - Are split frequency, incremental freight, contacts, claims, cancellations, satisfaction, and margin measured?
-- Are policy changes modeled for freight cost, package count, labor, backorder aging, contacts, and allocation fairness?
-- Does the policy balance customer service with operational complexity and cost-to-serve?
+- Are policy changes modeled for freight cost, package count, labor, backorder aging, contacts, and allocation fairness?; does the policy balance customer service with operational complexity and cost-to-serve?

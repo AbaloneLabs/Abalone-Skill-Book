@@ -1,6 +1,6 @@
 ---
 name: clinical-alarm-and-device-interoperability-management.md
-description: Use when the nurse is managing physiologic monitor and ventilator alarms, responding to alarm fatigue, configuring alarm limits, troubleshooting device interconnectivity and integration failures, or safeguarding patients who depend on networked monitoring devices.
+description: Use when the agent is managing physiologic monitor and ventilator alarms, responding to alarm fatigue, configuring alarm limits, troubleshooting device interconnectivity and integration failures, or safeguarding patients who depend on networked monitoring devices.
 ---
 
 # Clinical Alarm and Device Interoperability Management

@@ -152,11 +152,9 @@ The data collection form must agree with the reports. Submitting a form that doe
 
 When the entity passes funds to subrecipients, monitoring those subrecipients is itself a compliance requirement. Failing to test passthrough monitoring misses a recurring area of noncompliance.
 
-### Missing Cluster Treatment
+### Missing Cluster Treatment and confusing Questioned Costs With Noncompliance Without Cost
 
 Programs that form a recognized cluster must be assessed as a single program. Treating clustered programs individually distorts risk assessment and coverage.
-
-### Confusing Questioned Costs With Noncompliance Without Cost
 
 A questioned cost requires a documented basis and a tie to a specific unallowable or unsupported expenditure. Reporting a questioned cost where none exists, or omitting one where it does, misstates the schedule of findings.
 
@@ -171,5 +169,4 @@ A questioned cost requires a documented basis and a tie to a specific unallowabl
 - Are repeated findings cross-referenced to the summary schedule of prior audit findings?
 - Is the summary schedule of prior audit findings and the corrective action plan included and reconciled?
 - Has subrecipient monitoring been tested as a substantive compliance area, including risk assessment, performance review, and resolution of subrecipient audit findings?
-- Is the data collection form completed, certified, and reconciled to the reports and the SEFA?
-- Has the complete reporting package been submitted to the Federal Audit Clearinghouse and distributed to required passthrough or oversight entities within deadlines?
+- Is the data collection form completed, certified, and reconciled to the reports and the SEFA?; has the complete reporting package been submitted to the Federal Audit Clearinghouse and distributed to required passthrough or oversight entities within deadlines?

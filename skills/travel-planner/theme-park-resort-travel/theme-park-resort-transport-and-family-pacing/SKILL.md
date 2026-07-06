@@ -70,12 +70,9 @@ The best family park plan is often less ambitious than the ticket price suggests
 - Planning mid-day breaks that consume too much time in transit.
 - Forgetting stroller folding, scooter rules, car seats, and pickup zones.
 - Starting every morning with breakfast friction.
-- Treating resort benefits as mandatory even when they worsen sleep, meals, or flexibility.
-- Treating resort pools and rest time as wasted park value.
-- Failing to plan split groups and child handoffs.
-- Using expensive park tickets on low-energy arrival or departure windows without intent.
-- Ignoring post-fireworks crowd exit and late-night transport stress.
-- Overestimating family stamina in heat and crowds.
+- Treating resort benefits as mandatory even when they worsen sleep, meals, or flexibility; treating resort pools and rest time as wasted park value
+- Failing to plan split groups and child handoffs; using expensive park tickets on low-energy arrival or departure windows without intent
+- Ignoring post-fireworks crowd exit and late-night transport stress; overestimating family stamina in heat and crowds
 
 ## Self-Check
 

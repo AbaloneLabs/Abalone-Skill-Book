@@ -54,8 +54,7 @@ Evidence should be organized and access-controlled. Sensitive documents should n
 - Collecting sensitive attendee data without clear purpose, access limits, retention plan, or notice.
 - Assuming insurance covers alcohol, weather, cancellation, youth activities, cyber, or participant injury without checking.
 - Letting sponsor activations, raffles, filming, drones, or food sampling proceed without compliance review.
-- Protecting VIP or sponsor interests while neglecting attendee duty of care.
-- Keeping permits and approvals in scattered emails that operations staff cannot find when needed.
+- Protecting VIP or sponsor interests while neglecting attendee duty of care; keeping permits and approvals in scattered emails that operations staff cannot find when needed
 
 ## Self-Check
 

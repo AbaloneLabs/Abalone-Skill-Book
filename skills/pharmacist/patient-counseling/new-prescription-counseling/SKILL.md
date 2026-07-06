@@ -29,6 +29,10 @@ For inhalers, injectables (insulin pens, subcutaneous syringes, autoinjectors), 
 
 The pharmacist must proactively identify and address barriers to adherence during counseling, because the moment of dispensing is the last structured contact before the patient is on their own. Cost is a frequent barrier — the pharmacist should ask whether the patient can afford the medication and should offer alternatives (generic substitution, a lower-cost agent in the class, a patient assistance program) when cost will prevent adherence. Complexity is a barrier — the pharmacist should offer synchronization of refills, a pill organizer, or simplified regimens when possible. Side-effect fear is a barrier — the pharmacist should explain which side effects are expected and transient, which require action, and what to do. The patient should leave knowing not just how to take the drug but how to handle the predictable obstacles that will arise.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Label-Recital Trap
@@ -51,6 +55,10 @@ The pharmacist hands over an inhaler or an injectable pen, points to the instruc
 
 The pharmacist counsels on the drug's clinical content but does not ask whether the patient can afford it or can manage the regimen. The mechanism is that cost and complexity feel like social issues outside the clinical counseling scope. The false signal is that the clinical counseling is complete, so the patient is prepared. The harm is that a patient who cannot afford the drug or cannot manage a four-times-daily regimen will not adhere, regardless of how well they understand the purpose — and the non-adherence will be discovered weeks later as a "treatment failure" or an uncontrolled lab value, when it could have been prevented at the moment of dispensing by addressing the barrier directly.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I confirm, in the patient's own words, that they understand and accept the medication's purpose, or did I assume agreement and proceed to dosing?
@@ -59,3 +67,5 @@ The pharmacist counsels on the drug's clinical content but does not ask whether 
 - For any non-oral route (inhaler, injectable, topical, drop), did I demonstrate the technique and observe the patient's return demonstration, or did I rely on verbal instruction and the package insert?
 - Did I use teach-back to verify comprehension rather than asking "do you understand?", and did I address cost, complexity, and side-effect barriers before the patient left?
 - For high-alert and narrow-therapeutic-index drugs, did I allocate enough time to cover the critical safety content (monitoring, danger signs, interactions), or did I apply uniform shallow counseling?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

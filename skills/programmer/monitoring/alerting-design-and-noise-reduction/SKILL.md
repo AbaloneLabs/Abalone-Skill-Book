@@ -111,19 +111,15 @@ Alerting on "cache hit rate dropped" or "replica lag increased" when users are u
 
 A page that says "queue depth high" with no guidance on what it means, what to check, or who owns it. The responder burns the first minutes of the incident figuring out what the alert even is. Every alert needs a linked runbook and a routed owner.
 
-### Paging On What Automation Already Handles
+### Paging On What Automation Already Handles and treating Dashboards As Alerts
 
 CPU-driven autoscale, pod rescheduling, transient retries. These are the system working, not incidents. Page only when the automation is exhausted or failing and users are being harmed.
 
-### Treating Dashboards As Alerts
-
 Building elaborate dashboards and expecting someone to watch them. No one watches dashboards in real time; if a condition needs a human now, it must be an alert, not a chart. Conversely, do not alert on everything that appears on a dashboard — most dashboard data is for inspection, not interruption.
 
-### Never Retiring Alerts
+### Never Retiring Alerts and alerting On Error Logs Instead Of Error Rate
 
 Adding alerts over time and never removing them, so the set grows monotonically and noise compounds. Alerts rot: the system changes, the threshold becomes wrong, the owning team moves on. Without periodic review and retirement, the alerting system drowns in stale, low-quality pages.
-
-### Alerting On Error Logs Instead Of Error Rate
 
 A single ERROR log triggers a page. Errors are expected within the budget; the alert should fire on the rate or budget burn, not on one line. Page on the aggregate signal that means users are affected, not on individual log entries.
 

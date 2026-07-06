@@ -57,13 +57,11 @@ Measure alert volume, false positives, false negatives, response time, closure r
 
 Alert systems require maintenance because lanes, carriers, customers, and operating priorities change.
 
-### Include manual and external fallback paths
+### Include manual and external fallback paths and link alerts to continuous improvement
 
 When EDI, API, telematics, port feeds, parcel scans, or carrier portals fail, define manual tracing, escalation contacts, document checks, and customer communication rules. Critical shipments should not disappear because a data feed is down.
 
 Visibility architecture must include what happens when visibility itself fails.
-
-### Link alerts to continuous improvement
 
 Aggregate exceptions by lane, carrier, facility, customer, supplier, mode, cause, and season. Use patterns to change routing, lead times, carrier scorecards, dock schedules, inventory policy, or customer promises.
 
@@ -76,12 +74,9 @@ Alerting should reduce future exceptions, not only identify today's problems.
 - Alerting too late for intervention or so early that normal variation creates constant noise.
 - Ranking alerts by lateness alone while ignoring customer, product, penalty, stockout, and recovery impact.
 - Sending notifications without owner, required action, response time, escalation, or closure rule.
-- Creating duplicate alerts for the same root cause without grouping, suppression, or dependency logic.
-- Letting stale lane standards, holiday calendars, facility hours, or timezone data corrupt alert timing.
-- Letting false positives accumulate until operators ignore the system.
-- Having no fallback process when carrier feeds, telematics, APIs, or portals fail.
-- Treating alert history as a daily work queue only, not as evidence for network improvement.
-- Ignoring timezone, weekend, holiday, and mode-specific event differences in alert logic.
+- Creating duplicate alerts for the same root cause without grouping, suppression, or dependency logic; letting stale lane standards, holiday calendars, facility hours, or timezone data corrupt alert timing
+- Letting false positives accumulate until operators ignore the system; having no fallback process when carrier feeds, telematics, APIs, or portals fail
+- Treating alert history as a daily work queue only, not as evidence for network improvement; ignoring timezone, weekend, holiday, and mode-specific event differences in alert logic
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Alerting should reduce future exceptions, not only identify today's problems.
 - Are transit standards, facility hours, holidays, cutoffs, customer windows, carrier schedules, mode rules, and timezones maintained?
 - Are alert volume, false positives, false negatives, response time, closure rate, repeat causes, and overrides reviewed?
 - Is there a fallback for EDI, API, telematics, port, parcel, portal, and carrier status failures?
-- Are exception patterns used to improve routing, lead time, carrier management, dock schedules, inventory, and promises?
-- Can operators trust that alerts are worth acting on?
+- Are exception patterns used to improve routing, lead time, carrier management, dock schedules, inventory, and promises?; can operators trust that alerts are worth acting on?

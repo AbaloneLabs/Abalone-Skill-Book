@@ -70,12 +70,9 @@ Not every hostile post deserves a response. But misinformation about safety, acc
 - Applying rules inconsistently across supporters, opponents, press, and VIPs.
 - Letting venue security, police, volunteers, and campaign advance operate separately.
 - Creating protest handling that appears punitive, discriminatory, or performative.
-- Forgetting trackers, livestreamers, influencers, and nontraditional media.
-- Leaving volunteers to handle filmed confrontation without scripts or backup.
-- Ignoring privacy and harassment risk for vulnerable attendees.
-- Failing to plan safe departure routes after a tense event.
-- Communicating publicly about an incident before facts are documented.
-- Overreacting to hostile clips or underreacting to false safety and access information.
+- Forgetting trackers, livestreamers, influencers, and nontraditional media; leaving volunteers to handle filmed confrontation without scripts or backup
+- Ignoring privacy and harassment risk for vulnerable attendees; failing to plan safe departure routes after a tense event
+- Communicating publicly about an incident before facts are documented; overreacting to hostile clips or underreacting to false safety and access information
 
 ## Self-Check
 

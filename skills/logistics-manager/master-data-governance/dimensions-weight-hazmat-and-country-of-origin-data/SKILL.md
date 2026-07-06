@@ -71,10 +71,8 @@ Data cleanup competes with daily work. Use risk and cost to focus effort.
 - Letting country of origin and customs codes remain unchanged after sourcing changes.
 - Fixing one shipment manually while leaving bad item data in the master.
 - Accepting supplier data without evidence, format controls, or change notification.
-- Failing to re-audit high-risk dimensions, weights, hazmat flags, and origin data after changes and disputes.
-- Ignoring carrier dimensional-weight charges, cartonization failures, and automation jams as data-quality signals.
-- Updating physical packaging without retesting rating, storage, automation, and compliance workflows.
-- Prioritizing easy data cleanup instead of high-risk financial and compliance exposure.
+- Failing to re-audit high-risk dimensions, weights, hazmat flags, and origin data after changes and disputes; ignoring carrier dimensional-weight charges, cartonization failures, and automation jams as data-quality signals
+- Updating physical packaging without retesting rating, storage, automation, and compliance workflows; prioritizing easy data cleanup instead of high-risk financial and compliance exposure
 
 ## Self-Check
 

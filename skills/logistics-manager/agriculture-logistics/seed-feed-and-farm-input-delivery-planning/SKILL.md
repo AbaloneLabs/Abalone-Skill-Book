@@ -71,10 +71,8 @@ Proof matters when planting is delayed, feed is disputed, or regulated product a
 - Sending equipment that cannot unload at the farm, tank, bin, field, or dealer site.
 - Ignoring cleanout, residue, incompatible storage, hazmat, and treated-seed rules.
 - Allocating scarce input based on pressure rather than defined priority rules.
-- Moving restricted products without verifying licenses, documentation, SDS, placards, or recipient eligibility.
-- Accepting returns without checking product integrity, temperature, packaging, and regulatory limits.
-- Relying on generic delivery scans for high-value or regulated farm inputs.
-- Communicating delivery status without explaining split shipments, shortages, and field-use impact.
+- Moving restricted products without verifying licenses, documentation, SDS, placards, or recipient eligibility; accepting returns without checking product integrity, temperature, packaging, and regulatory limits
+- Relying on generic delivery scans for high-value or regulated farm inputs; communicating delivery status without explaining split shipments, shortages, and field-use impact
 
 ## Self-Check
 

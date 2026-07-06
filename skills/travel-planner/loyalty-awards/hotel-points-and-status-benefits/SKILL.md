@@ -65,10 +65,8 @@ Set expectations before arrival so travelers do not feel misled when discretiona
 - Using status to avoid booking required bedding, room size, or accessibility.
 - Forgetting resort fees, destination fees, taxes, parking, and breakfast limits on award stays.
 - Letting expiring certificates create inefficient hotel changes.
-- Overvaluing future status while weakening the current trip.
-- Assuming benefits extend to all family members, guests, or group rooms.
-- Ignoring property-specific exceptions and current rule changes.
-- Failing to tell the traveler what is confirmed versus hoped for.
+- Overvaluing future status while weakening the current trip; assuming benefits extend to all family members, guests, or group rooms
+- Ignoring property-specific exceptions and current rule changes; failing to tell the traveler what is confirmed versus hoped for
 
 ## Self-Check
 

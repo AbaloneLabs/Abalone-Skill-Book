@@ -59,6 +59,10 @@ When one person holds all the system configuration knowledge, their departure cr
 
 Vendor timelines are optimistic by design. Build in 20-30% contingency, especially around data migration, integration testing, and compliance validation. A rushed go-live that breaks payroll or loses data is far more expensive than a delayed go-live.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I documented current and desired HR processes before evaluating vendors, so selection is process-driven?

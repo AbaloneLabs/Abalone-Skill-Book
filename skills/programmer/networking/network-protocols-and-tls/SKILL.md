@@ -125,19 +125,15 @@ A long-lived TLS certificate that no one rotates until it expires, at which poin
 
 A long DNS TTL that feels efficient until a failover is needed, and clients keep hitting the dead endpoint for the TTL duration. Or a short TTL that enables failover but is ignored by non-compliant resolvers. Match TTL to your actual failover requirement and test that propagation works.
 
-### Assuming The Local Network Reflects Production
+### Assuming The Local Network Reflects Production and l7 Load Balancing Without TLS Termination Awareness
 
 Designing and testing only on a low-latency local network, then discovering in production that synchronous cross-region calls, large payloads, or chatty protocols are unusable. Validate latency-sensitive designs against realistic round-trip times, bandwidth, and loss.
 
-### L7 Load Balancing Without TLS Termination Awareness
-
 Choosing L7 for content-based routing but not accounting for the requirement to terminate TLS at the balancer (to read headers), which makes the balancer the trust boundary and adds decryption load. Or choosing L4 passthrough and then being surprised routing cannot depend on content. Align the layer with the routing and trust requirements.
 
-### Unbounded Or Idle Connections Exhausting Resources
+### Unbounded Or Idle Connections Exhausting Resources and treating "We Use HTTPS" As The Complete Security Answer
 
 Opening a new connection per request (handshake overhead at scale) or never closing idle connections (file descriptor and memory exhaustion, half-open connections after a silent kill). Reuse connections with bounded pools and detect dead connections with keepalive or heartbeats.
-
-### Treating "We Use HTTPS" As The Complete Security Answer
 
 Equating TLS with security. TLS protects data in transit between two authenticated endpoints; it does not protect data at rest, does not authorize what the authenticated caller may do, and provides nothing if the endpoint itself is compromised. TLS is one layer, not the whole posture.
 

@@ -59,6 +59,10 @@ The trap is that the nurse reconciles prescription medications but does not ask 
 
 The trap is that the nurse performs the discharge reconciliation, hands the patient a printed list, and considers the education complete, without verifying comprehension. The mechanism of harm is that older adults frequently cannot recall or correctly execute a complex new regimen, especially after a hospitalization that may have caused delirium or fatigue, and the regimen at home diverges from the plan within days. The harm is readmission for an adverse event or worsening of the underlying condition. Use teach-back, involve a family caregiver, provide a simplified written list and a pill organizer, and arrange a follow-up medication review. The reconciliation is complete only when the patient or caregiver can demonstrate the plan.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I reconcile the complete medication list from multiple sources (patient, family, pharmacy, records, bottles) at admission, transfer, and discharge?

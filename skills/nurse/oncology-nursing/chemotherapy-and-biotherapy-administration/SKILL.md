@@ -59,6 +59,10 @@ The trap is that the nurse assesses side effects by asking "how are you feeling?
 
 The trap is that immunotherapy (checkpoint inhibitors) is perceived as gentler than chemotherapy, with fewer traditional side effects, so the nurse and patient do not connect a new rash, diarrhea, fatigue, or endocrine symptom with the infusion — especially when the symptom appears weeks later. The harm is that immune-related adverse events (colitis, pneumonitis, hepatitis, thyroiditis, hypophysitis) can be fatal if not recognized and treated with corticosteroids and immunosuppression. Teach patients that immunotherapy side effects are different and can appear any time, assess for them at every visit, and have a low threshold to evaluate and involve the oncologist.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have two qualified nurses independently verified the drug, dose, BSA calculation, route, rate, sequence, and cycle against the protocol?

@@ -123,11 +123,9 @@ A rolling update with `maxUnavailable: 25%` on a service already running near ca
 
 A voluntary node drain evicts all replicas of a service at once because there is no PodDisruptionBudget, causing an outage during routine maintenance. Set a PDB requiring minimum available replicas for every service that must stay up.
 
-### Session Affinity Masking A Statefulness Problem
+### Session Affinity Masking A Statefulness Problem and treating A Stateful Workload Like A Stateless One
 
 Using sticky sessions because "the app needs them," when the real issue is in-memory session state that should be externalized. Affinity hides the problem, breaks even load balancing, and slows failover and rollouts. Externalize the state and drop the affinity.
-
-### Treating A Stateful Workload Like A Stateless One
 
 Autoscaling a database or sharded cache with a stateless HPA that freely kills replicas, causing data loss or rebalancing storms. Identify stateful services and scale them by their data system's rules (ordered, coordinated, planned), with StatefulSets and persistent volumes.
 

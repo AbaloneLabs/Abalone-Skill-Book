@@ -115,11 +115,9 @@ Scaling down blue (or the previous canary baseline) the moment green takes traff
 
 Sizing the new version for early canary percentages, so at the final step to full traffic it is overloaded and the latency and errors look like a regression, triggering a spurious rollback. Size the new version for its target load plus headroom before advancing.
 
-### Aggregated Metrics That Hide The Canary Signal
+### Aggregated Metrics That Hide The Canary Signal and auto-Advancing On "No Significant Difference"
 
 A single dashboard showing aggregate error rate across all versions, so an elevated rate cannot be attributed to the canary or the baseline and the operator guesses. Label metrics by version and make the canary-versus-baseline comparison the default view.
-
-### Auto-Advancing On "No Significant Difference"
 
 Treating a statistically inconclusive canary as a pass and advancing, when the right action is to hold and collect more samples. Inconclusive is not the same as healthy; require positive evidence of health, not merely absence of proven harm.
 

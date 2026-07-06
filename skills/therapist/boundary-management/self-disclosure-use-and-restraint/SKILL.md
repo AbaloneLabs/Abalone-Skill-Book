@@ -69,6 +69,10 @@ When a therapist discloses current distress, illness, or personal difficulty, th
 
 A disclosure that is too detailed, too intense, or too close to the client's own material can overwhelm the client or distract the session into the therapist's story. The mechanism is that the therapist, engaged in the disclosure, shares more than the minimum, and the client, now holding the therapist's material, loses the thread of their own work. The harm is a session derailed, a client burdened, and a disclosure that achieved the opposite of its purpose. Brief, strategic disclosure, sharing only what serves the purpose, is what prevents the overwhelm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Before disclosing, did I examine whose need it serves, and was I honest about self-serving motives?

@@ -111,8 +111,7 @@ This documentation is what makes the procedure substantive evidence rather than 
 - **Setting precision coarser than the materiality threshold**, so a materially wrong answer would still pass.
 - **Using aggregated annual data** where monthly or segmented data would tighten the expectation.
 - **Taking drivers from the same ledger as the account under test**, creating circularity.
-- **Defining the investigation threshold after seeing the result**, inviting rationalisation of inconvenient differences.
-- **Documenting "no significant differences" without the expectation, drivers, relationship, adjustments, and precision**, leaving the procedure indefensible.
+- **Defining the investigation threshold after seeing the result**, inviting rationalisation of inconvenient differences; **Documenting "no significant differences" without the expectation, drivers, relationship, adjustments, and precision**, leaving the procedure indefensible
 
 ## Self-Check
 

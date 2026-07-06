@@ -65,10 +65,8 @@ Fatigue raises injury risk. Avoid late nights before early ski school or long dr
 - Assuming ski rental includes clothing, goggles, gloves, or helmets.
 - Letting experienced friends teach nervous beginners instead of using instruction.
 - Pressuring mixed-ability groups onto terrain that suits the strongest skier.
-- Ignoring ski patrol, clinic, evacuation, and child supervision plans.
-- Assuming insurance covers all winter sports activity.
-- Treating lift closure or extreme weather as a customer-service annoyance rather than safety.
-- Planning intense evenings and early mornings around physically tiring ski days.
+- Ignoring ski patrol, clinic, evacuation, and child supervision plans; assuming insurance covers all winter sports activity
+- Treating lift closure or extreme weather as a customer-service annoyance rather than safety; planning intense evenings and early mornings around physically tiring ski days
 
 ## Self-Check
 

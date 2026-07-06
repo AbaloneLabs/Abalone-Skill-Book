@@ -70,12 +70,9 @@ Changes should be versioned. Outdated floor plans create onsite conflict.
 - Letting queues block doors, ramps, registration, bars, and emergency routes.
 - Forgetting quiet rooms, lactation, prayer, first aid, companion care, sensory breaks, and service animal relief.
 - Mixing guest and service flows until staff constantly cut through attendees.
-- Ignoring sightlines for wheelchair users, caption screens, interpreters, and cameras.
-- Approving layouts before power, data, AV, and POS needs are known.
-- Planning room transitions without storage, labor, and guest holding.
-- Forgetting that decor and sponsor activations can block approved routes.
-- Using outdated floor plan versions onsite.
-- Skipping walkthroughs for complex spaces.
+- Ignoring sightlines for wheelchair users, caption screens, interpreters, and cameras; approving layouts before power, data, AV, and POS needs are known
+- Planning room transitions without storage, labor, and guest holding; forgetting that decor and sponsor activations can block approved routes
+- Using outdated floor plan versions onsite; skipping walkthroughs for complex spaces
 
 ## Self-Check
 

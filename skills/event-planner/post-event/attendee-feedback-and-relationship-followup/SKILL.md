@@ -58,8 +58,7 @@ Follow-up tone should match what actually happened. A celebratory recap is appro
 - Mixing serious complaints with ordinary satisfaction metrics.
 - Letting leads, pledges, and sponsor follow-ups sit unassigned.
 - Ignoring no-shows and partial attendees.
-- Violating privacy or consent by sharing attendee data too broadly.
-- Failing to tell recurring audiences what changed based on feedback.
+- Violating privacy or consent by sharing attendee data too broadly; failing to tell recurring audiences what changed based on feedback
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Follow-up tone should match what actually happened. A celebratory recap is appro
 - Are leads, pledges, sponsor promises, and meeting requests assigned to owners with deadlines?
 - Are consent, opt-out, and privacy expectations honored?
 - Are no-shows and partial attendees considered for recovery or re-engagement?
-- Is there a plan to close the loop when feedback leads to visible improvements?
-- Does follow-up tone match the actual event outcome, including disruptions or complaints?
+- Is there a plan to close the loop when feedback leads to visible improvements?; does follow-up tone match the actual event outcome, including disruptions or complaints?

@@ -84,3 +84,4 @@ Treating silence as consent. The trap is late objections and stakeholders who ne
 - [ ] Decisions and their rationale are documented to preserve alignment and prevent re-litigation.
 - [ ] Explicit commitment is sought from key stakeholders before the work proceeds.
 - [ ] The PRD process has built genuine buy-in, not just collected sign-offs.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

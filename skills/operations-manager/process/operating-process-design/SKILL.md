@@ -1,197 +1,90 @@
 ---
-name: operating_process_design.md
-description: Use when the agent is designing or reviewing an operating process, standard operating procedure, recurring workflow, handoff, checklist, queue, or team routine that must produce reliable results repeatedly.
+name: operating-process-design.md
+description: Use when the agent is designing or reviewing an operating process, recurring workflow, standard operating procedure, intake path, approval flow, queue, internal service, back-office routine, or repeatable team process that must produce reliable outcomes under real workload and exception pressure.
 ---
 
 # Operating Process Design
 
-An operating process is not a document that describes ideal work. It is the way real people, systems, tools, approvals, and exceptions produce repeatable outcomes under pressure. A process that works only when everyone remembers unwritten context is not operationally reliable.
+An operating process is not a tidy list of ideal steps. It is the way real people, systems, controls, inputs, decisions, and exceptions produce repeatable outcomes under pressure. Agents often describe the happy path and miss the parts that decide whether the process works: triggers, ownership, handoffs, invalid inputs, waiting states, controls, evidence, failure recovery, and how staff know what to do when reality does not match the document.
 
-Use this skill before designing a standard operating procedure, recurring workflow, intake queue, approval flow, fulfillment routine, support operation, internal service, back-office process, or handoff between teams. The goal is to prevent the agent from describing happy-path steps while omitting ownership, exceptions, controls, visibility, and failure recovery.
+Use this skill before designing an SOP, intake queue, approval process, fulfillment routine, support process, finance operation, vendor workflow, internal service, or cross-functional operating path. The goal is to make the work reliable enough that a capable team can execute it consistently without relying on private memory or heroic coordination.
 
 ## Core Rules
 
-### Define The Outcome And Trigger
+### Define the process boundary and purpose
 
-Start with why the process exists and what starts it. A process should have a clear trigger and an observable output.
+Start with the trigger, input, output, customer or recipient, and done state. A process should begin when a recognizable event occurs and end when an observable result is delivered, recorded, and accepted by the next owner. Avoid vague boundaries such as "handle requests" or "manage issues."
 
-Define:
+Clarify what the process is meant to optimize: speed, accuracy, compliance, customer experience, cost, safety, consistency, auditability, or learning. If the purpose is unclear, the design will accumulate steps that feel reasonable but do not serve the operating goal.
 
-- triggering event;
-- input required;
-- customer, internal requester, or downstream recipient;
-- expected output;
-- quality standard;
-- completion signal;
-- service level or timing expectation;
-- what happens if the trigger is invalid or incomplete.
+### Map the real workflow, including waiting
 
-Avoid process names like "handle requests" without naming the request type, required input, and done state.
+Document the actual path work takes: systems, queues, messages, approvals, reviews, data entry, handoffs, waiting states, and rework loops. Waiting time is part of the process even if no one is actively working. Include where work can stall and how staff know it is stalled.
 
-### Assign Ownership For Every Stage
+For each major step, name input, owner, action, decision point, tool, output, evidence, and next owner. A process that says "team reviews" without naming who reviews, what they check, and how they record completion is not operationally usable.
 
-Every step should have a role owner. Ownership is not the same as participation. The owner is accountable for completion, decision, or quality at that stage.
+### Design intake quality before downstream work
 
-Clarify:
+Bad inputs create downstream rework and inconsistent decisions. Define required fields, valid formats, evidence, requester authority, priority information, and rejection or clarification paths. Make incomplete intake visible instead of letting it become hidden work.
 
-- who accepts intake;
-- who validates inputs;
-- who performs work;
-- who approves exceptions;
-- who communicates status;
-- who updates records;
-- who monitors backlog;
-- who resolves blocked items;
-- who owns process improvement.
+Do not overburden intake with unnecessary fields. Required information should be tied to a decision, control, routing need, or service promise. If staff routinely bypass intake requirements, either the requirements are wrong or enforcement is weak.
 
-If ownership is shared by everyone, accountability often belongs to no one.
+### Assign ownership, not just participation
 
-### Map The Actual Workflow
+Every step needs an accountable role. Participation is not ownership. The owner is responsible for completing the step, making or escalating the decision, updating status, and ensuring the next handoff works.
 
-Document the real sequence, not the aspirational version. Include tools, systems, queues, messages, approvals, and waiting points.
+Clarify who owns backlog monitoring, blocked work, exception approval, customer or stakeholder communication, record updates, quality review, and process improvement. Shared responsibility may be appropriate for collaboration, but accountability should not be shared so broadly that no one acts.
 
-For each step, capture:
+### Build exception paths explicitly
 
-- input;
-- action;
-- owner;
-- tool or system;
-- decision point;
-- output;
-- handoff;
-- failure mode;
-- evidence that the step happened.
+Most process failures occur when the case is unusual. Identify missing data, duplicate requests, urgent requests, policy exceptions, customer complaints, system outages, vendor delays, failed approvals, quality defects, fraud risk, safety risk, privacy issues, and conflicting priorities.
 
-This makes hidden work visible, especially coordination and waiting time.
+For each important exception, define who decides, what evidence is required, what can be done immediately, what must be escalated, how the exception is recorded, and whether the normal service promise changes. Exceptions should not depend on whoever is most persuasive in chat.
 
-### Design For Exceptions
+### Match controls to risk
 
-Most operational pain comes from exceptions. A process that does not describe exceptions leaves staff to improvise inconsistently.
+Controls prevent errors, fraud, unsafe actions, privacy exposure, compliance failure, and inconsistent treatment. They can also slow work and invite bypasses if applied indiscriminately. Use stronger controls for high-harm, irreversible, regulated, financial, security-sensitive, or customer-impacting steps.
 
-Identify:
+Controls may include required fields, validation, approval thresholds, segregation of duties, audit logs, sampling review, reconciliation, access permissions, automated checks, and exception reporting. The control should address a named risk; otherwise it may be friction masquerading as discipline.
 
-- missing information;
-- duplicate requests;
-- urgent requests;
-- high-risk customers or accounts;
-- policy exceptions;
-- system outage;
-- failed payment or supplier delay;
-- conflicting approvals;
-- quality failure;
-- customer complaint.
+### Make status and aging visible
 
-Define who can approve exceptions and how they are recorded.
+The process should show what is new, in progress, blocked, awaiting approval, awaiting customer or vendor response, completed, reopened, and overdue. Status should include owner and next action, not only a broad stage name.
 
-### Build Controls Without Creating Unnecessary Friction
+Visibility exists to support intervention. A dashboard that shows aging without owner, cause, and decision needed can become passive reporting. Define who reviews status, how often, and what threshold triggers action.
 
-Controls prevent errors, fraud, safety problems, data leakage, and inconsistent decisions. Too many controls slow routine work and encourage bypasses.
+### Preserve evidence and auditability
 
-Possible controls:
+The process should produce records that prove what happened: request, input, decision, approval, communication, exception, completion, and any customer or stakeholder commitment. Evidence should be easy to find by the next owner, reviewer, auditor, or incident responder.
 
-- required fields;
-- validation checks;
-- approval thresholds;
-- audit logs;
-- segregation of duties;
-- sampling review;
-- reconciliation;
-- access permissions;
-- exception reporting.
+Do not let critical decisions live only in private messages. If a decision matters for customer trust, cost, compliance, quality, or safety, it belongs in the system of record or an approved evidence location.
 
-Match control strength to risk. A high-risk refund, account change, safety action, or financial decision may need approval. A low-risk correction may not.
+### Test the process before scaling
 
-### Make Work Visible
+Run the process against realistic cases, including edge cases and failures. Test with actual users, tools, roles, and volumes where possible. Look for unclear ownership, missing inputs, handoff delays, double entry, control bottlenecks, training gaps, and status ambiguity.
 
-Operations need visibility into backlog, status, aging, bottlenecks, and ownership. If work lives in private messages or memory, it cannot be managed reliably.
-
-Track:
-
-- new items;
-- in-progress items;
-- blocked items;
-- aging;
-- owner;
-- priority;
-- next action;
-- completion;
-- rework;
-- exception reason.
-
-Visibility should support action, not just reporting.
-
-### Keep The Process Maintainable
-
-Processes decay as tools, teams, policies, volume, and customers change. Assign a process owner and review rhythm.
-
-Review:
-
-- whether steps still match reality;
-- whether staff bypass the process;
-- whether exceptions are increasing;
-- whether metrics show bottlenecks;
-- whether documentation is stale;
-- whether automation or simplification is possible;
-- whether training is still accurate.
-
-### Train For The Process, Not Only The Task
-
-People need to understand why the process exists, not only which buttons to press. Training should explain the outcome, risk, customer impact, quality standard, exception path, and escalation route.
-
-For onboarding or retraining, include:
-
-- purpose of the process;
-- examples of correct and incorrect work;
-- common exceptions;
-- where status is recorded;
-- how to ask for help;
-- how mistakes are corrected;
-- what must never be bypassed;
-- how process changes are communicated.
-
-This reduces dependency on informal tribal knowledge and makes performance easier to improve.
+Scale only after the process works in practice. A process designed in a meeting may look complete while failing the first time a real exception appears.
 
 ## Common Traps
 
-### Writing A Happy-Path SOP
-
-Happy-path documentation is easy and incomplete. Include exceptions, escalation, and recovery.
-
-### Confusing Policy With Process
-
-Policy says what should be true. Process says how people make it true.
-
-### Invisible Handoffs
-
-Handoffs often fail because the receiving person lacks context, input, priority, or authority.
-
-### Too Many Manual Checks
-
-Manual checks can work, but if every step needs human review, the process may be slow, expensive, and inconsistent.
-
-### No Process Owner
-
-Without an owner, documentation becomes stale and problems become "how we do things".
-
-### Measuring Only Volume
-
-Completed count matters, but quality, aging, rework, exceptions, and customer impact matter too.
-
-### Training Only By Shadowing
-
-Shadowing can help, but it often transfers habits without explaining why they exist. Pair it with explicit standards, examples, and review.
+- Writing a happy-path SOP that omits invalid inputs, blocked work, exceptions, and recovery paths.
+- Confusing policy with process. Policy states what should be true; process explains how people make it true.
+- Naming teams instead of accountable owners for decisions, backlog, communication, and quality.
+- Treating waiting time, approvals, vendor response, and customer follow-up as outside the process.
+- Requiring intake fields that staff cannot explain or do not use for decisions.
+- Adding manual approvals for low-risk work while leaving high-risk steps uncontrolled.
+- Building a process around a tool's default workflow rather than the operating outcome needed; letting key decisions and exception approvals live in chat instead of the system of record
+- Measuring only completed volume while ignoring aging, blocked work, rework, defects, and customer impact; launching the process without testing realistic edge cases and handoffs
 
 ## Self-Check
 
-- [ ] The process has a clear trigger, required input, output, quality standard, and completion signal.
-- [ ] Every stage has an accountable owner.
-- [ ] The workflow includes tools, systems, queues, waiting points, decisions, handoffs, and evidence.
-- [ ] Common exceptions and invalid inputs have defined handling.
-- [ ] Approval authority and exception recording are clear.
-- [ ] Controls match risk without creating unnecessary friction.
-- [ ] Work visibility includes backlog, owner, status, aging, blockers, priority, and next action.
-- [ ] Metrics include quality, rework, exceptions, cycle time, and customer or internal impact.
-- [ ] A process owner and review rhythm exist.
-- [ ] Training explains purpose, risk, exceptions, escalation, status tracking, and examples of correct work.
-- [ ] The process can survive staff turnover without relying entirely on memory or shadowing.
-- [ ] The documented process reflects how work actually happens, not only how it should happen.
+- Are trigger, input, recipient, output, done state, and process purpose clearly defined?
+- Does the workflow map tools, queues, waiting states, approvals, handoffs, rework loops, and evidence?
+- Are intake requirements tied to routing, decision, control, service promise, or risk?
+- Is each step owned by an accountable role rather than a vague team?
+- Are exception paths defined for missing data, duplicates, urgency, policy deviations, outages, vendor delays, complaints, and risk-sensitive cases?
+- Do controls match named risks without creating unnecessary bypass-prone friction?
+- Is status visible with owner, aging, blocked reason, next action, and review cadence?
+- Are decisions, approvals, communications, and exceptions recorded in an auditable place?
+- Has the process been tested with realistic cases, edge cases, real tools, and actual users?
+- Can a trained person execute the process without relying on private tribal knowledge?

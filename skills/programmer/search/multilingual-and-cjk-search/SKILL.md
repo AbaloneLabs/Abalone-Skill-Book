@@ -104,11 +104,9 @@ Using an English synonym map or stopword list for all content, so it does nothin
 
 Failing to normalize fullwidth/halfwidth and compatibility forms common in Japanese content, so visually identical strings do not match. Apply ICU normalization for scripts that mix widths.
 
-### Trusting Language Detection On Short Queries
+### Trusting Language Detection On Short Queries and treating Transliteration As Automatic
 
 Routing based on language detection of a two-word query, where detection is unreliable, so the query hits the wrong analyzer and returns nothing. Set a confidence threshold and fall back to querying multiple language fields.
-
-### Treating Transliteration As Automatic
 
 Assuming a Pinyin or Romaji query will match native-script documents without a transliteration filter, so romanized queries return nothing. Implement transliteration explicitly or index both forms.
 

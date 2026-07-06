@@ -176,5 +176,4 @@ Statements previously made to the committee, the client, or other regulators may
 - Is the examination record documented defensibly, including requests, scope, productions, withholdings, and interactions?
 - Have matters involving fraud, enforcement, privilege disputes, or alleged deficiencies been escalated and referred to counsel where appropriate?
 - Are oral explanations treated with the same rigor as written responses and documented?
-- Has the auditor avoided over-production that could waive privilege or open unrelated lines of inquiry?
-- Are disputes over scope or authority documented with their resolution?
+- Has the auditor avoided over-production that could waive privilege or open unrelated lines of inquiry?; are disputes over scope or authority documented with their resolution?

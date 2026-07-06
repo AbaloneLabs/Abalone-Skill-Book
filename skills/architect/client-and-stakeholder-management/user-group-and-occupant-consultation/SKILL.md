@@ -103,6 +103,10 @@ The consultation reaches the people who are easy to convene, often management or
 
 Users contribute input and never learn whether or how it shaped the design, so the consultation feels extractive and the relationship is one-directional. The trap is that closing the loop feels optional, a courtesy, when it is actually what makes consultation cumulative: users who see their input matter contribute more honestly next time, and users who see it ignored disengage. The false signal is the completed consultation, which appears self-contained while actually severing the relationship that ongoing engagement requires. The harm is that post-occupancy evaluation becomes impossible, because users will not share honest feedback with a team that did not respond to their earlier input, and the firm loses the learning loop that turns projects into expertise.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does the consultation reach the right user populations, including frontline staff, accessibility-needs users, and different shifts and roles?
@@ -112,3 +116,4 @@ Users contribute input and never learn whether or how it shaped the design, so t
 - [ ] Is post-occupancy evaluation used as design intelligence, feeding lessons into the current project and firm standards?
 - [ ] Is user input translated into prioritized, traceable performance requirements the design can act on?
 - [ ] Is the loop closed with users, reporting how their input shaped the design?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

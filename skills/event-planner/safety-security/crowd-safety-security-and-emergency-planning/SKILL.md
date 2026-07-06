@@ -54,8 +54,7 @@ Use staffing and layout to shape behavior before instructions are needed. Put de
 - Assuming public announcements will be heard and trusted. Noise, language barriers, panic, and poor speaker coverage can make PA-only plans unreliable.
 - Leaving emergency decisions to the client host or emcee by default. Public-facing leaders may be emotionally or reputationally invested in continuing the program.
 - Ignoring exterior space. The most serious problems may be in sidewalks, rideshare zones, parking lots, shuttle queues, protest areas, or weather-exposed entry lines.
-- Using volunteers as de facto security. Volunteers can guide and observe, but they usually should not be assigned confrontation, removal, screening, or threat response duties.
-- Creating a plan that protects VIPs while degrading general attendee safety. VIP routes, barricades, or holds can create unsafe congestion if not integrated into the full crowd model.
+- Using volunteers as de facto security. Volunteers can guide and observe, but they usually should not be assigned confrontation, removal, screening, or threat response duties; creating a plan that protects VIPs while degrading general attendee safety. VIP routes, barricades, or holds can create unsafe congestion if not integrated into the full crowd model
 
 ## Self-Check
 

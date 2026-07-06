@@ -84,3 +84,4 @@ A model that aligns with value but generates revenue too low or churn too high t
 - [ ] Market norms are understood, and any deviation is justified by value alignment rather than by greed.
 - [ ] The model is simple enough that customers can predict and trust what they will pay.
 - [ ] The model was chosen on fit, not merely on category convention.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

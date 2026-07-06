@@ -96,6 +96,10 @@ Because NSSI is common and often chronic, a therapist managing it routinely can 
 
 Therapists who find self-injury distressing to discuss may avoid asking about it, allowing the behavior to continue unmonitored and untreated because the topic never arises in session. The mechanism is that the therapist's discomfort drives avoidance, framed as following the client's lead or not wanting to trigger the behavior, when it is actually the therapist's own affect regulation. The harm is that a central feature of the client's suffering is excluded from the treatment, the behavior continues without intervention, and risk is not monitored. Ask about self-injury directly and routinely in clients at risk, manage your own reactions in supervision, and keep the topic clinical rather than avoiding it.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess the function, intent, lethality, medical severity, frequency, and triggers of each episode, distinguishing NSSI from suicidal behavior?

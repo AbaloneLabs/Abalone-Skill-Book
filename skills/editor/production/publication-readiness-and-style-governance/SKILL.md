@@ -240,9 +240,6 @@ Before treating publication readiness as complete, verify:
 - Title, deck, captions, pull quotes, metadata, social copy, newsletter copy, tables, charts, and sidebars have been edited.
 - Links, citations, credits, references, embedded material, and permissions have been checked.
 - Accessibility basics are covered: headings, alt text, link text, captions, table headers, transcripts where needed, and readable structure.
-- The file or CMS entry is the approved version, not a stale draft.
-- Tracked changes, comments, placeholders, hidden metadata, and internal notes are removed when publishing externally.
-- Confidential or sensitive material has not leaked through visible text, attachments, metadata, screenshots, or file names.
-- Publication date, embargo, distribution channel, tags, categories, and ownership are correct.
-- A correction or maintenance path exists for content likely to change.
-- The final package is ready as a complete object, not merely as edited body copy.
+- The file or CMS entry is the approved version, not a stale draft; tracked changes, comments, placeholders, hidden metadata, and internal notes are removed when publishing externally
+- Confidential or sensitive material has not leaked through visible text, attachments, metadata, screenshots, or file names; publication date, embargo, distribution channel, tags, categories, and ownership are correct
+- A correction or maintenance path exists for content likely to change; the final package is ready as a complete object, not merely as edited body copy

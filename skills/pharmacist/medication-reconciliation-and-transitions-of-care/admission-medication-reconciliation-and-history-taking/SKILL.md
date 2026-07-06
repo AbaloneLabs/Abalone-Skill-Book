@@ -55,6 +55,10 @@ For most medications, the exact time of the last dose is a detail; for some, it 
 
 Identifying discrepancies is only half of reconciliation; the other half is resolving them. The trap is documenting discrepancies — "patient reports warfarin but it is not on admission orders" — without contacting the team to resolve them, leaving the discrepancy to propagate through the hospitalization and into discharge. The mechanism is that documentation feels like action, and the pharmacist may assume the team will notice and address the discrepancy, when in fact the team may not read the reconciliation note. The corrective is to treat every unresolved discrepancy as an active intervention: contact the team, communicate the discrepancy, recommend a resolution, and document the outcome.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I corroborate the patient's self-reported medication history with at least one independent source — pharmacy fill history, provider list, prior records, bottles, or family?

@@ -84,10 +84,8 @@ Every evaluation has limitations: data gaps, attribution uncertainty, selection 
 - **Ignoring the theory of change.** Evaluating results without examining whether the causal logic was ever plausible.
 - **Average-only outcomes.** Reporting aggregate impact while masking that vulnerable groups were unreached or harmed.
 - **Results-only evaluation.** Assessing impact without examining design and implementation, leaving findings unactionable.
-- **Unintended-effects blindness.** Focusing only on intended outcomes and missing displacement, distortion, or harm.
-- **Single-method overreliance.** Depending on one data source and inheriting all its biases.
-- **Short-termism.** Evaluating immediate outputs and ignoring whether benefits will endure.
-- **Overclaiming.** Presenting uncertain attribution as proven impact, undermining credibility when challenged.
+- **Unintended-effects blindness.** Focusing only on intended outcomes and missing displacement, distortion, or harm; **Single-method overreliance.** Depending on one data source and inheriting all its biases
+- **Short-termism.** Evaluating immediate outputs and ignoring whether benefits will endure; **Overclaiming.** Presenting uncertain attribution as proven impact, undermining credibility when challenged
 
 ## Self-Check
 

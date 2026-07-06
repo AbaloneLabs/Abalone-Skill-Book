@@ -107,6 +107,10 @@ A plan optimized precisely for the day-one organization — fixed walls, custom 
 
 When the interior layout is developed without coordinating columns, cores, ceiling systems, lighting, and diffusers, the result is columns in the middle of rooms, lights above aisles instead of workstations, diffusers fighting the furniture grid, and partition intersections that miss the structure. The trap is that the plan and the reflected ceiling plan each look complete in isolation, so the design appears coordinated, while in reality the disciplines conflict in three dimensions and the conflicts are discovered only in construction or after occupancy. The harm is change orders, compromised interiors, and details that never achieve their intent. Coordinating the planning grid with the structural grid and aligning ceiling, lighting, and systems with the furniture layout below are what make an interior coherent rather than a collision of disciplines.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the plan grounded in a validated program and an adjacency or relationship diagram that ranks required, desired, neutral, and separated adjacencies?

@@ -70,12 +70,9 @@ Measurement is wasteful if the team only creates a report and changes nothing.
 - Counting chat noise as meaningful engagement without context.
 - Joining platform, CRM, and marketing data without deduplication or data-quality checks.
 - Ignoring target segments and optimizing for total volume.
-- Reporting percentages without baselines, targets, list quality, or topic context.
-- Sharing attendee behavior with sponsors beyond consent or disclosure.
-- Overclaiming revenue attribution from a webinar dashboard.
-- Failing to separate live attendance from replay and on-demand behavior.
-- Measuring too late to route leads or respond to attendee questions.
-- Producing a report with no decisions, owners, or next actions.
+- Reporting percentages without baselines, targets, list quality, or topic context; sharing attendee behavior with sponsors beyond consent or disclosure
+- Overclaiming revenue attribution from a webinar dashboard; failing to separate live attendance from replay and on-demand behavior
+- Measuring too late to route leads or respond to attendee questions; producing a report with no decisions, owners, or next actions
 
 ## Self-Check
 

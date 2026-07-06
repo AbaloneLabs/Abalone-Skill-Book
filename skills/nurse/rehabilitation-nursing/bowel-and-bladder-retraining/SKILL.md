@@ -1,6 +1,6 @@
 ---
 name: bowel-and-bladder-retraining.md
-description: Use when the nurse is managing incontinence, implementing bladder retraining programs, performing intermittent catheterization, managing neurogenic bowel after spinal cord injury or stroke, addressing urinary retention, or teaching patients bowel and bladder management for discharge home.
+description: Use when the agent is managing incontinence, implementing bladder retraining programs, performing intermittent catheterization, managing neurogenic bowel after spinal cord injury or stroke, addressing urinary retention, or teaching patients bowel and bladder management for discharge home.
 ---
 
 # Bowel and Bladder Retraining

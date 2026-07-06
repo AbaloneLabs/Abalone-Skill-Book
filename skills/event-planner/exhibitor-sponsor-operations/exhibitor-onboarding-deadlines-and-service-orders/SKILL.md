@@ -70,12 +70,9 @@ Exhibitor onboarding improves when closeout lessons feed the next manual and com
 - Treating all exhibitors as equally capable of self-service.
 - Failing to distinguish booth package inclusions from extra-cost orders.
 - Publishing unproofed company names, logos, and descriptions.
-- Believing service orders are complete without contractor or provider reports.
-- Sending one generic reminder instead of tracking exhibitor readiness through multiple deadline gates.
-- Explaining rules only in legalistic manual language.
-- Leaving move-in questions to onsite staff without escalation authority.
-- Not warning exhibitors before discount deadlines and late-fee dates.
-- Failing to capture exhibitor service issues for the next show cycle.
+- Believing service orders are complete without contractor or provider reports; sending one generic reminder instead of tracking exhibitor readiness through multiple deadline gates
+- Explaining rules only in legalistic manual language; leaving move-in questions to onsite staff without escalation authority
+- Not warning exhibitors before discount deadlines and late-fee dates; failing to capture exhibitor service issues for the next show cycle
 
 ## Self-Check
 

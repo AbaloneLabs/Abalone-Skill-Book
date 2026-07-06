@@ -84,3 +84,4 @@ Aspirations with no definition of done. The trap is disputes about completeness 
 - [ ] Each story has acceptance criteria that define done from the user's perspective.
 - [ ] Stories avoid anti-patterns: technical tasks, generic roles, missing value, over-prescription, excessive size.
 - [ ] The story preserves solution openness, providing what and why while leaving how to the team.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

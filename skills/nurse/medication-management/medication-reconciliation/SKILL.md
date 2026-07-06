@@ -80,6 +80,10 @@ The admission reconciliation is performed carefully, but at transfer to a step-d
 
 The discharge reconciliation produces an accurate list, but it is handed to the patient as a printout in clinical language, without counseling, and the patient does not understand which medications to take, which to stop, or that a dose has changed. The mechanism is that the accuracy of the list is treated as the deliverable, and the patient's ability to act on it is assumed rather than confirmed. The harm is that the patient continues a stopped medication, misses a new one, double-doses a changed one, or cannot afford a prescribed one, and the careful inpatient reconciliation is undone at home. The defense is to provide the list in patient-readable language, to counsel specifically on changes and high-risk medications, to use teach-back to confirm understanding, and to address access and affordability, because a list the patient cannot or will not follow is functionally no list at all.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I obtain the medication history from at least two sources, and explicitly probe OTC drugs, supplements, inhalers, eye drops, topicals, patches, and recently stopped medications?

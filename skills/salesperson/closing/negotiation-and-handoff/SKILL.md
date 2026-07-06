@@ -1,190 +1,78 @@
 ---
-name: negotiation_and_handoff.md
-description: Use when the agent is preparing for sales negotiation, handling objections, discussing discounts or terms, closing a deal, confirming mutual commitments, or handing a won customer to implementation or customer success.
+name: negotiation-and-handoff.md
+description: Use when the agent is moving from final negotiation into close and post-sale handoff, reviewing concessions, special terms, scope changes, buyer expectations, implementation commitments, customer success context, or risks created during late-stage negotiation.
 ---
 
 # Negotiation And Handoff
 
-Negotiation is not pressure. It is the process of resolving remaining differences around value, risk, price, timing, scope, authority, and commitment. Closing is not the end of responsibility. A deal that closes with hidden expectations, vague promises, or poor handoff can become a failed customer relationship.
-
-Use this skill before handling objections, discussing price, preparing a negotiation plan, closing a sale, reviewing contract terms, or handing a customer to delivery, onboarding, support, or customer success. The goal is to prevent the agent from optimizing for signature alone.
+Final negotiation can quietly rewrite the customer promise. Discounts, scope changes, payment terms, legal language, implementation timing, support expectations, and verbal assurances may help close the deal but create risk for delivery, billing, renewal, and customer trust. Agents often treat handoff as a post-signature task, but by then the most important commitments may already be made. This skill helps the agent preserve negotiation context so the customer start matches what was sold.
 
 ## Core Rules
 
-### Identify The Real Objection
+### Track every concession as a future obligation
 
-Objections can be stated as price, timing, authority, risk, fit, trust, priority, or competition. The stated objection may not be the real blocker.
+Record discounts, services changes, payment terms, contract deviations, support promises, implementation timing, usage flexibility, renewal terms, cancellation language, security commitments, roadmap references, and informal assurances. A concession is not only a commercial event; it may become an operational obligation.
 
-Explore:
+### Distinguish approved terms from discussion
 
-- what concern sits behind the objection;
-- whether the prospect believes in the value;
-- whether risk is personal, financial, technical, political, or operational;
-- who else shares the concern;
-- what evidence would resolve it;
-- whether the objection is a condition or a polite no.
+Late conversations often include tentative ideas. Separate what was requested, discussed, rejected, approved, and included in final documents. Do not let a buyer or internal team treat exploratory language as final commitment.
 
-Do not answer every objection immediately. Clarify first.
+### Re-check scope after negotiation
 
-### Negotiate Value Before Price
+Negotiation may add modules, remove services, change rollout, defer integrations, adjust support, or alter user counts. Reconcile final scope with proposal, order form, CRM, implementation plan, and business case. If scope changed, value expectations may need to change too.
 
-Price discussions should connect to value, scope, risk, and alternatives. Discounting before value is clear trains the buyer to negotiate against uncertainty.
+### Preserve the why behind concessions
 
-Before discounting, confirm:
+Customer success and renewal teams need to know why a concession was granted. Was it budget constraint, competitive pressure, multi-year term, reference potential, procurement policy, delayed implementation, or executive trade? Without rationale, future teams cannot manage precedent or renewal expectations.
 
-- business problem;
-- expected outcome;
-- decision criteria;
-- cost of delay;
-- alternative options;
-- scope required;
-- budget process;
-- value recognized by the buyer.
+### Communicate buyer sensitivities
 
-If value is not understood, a lower price may not solve the deal.
+Handoff should include concerns raised during negotiation: price sensitivity, risk anxiety, legal hot buttons, security scrutiny, implementation fears, executive promises, procurement behavior, or internal politics. This helps post-sale teams avoid reopening trust issues.
 
-### Trade, Do Not Give
+### Avoid unsupported delivery commitments and align documents before signature
 
-Concessions should usually be exchanged for commitments or scope changes. Giving discounts without a reason can reduce trust and create future pricing problems.
+Do not promise faster onboarding, custom work, dedicated support, integration scope, data migration, service levels, or roadmap timing unless delivery, product, support, legal, or security owners approve. Late-stage pressure is not a reason to invent capacity.
 
-Possible trades:
+Check that final proposal, order form, contract, statement of work, CRM, approval notes, and handoff summary agree on price, term, scope, services, support, usage, assumptions, exclusions, and special terms. Conflicting records create post-sale dispute.
 
-- discount for longer term;
-- discount for faster signature;
-- reduced scope for lower price;
-- pilot price for narrower success criteria;
-- flexible payment terms for reference rights;
-- implementation timing for customer readiness.
+### Prepare customer success before kickoff and create a handoff-ready negotiation summary
 
-Every concession should have a business reason and internal approval where required.
+Customer success should know promised outcomes, success metrics, baseline, stakeholders, champion strength, risks, implementation dependencies, buyer responsibilities, and any negotiation scars. Do not make the customer repeat everything after signature.
 
-### Keep Terms Clear And Honest
+The summary should include final commercial terms, concessions, trade rationale, non-standard obligations, buyer sensitivities, unresolved concerns, implementation promises, success metrics, and owners. It should be written for post-sale teams, not for sales leadership theater. If customer success cannot tell what changed during negotiation, the handoff is incomplete.
 
-Negotiation involves more than price. Terms can create risk.
+### Reconcile buyer expectation with internal interpretation and highlight commitments that expire
 
-Review:
+After negotiation, buyers and sellers may believe different things about what was agreed. Confirm the buyer-facing understanding of scope, timing, support, responsibilities, and limitations in writing using approved language. Then check that internal teams interpret the same terms the same way. Misalignment at this point becomes early churn risk.
 
-- contract length;
-- cancellation;
-- renewal;
-- payment schedule;
-- service levels;
-- support;
-- implementation responsibilities;
-- data handling;
-- security requirements;
-- usage limits;
-- warranties;
-- liability;
-- custom commitments.
+Temporary discounts, ramp pricing, pilot terms, phased services, special support, delayed start dates, and conditional concessions need expiration dates or review triggers. Without them, temporary negotiation moves become permanent expectations.
 
-Do not casually promise legal, security, privacy, performance, or custom terms without proper review.
+### Flag renewal and expansion implications and close the loop with the buyer
 
-### Confirm Mutual Commitment
+Discounts, ramps, pilots, temporary terms, reduced scope, or special support may affect renewal baseline and expansion logic. Document expiration dates, conditions, and expected future conversation. A poorly handed-off concession becomes a renewal surprise.
 
-Closing should confirm that both sides understand what they are committing to.
-
-Confirm:
-
-- buyer decision;
-- signed scope;
-- commercial terms;
-- implementation timeline;
-- customer responsibilities;
-- internal handoff;
-- success criteria;
-- first milestone;
-- communication path.
-
-Ambiguous yes creates downstream confusion.
-
-### Prepare Handoff Before Signature
-
-Implementation, onboarding, delivery, or customer success should not learn about the deal after promises are already made.
-
-Handoff should include:
-
-- customer problem;
-- expected outcomes;
-- stakeholders;
-- decision history;
-- promised scope;
-- excluded scope;
-- timeline;
-- risks and sensitivities;
-- integrations;
-- success criteria;
-- special terms;
-- open concerns.
-
-The customer should not need to repeat everything to the next team.
-
-### Protect Long-Term Trust
-
-The best close is one the customer can still respect after onboarding. Avoid tactics that pressure the buyer into terms they do not understand or create expectations the seller cannot meet.
-
-Short-term pressure can increase signatures and reduce referrals, retention, expansion, and reputation.
-
-### Review The Deal From The Customer's First-Week Experience
-
-Before pushing for signature, imagine the customer's first week after the deal closes. Ask whether the onboarding team can deliver what the buyer expects, whether the buyer knows what they must provide, and whether any promised value depends on work that has not been planned.
-
-Check:
-
-- who welcomes the customer;
-- what happens first;
-- what information the customer must provide;
-- what access, data, or approvals are needed;
-- what timeline the customer expects;
-- what success will look like in the first milestone;
-- what risks were disclosed;
-- what promises the implementation team has accepted.
-
-If the first-week experience would surprise the customer or delivery team, the deal is not ready to close cleanly.
+After final terms are accepted, confirm the shared understanding of scope, timeline, responsibilities, and kickoff expectations. This is not a new negotiation; it is a trust check before delivery begins.
 
 ## Common Traps
 
-### Treating Price As The Only Objection
-
-Price may hide uncertainty about value, risk, authority, implementation, or priority.
-
-### Discounting Too Early
-
-Early discounting can signal weak confidence and reduce perceived value.
-
-### Verbal Promises Outside The Contract
-
-Side promises create delivery risk. Important commitments should be documented and approved.
-
-### Closing Without Implementation Reality
-
-A deal can be sold but impossible to deliver on the promised timeline or scope.
-
-### No Handoff Detail
-
-Customer success cannot rescue missing context. Poor handoff makes the customer feel sold and abandoned.
-
-### Pressure That Creates Buyer Regret
-
-Artificial urgency, hidden conditions, or excessive pressure can close a deal while damaging trust.
-
-### Skipping A Close Plan
-
-Complex deals need a close plan. Without one, the seller may discover legal, procurement, technical, executive, or implementation blockers after assuming the deal is done.
-
-The close plan should name remaining steps, owners, dates, documents, approvals, and risks.
+- Treating negotiation notes as private sales context rather than handoff material; forgetting non-price concessions that create operational obligations
+- Letting tentative ideas become perceived commitments; changing scope without updating value, implementation, and success expectations
+- Recording the discount but not the reason for it; hiding buyer sensitivities from customer success to make the deal look cleaner
+- Promising delivery capacity without owner approval; allowing proposal, contract, SOW, CRM, and handoff to disagree
+- Starting kickoff without success metrics, risks, or buyer responsibilities; ignoring renewal impact of ramps, temporary discounts, or special terms
+- Failing to confirm final shared understanding with the buyer; optimizing signature at the cost of customer trust
+- Writing handoff for internal celebration instead of operational use; assuming buyer and internal teams interpret negotiated terms the same way
+- Leaving temporary concessions without expiration, review trigger, or owner; forgetting to brief billing or finance on negotiated payment and ramp terms
 
 ## Self-Check
 
-- [ ] The real objection is understood before responding.
-- [ ] Price negotiation is connected to value, scope, alternatives, and cost of delay.
-- [ ] Concessions are traded for commitments, scope changes, term changes, or mutual value rather than given automatically.
-- [ ] Commercial, legal, security, privacy, service, support, and custom terms are reviewed by the right owners where relevant.
-- [ ] Final commitment includes scope, price, timeline, responsibilities, success criteria, and first milestone.
-- [ ] Verbal promises are documented or removed before close.
-- [ ] Implementation, onboarding, support, or customer success receives full context before or immediately at close.
-- [ ] Handoff includes customer problem, stakeholders, promised scope, excluded scope, risks, terms, and open concerns.
-- [ ] The customer's first-week experience after signature is clear and consistent with sales promises.
-- [ ] A close plan names remaining approvals, documents, owners, dates, and risks.
-- [ ] Closing tactics protect long-term trust, retention, and reputation.
-- [ ] The deal is not considered healthy merely because it is signed.
+- Are all price and non-price concessions recorded?
+- Are requested, discussed, rejected, approved, and final terms separated?
+- Has final scope been reconciled across proposal, order form, contract, CRM, and implementation plan?
+- Are value expectations updated after scope changes?
+- Is the rationale for each concession documented?; are buyer sensitivities and negotiation risks included in handoff?
+- Are delivery, support, product, security, and legal commitments approved by responsible owners?; do final documents agree on price, term, scope, services, support, usage, assumptions, exclusions, and special terms?
+- Does customer success have outcomes, metrics, stakeholders, dependencies, and risks before kickoff?; are renewal and expansion implications documented?
+- Has the buyer's final understanding of responsibilities and kickoff expectations been confirmed?; does the handoff protect the customer relationship after the signature?
+- Is there a negotiation summary that post-sale teams can use directly?; are buyer-facing and internal interpretations of final terms reconciled?
+- Do temporary concessions have expiration dates, review triggers, and owners?; are billing, finance, customer success, and implementation briefed where terms affect them?

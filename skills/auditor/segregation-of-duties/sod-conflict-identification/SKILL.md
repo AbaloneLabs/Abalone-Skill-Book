@@ -83,8 +83,7 @@ SoD conflicts are not just control design observations; they are direct inputs t
 - **Listing conflicts without assessing their risk significance**, leading either to alarm fatigue or to serious conflicts being under-prioritised.
 - **Assuming a known, long-standing inherent conflict is acceptable** without testing the compensating control that is supposed to mitigate it.
 - **Letting a stale SoD analysis stand** after reorganisations, departures, or system changes that have shifted access.
-- **Treating SoD as an access-management issue only**, missing its direct connection to fraud risk and the need for targeted fraud procedures.
-- **Overlooking shared, generic, or service accounts** that effectively grant conflicting access to whoever uses them, often without individual accountability.
+- **Treating SoD as an access-management issue only**, missing its direct connection to fraud risk and the need for targeted fraud procedures; **Overlooking shared, generic, or service accounts** that effectively grant conflicting access to whoever uses them, often without individual accountability
 
 ## Self-Check
 

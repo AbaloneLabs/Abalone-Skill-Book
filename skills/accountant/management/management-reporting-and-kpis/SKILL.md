@@ -129,7 +129,7 @@ Guard against:
 
 Balance financial metrics with quality, customer, employee, risk, and compliance measures so that no single dimension dominates behavior.
 
-### Time The Report To The Decision Cycle
+### Time The Report To The Decision Cycle and separate Internal Management Views From External Reporting
 
 A report delivered after the decision window has closed is historical, not managerial. Align reporting cadence to the speed of the business.
 
@@ -141,8 +141,6 @@ Consider:
 - ad hoc reports triggered by threshold breaches or events.
 
 Freshness matters more than exhaustive detail for fast-moving metrics. Accuracy and completeness matter more for formal management accounts.
-
-### Separate Internal Management Views From External Reporting
 
 Internal management reports may use non-GAAP measures, contribution margins, forecasts, and segment views that differ from external financial statements. This is legitimate, but the relationship between the two must be understood and explained.
 

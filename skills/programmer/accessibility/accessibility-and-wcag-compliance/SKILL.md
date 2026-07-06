@@ -83,7 +83,7 @@ Text must be legible at the sizes and conditions users actually encounter, inclu
 
 Support text resizing: do not use fixed pixel font sizes that block zoom, do not disable pinch-zoom on mobile (`user-scalable=no` or `maximum-scale` is an accessibility barrier), and verify the layout does not break or clip content at 200% zoom (WCAG 1.4.10). Use relative units (`rem`) for font sizing so user preferences and browser zoom both work.
 
-### Provide Text Alternatives For Non-Text Content
+### Provide Text Alternatives For Non-Text Content and make Forms Understandable And Recoverable
 
 Anything that conveys information through an image, audio, or video needs a text or media alternative that a user who cannot perceive the original can use.
 
@@ -93,8 +93,6 @@ Anything that conveys information through an image, audio, or video needs a text
 
 Write alternatives for the meaning, not for the pixels. "Logo" is a weak alt text; "Acme Corp home" conveys function. "Chart" is weak; "Sales rose 40% from Q1 to Q2" conveys the point.
 
-### Make Forms Understandable And Recoverable
-
 Forms are where most users with disabilities are excluded, because errors are often conveyed visually and recovery requires sight and mouse precision. For every input:
 
 - **Every input has a programmatically associated label** (`<label for>` wrapping or pointing at the input, or `aria-label`/`aria-labelledby` when a visible label is impossible — but prefer a visible label). Placeholder text is not a label: it disappears on input, has poor contrast by default, and is not exposed as the input's accessible name.
@@ -103,7 +101,7 @@ Forms are where most users with disabilities are excluded, because errors are of
 - **Error recovery suggests a correction** where possible ("Enter a valid email like name@example.com") rather than only stating the problem.
 - **Autocomplete attributes** (`autocomplete="email"`, `"street-address"`) let browsers and password managers fill common fields, which is essential for users who cannot type easily.
 
-### Design For Motion, Timing, And Cognitive Needs
+### Design For Motion, Timing, And Cognitive Needs and recognize The Limits Of Automated Tools And Verify With Real AT
 
 Not every accessibility need is sensory. Some users need more time, less motion, or simpler language:
 
@@ -111,8 +109,6 @@ Not every accessibility need is sensory. Some users need more time, less motion,
 - **Motion and animation.** Respect `prefers-reduced-motion`: provide reduced or no-animation alternatives for non-essential motion. Avoid auto-playing carousels, parallax, and infinite animations that distract or induce vestibular discomfort. Never make motion the only way to perceive something.
 - **Auto-triggered content** (hover-only menus, focus-only tooltips) can be inaccessible or disorienting; make such content dismissable and hoverable.
 - **Language and clarity.** Use clear, plain language; define abbreviations on first use; set the page `lang` so screen readers use the right pronunciation engine; mark language changes within content with `lang` attributes.
-
-### Recognize The Limits Of Automated Tools And Verify With Real AT
 
 Automated tools (axe, Lighthouse, WAVE, browser devtools issues) catch a useful subset of defects: missing alt, low contrast, duplicate IDs, some ARIA misuse, missing labels. They cannot catch the majority of real accessibility problems: whether a custom widget is keyboard-operable, whether focus order makes sense, whether a live region announces the right thing, whether the interface is understandable, or whether a screen-reader user can actually complete the task. A clean automated scan is not compliance.
 
@@ -151,19 +147,15 @@ A modal or embedded video player that receives focus but has no way out (no Esca
 
 Shipping because axe/Lighthouse reports zero issues. Automated tools miss most real barriers: broken keyboard interaction, wrong focus order, silent live regions, unusable custom widgets, and anything requiring judgment. A passing scan proves only that the easy-to-detect subset is absent.
 
-### Announcing Everything (Or Nothing) With Live Regions
+### Announcing Everything (Or Nothing) With Live Regions and hiding Content With The Wrong Technique
 
 Putting `aria-live="assertive"` on a large container so every minor update interrupts the screen reader, or forgetting live regions entirely so important status changes (save success, async errors, result counts) are never announced. Scope live regions narrowly to the specific message, choose `polite` by default (assertive only for urgent interruptions), and test what is actually announced.
 
-### Hiding Content With The Wrong Technique
-
 Using `display: none` or `visibility: hidden` for content that should be available to screen readers (they hide it from AT too), or using `visibility`/`opacity` tricks that leave the element focusable but invisible (a "ghost" focusable element). Use `display:none`/`hidden` only when content should be fully removed from everyone; use visually-hidden (clip/clip-path) CSS for text meant for AT only; never leave a focusable element visually hidden.
 
-### Assuming "It Works On My Machine/Browser"
+### Assuming "It Works On My Machine/Browser" and treating Compliance As A One-Time Audit
 
 Testing only in Chrome with a mouse and concluding the interface is accessible. Real users span Safari + VoiceOver, Firefox + NVDA, iOS Safari + VoiceOver, Android + TalkBack, and forced-color/high-contrast modes. Behavior differs across browser/AT combinations; verify on the combinations your users actually have.
-
-### Treating Compliance As A One-Time Audit
 
 Passing an audit at launch and assuming accessibility holds. Every new component, redesign, or third-party widget reintroduces barriers. Accessibility is a property maintained through every change, verified with each release, not a certificate earned once.
 

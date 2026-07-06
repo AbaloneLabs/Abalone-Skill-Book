@@ -136,19 +136,15 @@ Keying on a low-cardinality field so one key dominates and its partition's consu
 
 Producer publishes freely, consumer falls behind, and the queue grows until the broker runs out of disk, retention drops the oldest messages, or latency becomes unacceptable. Design flow control and monitor consumer lag against retention.
 
-### Breaking Schema Changes That Silently Break Consumers
+### Breaking Schema Changes That Silently Break Consumers and dLQ As A Silent Graveyard
 
 Renaming a field, changing a type, or removing a field without coordination, so deployed consumers drop or misparse messages. Use additive, backward-compatible changes and a schema registry.
 
-### DLQ As A Silent Graveyard
-
 Routing failed messages to a DLQ with no monitoring or process, so they accumulate unaddressed and effectively become data loss. Monitor DLQ depth and age, alert on growth, and define the resolution process.
 
-### Queue Used Where A Stream Is Needed (Or Vice Versa)
+### Queue Used Where A Stream Is Needed (Or Vice Versa) and no End-To-End Tracing Or Reconciliation
 
 Using a transient queue where durable history and multiple independent consumers are required (so replay and fan-out are impossible), or using a stream where simple work distribution with deletion is needed (so the system carries unnecessary retention and complexity). Match the primitive to the requirement.
-
-### No End-To-End Tracing Or Reconciliation
 
 Publishing messages with no correlation id and no reconciliation, so a missing effect is discovered late and cannot be traced. Propagate correlation ids and run reconciliation for high-stakes flows.
 

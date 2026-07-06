@@ -83,11 +83,9 @@ Stashing `current_user` in the process dictionary so functions can read it impli
 
 A GenServer making a synchronous `:call` to another server while holding its own state, deadlocking (calling itself directly) or serializing badly (holding state while waiting on a slow downstream). GenServers should not block; offload slow work to a Task and reply asynchronously, and never `:call` yourself.
 
-### Treating ETS As Magic Race-Free Storage
+### Treating ETS As Magic Race-Free Storage and assuming `receive` Matches In Arrival Order Universally
 
 Writing to an ETS table from multiple processes with non-atomic read-modify-write sequences, then seeing lost updates. Use atomic ETS operations (`:ets.update_counter`, `:ets.insert_new`) or single-writer ownership for any contested key.
-
-### Assuming `receive` Matches In Arrival Order Universally
 
 Believing `receive` always processes the oldest message first, when in fact selective `receive` skips non-matching messages and can leave old messages stranded in the mailbox indefinitely. A selective receive that never matches a certain message type lets those messages accumulate forever.
 

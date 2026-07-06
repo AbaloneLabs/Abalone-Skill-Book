@@ -54,6 +54,10 @@ Real streams are out of order and late; the system must handle events that arriv
 - **Measure late-event volume.** A rising late-event rate signals that the watermark is too aggressive or that the source's delay has grown; a metric on late events makes this visible.
 - **Test with out-of-order data.** Ordered test data hides late-event bugs; generate realistic out-of-order and late traffic to verify handling.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Processing Time Where Event Time Is Required
@@ -93,3 +97,4 @@ Early/approximate triggers whose results are treated as final by a downstream th
 - [ ] Late and out-of-order events are handled deliberately (per-pipeline decision to update, side-output, or drop with measurement), late-event volume is tracked as a metric, and tests use realistic out-of-order and late traffic rather than ordered data.
 - [ ] Windows are verified to close in practice (no unbounded state accumulation from a too-lax watermark or missing close condition).
 - [ ] The highest-risk cases were verified — an event-time aggregation that replayed deterministically, a watermark tuned to the source's measured delay, late events handled rather than silently dropped, and out-of-order traffic tested — not only the clean ordered-data path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

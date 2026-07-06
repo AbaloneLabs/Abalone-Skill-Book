@@ -39,6 +39,10 @@ Box office staff should have concise scripts, decision trees, refund authority l
 
 For onsite disputes, prioritize safety and line flow. A guest arguing at the gate can block entry operations. Create a problem-resolution station or supervisor path separate from scanning lanes.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Applying an internal policy that was never shown to buyers. Public purchase terms and marketing claims matter.

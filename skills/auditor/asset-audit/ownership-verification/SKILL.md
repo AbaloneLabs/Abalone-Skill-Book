@@ -176,5 +176,4 @@ Asset transfers between related parties may not reflect arm's-length terms or ge
 - Were pledged and restricted assets still presented on the balance sheet and appropriately disclosed?
 - For intangibles, were registrations, licenses, and legal rights confirmed and reconciled to the asset register?
 - Were ownership confirmations obtained from independent external sources where possible?
-- Are disclosures of restrictions, encumbrances, and pledged assets consistent with the ownership testing?
-- Were related-party asset transfers scrutinized for substance and arm's-length treatment?
+- Are disclosures of restrictions, encumbrances, and pledged assets consistent with the ownership testing?; were related-party asset transfers scrutinized for substance and arm's-length treatment?

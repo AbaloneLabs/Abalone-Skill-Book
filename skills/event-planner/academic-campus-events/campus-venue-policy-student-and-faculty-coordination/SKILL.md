@@ -70,12 +70,9 @@ Check communications and advancement rules before publishing materials, sponsor 
 - Ignoring exams, move-in, athletics, commencement, and student breaks.
 - Treating classrooms as flexible event venues without furniture and food rules.
 - Assigning students or volunteers to work that campus staff, union labor, or trained vendors must handle.
-- Depending on student volunteers without training or escalation.
-- Opening events to the public without security, parking, registration, and building access planning.
-- Forgetting accessible entrances, after-hours doors, and campus wayfinding.
-- Using logos, donor language, sponsor visibility, or media outreach without approval.
-- Missing campus catering exclusives, alcohol rules, or procurement requirements.
-- Planning outdoor campus events without grounds, power, restroom, and weather approval.
+- Depending on student volunteers without training or escalation; opening events to the public without security, parking, registration, and building access planning
+- Forgetting accessible entrances, after-hours doors, and campus wayfinding; using logos, donor language, sponsor visibility, or media outreach without approval
+- Missing campus catering exclusives, alcohol rules, or procurement requirements; planning outdoor campus events without grounds, power, restroom, and weather approval
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Brand control is not only pre-event. Sponsors bring banners, tablecloths, demos,
 - Forgetting in-kind partners, venue vendors, media partners, and exhibitors.
 - Letting sales, programming, and operations confirm partners through separate paths with no conflict gate.
 - Allowing competitor logos in photos, lounges, stage backdrops, or digital assets.
-- Letting sponsors make claims that the event appears to endorse.
-- Having no authority path for resolving conflicts.
-- Accepting verbal exceptions and losing them by show day.
-- Briefing sales but not onsite, social, photography, and stage teams.
-- Allowing sponsors to bring unapproved signage and giveaways.
-- Treating makegoods as improvised favors rather than documented remedies.
+- Letting sponsors make claims that the event appears to endorse; having no authority path for resolving conflicts
+- Accepting verbal exceptions and losing them by show day; briefing sales but not onsite, social, photography, and stage teams
+- Allowing sponsors to bring unapproved signage and giveaways; treating makegoods as improvised favors rather than documented remedies
 
 ## Self-Check
 

@@ -69,6 +69,10 @@ When a client is hospitalized, the outpatient therapist may step back, treating 
 
 A client discharged from the hospital to routine outpatient care, without a prompt appointment, coordinated medication, or updated safety plan, is at elevated risk in the gap between discharge and the next outpatient contact. The mechanism is that discharge is treated as the end of the crisis, so the follow-up is assumed rather than arranged. The harm is that the highest-risk period, the days after discharge, is managed at routine intensity, and recurrence or deterioration is missed. A structured transition, prompt appointment, coordination, updated safety plan, and intensified initial follow-up, is what reduces the post-discharge risk.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I match the level of care to the clinical need, choosing the least restrictive level that can safely meet it?

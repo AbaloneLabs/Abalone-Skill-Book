@@ -111,19 +111,15 @@ Deleting raw user events but leaving derived segments, scores, profiles, or mode
 
 A deletion request that requires engineers to hunt across every service and store to find a user's data, missing the regulatory deadline and likely missing stores. Build a user-data map keyed by user id so requests fan out automatically.
 
-### Logs And Analytics That Cannot Be Surgically Edited
+### Logs And Analytics That Cannot Be Surgically Edited and third-Party Processors Never Notified
 
 PII that entered append-only logs or event streams and now cannot be removed without rewriting the whole store. Prevent PII from entering these stores; where it has, rely on short retention or redaction.
 
-### Third-Party Processors Never Notified
-
 Deleting the user internally but never forwarding the deletion to the CRM, analytics vendor, or email provider that holds a copy. Maintain the processor list and forward deletion requests with confirmation.
 
-### Deletion That Cannot Be Verified
+### Deletion That Cannot Be Verified and legal Hold Used As An Excuse To Retain Everything
 
 A deletion job that runs with no post-checks, so a store it silently missed remains populated indefinitely. Verify deletion across every store after it runs, and alert on anomalies.
-
-### Legal Hold Used As An Excuse To Retain Everything
 
 Invoking "we might need it for legal reasons" to retain all data indefinitely, when legal hold is a per-case exception, not a blanket policy. Document specific holds; retain the rest per purpose.
 

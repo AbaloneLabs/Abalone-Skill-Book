@@ -65,10 +65,8 @@ Mark which items need final reconfirmation: airport transfers, ferries, guided t
 - Treating festivals as only positive experiences while ignoring hotel scarcity and crowding.
 - Ignoring small events that affect one key transfer or neighborhood.
 - Not checking transport reroutes, pedestrian zones, taxi access, or parking restrictions.
-- Scheduling a must-see attraction on the only possible day without backup.
-- Assuming restaurants, markets, ferries, and museums operate normally during holidays.
-- Failing to recheck volatile services near departure.
-- Reporting uncertainty as fact instead of marking it for confirmation.
+- Scheduling a must-see attraction on the only possible day without backup; assuming restaurants, markets, ferries, and museums operate normally during holidays
+- Failing to recheck volatile services near departure; reporting uncertainty as fact instead of marking it for confirmation
 
 ## Self-Check
 

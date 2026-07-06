@@ -54,8 +54,7 @@ Post-event reporting should use aggregated data where possible. Sponsors and sta
 - Recording sessions, Q&A, chat, or attendee images without clear notice and reuse boundaries.
 - Assuming opt-out is meaningful when photographers, staff, and platforms cannot enforce it.
 - Letting vendors keep event data indefinitely because no one asked about retention.
-- Combining operational scans and marketing scans without telling attendees.
-- Exporting data to spreadsheets and losing access control.
+- Combining operational scans and marketing scans without telling attendees; exporting data to spreadsheets and losing access control
 
 ## Self-Check
 

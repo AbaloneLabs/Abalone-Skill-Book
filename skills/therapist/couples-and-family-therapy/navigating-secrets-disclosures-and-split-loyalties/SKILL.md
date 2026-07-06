@@ -61,6 +61,10 @@ A therapist may focus on the content of a secret or a loyalty, what is hidden or
 
 A therapist may navigate a complex secret, such as infidelity, hidden substance use, or abuse history, without consultation, relying on their own judgment in a high-stakes, complex situation. The mechanism is that the therapist wants to handle it, or is concerned about confidentiality, and does not seek consultation, when the dynamics are complex and the therapist's judgment may be clouded. The harm is that the decision about disclosure or secrecy may be wrong, the system may be harmed, and the therapy compromised. Using consultation for complex secrets and loyalties is part of sound practice, and prevents navigating them alone.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I anticipate secrets and establish policies about how I handle them before they arose?

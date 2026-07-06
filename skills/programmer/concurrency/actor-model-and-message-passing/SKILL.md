@@ -105,11 +105,9 @@ A supervisor restart that loses the actor's in-memory state or its unprocessed m
 
 A persistently failing actor restarted without limit, thrashing or cascading failure up the supervision tree. Add restart-rate limits (circuit breakers); recognize that restart handles transient, not deterministic, faults.
 
-### Assuming Location Transparency Makes Distribution Free
+### Assuming Location Transparency Makes Distribution Free and forcing A Shared-State Problem Into Actors
 
 Writing code that works locally and assuming it works the same remotely, when remote messaging has partial failure, partition, reordering, and redelivery. Design for distribution explicitly; treat location transparency as a convenience, not a guarantee.
-
-### Forcing A Shared-State Problem Into Actors
 
 Modeling a naturally shared-state problem (large-array numerical work, graph algorithms) as actors, producing awkward chatty message flows. Use actors where the problem decomposes into independent message-communicating components; use shared-state concurrency where the problem is naturally shared.
 

@@ -102,6 +102,10 @@ The architect uses informal cost knowledge to reassure the owner or to make desi
 
 The project carries contingency for unknowns, and as the design develops, scope additions, upgrades, and unresolved issues are absorbed into the contingency without being tracked, until the contingency is gone before construction begins. The trap mechanism is that contingency feels like available headroom, so each addition seems affordable in isolation, while the cumulative consumption is invisible. The false signal is the budget appearing balanced, because the additions were absorbed rather than flagged. The harm is a project that enters construction with no cushion for the unknowns construction always reveals, forcing change orders, scope cuts, or additional funding, and a cost control process that lost its safety net one silent decision at a time.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the budget's basis, what it includes, when set, and escalation assumptions, documented and agreed with the owner?
@@ -111,3 +115,4 @@ The project carries contingency for unknowns, and as the design develops, scope 
 - [ ] Is the architect's cost role distinguished from the estimator's, with cost opinions presented as non-guaranteed?
 - [ ] Is the estimate-to-bid gap managed through biddable documents and market pricing input?
 - [ ] Is contingency tracked so that silent consumption is flagged before the cushion is gone?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

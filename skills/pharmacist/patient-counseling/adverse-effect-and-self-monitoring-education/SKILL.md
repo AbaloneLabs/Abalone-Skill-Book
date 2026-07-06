@@ -29,6 +29,10 @@ The same drug requires different education for different patients. An elderly pa
 
 The pharmacist must document what was taught, what materials were provided, and what monitoring plan was established, both for continuity of care and for legal protection. More importantly, when the monitoring plan requires prescriber action (ordering an INR, reviewing home blood pressure logs, adjusting a dose based on home glucose data), the pharmacist must coordinate with the prescriber to ensure the data will be reviewed and acted upon. A patient who diligently records home blood pressures that no one reviews has gained nothing, and a monitoring plan that exists only in the patient's notebook is not a monitoring plan. The pharmacist must close the loop between the patient's self-monitoring and the prescriber's response.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Package-Insert Dump
@@ -51,6 +55,10 @@ The pharmacist closes with "call us if you have any problems." The mechanism is 
 
 The pharmacist sets up home monitoring and sends the patient home with a logbook, but does not arrange for the data to be reviewed by the prescriber or pharmacist. The mechanism is that setting up the monitoring feels like completing the task. The false signal is that monitoring is occurring, so the patient is safer. The harm is that unreviewed monitoring provides no protection — the patient records blood pressures that creep up over weeks, or glucose readings that trend high, and no one intervenes until a clinical event forces the issue. Monitoring without a defined review loop is data collection, not care.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I tier the adverse effects into expected/tolerable, call-the-team, and seek-emergency-care categories, or did I present a flat list that the patient cannot triage?
@@ -59,3 +67,5 @@ The pharmacist sets up home monitoring and sends the patient home with a logbook
 - Did I tailor the education to the patient's risk profile (age, fall risk, organ function) and capacity (literacy, vision, manual dexterity, affordability of monitoring equipment)?
 - Did I document the education and coordinate with the prescriber so that the patient's self-monitoring data will actually be reviewed and acted upon?
 - Did I prioritize the high-probability and high-severity effects rather than dumping the full package insert list, which buries the critical warnings and induces nocebo effects?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

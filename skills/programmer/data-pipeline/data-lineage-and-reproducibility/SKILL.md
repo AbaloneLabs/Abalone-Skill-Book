@@ -95,11 +95,9 @@ A pipeline that reports success when it merely did not crash, allowing corrupt o
 
 A pipeline that has not run (or failed silently) leaves downstream dashboards showing old data with no indication it is stale. Monitor freshness and alert when data exceeds its expected age.
 
-### No Reconciliation, So Drift Accumulates
+### No Reconciliation, So Drift Accumulates and reference Data Not Snapshotted
 
 High-stakes data that is never compared to an independent source of truth, so silent drift between the pipeline and reality accumulates until a consumer notices a wrong number. Reconcile financial and decision-critical data regularly and investigate divergence.
-
-### Reference Data Not Snapshotted
 
 A transform that joins against a reference table or external API that changes over time, so a backfill against current reference data differs from the original run. Snapshot reference data with the run or accept and document the difference.
 

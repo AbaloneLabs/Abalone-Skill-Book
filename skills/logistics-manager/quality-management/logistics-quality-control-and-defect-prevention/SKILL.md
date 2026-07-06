@@ -57,13 +57,11 @@ Customer complaints should be linked to shipment records, photos, claim data, pr
 
 Complaints are quality signals. Treat them as evidence, not annoyance.
 
-### Verify corrective actions
+### Verify corrective actions and balance quality and productivity carefully
 
 After a fix, check whether defect rate actually falls and whether new problems were created. A training memo is not a corrective action unless behavior and results change.
 
 Quality improvement requires verification, not just action lists.
-
-### Balance quality and productivity carefully
 
 Quality checks consume time, but defects consume more through rework, claims, reships, lost customers, and regulatory risk. Use risk-based sampling and automated checks to protect productivity.
 
@@ -76,12 +74,9 @@ Do not remove controls solely to hit hourly throughput if defects are increasing
 - Using scales, probes, scanners, printers, and inspection tools that are out of calibration or unavailable.
 - Applying the same QC level to every product and flow regardless of risk.
 - Sampling inconsistently or failing to expand inspection when a sample reveals defects.
-- Reporting defect counts without root-cause segmentation.
-- Cutting audits and training during peak volume.
-- Treating complaints as customer-service issues rather than logistics quality data.
-- Closing corrective actions without verifying defect reduction.
-- Rewarding productivity in ways that encourage skipped scans, poor packing, and hidden damage.
-- Fixing symptoms while leaving master data, packaging, supplier, or system causes unchanged.
+- Reporting defect counts without root-cause segmentation; cutting audits and training during peak volume
+- Treating complaints as customer-service issues rather than logistics quality data; closing corrective actions without verifying defect reduction
+- Rewarding productivity in ways that encourage skipped scans, poor packing, and hidden damage; fixing symptoms while leaving master data, packaging, supplier, or system causes unchanged
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Do not remove controls solely to hit hourly throughput if defects are increasing
 - Are peak, overtime, temp labor, launch, and expedited periods protected with added quality controls?
 - Are customer complaints linked to shipment records, evidence, owner, cause, and corrective action?
 - Are corrective actions verified through actual defect reduction?
-- Are quality and productivity balanced through risk-based sampling and automation?
-- Can the operation prevent defects rather than only find them after the fact?
+- Are quality and productivity balanced through risk-based sampling and automation?; can the operation prevent defects rather than only find them after the fact?

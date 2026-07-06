@@ -39,6 +39,10 @@ The relocation plan should include what is confirmed, what is pending, who owns 
 
 Be explicit about tasks that cannot be completed during the trip. The traveler may need to return later, wait for a local ID, receive mailed documents, or complete online verification after arrival. Hidden dependencies cause frustration; visible dependencies support realistic expectations.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Scheduling appointments by geography but ignoring document dependencies. The nearest office may not be the next logical step.

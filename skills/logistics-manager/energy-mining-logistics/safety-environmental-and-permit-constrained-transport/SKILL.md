@@ -71,10 +71,8 @@ Safety-constrained transport should learn from weak signals before a major event
 - Depending on generic emergency response that does not match the load or route.
 - Ignoring dust, noise, water, wildlife, cultural, school, and community commitments.
 - Sending vehicles without checking containment, placards, tie-downs, tanks, hoses, and roadworthiness.
-- Letting schedule pressure override fatigue, weather, road closure, and stop-work rules.
-- Failing to preserve permits, GPS, inspection, escort, and deviation records.
-- Treating near misses, complaints, route deviations, and permit errors as isolated events.
-- Assuming legal compliance is enough when site and community agreements are stricter.
+- Letting schedule pressure override fatigue, weather, road closure, and stop-work rules; failing to preserve permits, GPS, inspection, escort, and deviation records
+- Treating near misses, complaints, route deviations, and permit errors as isolated events; assuming legal compliance is enough when site and community agreements are stricter
 
 ## Self-Check
 

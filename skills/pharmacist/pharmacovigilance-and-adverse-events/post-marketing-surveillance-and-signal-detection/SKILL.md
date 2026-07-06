@@ -29,6 +29,10 @@ When a drug is withdrawn from the market or a major safety update requires actio
 
 Pharmacovigilance is not a one-time response to a crisis; it is ongoing vigilance integrated into routine practice. The pharmacist must build the habits that sustain vigilance: routinely reporting suspected reactions as they are encountered; regularly reviewing safety communications and integrating them into the verification workflow (so that a new boxed warning triggers a review of current patients); maintaining current knowledge of the evolving safety profiles of the drugs most commonly dispensed; and participating in the institution's medication safety committee or the equivalent forum where signals are discussed and acted upon. Vigilance that is reactive (only when a crisis hits) misses the early signals that, if acted upon, prevent the crisis. The discipline is to treat drug safety as a dynamic, evolving body of knowledge that the pharmacist actively contributes to and consumes.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Underreporting Because Causality Is Uncertain
@@ -51,6 +55,10 @@ A boxed warning is added or a drug is the subject of a regulatory safety communi
 
 A drug withdrawal occurs, and the pharmacist focuses on the operational aspects (returns, inventory, alternative sourcing) to the neglect of the clinical communication (contacting prescribers and patients, ensuring a safe transition). The mechanism is that the logistics are urgent and visible, while the clinical communication is distributed across many patients and prescribers. The false signal is that the withdrawal is being managed, so the patients are being served. The harm is that patients continue taking remaining supplies of the withdrawn drug, or are abruptly without therapy without a transition plan, because the clinical communication was lost in the operational response. The withdrawal response must prioritize the clinical communication and the safe transition, with the logistics in support.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I report suspected serious or unexpected adverse drug reactions to the relevant pharmacovigilance system, with sufficient clinical detail, even when causality is uncertain?
@@ -59,3 +67,5 @@ A drug withdrawal occurs, and the pharmacist focuses on the operational aspects 
 - For drug withdrawals or major safety updates, did I communicate timely and completely to prescribers and patients, with a clear alternative plan and a safe transition, prioritizing the clinical communication over the logistics?
 - Have I built the habits of ongoing vigilance (routine reporting, regular review of safety communications, integration into verification workflow, participation in safety forums), rather than reacting only to crises?
 - Did I calibrate my response to the signal's strength — neither over-reacting to weak signals by abandoning effective therapy, nor under-reacting to strong signals by continuing as before?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

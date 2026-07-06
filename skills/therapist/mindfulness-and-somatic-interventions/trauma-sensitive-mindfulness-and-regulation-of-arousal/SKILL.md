@@ -65,6 +65,10 @@ A therapist may introduce deeper mindfulness practices, body scans, breath atten
 
 A therapist may assume that mindfulness is universally beneficial and appropriate, because it is widely recommended and broadly evidence-based, and apply it to every client regardless of presentation, when for some trauma clients mindfulness is contraindicated or must be deferred. The mechanism of harm is that the assumption overrides the assessment, a client for whom mindfulness is destabilizing is prescribed a practice that worsens their condition, and the contraindication is missed. The harm is that the client is harmed by a treatment that was supposed to help, and the therapist's confidence in mindfulness prevents recognition of the adverse response. Assessing each client, and recognizing contraindications, prevents this harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess trauma readiness before introducing mindfulness, considering symptoms, regulation capacity, and stability?

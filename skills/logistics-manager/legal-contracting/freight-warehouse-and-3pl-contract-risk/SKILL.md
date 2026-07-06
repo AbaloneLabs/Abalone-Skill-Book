@@ -60,12 +60,9 @@ Logistics operations change: new SKUs, channels, packaging, customers, countries
 - Defining SLAs without measurement source, cutoff, exception rules, and cure process.
 - Accepting low base rates without modeling accessorials, minimums, fuel, storage, and peak fees.
 - Assuming provider insurance equals full recovery for customer impact.
-- Creating claim rights without operational evidence requirements.
-- Signing before systems, SOPs, startup inventory, and go-live tests are defined.
-- Forgetting exit assistance, data return, inventory handoff, and open order handling.
-- Treating governance meetings as optional instead of the mechanism for early issue resolution.
-- Allowing invoices and accessorials without backup evidence and dispute process.
-- Adding new channels, SKUs, countries, or services without contract change control.
+- Creating claim rights without operational evidence requirements; signing before systems, SOPs, startup inventory, and go-live tests are defined
+- Forgetting exit assistance, data return, inventory handoff, and open order handling; treating governance meetings as optional instead of the mechanism for early issue resolution
+- Allowing invoices and accessorials without backup evidence and dispute process; adding new channels, SKUs, countries, or services without contract change control
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Logistics operations change: new SKUs, channels, packaging, customers, countries
 - Are implementation, integration, testing, training, inventory reconciliation, and go-live criteria defined?
 - Do termination and exit terms cover inventory, data, systems, open orders, billing, transition, and customer continuity?
 - Are governance cadence, issue categories, escalation levels, and response times defined?
-- Can invoices be audited against rate tables, accessorial approvals, shipment records, storage balances, and labor requests?
-- Is change control defined for new services, volume volatility, compliance changes, and forecast misses?
+- Can invoices be audited against rate tables, accessorial approvals, shipment records, storage balances, and labor requests?; is change control defined for new services, volume volatility, compliance changes, and forecast misses?

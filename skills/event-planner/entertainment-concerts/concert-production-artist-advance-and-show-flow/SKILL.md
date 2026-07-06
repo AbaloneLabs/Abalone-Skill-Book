@@ -70,12 +70,9 @@ Do not let the emotional high of the show obscure financial and operational clos
 - Building a show timeline with no buffer for soundcheck, changeover, ingress, or technical fixes.
 - Failing to define who can delay, cut, extend, or cancel elements when live conditions change.
 - Ignoring curfew, labor overtime, sound limits, and neighborhood restrictions.
-- Letting hospitality substitutions become day-of surprises.
-- Underplanning support act technical needs and backline sharing.
-- Starting the show without knowing FOH, security, and box office status.
-- Failing to communicate photo and recording rules to security and media.
-- Letting settlement happen without documentation or privacy.
-- Forgetting load-out, bus parking, lost items, and post-show venue obligations.
+- Letting hospitality substitutions become day-of surprises; underplanning support act technical needs and backline sharing
+- Starting the show without knowing FOH, security, and box office status; failing to communicate photo and recording rules to security and media
+- Letting settlement happen without documentation or privacy; forgetting load-out, bus parking, lost items, and post-show venue obligations
 
 ## Self-Check
 

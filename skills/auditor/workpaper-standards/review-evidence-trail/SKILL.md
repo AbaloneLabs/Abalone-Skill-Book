@@ -103,8 +103,7 @@ A file that requires the team to explain it has not been documented to standard.
 - **Review by insufficiently senior personnel** for the judgements involved, or missing review sign-off.
 - **Back-loaded review** all dated in the final week, signalling after-the-fact rather than ongoing supervision.
 - **Glossing exceptions and contradictions** rather than documenting their evaluation and resolution.
-- **Significant judgements appearing only as conclusions**, without basis, alternatives, or consultation.
-- **A file that requires oral explanation** to be understood, failing the stand-alone test.
+- **Significant judgements appearing only as conclusions**, without basis, alternatives, or consultation; **A file that requires oral explanation** to be understood, failing the stand-alone test
 
 ## Self-Check
 

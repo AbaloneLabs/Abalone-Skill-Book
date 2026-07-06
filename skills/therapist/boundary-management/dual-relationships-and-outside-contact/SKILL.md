@@ -77,6 +77,10 @@ When the therapist and client encounter each other outside the session and the e
 
 A boundary that is extended once, a slightly longer session, a waived fee, a personal exchange, an after-hours contact, is easier to extend again, and the gradual accumulation can move the relationship well outside the therapeutic frame before either party recognizes it. The mechanism is that each individual extension feels minor and caring, so the pattern of creep is invisible, and the therapist, having extended once, has reduced the friction to extending again. The harm is a frame that has eroded to the point of being unclear, with the client navigating ambiguity and the therapist's objectivity compromised. Noticing the pattern of extensions, consulting when the frame is shifting, and re-establishing the frame when it has eroded, are what prevent creep from accumulating.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the dual relationship as soon as it arose or was anticipated, including subtle ones?

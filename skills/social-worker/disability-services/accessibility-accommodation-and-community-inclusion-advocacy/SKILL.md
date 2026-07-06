@@ -29,6 +29,10 @@ The ADA requires reasonable accommodation — modifications that enable a person
 
 Formal services — case management, day programs, supported employment — are essential, but they are not the same as community inclusion. A client who attends a day program with other people with disabilities, is transported by a disability service, and lives in a disability group home may be technically "in the community" but is functionally segregated. True community inclusion means the client has relationships, roles, and activities in settings that are not defined by disability: a job in a typical workplace, membership in a faith community or a club, friendships with people who are not paid to be there, and a home in a typical neighborhood. The social worker must work with the client to identify their interests and build connections to community settings where those interests are pursued — and must recognize that natural supports (a coworker who checks in, a neighbor who helps, a volunteer role that becomes meaningful) are more durable than formal services, which can be cut when funding changes. The goal is a life in which formal services support the client's inclusion, rather than a life in which formal services substitute for it.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Accepting the First Refusal as Final
@@ -47,6 +51,14 @@ A social worker demands that an employer provide a personal care attendant for a
 
 A client's schedule is full: case management on Monday, a day program Tuesday through Thursday, therapy on Friday. The social worker considers the case well-served. The mechanism of the trap is that the schedule is full of formal services, none of which connect the client to people, places, or roles outside the disability system. The harm is that the client is technically active and technically supervised but is socially isolated from the broader community, has no relationships that will survive a change in funding, and has no identity beyond "client." The false signal is that a full schedule of services equals a full life, when in fact a full schedule of services can be a form of segregation that looks like inclusion from the case file but feels like isolation from the client's perspective.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I know which law (ADA, Section 504, IDEA, Fair Housing Act) applies to the client's situation, and did I lead with collaboration while being prepared to invoke the legal standard if needed?
@@ -55,3 +67,5 @@ A client's schedule is full: case management on Monday, a day program Tuesday th
 - Did I distinguish between what the entity is legally required to provide (reasonable accommodation) and what is the client's personal responsibility, so that I did not waste credibility on overreach?
 - Did I work with the client to build natural supports and community connections — relationships, roles, and activities in settings not defined by disability — or did I rely solely on formal services that substitute for inclusion?
 - Did I challenge the assumption that a specialized, disability-specific program is the appropriate destination, and did I explore integrated, supported options first?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

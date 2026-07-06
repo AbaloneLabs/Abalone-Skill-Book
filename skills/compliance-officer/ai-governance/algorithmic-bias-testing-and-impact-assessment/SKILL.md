@@ -61,6 +61,10 @@ Bias can be introduced or amplified by how the system is used: the threshold the
 
 Without pre-defined disparity thresholds, the temptation to rationalize an acceptable disparity is strong. Define thresholds and mitigation triggers before testing to preserve the integrity of the assessment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I anchor the assessment to the specific decision, affected population, and stakes, rather than running a generic fairness audit?

@@ -57,13 +57,11 @@ Government payment may require the delivery record, acceptance record, invoice, 
 
 A shipment can be accepted operationally but delayed financially if logistics and invoicing records do not align.
 
-### Handle changes and deviations formally
+### Handle changes and deviations formally and coordinate base, site, and access rules
 
 Schedule changes, packaging deviations, substitutions, alternate sources, partial deliveries, or late deliveries may require contracting officer or authorized representative approval. Do not rely on informal emails from end users if contract authority is different.
 
 Government work depends on authority. The person who wants the material may not be able to waive a requirement.
-
-### Coordinate base, site, and access rules
 
 Deliveries may require base access, driver vetting, vehicle inspection, appointment slots, escorts, restricted items, security checks, and approved routes. Build lead time for credentials and denials.
 
@@ -76,12 +74,9 @@ A compliant shipment can still fail if the driver cannot enter the site. Access 
 - Assuming carrier POD equals contractual acceptance and payment evidence.
 - Shipping before required source inspection, first article, lot acceptance, or quality release is complete.
 - Missing packaging, preservation, UID, RFID, shelf-life, and marking requirements.
-- Forgetting supplier flowdown for origin, quality, cybersecurity, export, and counterfeit controls.
-- Sharing controlled information through informal channels or broad distribution.
-- Waiting for an audit to assemble traceability, inspection, and delivery records.
-- Billing before delivery, acceptance, serial, quantity, and contract line records are reconciled.
-- Accepting informal change approval from someone without contract authority.
-- Dispatching drivers before base access, vetting, appointment, and escort requirements are ready.
+- Forgetting supplier flowdown for origin, quality, cybersecurity, export, and counterfeit controls; sharing controlled information through informal channels or broad distribution
+- Waiting for an audit to assemble traceability, inspection, and delivery records; billing before delivery, acceptance, serial, quantity, and contract line records are reconciled
+- Accepting informal change approval from someone without contract authority; dispatching drivers before base access, vetting, appointment, and escort requirements are ready
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ A compliant shipment can still fail if the driver cannot enter the site. Access 
 - Are audit records retained for traceability, inspection, certificates, origin, delivery, deviations, and corrective actions?
 - Are delivery records, acceptance, invoices, CLINs, serial lists, quantities, and receiving reports reconciled before billing?
 - Are changes, substitutions, partials, delays, and deviations approved by the proper contract authority?
-- Are base access, driver vetting, vehicle inspection, appointments, escorts, and route rules built into delivery planning?
-- Can the shipment support contract compliance, acceptance, payment, and audit review?
+- Are base access, driver vetting, vehicle inspection, appointments, escorts, and route rules built into delivery planning?; can the shipment support contract compliance, acceptance, payment, and audit review?

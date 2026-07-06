@@ -49,6 +49,8 @@ Signs of malfunction: inability to draw blood, resistance to flush, sluggish inf
 
 **Leaving the line in because "the team might need it."** Central lines are often left in place beyond their indication out of hypothetical future need — "in case we need pressors again" or "in case the patient crashes." The mechanism of harm is that each additional day of dwell multiplies CLABSI risk, and the hypothetical need rarely materializes while the infection risk is certain and accumulating. The harm is a CLABSI that develops in a line that was no longer serving a purpose. Conduct the daily necessity review honestly: if the indication has resolved, advocate for removal and document the conversation. A new line can be placed if the clinical situation changes.
 
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I perform hand hygiene and scrub the hub/port with appropriate antiseptic and full contact time before every access?

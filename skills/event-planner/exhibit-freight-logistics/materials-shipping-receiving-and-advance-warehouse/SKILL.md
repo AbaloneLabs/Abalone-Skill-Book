@@ -70,12 +70,9 @@ If packaging is discarded, outbound damage risk rises and strike slows down.
 - Using wrong labels, missing booth numbers, or incomplete piece counts.
 - Scheduling critical freight to arrive at the last allowed date.
 - Having no onsite owner with authority, paperwork, and replacement path for missing or delayed materials.
-- Assuming staff can bypass material handling rules by carrying items in.
-- Forgetting union labor, forklift, crate storage, and empty label rules.
-- Treating carrier delivery confirmation as proof the item reached the booth.
-- Ignoring insurance, packing, and chain of custody for valuable items.
-- Starting missing-freight investigation too late.
-- Throwing away packaging needed for outbound shipment.
+- Assuming staff can bypass material handling rules by carrying items in; forgetting union labor, forklift, crate storage, and empty label rules
+- Treating carrier delivery confirmation as proof the item reached the booth; ignoring insurance, packing, and chain of custody for valuable items
+- Starting missing-freight investigation too late; throwing away packaging needed for outbound shipment
 
 ## Self-Check
 

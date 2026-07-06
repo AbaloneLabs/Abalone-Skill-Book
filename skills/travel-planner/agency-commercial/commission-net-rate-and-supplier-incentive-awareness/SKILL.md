@@ -54,8 +54,7 @@ Document reasoning for high-cost or incentive-sensitive choices. If the recommen
 - Recommending a supplier because they are easy for the advisor to service, not because they fit the traveler.
 - Ignoring how booking channel affects changes, refunds, loyalty credit, and disruption recovery.
 - Presenting packages as simpler without explaining reduced flexibility or hidden dependencies.
-- Pushing insurance, excursions, transfers, or upgrades because they improve margin rather than because they solve a traveler need.
-- Failing to disclose material conflicts where professional, legal, or client expectations require it.
+- Pushing insurance, excursions, transfers, or upgrades because they improve margin rather than because they solve a traveler need; failing to disclose material conflicts where professional, legal, or client expectations require it
 
 ## Self-Check
 

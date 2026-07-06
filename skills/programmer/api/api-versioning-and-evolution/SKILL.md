@@ -150,11 +150,9 @@ Bumping `/v1` to `/v2` but keeping the same fragile validation, ordering, and er
 
 Setting a hard sunset date for v1 and removing it on that date regardless of remaining traffic. Long-tail mobile users and pinned SDK consumers keep calling it and break. Removal should be gated on observed traffic, not only on a date.
 
-### Forgetting Webhooks, Exports, And Event Schemas
+### Forgetting Webhooks, Exports, And Event Schemas and big-Bang v2 Because v1 "Got Messy"
 
 Evolving the request/response API carefully but changing webhook payloads, exported reports, or event schemas without a compatibility pass. These are APIs too, consumed by pipelines and integrations that depend on their shapes for years.
-
-### Big-Bang v2 Because v1 "Got Messy"
 
 Rewriting the whole API as v2 and telling clients to migrate, when the mess could have been fixed through additive evolution. v2 doubles the maintenance surface (you now carry two APIs) and forces every client to coordinate. Reserve full rewrites for cases where incremental evolution is genuinely impossible.
 

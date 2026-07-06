@@ -76,3 +76,4 @@ Programs without outcome metrics cannot demonstrate value or improve. Track rete
 - Am I building cohort community and an alumni network as long-term retention and pipeline assets?
 - Is the program's size and selection calibrated to the pipeline strategy, with rigorous participant assessment?
 - Am I measuring outcomes — retention, promotion velocity, mobility, satisfaction, cost — and iterating based on data?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

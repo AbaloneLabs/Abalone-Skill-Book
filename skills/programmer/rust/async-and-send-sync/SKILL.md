@@ -55,6 +55,10 @@ The runtime determines whether futures must be `Send`, how tasks are scheduled, 
 - **Use `Box::pin` or stack pinning deliberately** when you need to store or pass a future whose size or lifetime requires it.
 - **Avoid self-referential structs in safe code.** Self-referential data is the reason Pin exists; do not create it manually unless you are writing unsafe code and understand the invariants.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Blocking The Runtime With Synchronous Work
@@ -93,3 +97,5 @@ Worker or blocking pools sized wrong for the workload — too few workers bottle
 - [ ] The runtime is chosen and configured for the workload: multi-threaded runtimes require Send futures (single-threaded allow non-Send types but sacrifice parallelism), worker and blocking pools are sized independently, runtimes are not nested, and the reactor is present for async I/O and timers.
 - [ ] Pin is handled deliberately: spawned futures are pinned and not moved out, Box::pin or stack pinning is used when storing/passing futures that require it, and self-referential structs are not created manually in safe code.
 - [ ] The highest-risk cases were verified — a blocking call moved off the runtime, a non-Send guard caught or removed, a lock held across await refactored to release before await, and a future cancelled at a sensitive await point without corruption — not only the clean sequentially-looking path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

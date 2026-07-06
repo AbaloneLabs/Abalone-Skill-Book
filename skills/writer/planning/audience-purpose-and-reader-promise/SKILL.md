@@ -185,11 +185,7 @@ Before drafting or approving the plan, verify:
 - The genre is identified, including the obligations it creates.
 - The opening strategy matches the reader's starting point.
 - The scope excludes adjacent topics that would dilute the piece.
-- The desired reader movement is clear.
-- The draft plan identifies the reader's likely skepticism or trust problem.
-- The piece does not confuse general accessibility with vagueness.
-- The tone follows from the writer-reader relationship, not from surface style.
-- The planned evidence, examples, or scenes fit what this reader will trust.
-- The ending can be designed to fulfill the original promise.
-- Search, stakeholder, or platform needs do not override the actual reader's need.
-- The piece has a reason to exist beyond "cover this topic."
+- The desired reader movement is clear; the draft plan identifies the reader's likely skepticism or trust problem
+- The piece does not confuse general accessibility with vagueness; the tone follows from the writer-reader relationship, not from surface style
+- The planned evidence, examples, or scenes fit what this reader will trust; the ending can be designed to fulfill the original promise
+- Search, stakeholder, or platform needs do not override the actual reader's need; the piece has a reason to exist beyond "cover this topic."

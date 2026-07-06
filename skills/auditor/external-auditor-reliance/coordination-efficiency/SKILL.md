@@ -176,5 +176,4 @@ If internal audit's work proves deficient and there is no pre-planned external r
 - Are communication protocols defined, including meetings, escalation, findings sharing, and dispute resolution?
 - Are coverage gaps in the map explicitly filled rather than accepted for efficiency?
 - Are contingency plans in place for the failure of relied-upon work, including pre-planned external procedures and reassessment triggers?
-- Is the coordination documented so that ownership, scope allocation, sequencing, and reliance decisions are visible to a reviewer?
-- Is the coverage map revisited when the risk profile changes or when a party's work proves deficient during the engagement?
+- Is the coordination documented so that ownership, scope allocation, sequencing, and reliance decisions are visible to a reviewer?; is the coverage map revisited when the risk profile changes or when a party's work proves deficient during the engagement?

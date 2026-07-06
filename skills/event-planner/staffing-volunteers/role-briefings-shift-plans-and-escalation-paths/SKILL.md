@@ -60,8 +60,7 @@ After the event, gather feedback: what questions staff received, what instructio
 - Ignoring shift handoffs and losing unresolved issues.
 - Expecting volunteers to improvise refusal language or conflict de-escalation.
 - Giving emergency plans without practical first actions.
-- Emailing instructions and assuming they were read and understood.
-- Forgetting multilingual, accessibility, and privacy-sensitive scripts.
+- Emailing instructions and assuming they were read and understood; forgetting multilingual, accessibility, and privacy-sensitive scripts
 
 ## Self-Check
 

@@ -57,6 +57,10 @@ A recall is a program, not an event. Effectiveness depends on sustained consumer
 
 Recall obligations extend through the distribution chain. Distributors and retailers may have their own notification and stop-sale duties. Failing to cascade stop-sale and recall instructions through the channel leaves units available for sale during the recall period.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I activate the incident-response process and preserve evidence immediately, rather than treating early reports as isolated incidents?

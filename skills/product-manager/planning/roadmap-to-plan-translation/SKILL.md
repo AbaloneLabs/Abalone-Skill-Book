@@ -84,3 +84,4 @@ Roadmap shapes plan but plan results never reshape roadmap. The trap is a roadma
 - [ ] The plan fits within real capacity and respects dependencies, with prioritization feedback to the roadmap when it cannot.
 - [ ] A feedback loop carries execution results back to the roadmap, keeping both honest and connected.
 - [ ] The roadmap is updated on a regular cadence based on what execution revealed.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

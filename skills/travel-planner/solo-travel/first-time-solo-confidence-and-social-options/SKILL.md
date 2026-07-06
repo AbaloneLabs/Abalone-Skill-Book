@@ -70,12 +70,9 @@ End with a sense of mastery. The itinerary should leave the traveler feeling mor
 - Leaving the first night underplanned.
 - Filling the trip with group activities until solo autonomy disappears.
 - Providing no social options and assuming solitude is always desired.
-- Giving fear-based safety advice that makes the traveler anxious.
-- Ignoring identity-specific risks and comfort.
-- Overloading the traveler with daily decisions and no defaults.
-- Designing remote or late-night logistics without check-ins.
-- Starting the trip with the hardest logistics and hoping confidence appears later.
-- Removing all challenge so the traveler gains no confidence.
+- Giving fear-based safety advice that makes the traveler anxious; ignoring identity-specific risks and comfort
+- Overloading the traveler with daily decisions and no defaults; designing remote or late-night logistics without check-ins
+- Starting the trip with the hardest logistics and hoping confidence appears later; removing all challenge so the traveler gains no confidence
 
 ## Self-Check
 

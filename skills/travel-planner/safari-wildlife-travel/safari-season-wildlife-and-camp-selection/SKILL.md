@@ -39,6 +39,10 @@ Wildlife is not scheduled. State that sightings vary with weather, animal moveme
 
 For families, consider age limits, attention span, pool safety, malaria risk, room configuration, child meals, guide style, private vehicle needs, and whether the child can remain quiet around wildlife. A safari can be magical for children or stressful if expectations are wrong.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Selling a famous park or migration season without checking the traveler's species priorities, tolerance, and budget.

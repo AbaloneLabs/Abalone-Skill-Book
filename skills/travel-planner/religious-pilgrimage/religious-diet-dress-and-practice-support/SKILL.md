@@ -54,8 +54,7 @@ When a requirement cannot be guaranteed, say so before booking. Some destination
 - Informing travelers of dress rules after they have packed.
 - Scheduling transfers through prayer or worship windows without alternatives.
 - Sharing private observance details with suppliers or group members unnecessarily.
-- Giving religious interpretations instead of asking the traveler or a qualified authority.
-- Assuming supplier confirmation eliminates the need for backup meals, garments, prayer space, or schedule alternatives.
+- Giving religious interpretations instead of asking the traveler or a qualified authority; assuming supplier confirmation eliminates the need for backup meals, garments, prayer space, or schedule alternatives
 
 ## Self-Check
 

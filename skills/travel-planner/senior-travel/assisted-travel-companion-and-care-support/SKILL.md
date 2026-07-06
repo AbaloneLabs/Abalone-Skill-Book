@@ -54,8 +54,7 @@ If support needs are substantial, choose suppliers experienced with accessibilit
 - Forgetting companion lodging, meals, rest, cost, and burnout.
 - Sharing sensitive medical or care details too broadly.
 - Ignoring legal decision authority where guardianship or medical proxy may matter.
-- Planning remote or complex travel without emergency and evacuation support.
-- Underestimating time needed for equipment, boarding, security, and transfers.
+- Planning remote or complex travel without emergency and evacuation support; underestimating time needed for equipment, boarding, security, and transfers
 
 ## Self-Check
 

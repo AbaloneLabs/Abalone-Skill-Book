@@ -57,10 +57,8 @@ Some loops should be stopped if loss, cleaning, transport, or customer friction 
 - Failing to assign asset accountability to suppliers, customers, and internal sites.
 - Ignoring cleaning, contamination, allergen, pest, or product safety risk.
 - Creating ergonomic or automation problems with heavy or awkward returnables.
-- Letting empty assets accumulate because reverse logistics is nobody's priority.
-- Reporting waste reduction without measuring cycles, losses, reverse freight, and replaced packaging.
-- Scaling a reusable packaging program after a product test but before proving return behavior, cleaning, and asset control.
-- Keeping damaged or poorly performing assets in circulation because retirement rules are unclear.
+- Letting empty assets accumulate because reverse logistics is nobody's priority; reporting waste reduction without measuring cycles, losses, reverse freight, and replaced packaging
+- Scaling a reusable packaging program after a product test but before proving return behavior, cleaning, and asset control; keeping damaged or poorly performing assets in circulation because retirement rules are unclear
 
 ## Self-Check
 

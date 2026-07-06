@@ -54,8 +54,7 @@ Staff should know how to assist without grabbing mobility devices, separating se
 - Providing accessible seating with poor sightlines or no companion seating.
 - Forgetting speaker, performer, staff, and backstage access.
 - Hiring interpreters or captions without prep materials, lighting, audio feed, or schedule coordination.
-- Promising accessible transport without confirming vehicle type and pickup process.
-- Ignoring accessible emergency communication and egress.
+- Promising accessible transport without confirming vehicle type and pickup process; ignoring accessible emergency communication and egress
 
 ## Self-Check
 

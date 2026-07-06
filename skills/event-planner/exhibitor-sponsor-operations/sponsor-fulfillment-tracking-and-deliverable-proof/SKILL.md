@@ -70,12 +70,9 @@ This prevents reselling benefits that operations cannot reliably fulfill.
 - Missing sponsor approval deadlines for print, app, email, and signage.
 - Waiting until after the event to decide what proof is needed.
 - Capturing photos that do not clearly show the sponsor benefit.
-- Forgetting onsite-only deliverables such as stage mentions, VIP seats, and meal signage.
-- Skipping sponsor readiness reviews and discovering custom promises after production has locked.
-- Discovering missed benefits after no live recovery is possible.
-- Offering makegoods informally without approval or documentation.
-- Starting renewal before fulfillment and finance are reconciled.
-- Reselling difficult benefits without recording operational lessons.
+- Forgetting onsite-only deliverables such as stage mentions, VIP seats, and meal signage; skipping sponsor readiness reviews and discovering custom promises after production has locked
+- Discovering missed benefits after no live recovery is possible; offering makegoods informally without approval or documentation
+- Starting renewal before fulfillment and finance are reconciled; reselling difficult benefits without recording operational lessons
 
 ## Self-Check
 

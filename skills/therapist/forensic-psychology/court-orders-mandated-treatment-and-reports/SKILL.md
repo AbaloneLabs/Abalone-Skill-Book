@@ -61,6 +61,10 @@ A therapist may take on the role of the probation officer or the court, enforcin
 
 A therapist may use the threat of a negative report, or the promise of a positive one, as a lever to enforce compliance with treatment requirements, when the report should be an accurate account, not a tool of coercion. The mechanism of harm is that the report's accuracy is corrupted by its use as a lever, the client complies out of fear rather than engagement, and the therapeutic relationship becomes transactional. The harm is that the court receives reports shaped by leverage rather than accuracy, the client's engagement is performative, and the integrity of both the treatment and the legal process is compromised. Honest reporting, transparent to the client, without using it as leverage, preserves integrity.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I establish an informed consent frame specific to mandated treatment, clarifying reporting obligations and confidentiality limits?

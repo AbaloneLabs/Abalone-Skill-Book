@@ -105,6 +105,10 @@ Aluminum frames without a thermal break conduct exterior cold directly to the in
 
 A glazing opening occurs in a fire-rated wall, and standard glazing or an inappropriate fire-rated product is specified without coordinating the required rating, the hose-stream test, and the assembly's limitations. The trap is that fire-rated glazing is a specialized field with strict product limitations, and a generic "fire-rated glass" note conceals the need for a rated assembly including the frame. The harm is that an inadequate or non-compliant installation compromises the fire separation, a life-safety failure that may not be discovered until a fire or an inspection, and that can require costly replacement. The false signal is that fire-rated glass was specified, when the assembly, frame, and rating may not meet the wall's requirement. Coordinating fire-rated glazing assemblies with the fire protection design, specifying the correct rating and assembly, and consulting a fire protection specialist for complex conditions is what maintains the integrity of the rated separation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the fenestration system type, window, storefront, curtain wall, or window wall, matched to the application's span, exposure, and performance demands?
@@ -113,3 +117,5 @@ A glazing opening occurs in a fire-rated wall, and standard glazing or an inappr
 - [ ] Are frames thermally broken and condensation resistance evaluated for the climate and interior humidity?
 - [ ] Is structural support and anchorage coordinated with the structural engineer, with deflection limits and shop drawing review required?
 - [ ] Are safety glazing, fire-rated glazing assemblies, fall prevention, and egress window requirements specified and coordinated with code and fire protection design?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

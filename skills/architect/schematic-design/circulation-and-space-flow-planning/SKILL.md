@@ -102,6 +102,10 @@ When corridors and stairs are sized to the dimensions everyday use seems to requ
 
 When accessible routes are designed as alternatives to the main circulation, located at the side or rear, requiring separate entries and longer paths, the building signals that some occupants are secondary and creates a system that is both demeaning and noncompliant. The trap is that the accessible route satisfies the letter of the code, it exists and meets dimensional requirements, so the team believes accessibility has been achieved, while the segregation violates the spirit of universal access and often the code's integration requirements. The harm is a building that is usable but not welcoming, that accommodates difference as an exception rather than a norm. Accessible circulation must be integrated into the primary system, so that the route every occupant uses is the accessible route, designed to the standard from the outset.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is a clear hierarchy of public, semipublic, private, service, and egress circulation established and mapped as distinct systems?

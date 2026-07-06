@@ -160,5 +160,4 @@ A code that has not been reviewed in years signals a program that is not maintai
 - Are the reporting path and non-retaliation commitment prominent and operational, not buried as boilerplate?
 - Is content sequenced so the highest-risk topics and the duty to speak up appear early?
 - Are maintenance, version control, translation governance, and acknowledgment evidence established?
-- Does the code avoid promises, such as zero tolerance, that the organization cannot keep consistently?
-- Are contractors, agents, distributors, and joint venture partners reached by the code or by contract?
+- Does the code avoid promises, such as zero tolerance, that the organization cannot keep consistently?; are contractors, agents, distributors, and joint venture partners reached by the code or by contract?

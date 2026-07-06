@@ -59,6 +59,10 @@ The trap is that the patient is asked to cough into a cup, and the specimen is m
 
 The trap is that the catheterized patient has cloudy urine or a positive culture without urinary symptoms, and the team cultures and treats it as a urinary tract infection. The mechanism of harm is that catheterized patients are commonly colonized (asymptomatic bacteriuria), and treating it does not improve outcomes but does select for resistant organisms and increase Clostridioides difficile risk; the patient's fever or decline is usually from another source that gets missed while the urine is treated. The harm is antibiotic overuse and a missed alternative diagnosis. Do not screen or culture urine in asymptomatic catheterized patients, and reserve treatment for symptomatic infection (systemic signs, new urinary symptoms, no other source) — and when treating, obtain a fresh specimen first.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I obtain cultures before the first antibiotic dose when clinically feasible, and document the timing relative to antibiotics?

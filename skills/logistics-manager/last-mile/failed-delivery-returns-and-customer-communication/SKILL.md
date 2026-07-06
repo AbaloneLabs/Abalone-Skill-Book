@@ -58,8 +58,7 @@ Repeated failed delivery is often evidence that the service promise is misdesign
 - Holding freight indefinitely and accumulating storage cost.
 - Shipping replacements without tracking duplicate inventory and fraud risk.
 - Ignoring finance effects of refunds, credits, storage, and redelivery fees.
-- Pressuring drivers to wait, enter, lift, or leave goods unsafely.
-- Treating repeated failures as customer behavior instead of promise, address, or routing design problems.
+- Pressuring drivers to wait, enter, lift, or leave goods unsafely; treating repeated failures as customer behavior instead of promise, address, or routing design problems
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Repeated failed delivery is often evidence that the service promise is misdesign
 - Are repeat failures analyzed by root cause and prevention opportunity?
 - Are self-scheduling, reminders, access collection, pickup points, and address validation considered?
 - Are drivers protected from unsafe or unauthorized delivery actions?
-- Are disputes resolved using evidence rather than assumptions?
-- Are recurring failed delivery patterns used to redesign promises, address capture, appointments, and access instructions?
+- Are disputes resolved using evidence rather than assumptions?; are recurring failed delivery patterns used to redesign promises, address capture, appointments, and access instructions?

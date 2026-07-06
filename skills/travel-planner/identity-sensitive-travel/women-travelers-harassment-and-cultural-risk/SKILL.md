@@ -54,8 +54,7 @@ If harassment or assault occurs, the traveler may need medical, police, consular
 - Assuming rideshare, taxis, or public transit are equally safe and available at all times.
 - Making broad cultural claims instead of specific, current, practical context.
 - Advising avoidance of all local interaction, which can weaken the trip and traveler autonomy.
-- Forgetting emergency contacts, offline maps, backup payment, and trusted check-in options.
-- Over-sharing traveler location or itinerary with others without consent.
+- Forgetting emergency contacts, offline maps, backup payment, and trusted check-in options; over-sharing traveler location or itinerary with others without consent
 
 ## Self-Check
 

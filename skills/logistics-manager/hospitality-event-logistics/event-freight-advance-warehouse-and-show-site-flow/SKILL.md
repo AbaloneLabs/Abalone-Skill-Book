@@ -71,10 +71,8 @@ Drayage bills can surprise teams after the event. Cost visibility should be buil
 - Ignoring decorator, union, drayage, marshaling yard, and material-handling rules.
 - Losing critical demos, signage, samples, or credentials inside consolidated freight.
 - Assuming carrier delivery scan means freight reached the booth.
-- Planning outbound only after teardown begins.
-- Forgetting empty crate storage and return timing.
-- Ignoring material handling, drayage, overtime, forklift, storage, and reconsignment cost ownership.
-- Failing to capture damage, shortage, and handling evidence while onsite.
+- Planning outbound only after teardown begins; forgetting empty crate storage and return timing
+- Ignoring material handling, drayage, overtime, forklift, storage, and reconsignment cost ownership; failing to capture damage, shortage, and handling evidence while onsite
 
 ## Self-Check
 

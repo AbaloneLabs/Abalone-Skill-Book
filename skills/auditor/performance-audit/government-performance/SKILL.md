@@ -90,10 +90,8 @@ Government performance audit has a longitudinal dimension. Track whether prior a
 - **Activity description without judgment.** Reporting what the program did without concluding whether it achieved public value.
 - **Single-objective assumption.** Assessing against one objective when the program has multiple, possibly conflicting, mandated objectives.
 - **Financial materiality only.** Dismissing as immaterial programs that are financially small but serve vulnerable populations or fundamental rights.
-- **Jargon-heavy reporting.** Writing for specialists and excluding the public and legislative audience that the audit serves.
-- **Equity omission.** Reporting aggregate performance without examining whether services reach and serve all eligible groups fairly.
-- **Entity-only lens.** Evaluating one agency in isolation and missing system-level fragmentation, duplication, or coordination failure.
-- **Snapshot myopia.** Failing to connect current findings to prior audits, missing persistent systemic issues.
+- **Jargon-heavy reporting.** Writing for specialists and excluding the public and legislative audience that the audit serves; **Equity omission.** Reporting aggregate performance without examining whether services reach and serve all eligible groups fairly
+- **Entity-only lens.** Evaluating one agency in isolation and missing system-level fragmentation, duplication, or coordination failure; **Snapshot myopia.** Failing to connect current findings to prior audits, missing persistent systemic issues
 
 ## Self-Check
 

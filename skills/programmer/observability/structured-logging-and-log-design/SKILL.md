@@ -130,19 +130,15 @@ Each log line is an island. During an incident there is no way to see all the li
 
 INFO inside a loop, a per-row mapper, or a cache lookup, shipped to production. Volume explodes and the meaningful events are buried. Move it to DEBUG, sample it, or emit a metric instead.
 
-### Deriving Metrics From Log Counts
+### Deriving Metrics From Log Counts and swallowing Errors Silently Or Logging-And-Continuing
 
 Counting log lines to compute error rate, request rate, or latency. It is lossy, expensive, and breaks when log levels change or sampling is applied. Emit a real metric counter or histogram.
 
-### Swallowing Errors Silently Or Logging-And-Continuing
-
 Catching an exception, logging it, and continuing as if nothing happened — or worse, catching and logging at DEBUG so no one sees it. If the error matters, it must be visible at the right level and handled deliberately; logging is not a substitute for a decision.
 
-### Inconsistent Field Names Across Services
+### Inconsistent Field Names Across Services and log Level Used As A Tag Instead Of A Severity
 
 `userId` here, `user_id` there, `uid` elsewhere. Cross-service correlation and dashboards break. Agree on a field-name convention and enforce it.
-
-### Log Level Used As A Tag Instead Of A Severity
 
 Using levels to categorize ("INFO = business, DEBUG = technical") rather than to express severity. This defeats level-based filtering: turning down the level to reduce noise hides real severity information. Levels express "how bad / how visible"; categories are fields.
 

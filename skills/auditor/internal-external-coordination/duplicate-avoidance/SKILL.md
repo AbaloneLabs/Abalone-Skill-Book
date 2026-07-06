@@ -176,5 +176,4 @@ Separate evidence streams and repeated interviews fatigue the auditee and degrad
 - Is the coverage allocation documented in a matrix, with sign-off by both parties and cross-references in each file?
 - Are scope changes during the engagement communicated and the coverage map updated accordingly?
 - Is reliance on another party's work supported by documented evaluation of competence, objectivity, and work adequacy?
-- Has the auditee burden been reduced through consolidated requests, coordinated scheduling, and a shared evidence repository?
-- Can a reviewer trace each procedure to a single owner and confirm no significant risk is left without a tailored response?
+- Has the auditee burden been reduced through consolidated requests, coordinated scheduling, and a shared evidence repository?; can a reviewer trace each procedure to a single owner and confirm no significant risk is left without a tailored response?

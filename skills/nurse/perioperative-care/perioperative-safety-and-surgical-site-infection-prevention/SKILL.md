@@ -53,6 +53,8 @@ Apply a sterile dressing per protocol and manage it postoperatively with aseptic
 
 **Time-out performed as a recitation rather than active confirmation.** The time-out is announced, the items are read off, and the team nods without actively verifying — a ritual rather than a safety check. The mechanism of harm is that the time-out is the last opportunity to catch a wrong-site, wrong-procedure, or wrong-patient error before irreparable harm, and a passive time-out misses the very errors it exists to catch. The harm is wrong-site surgery — a catastrophic never-event. Require active, audible confirmation from each team member, and empower anyone to stop the line.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I participate in layered verification (preoperative check, sign-in, time-out, sign-out) with active confirmation of patient, procedure, site, and equipment?
@@ -64,5 +66,4 @@ Apply a sterile dressing per protocol and manage it postoperatively with aseptic
 - Did I perform deliberate, two-person, audible, documented surgical counts at all specified times?
 - Did I stop the line for any count discrepancy until resolved or imaging ruled out a retained item?
 - Did I apply and manage the postoperative dressing with aseptic technique?
-- Did I educate the patient and family on wound care and SSI signs, including post-discharge?
-- Did I empower any team member, including myself, to stop the line for a safety concern?
+- Did I educate the patient and family on wound care and SSI signs, including post-discharge?; did I empower any team member, including myself, to stop the line for a safety concern?

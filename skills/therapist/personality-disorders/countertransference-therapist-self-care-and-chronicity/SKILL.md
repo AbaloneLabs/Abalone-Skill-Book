@@ -61,6 +61,10 @@ A therapist, demoralized by a long or severe course, may quietly abandon hope, s
 
 A therapist may treat self-care, consultation, load management, and personal therapy as personal luxuries to be attended to when there is time, rather than as part of the standard of care for treating personality pathology, when the intensity of the work makes them clinical necessities. The mechanism of harm is that the neglect of self-care erodes the therapist's capacity, the quality of care declines, and the therapist becomes unable to sustain the consistency and judgment the work requires. The harm is that clients receive depleted care, the therapist suffers burnout or vicarious trauma, and the work becomes unsustainable. Treating self-care as clinical, and attending to it proactively, sustains both the therapist and the treatment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize countertransference as data about the client's relational world rather than acting on it?

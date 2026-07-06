@@ -53,6 +53,10 @@ Document significant delegation decisions, the instructions given, the delegate'
 
 **Implementing an unclear or questionable provider order without clarifying.** A provider order is ambiguous or seems wrong, and the nurse implements it as interpreted rather than clarifying. The mechanism of harm is that ambiguity and error in orders are common, and implementing a misunderstood or wrong order directly causes harm (wrong drug, wrong dose, wrong route, contraindicated intervention). The harm is a medication or treatment error. Clarify any unclear, incomplete, or questionable order with the provider before acting; do not guess.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I confirm that the task is within both my legal scope and my personal competency before performing it?

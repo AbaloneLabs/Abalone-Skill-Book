@@ -76,3 +76,4 @@ A breach triggering multi-jurisdiction notification without a plan leads to miss
 - Can I honor employee data rights — access, rectification, erasure, portability — across the dispersed assignment data landscape within required timelines?
 - Have I planned end-of-assignment data handling — what returns, what is retained, what is deleted, lawful transfer back — as part of repatriation?
 - Have I prepared a cross-border breach response plan identifying applicable regimes, triggers, timelines, and the internal process?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

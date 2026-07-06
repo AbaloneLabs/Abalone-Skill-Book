@@ -156,11 +156,9 @@ Certifying on a frozen evaluation without a process to capture subsequent events
 
 If the certifying officers merely receive a final draft without genuine review and engagement, their responsibility representations are not supportable.
 
-### Omitting Material Weakness Disclosure
+### Omitting Material Weakness Disclosure and treating The Disclosure Committee As A Formality
 
 Material weaknesses identified late, even after the evaluation date, must be disclosed. Omitting them to preserve an effectiveness conclusion is a serious certification failure.
-
-### Treating The Disclosure Committee As A Formality
 
 A disclosure committee that meets without challenging content, without the right members, or without documented deliberation provides no real assurance that disclosures are complete and accurate.
 

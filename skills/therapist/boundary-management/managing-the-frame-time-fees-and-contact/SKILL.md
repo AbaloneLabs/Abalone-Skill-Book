@@ -61,6 +61,10 @@ A therapist who is uncomfortable with conflict may avoid addressing frame disrup
 
 A therapist who enforces the frame rigidly, without considering the client's circumstances, may apply rules in ways that are technically consistent but clinically harmful, charging a cancellation fee to a client hospitalized for a medical emergency, refusing any fee adjustment for a client who has lost their income, or enforcing punctuality with a client whose transportation is unreliable due to poverty. The mechanism is that consistency is treated as the highest value, so circumstances are ignored in its name. The harm is a frame that is consistent but cruel, that prioritizes the structure over the client, and that can drive vulnerable clients out of care. Deliberate, discussed, documented adjustment for genuine circumstances is what distinguishes a therapeutic frame from a bureaucratic one.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I establish the frame clearly at the outset, explaining and documenting the key elements?

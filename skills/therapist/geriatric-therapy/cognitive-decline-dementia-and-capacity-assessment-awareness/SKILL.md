@@ -61,6 +61,10 @@ A therapist may form an opinion that a client "lacks capacity" or "has capacity"
 
 A therapist may continue an insight-oriented or exploratory approach with a client whose cognitive capacity has declined, expecting reflection, self-monitoring, and carryover that the client can no longer provide. The mechanism of harm is that the modality assumes cognitive capacities, abstract reasoning, working memory, new learning, that the disease has eroded, and the sessions produce frustration and a sense of failure rather than benefit. The harm is that the client's limited energy is spent on work they cannot use, while their actual needs, emotional support, behavioral management, family education, and quality of life, go unmet. Adapting the modality to the capacity, and shifting the focus as the disease progresses, serves the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize cognitive change and distinguish the major patterns, including normal aging, mild cognitive impairment, dementia, delirium, and depression?

@@ -54,8 +54,7 @@ Support model matters after go-live. Define floor walkers, super users, ticket s
 - Proving that an API works while ignoring printers, scanners, scales, labels, dock staging, and carrier pickup behavior.
 - Planning rollback after physical operations make rollback impractical.
 - Training users to follow screens without explaining consequences of overrides and skipped scans.
-- Going live without a support command center, floor walkers, defect triage, and decision thresholds.
-- Allowing manual workarounds after go-live without reconciliation rules.
+- Going live without a support command center, floor walkers, defect triage, and decision thresholds; allowing manual workarounds after go-live without reconciliation rules
 
 ## Self-Check
 

@@ -106,10 +106,8 @@ Full-population testing is powerful for rule-based, deterministic tests (duplica
 - **Generating an exception list that is never investigated to resolution**, leaving the test incomplete.
 - **Conflating an exception flag with a confirmed error**, overstating the findings without detail follow-up.
 - **Using full-population testing where sampling would be more efficient** (small populations, judgement-heavy items).
-- **False confidence from complete coverage** that obscures data or logic flaws.
-- **Skipping peer review of test logic**, allowing a flawed rule to mis-process the whole population.
-- **Applying full-population testing to judgement-heavy assertions** where it cannot replace the judgement.
-- **Failing to document data, lineage, logic, exceptions, and resolution**, leaving the test indefensible.
+- **False confidence from complete coverage** that obscures data or logic flaws; **Skipping peer review of test logic**, allowing a flawed rule to mis-process the whole population
+- **Applying full-population testing to judgement-heavy assertions** where it cannot replace the judgement; **Failing to document data, lineage, logic, exceptions, and resolution**, leaving the test indefensible
 
 ## Self-Check
 

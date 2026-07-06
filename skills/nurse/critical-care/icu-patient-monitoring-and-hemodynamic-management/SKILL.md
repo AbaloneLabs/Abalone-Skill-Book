@@ -59,6 +59,10 @@ The pulse oximeter is one of the most trusted tools in the ICU, and that trust i
 
 The trap is that a sedated, intubated patient appears to be "asleep" and the focus shifts entirely to physiology, so the family — who is watching, frightened, and trying to understand — becomes an afterthought. The harm is twofold: families experience significant trauma (post-intensive-care syndrome-family), and they hold critical information about the patient's baseline cognition, values, and advance directives that the team needs. Treat the family as part of the care team. Update them regularly, explain the technology, ask about the patient's wishes, and recognize that their presence and advocacy often improve outcomes.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I establish a mental baseline and escalation thresholds at the start of the shift, or am I reacting to alarms reactively?

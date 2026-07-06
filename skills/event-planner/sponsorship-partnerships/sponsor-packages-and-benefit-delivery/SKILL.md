@@ -60,8 +60,7 @@ Custom benefits should feed back into the tracker and contract. Verbal promises 
 - Letting sponsored content become a sales pitch that weakens attendee trust.
 - Selling exclusivity without checking existing sponsors, partners, vendors, and categories.
 - Allowing sales teams to promise custom benefits not reviewed by operations.
-- Waiting until after the event to decide how fulfillment proof will be collected.
-- Treating sponsor asset delays as the planner's problem without documenting sponsor responsibility.
+- Waiting until after the event to decide how fulfillment proof will be collected; treating sponsor asset delays as the planner's problem without documenting sponsor responsibility
 
 ## Self-Check
 

@@ -71,10 +71,8 @@ Seasonal flow does not end at first delivery. The response window determines how
 - Discovering production, customs, quality, or vessel delays too late to choose recovery options.
 - Assuming DC receipt means launch readiness without value-added and outbound capacity.
 - Sending uniform size packs to regions with different climates, store profiles, and size curves.
-- Making air freight decisions without margin, campaign, and markdown tradeoff analysis.
-- Launching partial product without customer, store, and marketing alignment.
-- Keeping launch risk inside logistics while marketing, stores, e-commerce, and service teams make promises.
-- Failing to use sell-through and returns data to improve allocation and future seasons.
+- Making air freight decisions without margin, campaign, and markdown tradeoff analysis; launching partial product without customer, store, and marketing alignment
+- Keeping launch risk inside logistics while marketing, stores, e-commerce, and service teams make promises; failing to use sell-through and returns data to improve allocation and future seasons
 
 ## Self-Check
 

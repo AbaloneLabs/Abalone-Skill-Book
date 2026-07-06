@@ -65,10 +65,8 @@ Professional tone helps escalation staff act. It also creates a clean record if 
 - Asking for a full refund when a partial remedy matches the documented failure.
 - Forgetting screenshots of terms before webpages change.
 - Confusing OTA confirmation, supplier locator, voucher, and payment receipt.
-- Filing supplier, insurance, and chargeback claims inconsistently.
-- Promising legal, insurance, or chargeback outcomes beyond the agent's role.
-- Including speculative or unsupported losses that distract from the main claim.
-- Letting phone promises go undocumented.
+- Filing supplier, insurance, and chargeback claims inconsistently; promising legal, insurance, or chargeback outcomes beyond the agent's role
+- Including speculative or unsupported losses that distract from the main claim; letting phone promises go undocumented
 
 ## Self-Check
 

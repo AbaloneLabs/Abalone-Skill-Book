@@ -29,6 +29,10 @@ The compounding record must allow a complete reconstruction of what was made, fr
 
 Non-sterile compounding quality depends on conditions that extend beyond the single preparation. The pharmacist must ensure that compounding personnel are trained and competency-assessed for the dosage forms they prepare, that the compounding area is clean and organized and separated from dispensing activity, that equipment (balances, graduates, mortars and pestles) is calibrated and cleaned appropriately between preparations to avoid cross-contamination, and that high-potency or hazardous drugs (hormones, cytotoxics) are compounded with dedicated equipment and additional containment to protect both the patient and the personnel. The pharmacist must implement a quality assurance program that includes periodic checks of balance accuracy, verification of graduated cylinder and syringe accuracy, and investigation of any out-of-specification result. A compounding operation without quality assurance is a craft operation, not a pharmaceutical operation, and craft operations produce variable and sometimes dangerous products.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Memory-Recipe Trap
@@ -51,6 +55,10 @@ The pharmacist prepares multiple preparations with the same mortar, pestle, or s
 
 The pharmacist completes the preparation, labels it, dispenses it, and fills in the compounding record later from memory or general recollection. The mechanism is that the preparation itself feels like the work, and the record feels like paperwork. The false signal is that the record is a formality, so it can be completed approximately. The harm is that a record completed after the fact is unreliable — the lot numbers are guessed, the quantities are rounded, the deviations are omitted — and when an adverse event or recall requires tracing the batch, the record cannot support the investigation. The compounding record must be completed contemporaneously, at the time of preparation, because that is the only way it accurately reflects what was done.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I prepare from a verified master formulation record and have a second qualified person verify the calculation and ingredient selection before measuring, or did I compound from memory?
@@ -59,3 +67,5 @@ The pharmacist completes the preparation, labels it, dispenses it, and fills in 
 - Did I select each vehicle and excipient for compatibility with the active ingredient and safety for this patient (allergens, pediatric sugar content, dermatologic base), documenting the rationale?
 - Did I complete the compounding record contemporaneously with all lot numbers, quantities, personnel, deviations, and the BUD, so the batch can be fully reconstructed?
 - For hazardous or high-potency drugs, did I use dedicated or validated-cleaned equipment and appropriate containment to prevent cross-contamination of subsequent preparations?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

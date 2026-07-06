@@ -59,6 +59,10 @@ Experienced clinicians carry a mental model of local resistance built over years
 
 Antibiograms report susceptibility for organism-drug pairs that the laboratory routinely tests, and the selection reflects formulary, clinical relevance, and testing availability — not a comprehensive map of all possible therapy options. The trap is assuming that if an agent is not on the antibiogram, it is not relevant or not effective, when in fact it may simply not be routinely tested. The harm is narrowing the therapeutic imagination to the antibiogram's columns and missing agents that would be appropriate based on the organism's known resistance mechanisms. The corrective is to understand what the antibiogram includes and excludes, to consult the microbiology laboratory for agents not routinely reported, and to use the antibiogram as a starting point rather than a complete reference.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I use the most current antibiogram, and do I know its data period and update cycle?

@@ -186,11 +186,7 @@ Before treating the structure as ready, verify:
 - The main claim is not broader than the evidence.
 - Evidence, examples, analysis, and limitations are placed near the claims they support.
 - The reader is oriented before being asked to handle complexity.
-- Paragraphs each make a distinct move rather than collecting loose material.
-- Transitions express real logical relationships.
-- Background is introduced when useful, not dumped at the start.
-- Counterarguments, caveats, or alternatives appear before the reader feels misled.
-- Repetition is intentional, not a sign of stalled development.
-- The introduction and ending form a complete reader journey.
-- The ending fulfills the promise instead of merely stopping.
-- If the draft were reduced to section headings, the line of thought would still be visible.
+- Paragraphs each make a distinct move rather than collecting loose material; transitions express real logical relationships
+- Background is introduced when useful, not dumped at the start; counterarguments, caveats, or alternatives appear before the reader feels misled
+- Repetition is intentional, not a sign of stalled development; the introduction and ending form a complete reader journey
+- The ending fulfills the promise instead of merely stopping; if the draft were reduced to section headings, the line of thought would still be visible

@@ -29,6 +29,10 @@ Pharmacologic dose adjustment is only one component of diabetes and anticoagulat
 
 Even under a collaborative practice agreement, the pharmacist does not manage the patient in isolation. The CPA defines the scope of the pharmacist's authority (which drugs, which parameters, which adjustments) and the communication requirements (when to notify the prescriber, when to refer back, what to document). The pharmacist must operate within the CPA's scope — adjusting only the authorized drugs, only within the authorized parameter ranges, and escalating outside the scope — and must communicate significant changes, concerning patterns, and any deviation from the expected response to the prescriber. The pharmacist must also coordinate with other members of the care team: the diabetes educator, the anticoagulation clinic, the specialists managing comorbidities, and the primary care provider who owns the overall plan. A pharmacist who manages the INR or the insulin without coordinating with the prescriber who manages the rest of the patient's care creates fragmentation that produces conflict and error.
 
+### State Uncertainty and Confidence Honestly
+
+Distinguish what is known, what is inferred, and what is assumed. A conclusion presented without its uncertainty hides the risk that the decision-maker carries unknowingly. State the confidence level, name the assumptions that would change the outcome if wrong, and flag the conditions under which the conclusion should be revisited. Honest uncertainty is not weakness; it is the precondition for sound judgment, because it lets the recipient weigh the risk rather than act on a false certainty.
+
 ## Common Traps
 
 ### Chasing the Lab
@@ -51,6 +55,10 @@ A patient on warfarin reports bleeding (bruising, nosebleeds, blood in stool or 
 
 The pharmacist titrates the insulin or warfarin dose at each encounter but never addresses the patient's diet, adherence, alcohol use, or understanding of danger signs. The mechanism is that the dose is the pharmacist's tool and the behavior feels outside scope. The false signal is that the dose is being managed, so the condition is being managed. The harm is that the patient whose behavior is the actual driver of the instability continues the behavior, and the pharmacist responds with ever-larger dose changes that never stabilize the parameter. Education and counseling are part of dose management for these conditions, not a separate optional activity.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Before adjusting a dose, did I gather the clinical context (recent illness, diet, adherence, new medications, organ function changes, alcohol use) that determines what the parameter value means?
@@ -59,3 +67,5 @@ The pharmacist titrates the insulin or warfarin dose at each encounter but never
 - Did I address the behavioral and educational drivers (carbohydrate counting, sick-day rules, vitamin K consistency, missed-dose management, danger sign recognition) alongside the dose adjustment?
 - Did I operate within the collaborative practice agreement's scope, escalate outside it, and communicate significant changes and concerning patterns to the prescriber and care team?
 - For any hypoglycemia, did I treat it as a signal to relax the regimen rather than as acceptable or encouraging, especially in older adults and patients with cardiovascular disease?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

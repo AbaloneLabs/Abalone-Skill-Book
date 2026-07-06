@@ -57,13 +57,11 @@ Before sending high-impact updates, align internal teams on the external message
 
 Internal alignment does not mean hiding facts. It means preventing contradictory promises and unsupported blame.
 
-### Protect sensitive and commercial information
+### Protect sensitive and commercial information and document communication history
 
 Do not expose internal blame, carrier disputes, pricing, margin, supplier weakness, security details, or another customer's information unless appropriate. Tailor external messages to facts and commitments.
 
 Transparency does not require releasing information that creates legal, commercial, security, or relationship risk.
-
-### Document communication history
 
 Record what was communicated, to whom, when, based on what evidence, and what action was agreed. This matters for disputes, chargebacks, claims, missed appointments, customer escalations, and postmortems.
 
@@ -76,12 +74,9 @@ Good communication records reduce rework when team members change shifts or when
 - Reporting movement milestones without explaining customer, inventory, cost, or operational impact.
 - Leaving out the owner, next action, deadline, and next update time.
 - Providing frequent low-value updates while missing the moment when a decision or approval is needed.
-- Waiting to communicate material risk until the receiver can no longer change appointments, labor, production, or customer promises.
-- Letting sales, service, logistics, and carriers give different explanations or recovery commitments.
-- Exposing internal blame, cost structure, supplier weakness, or sensitive routing details in external messages.
-- Allowing sales, operations, customer service, and carriers to send inconsistent updates.
-- Failing to document what was promised or approved during an exception.
-- Using vague phrases like "being monitored" or "in progress" when the receiver needs a concrete action.
+- Waiting to communicate material risk until the receiver can no longer change appointments, labor, production, or customer promises; letting sales, service, logistics, and carriers give different explanations or recovery commitments
+- Exposing internal blame, cost structure, supplier weakness, or sensitive routing details in external messages; allowing sales, operations, customer service, and carriers to send inconsistent updates
+- Failing to document what was promised or approved during an exception; using vague phrases like "being monitored" or "in progress" when the receiver needs a concrete action
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Good communication records reduce rework when team members change shifts or when
 - Are internal teams aligned on external wording, commitments, cost authority, and sensitive facts before escalation?
 - Is the channel and cadence appropriate for severity, urgency, and likelihood of new information?
 - Is sensitive commercial, security, pricing, blame, supplier, and customer information protected?
-- Is the communication history documented with recipients, evidence, decisions, and commitments?
-- Can the receiver act on the update without asking what it means or who owns it?
+- Is the communication history documented with recipients, evidence, decisions, and commitments?; can the receiver act on the update without asking what it means or who owns it?

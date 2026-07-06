@@ -177,5 +177,4 @@ Completeness established on the first extract does not hold for a refreshed or r
 - Are both value and count reconciled, with discrepancies between them investigated?
 - Are newly acquired entities, new locations, and new currencies confirmed present for the period?
 - Does the completeness documentation state the definition, reconciliations, scope confirmation, and residual limitations?
-- Has completeness been re-confirmed after any refresh, scope expansion, or correction to the population?
-- Would a reviewer be able to reproduce the completeness conclusion from the workpaper evidence alone?
+- Has completeness been re-confirmed after any refresh, scope expansion, or correction to the population?; would a reviewer be able to reproduce the completeness conclusion from the workpaper evidence alone?

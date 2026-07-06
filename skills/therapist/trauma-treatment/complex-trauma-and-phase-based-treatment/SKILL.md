@@ -61,6 +61,10 @@ A therapist may focus on trauma symptoms and processing while neglecting the str
 
 Complex trauma treatment is demanding, and the therapist may become overwhelmed by the severity of the material, the intensity of the client's dysregulation, the length of the treatment, or the relational intensity, leading to burnout, vicarious trauma, or compromised care. The mechanism is that complex trauma work is heavy, sustained, and relationally intense, and the therapist, without adequate support, takes on the weight. The harm is that the therapist burns out, becomes dysregulated, provides compromised care, or leaves the work, and the client loses their therapist. Using consultation, recognizing vicarious trauma, sustaining self-care, and working within a team, are what allow the therapist to sustain complex trauma work.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the complex trauma presentation and distinguish it from simple PTSD?

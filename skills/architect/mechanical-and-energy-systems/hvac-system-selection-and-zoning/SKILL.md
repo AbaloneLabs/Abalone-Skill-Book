@@ -104,6 +104,10 @@ To reduce central plant and distribution, decentralized equipment, such as packa
 
 The architect designs a glazing-heavy, poorly insulated envelope and assumes the mechanical engineer will size equipment to handle the resulting load. The trap is that the envelope decisions are made for aesthetics without mechanical consequence, and the engineer can indeed size equipment to compensate, so the system "works." The harm is that the oversized equipment costs more to install, more to operate, struggles with part-load efficiency and comfort, and may fail to meet energy code or performance targets, all to compensate for an envelope that could have been designed better. The false signal is that the building conditions adequately, masking the energy and cost penalty. Coordinating envelope performance with the mechanical engineer and treating the envelope as the first line of load management is what prevents saddling the mechanical system with avoidable demand.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the mechanical engineer been engaged early with detailed program information on occupancy, loads, schedules, and special requirements?
@@ -112,3 +116,5 @@ The architect designs a glazing-heavy, poorly insulated envelope and assumes the
 - [ ] Does the architect understand the architectural implications of the selected system family, including space, structural, acoustic, and maintenance demands?
 - [ ] Are diffusers, grilles, thermostats, and equipment locations coordinated with the architecture, with conscious decisions to expose or conceal?
 - [ ] Is envelope performance coordinated with mechanical loads to meet energy code and performance targets, with passive strategies considered where appropriate?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

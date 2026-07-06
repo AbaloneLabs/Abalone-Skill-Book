@@ -54,8 +54,7 @@ Traffic and crowding affect experience. Popular parks may require early starts, 
 - Overloading one driver for consecutive long days.
 - Ignoring fuel, EV charging, food, restrooms, and mobile coverage in remote areas.
 - Sending travelers onto gravel, snow, mountain, or narrow roads without vehicle and comfort checks.
-- Encouraging unsafe photo stops, wildlife proximity, or trespassing.
-- Making one closed road or missed permit destroy the whole itinerary.
+- Encouraging unsafe photo stops, wildlife proximity, or trespassing; making one closed road or missed permit destroy the whole itinerary
 
 ## Self-Check
 

@@ -103,19 +103,15 @@ Believing a service is low-lock-in because it is built on open-source software, 
 
 Building a thick abstraction layer over a managed service "in case we move clouds," paying permanent complexity and performance overhead for a move that never happens. Abstract where a move is genuinely plausible or required; otherwise confine the proprietary surface to a thin, well-bounded module rather than a speculative portability framework.
 
-### Hitting A Hard Limit At Peak And Reshaping Under Load
+### Hitting A Hard Limit At Peak And Reshaping Under Load and trusting A Preview Service As If It Were GA
 
 Selecting a service without mapping projected peak entities, throughput, or payload size against its hard limits, then hitting a non-raisable cap during a peak and being forced to shard or replatform under pressure. Estimate peak scale against documented limits before selection; a service that cannot hold the projected peak is the wrong service.
 
-### Trusting A Preview Service As If It Were GA
-
 Building a core system on a preview or beta managed service because it has an attractive feature, then suffering an API change, a deprecation, or an unmet reliability expectation. Use preview services only when the capability is essential and unavailable in GA, behind an isolation layer with a fallback; treat them as changeable and withdrawable.
 
-### Selecting Region And Compute Separately
+### Selecting Region And Compute Separately and underestimating The Cost Of Leaving
 
 Picking a managed service in one region and compute in another, then paying recurring cross-region transfer and latency that makes the architecture uneconomic regardless of unit price. Select service, region, and compute placement together so data and consumers are co-located; transfer cost is a selection constraint, not a later optimization.
-
-### Underestimating The Cost Of Leaving
 
 Choosing a service with no migration path because it is convenient now, then facing a multi-quarter migration involving schema conversion, backfill, and dual-running when requirements change. Treat migration cost as part of selection — prefer services with standard interfaces and documented migration paths, and treat no-migration-story services as one-way doors.
 

@@ -145,19 +145,15 @@ A null amount, a zero amount, and a blank field mean different things in audit t
 
 Replacing a messy source value with a clean one destroys the evidence of the original condition and makes the cleaning unauditable. Always keep the original column and write the cleaned value to a new column with a documented rule.
 
-### Assuming One Extract Covers All Entities And Periods
+### Assuming One Extract Covers All Entities And Periods and skipping Reconciliation Because The Numbers Look Right
 
 A single report often defaults to one company code, one ledger, or one fiscal year. Pulling "all data" and getting only the default entity is a frequent and serious error. Confirm the entity, ledger, and period scope explicitly against the consolidation list.
 
-### Skipping Reconciliation Because The Numbers Look Right
-
 When a total is close to expected, agents often skip the formal reconciliation. Small unexplained differences are exactly where cutoff errors, missing locations, or double-counted intercompany live. Investigate every difference, even immaterial-looking ones, before relying on the data.
 
-### Relying On An Extract Without Confirming Its As-At Basis
+### Relying On An Extract Without Confirming Its As-At Basis and treating Transformation As A One-Way, Unlogged Process
 
 An extract pulled before the adjustments process looks different from one pulled after, and an unadjusted extract used to test an adjusted balance will never reconcile. Confirm whether the population is on an adjusted, unadjusted, or trial-balance-as-reported basis, and match it to the assertion.
-
-### Treating Transformation As A One-Way, Unlogged Process
 
 When data flows through several transformations with no log of intermediate states, an error discovered late cannot be traced to the step that caused it. Keep a log of each transformation stage with its input and output counts and totals, so any divergence can be localized and corrected without rebuilding the entire pipeline.
 
@@ -168,13 +164,8 @@ When data flows through several transformations with no log of intermediate stat
 - Has the dataset been reconciled by both count and value to a control total at each stage?
 - Are currency conversions performed at rates appropriate to the specific assertion being tested?
 - Are amounts stored as fixed-decimal, with sign convention documented and applied consistently?
-- Are removed, filtered, or deduplicated rows preserved in a separate exception file with justification?
-- Does the workpaper contain the exact query, parameters, versions, and run time needed to reproduce the extract?
-- Have date fields been validated for range, format, and period-cutoff correctness?
-- Are null, zero, and blank values distinguished and reported separately rather than collapsed?
-- Has the entity, ledger, and period scope been confirmed against the full consolidation, not a system default?
-- Has a second person reviewed any transformation that removes or alters records?
-- Is there a log of each transformation stage with input and output counts and totals for traceability?
-- Are access to and freshness of the extract controlled, with the extract timestamp and GL as-at date recorded?
-- Are currency conversions reconciled back to the source-currency total at the stated rate and date?
-- Has the raw, unmodified extract been retained alongside the transformed version for traceability?
+- Are removed, filtered, or deduplicated rows preserved in a separate exception file with justification?; does the workpaper contain the exact query, parameters, versions, and run time needed to reproduce the extract?
+- Have date fields been validated for range, format, and period-cutoff correctness?; are null, zero, and blank values distinguished and reported separately rather than collapsed?
+- Has the entity, ledger, and period scope been confirmed against the full consolidation, not a system default?; has a second person reviewed any transformation that removes or alters records?
+- Is there a log of each transformation stage with input and output counts and totals for traceability?; are access to and freshness of the extract controlled, with the extract timestamp and GL as-at date recorded?
+- Are currency conversions reconciled back to the source-currency total at the stated rate and date?; has the raw, unmodified extract been retained alongside the transformed version for traceability?

@@ -58,8 +58,7 @@ Before archiving the event, check whether any vendor issue could still create ri
 - Closing technology vendors while leaving admin access or temporary attendee data active.
 - Lacking proof for sponsor or vendor deliverables.
 - Treating dissatisfaction as a dispute without tying it to evidence or scope.
-- Holding entire payments hostage for small disputed items without a payment strategy.
-- Failing to capture vendor performance lessons for future procurement.
+- Holding entire payments hostage for small disputed items without a payment strategy; failing to capture vendor performance lessons for future procurement
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Before archiving the event, check whether any vendor issue could still create ri
 - Are missed deliverables documented with remedy or dispute path?
 - Are disputes handled with contract evidence and professional escalation?
 - Are undisputed amounts and disputed amounts separated where appropriate?
-- Is vendor performance captured for future selection and contracting?
-- Are unresolved risk items assigned before the event file is archived?
+- Is vendor performance captured for future selection and contracting?; are unresolved risk items assigned before the event file is archived?

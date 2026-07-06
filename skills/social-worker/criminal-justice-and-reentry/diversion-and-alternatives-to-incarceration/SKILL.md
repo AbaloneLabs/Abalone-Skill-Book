@@ -55,6 +55,10 @@ The diversion that addresses the charge (community service, supervision, a fine)
 
 The client who successfully completes diversion may believe the work is done, and the system may close the case, but the underlying conditions persist and the program supports are ending. The trap is treating completion as the finish line and losing the client to recurrence. The harm is that the client, now without supports, returns to the conditions that produced the justice involvement. The mechanism is that program completion is a measurable milestone while sustained stability requires ongoing engagement. The corrective is to build the transition plan from the beginning, to connect the client to supports that outlast the program, and to follow up after completion to verify sustained stability.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I intervene at the earliest possible point in the justice process, maximizing the client's options?

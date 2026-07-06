@@ -141,5 +141,4 @@ A severance provision must be drawn down, trued up, and reversed for unused amou
 - Are termination benefits recognized under their own trigger, separate from asset write-downs, lease exits, and contract penalties in a restructuring?
 - Is the severance provision drawn down as payments are made and trued up as estimates change?
 - Is any unused portion of the provision reversed when employees decline or are retained?
-- Is the provision reconciled to the schedule of terminated employees and expected payments, with material movements disclosed?
-- Are jurisdiction-specific entitlements, framework measurement rules, and restructuring interactions confirmed with a qualified HR professional, employment lawyer, or tax advisor rather than asserted as universal facts?
+- Is the provision reconciled to the schedule of terminated employees and expected payments, with material movements disclosed?; are jurisdiction-specific entitlements, framework measurement rules, and restructuring interactions confirmed with a qualified HR professional, employment lawyer, or tax advisor rather than asserted as universal facts?

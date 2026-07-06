@@ -61,6 +61,10 @@ A therapist may pathologize culturally normative experiences, such as spiritual 
 
 A therapist may practice colorblindness, claiming not to see race or cultural difference, intending to treat everyone equally, and inadvertently invalidating the client's experience of their identity and the discrimination they face. The mechanism is that colorblindness is often well-intentioned, aimed at fairness, but it denies the reality of the client's experience and the role of race and culture in their life. The harm is that the client's experience of discrimination or cultural identity is dismissed, the client feels unseen, and the therapy cannot address central aspects of their experience. Seeing and respecting difference, rather than claiming not to see it, is what validates the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I practicing cultural humility, asking and learning, rather than claiming competence?

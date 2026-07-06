@@ -57,10 +57,8 @@ Drivers face risk at customer docks, ports, rail ramps, trailer pools, and drop 
 - Allowing dock release to depend on informal communication.
 - Letting dispatch urgency pressure drivers to skip inspections or stretch hours.
 - Ignoring contracted carrier behavior because they are not employees.
-- Maintaining road tractors but neglecting yard trucks, trailers, chassis, and dock equipment.
-- Investigating only accidents and not near misses or unsafe conditions.
-- Scheduling loads so tightly that drivers must choose between service promises and safe driving.
-- Ignoring unsafe customer, port, rail, or third-party yard conditions because they are outside company property.
+- Maintaining road tractors but neglecting yard trucks, trailers, chassis, and dock equipment; investigating only accidents and not near misses or unsafe conditions
+- Scheduling loads so tightly that drivers must choose between service promises and safe driving; ignoring unsafe customer, port, rail, or third-party yard conditions because they are outside company property
 
 ## Self-Check
 

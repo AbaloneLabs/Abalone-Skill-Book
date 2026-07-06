@@ -95,11 +95,9 @@ Putting many unrelated children under one supervisor, so any child's restart-bud
 
 Letting a GenServer accumulate state in memory, then watching every restart reset it to empty and break the system under faults. Persist state that must survive restarts (ETS heir, disk, sibling process) and recover it in `init`.
 
-### Let-It-Crash On A Permanent Fault
+### Let-It-Crash On A Permanent Fault and unbounded DynamicSupervisor
 
 Crashing and restarting a process whose crash cause is permanent (missing file, invalid config, programming bug), producing an infinite thrash that exhausts the budget. Let-it-crash is for transient faults; permanent faults need fail-fast, degradation, or a fix.
-
-### Unbounded DynamicSupervisor
 
 Starting a process per request or connection under a `DynamicSupervisor` with no ceiling, leaking processes under load. Pair dynamic supervision with a registry, pool, or concurrency limit so the child count is bounded.
 

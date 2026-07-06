@@ -54,8 +54,7 @@ Use exception reporting: labels created but not shipped, cartons packed but not 
 - Ignoring rejected EDI or API acknowledgements because the outbound message was generated.
 - Allowing label reprints without voiding, duplicate control, or carton-history reconciliation.
 - Blaming workers for missed scans without checking device coverage, label quality, process design, and productivity pressure.
-- Using one generic event feed for partners with specific compliance or traceability requirements.
-- Failing to reconcile event data against physical freight, inventory, claims, and invoices.
+- Using one generic event feed for partners with specific compliance or traceability requirements; failing to reconcile event data against physical freight, inventory, claims, and invoices
 
 ## Self-Check
 

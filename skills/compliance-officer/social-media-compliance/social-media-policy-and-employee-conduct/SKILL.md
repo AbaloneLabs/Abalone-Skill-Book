@@ -57,6 +57,10 @@ Applying official-account governance to personal accounts overreaches, while fai
 
 Requesting employee social media passwords or surveilling protected activity violates privacy and labor law in many jurisdictions. Define the monitoring scope and legal basis before deploying any tool.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Before drafting or enforcing, did I classify the activity as protected speech, whistleblower activity, lawful off-duty conduct, or regulable conduct, and discipline only the regulable category?
@@ -66,3 +70,4 @@ Requesting employee social media passwords or surveilling protected activity vio
 - Did I design consistent and proportionate enforcement with a documented response framework applied uniformly across employees and levels?
 - Did I define the monitoring scope and legal basis before deploying any tool, avoiding password requests and surveillance of protected activity?
 - Did I verify the applicable labor, employment, privacy, and off-duty-conduct law with counsel before finalizing the policy or disciplining employees?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -61,6 +61,10 @@ A therapist may treat adherence as compliance, framing missed doses as the clien
 
 A therapist, careful to respect autonomy, may withhold honest advocacy when medication is strongly indicated, presenting it as merely optional when the clinical picture suggests it is important, because the therapist does not want to pressure the client. The mechanism of harm is that the respect for autonomy becomes a failure to inform, and the client, not understanding the clinical reasons, declines an indicated treatment. The harm is that the client's condition worsens, the outcome is poorer than it needed to be, and the client was not given the honest clinical perspective they needed to decide. Balancing respect for autonomy with honest advocacy, and documenting the discussion, serves the client better than neutrality.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I support the client's informed decision about medication without prescribing or pressuring?

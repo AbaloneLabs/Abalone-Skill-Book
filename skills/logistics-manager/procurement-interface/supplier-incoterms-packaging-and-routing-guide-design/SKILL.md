@@ -57,13 +57,11 @@ Update routing guides when carriers, DCs, contacts, portals, labels, cutoffs, pa
 
 Outdated guides create supplier mistakes that are partly the buyer's fault. Version control matters.
 
-### Assign governance for exceptions and waivers
+### Assign governance for exceptions and waivers and align procurement incentives with compliance
 
 Suppliers will sometimes need exceptions for emergency shipments, carrier capacity, packaging shortages, route closures, portal outages, or new product launches. Define who can approve waivers, how long they last, what evidence is needed, and whether costs or chargebacks apply.
 
 Exception governance prevents every urgent shipment from becoming an uncontrolled precedent. It also protects suppliers from being penalized for buyer-approved deviations.
-
-### Align procurement incentives with compliance
 
 Purchasing terms should reinforce logistics requirements. If buyers reward only price and lead time, suppliers may ignore packaging, routing, data, and compliance standards.
 
@@ -76,12 +74,9 @@ Supplier logistics performance should influence sourcing and scorecards.
 - Giving suppliers generic packaging instructions that do not match product and channel risk.
 - Requiring ASNs and labels without testing data quality and scan placement.
 - Applying chargebacks inconsistently or without evidence and dispute process.
-- Waiting until first production shipment to test EDI, labels, packaging, and documents.
-- Sending rules without training suppliers on the operational consequences and common failure patterns.
-- Letting outdated carrier contacts, DC addresses, portals, and cutoffs remain in supplier guides.
-- Granting routing, packaging, label, or ASN waivers informally without duration, evidence, and cost rules.
-- Allowing procurement decisions to ignore recurring supplier logistics noncompliance.
-- Creating rules suppliers cannot follow with available carriers or lead times.
+- Waiting until first production shipment to test EDI, labels, packaging, and documents; sending rules without training suppliers on the operational consequences and common failure patterns
+- Letting outdated carrier contacts, DC addresses, portals, and cutoffs remain in supplier guides; granting routing, packaging, label, or ASN waivers informally without duration, evidence, and cost rules
+- Allowing procurement decisions to ignore recurring supplier logistics noncompliance; creating rules suppliers cannot follow with available carriers or lead times
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Supplier logistics performance should influence sourcing and scorecards.
 - Are suppliers trained on why requirements matter and how common receiving, damage, customs, and chargeback failures occur?
 - Are routing guides versioned, accessible, current, and communicated with effective dates?
 - Are exceptions and waivers governed by approval authority, duration, evidence, cost ownership, and chargeback rules?
-- Do procurement scorecards and sourcing decisions include supplier logistics performance?
-- Can suppliers follow the requirements without guessing or improvising?
+- Do procurement scorecards and sourcing decisions include supplier logistics performance?; can suppliers follow the requirements without guessing or improvising?

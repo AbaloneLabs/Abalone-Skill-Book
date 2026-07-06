@@ -54,8 +54,7 @@ Track trends. Repeated carrier rejections, missing labels, battery returns, leak
 - Giving frontline staff complex emergency procedures they cannot execute under stress.
 - Asking staff to decide whether a leak or swollen battery is serious before escalating.
 - Treating carrier rejection as a nuisance instead of a compliance signal.
-- Cleaning up or disposing of damaged goods before preserving evidence and notifying the right owners.
-- Closing incidents without root-cause corrective action.
+- Cleaning up or disposing of damaged goods before preserving evidence and notifying the right owners; closing incidents without root-cause corrective action
 
 ## Self-Check
 

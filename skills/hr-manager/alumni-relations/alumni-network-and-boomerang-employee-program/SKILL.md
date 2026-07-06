@@ -76,3 +76,4 @@ Unmeasured programs are viewed as nice-to-have and cut. Track size, engagement, 
 - Have I integrated alumni with talent acquisition (boomerang, referrals) and business development, with defined handoffs and pipeline tracking?
 - Am I managing departures warmly to set up alumni engagement, treating departure as the relationship's beginning?
 - Am I measuring program value — size, engagement, boomerang/referral hires, business influenced, sentiment — and iterating to demonstrate and grow value?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

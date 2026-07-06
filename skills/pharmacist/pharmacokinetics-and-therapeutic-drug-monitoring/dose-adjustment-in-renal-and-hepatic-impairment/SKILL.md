@@ -29,6 +29,10 @@ Unlike renal impairment, there is no single quantitative measure of hepatic func
 
 Renal dose adjustment can be achieved by reducing each dose, extending the interval between doses, or both — and the choice matters for efficacy and toxicity. Beta-lactam antibiotics require time above the minimum inhibitory concentration (T greater than MIC), so reducing the dose while maintaining the interval may drop the concentration below the efficacy threshold; extending the interval while maintaining the dose (or using a prolonged infusion) preserves the time-above-MIC. Aminoglycosides require a high peak, so reducing the dose sacrifices efficacy while extending the interval preserves the peak and reduces toxicity. Vancomycin requires total AUC, so the adjustment must preserve area, not just hit a trough. The pharmacist must understand the pharmacodynamic target of the drug and adjust in the direction that preserves that target, not apply a uniform "give half the dose" reduction that works for some drugs and fails for others.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Falsely Normal Creatinine in a Frail or Cirrhotic Patient
@@ -47,6 +51,14 @@ A patient with Child-Pugh C cirrhosis is prescribed a hepatically metabolized dr
 
 A patient with a creatinine clearance of 30 mL/min is prescribed piperacillin-tazobactam. The pharmacist reduces the dose from 4.5 g every 8 hours to 2.25 g every 8 hours, preserving the interval. The mechanism of the trap is that the dose reduction lowers the concentration, and because beta-lactams require time above the MIC, the reduced dose may spend too little time above the threshold, producing treatment failure in a serious infection. The correct adjustment is often to extend the interval (every 12 hours) or to use a prolonged infusion that maximizes time above MIC at a lower peak, preserving the pharmacodynamic target. The harm is that the patient receives a dose that is both less toxic and less effective, and the infection progresses because the adjustment optimized for safety in a way that sacrificed the efficacy that was the reason for the drug. The false signal is that any dose reduction is a safe adjustment, when in fact the direction of the adjustment must follow the drug's pharmacodynamic target.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I use the correct weight (actual, ideal, or adjusted) in the Cockcroft-Gault equation, and did I consider whether the patient's muscle mass makes the calculated clearance falsely reassuring?
@@ -55,3 +67,5 @@ A patient with a creatinine clearance of 30 mL/min is prescribed piperacillin-ta
 - For hepatically metabolized drugs, did I reason from the extraction ratio and metabolic pathway, or did I default to no adjustment because no Child-Pugh-based table exists?
 - Did I adjust in the direction (dose reduction versus interval extension) that preserves the drug's pharmacodynamic target — time above MIC, peak/MIC, or AUC — or did I apply a uniform reduction that may sacrifice efficacy?
 - Did I consider whether the drug requires a loading dose despite renal or hepatic impairment, so that the patient reaches effective exposure quickly rather than waiting for the reduced maintenance dose to accumulate?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

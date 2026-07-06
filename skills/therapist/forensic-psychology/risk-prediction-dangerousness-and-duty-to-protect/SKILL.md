@@ -61,6 +61,10 @@ A therapist, faced with uncertainty about whether a threat is serious or whether
 
 A therapist may conduct a risk assessment and make a decision but document only the conclusion, "denied homicidal ideation, no duty triggered," without the assessment, the factors weighed, and the reasoning, when the documentation must show the clinical thinking to be defensible. The mechanism of harm is that the note provides no protection if the outcome is bad, because it does not show that the assessment was competent or that the decision was justified. The harm is that the therapist is exposed professionally and legally, and the record does not reflect the care that was actually provided. Documenting the full assessment, the factors weighed, the duty analysis, the actions, and the consultation protects everyone involved.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess threats, intent, plan, means, target, and history directly and specifically?

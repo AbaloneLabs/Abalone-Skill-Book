@@ -117,19 +117,15 @@ Wiring infinite scroll or lazy loading to a `scroll` event with `getBoundingClie
 
 Detecting `'serviceWorker' in navigator` and assuming the *entire* service-worker surface (background sync, periodic sync, push) is available. Sub-features vary. Detect the specific capability you depend on, not a broad umbrella that may be partially present.
 
-### UA-Sniffing Because "It's Easier"
+### UA-Sniffing Because "It's Easier" and bundling A Kitchen-Sink Polyfill
 
 Branching on `navigator.userAgent` for a workaround, then breaking when a browser updates its UA string or a new engine appears. Feature detection survives browser evolution; UA sniffing rots. Reserve UA logic for confirmed, documented engine bugs with no detectable symptom.
 
-### Bundling A Kitchen-Sink Polyfill
-
 Importing `core-js` (or a CDN polyfill bundle) unconditionally, shipping megabytes of polyfills for features you never use, to browsers that already have them. Scope polyfills to your real support matrix and to the APIs you actually call.
 
-### Trusting "Supported" Without Testing Reliability
+### Trusting "Supported" Without Testing Reliability and leaking Worker Resources
 
 Reading caniuse green and shipping, then discovering the feature is buggy or partial in a major engine. Capability ≠ support ≠ reliability. Test against the real engines in your matrix before depending on a capability for load-bearing behavior.
-
-### Leaking Worker Resources
 
 Spawning Web Workers per interaction without terminating them, accumulating background threads and memory. Workers have lifetime; terminate or reuse them deliberately, and never assume the page closing is the only teardown path (service workers and shared workers outlive the page).
 

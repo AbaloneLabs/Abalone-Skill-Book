@@ -55,13 +55,11 @@ When inventory is short, define allocation rules by demand, priority stores, pro
 
 Unclear allocation drives store-level workarounds, over-ordering, and loss of trust in replenishment.
 
-### Give stores an exception path
+### Give stores an exception path and review delivery cost with store impact
 
 Stores need a simple way to report missing totes, wrong departments, damaged pallets, late routes, excess inventory, backroom overload, and urgent stockouts. Define who reviews store issues, what evidence is needed, and how quickly corrections happen.
 
 Store feedback should not disappear into informal calls. A structured path helps distinguish one-off receiving issues from systemic routing, allocation, or packing defects.
-
-### Review delivery cost with store impact
 
 Cost per case, truck utilization, route miles, and drop cost should be reviewed alongside on-shelf availability, store labor, shrink, and backroom congestion. The cheapest route plan may not be the best replenishment plan.
 
@@ -74,12 +72,9 @@ Store service outcomes should be part of outbound distribution metrics.
 - Sending promotional goods too early or too late for setup and street-date control.
 - Assuming goods are shelf-ready when stores must still price, tag, sort, secure, or prep them.
 - Building loads for DC efficiency that make store unloading and stocking inefficient.
-- Treating store complaints as anecdotal instead of operational exception data.
-- Forgetting totes, pallets, hangers, recalls, salvage, and transfer returns on backhaul.
-- Allocating scarce goods informally without demand and promotion rules.
-- Letting stores handle shortages, wrong loads, and backroom overload through informal escalation only.
-- Measuring only transport cost while ignoring on-shelf availability and store labor.
-- Failing to update store instructions when assortment or delivery patterns change.
+- Treating store complaints as anecdotal instead of operational exception data; forgetting totes, pallets, hangers, recalls, salvage, and transfer returns on backhaul
+- Allocating scarce goods informally without demand and promotion rules; letting stores handle shortages, wrong loads, and backroom overload through informal escalation only
+- Measuring only transport cost while ignoring on-shelf availability and store labor; failing to update store instructions when assortment or delivery patterns change
 
 ## Self-Check
 
@@ -92,5 +87,4 @@ Store service outcomes should be part of outbound distribution metrics.
 - Are returns, recalls, salvage, transfers, empty totes, pallets, hangers, and fixtures planned on backhaul?
 - Are allocation rules clear when inventory is short or prioritized?
 - Do stores have an exception path for missing, damaged, wrong, late, excess, and urgent replenishment issues?
-- Are cost metrics balanced with on-shelf availability, store labor, shrink, and guest impact?
-- Can stores receive and sell what the DC ships without hidden workload or clutter?
+- Are cost metrics balanced with on-shelf availability, store labor, shrink, and guest impact?; can stores receive and sell what the DC ships without hidden workload or clutter?

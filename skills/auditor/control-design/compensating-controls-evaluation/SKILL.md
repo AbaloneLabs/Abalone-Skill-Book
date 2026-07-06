@@ -81,8 +81,7 @@ A compensating control that depends on a single key person, that is not document
 - **Letting the compensating control silently erase the deficiency instead of reducing its severity.** The deficiency still exists; only its assessed severity is affected.
 - **Accepting a sample-based review as compensation for a population-wide gap.** Partial coverage is partial mitigation, not full.
 - **Over-relying on a single key person as the compensating control.** If that person is absent, reassigned, or pressured, the mitigation vanishes; person-dependent controls are fragile.
-- **Treating a year-end-only compensating control as covering a full-year risk.** Timing gaps leave large windows unprotected.
-- **Confusing a routine control that was always present with a true compensating control**, which inflates the assessed strength of the environment.
+- **Treating a year-end-only compensating control as covering a full-year risk.** Timing gaps leave large windows unprotected; **Confusing a routine control that was always present with a true compensating control**, which inflates the assessed strength of the environment
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Without feedback, the same contamination problems repeat indefinitely.
 - Placing bins and signs without considering worker behavior, language, space, and peak volume.
 - Measuring diversion volume while ignoring contamination and rejected loads.
 - Trusting hauler claims without processor receipts or outcome evidence.
-- Contracting recycling service without accepted-material, contamination, rejection, reporting, and audit terms.
-- Depending on one secondary buyer without a market volatility plan.
-- Storing recovered material in ways that create moisture, pests, odor, fire, or safety risk.
-- Allowing batteries, electronics, chemicals, or hazardous residuals into ordinary recycling.
-- Reporting collected material as recycled before final disposition is known.
-- Failing to feed rejection and contamination data back to the source process.
+- Contracting recycling service without accepted-material, contamination, rejection, reporting, and audit terms; depending on one secondary buyer without a market volatility plan
+- Storing recovered material in ways that create moisture, pests, odor, fire, or safety risk; allowing batteries, electronics, chemicals, or hazardous residuals into ordinary recycling
+- Reporting collected material as recycled before final disposition is known; failing to feed rejection and contamination data back to the source process
 
 ## Self-Check
 

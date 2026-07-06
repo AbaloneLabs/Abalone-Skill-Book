@@ -134,19 +134,15 @@ A form where the submit button or the active field sits behind the virtual keybo
 
 Verifying only in browser devtools or an emulator and concluding the interface is mobile-ready. Emulators misrepresent touch accuracy, network conditions, CPU speed, and OS interactions. Real devices under real conditions are required.
 
-### Heavy Bundle On A Metered Connection
+### Heavy Bundle On A Metered Connection and one-Size Responsive That Ignores Context
 
 Shipping a large JavaScript bundle and many high-resolution images because they load fine on the office network. On cellular, the page is slow, expensive, and abandoned. Measure and optimize for throttled networks and real device CPUs.
 
-### One-Size Responsive That Ignores Context
-
 A single responsive layout that merely reflows columns, without reconsidering what the mobile user actually needs (different primary action, simpler navigation, shorter forms). Responsive reflow is necessary but not sufficient; the mobile experience must be designed, not just allowed.
 
-### Ignoring Safe Areas, Notches, And Device Diversity
+### Ignoring Safe Areas, Notches, And Device Diversity and native-Web-Or-Hybrid Chosen By Habit
 
 Hardcoding edges to the screen without accounting for notches, home indicators, and safe-area insets, so content sits under hardware features. Use `env(safe-area-inset-*)` and test across device shapes, orientations, and dynamic-type settings rather than assuming one screen geometry.
-
-### Native-Web-Or-Hybrid Chosen By Habit
 
 Defaulting to "build a native app" because that is what the team knows, or to "responsive web" because it is cheapest, without evaluating the real requirements (offline, hardware, performance, distribution). The choice is a tradeoff against the product's actual needs; choosing by habit produces either wasted effort or an experience that cannot meet the requirements.
 

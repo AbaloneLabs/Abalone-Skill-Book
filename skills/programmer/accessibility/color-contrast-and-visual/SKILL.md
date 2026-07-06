@@ -122,11 +122,9 @@ A disabled button distinguished only by lighter (lower-contrast) text, which is 
 
 Body text in `px` that ignores user font-size preferences, plus `user-scalable=no` on mobile blocking pinch-zoom. Low-vision users cannot enlarge the text. Use `rem` and allow zoom; verify the layout survives 200%.
 
-### Ignoring Forced-Color / High-Contrast Mode
+### Ignoring Forced-Color / High-Contrast Mode and motion As The Only Signal For A State
 
 A design whose structure depends on background tints and color-only borders, which disappear under forced-color mode. Test in Windows high-contrast themes; use semantic colors and borders that survive the palette override.
-
-### Motion As The Only Signal For A State
 
 An error shown only by a shake animation, or "saved" shown only by a brief glow. Users with reduced motion (and screen-reader users) miss it entirely. Pair motion with text, icon, or announcement.
 

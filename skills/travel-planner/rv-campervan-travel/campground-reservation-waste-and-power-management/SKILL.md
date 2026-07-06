@@ -65,10 +65,8 @@ Keep confirmations offline. Remote campgrounds may have weak cell service when t
 - Ignoring medical devices, pets, infants, and climate-control needs.
 - Scheduling dump stations without time, fees, lines, gloves, and instruction.
 - Missing campground release windows for popular routes.
-- Treating food storage, gray water, trash, and wildlife rules as optional.
-- Recommending dispersed camping without checking legality and road access.
-- Planning too many no-service nights for first-time renters.
-- Relying on online confirmations in areas with poor cell service.
+- Treating food storage, gray water, trash, and wildlife rules as optional; recommending dispersed camping without checking legality and road access
+- Planning too many no-service nights for first-time renters; relying on online confirmations in areas with poor cell service
 
 ## Self-Check
 

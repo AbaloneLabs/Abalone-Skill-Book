@@ -55,6 +55,10 @@ Clients (and sometimes workers) frame the supervision officer as an adversary �
 
 The administrative milestone of "connected to services" or "first appointment kept" can feel like completion, but reentry success is measured over months and years. The trap is reducing contact and support after the initial connection, assuming the client is now stable. The harm is that the client encounters the predictable challenges of reentry — a job loss, a housing crisis, a relapse, a family conflict, a supervision violation — without support, and the trajectory reverses. The mechanism is that initial connection is measurable and rewardable while sustained stability is ongoing and invisible to short-term metrics. The corrective is to maintain support at the intensity the client needs, to build relapse and crisis plans before they are needed, and to measure stability over the long term.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I begin reentry planning before release, assembling documents, benefits, housing, and appointments?

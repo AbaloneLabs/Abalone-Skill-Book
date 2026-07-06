@@ -70,12 +70,9 @@ High traffic with low conversion may indicate weak offer, confusing journey, poo
 - Forgetting queue communication, cutoff rules, and reset time.
 - Designing a journey that requires standing, phones, sensory tolerance, or language fluency without accessible alternatives.
 - Letting brand ambassadors improvise claims and offers.
-- Collecting personal data without clear consent and use explanation.
-- Making app download or lead form friction too high for the value offered.
-- Running out of samples, sizes, batteries, or demo supplies.
-- Failing to connect captured leads to timely follow-up.
-- Measuring only foot traffic and social posts.
-- Ignoring participants who had a bad wait or incomplete experience.
+- Collecting personal data without clear consent and use explanation; making app download or lead form friction too high for the value offered
+- Running out of samples, sizes, batteries, or demo supplies; failing to connect captured leads to timely follow-up
+- Measuring only foot traffic and social posts; ignoring participants who had a bad wait or incomplete experience
 
 ## Self-Check
 

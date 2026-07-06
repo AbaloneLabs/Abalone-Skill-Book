@@ -105,27 +105,21 @@ Validating purged CSS by loading a page in its default state, missing classes us
 
 Animating the layout property that visually corresponds to the change, triggering layout on every frame and producing jank. Re-express the animation in `transform`/`opacity`; use FLIP when the layout genuinely must change.
 
-### Sprinkling `will-change` On Every Animated Element
+### Sprinkling `will-change` On Every Animated Element and excessive Blurs And Gradients Painted Every Frame
 
 Adding `will-change: transform` to many elements "for performance," which creates excessive GPU layers, exhausts memory, and slows compositing. Use `will-change` only on elements about to animate, and remove it afterward.
 
-### Excessive Blurs And Gradients Painted Every Frame
-
 Large `box-shadow` blurs and full-screen gradients as backgrounds of animated or frequently-repainted elements, which are costly to paint. Reduce paint area, simplify the effect, or move it to a non-repainting layer.
 
-### Applying `content-visibility: auto` Without `contain-intrinsic-size`
+### Applying `content-visibility: auto` Without `contain-intrinsic-size` and using `font-display: block` To "Avoid" FOUT
 
 Using `content-visibility: auto` on a long list without a placeholder size, so the browser cannot know the off-screen height and the scrollbar jumps as content renders, producing severe CLS. Always set `contain-intrinsic-size` to a realistic estimate.
 
-### Using `font-display: block` To "Avoid" FOUT
-
 Setting `block` to prevent a flash of unstyled text, which instead hides text for seconds and harms LCP and perceived speed. Prefer `swap` (or `optional`); eliminate the layout shift from the swap with metric-matched fallbacks instead.
 
-### Shipping A Full Glyph Set When A Subset Would Do
+### Shipping A Full Glyph Set When A Subset Would Do and optimizing By Byte Count Instead Of By User-Perceived Metrics
 
 Loading a font with thousands of unused glyphs, multiplying file size. Subset to the characters and languages actually used; preload the primary above-the-fold fonts.
-
-### Optimizing By Byte Count Instead Of By User-Perceived Metrics
 
 Reducing stylesheet size or layer count without checking LCP/CLS/INP, so the "optimization" does not improve what users actually experience — or, with extra layers and over-purging, makes it worse. Measure the Core Web Vital before and after each change.
 

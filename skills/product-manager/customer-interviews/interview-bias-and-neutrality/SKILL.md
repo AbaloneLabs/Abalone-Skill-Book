@@ -84,3 +84,4 @@ Asking bluntly about behaviors respondents are ashamed of. The trap is systemati
 - [ ] Interview findings are reported as qualitative patterns, not as false percentages or majorities.
 - [ ] The study is falsifiable, with a pre-specified pattern of answers that would change or abandon the hypothesis.
 - [ ] The gap between what respondents say and what they do is captured and treated as informative.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

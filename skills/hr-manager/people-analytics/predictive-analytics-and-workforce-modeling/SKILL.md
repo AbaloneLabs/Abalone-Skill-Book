@@ -59,6 +59,10 @@ If managers know an employee has a high flight-risk score, they may reduce inves
 
 A probability score of 0.78 is not a fact about an employee; it is a model's conditional estimate given imperfect data and assumptions. Communicate predictions with appropriate uncertainty. Decision-makers who treat scores as deterministic will make worse decisions than they would with no model at all.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I assessed whether prediction is appropriate for this question — data quality, predictability, actionability, and ethical risk — before building?

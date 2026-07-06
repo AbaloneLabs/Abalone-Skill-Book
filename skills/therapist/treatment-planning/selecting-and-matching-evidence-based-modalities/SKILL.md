@@ -69,6 +69,10 @@ When a modality is not working, the therapist may continue it for far longer tha
 
 When the best-fit modality is one the therapist is not trained in, the temptation is to improvise a version of it from workshops, reading, or general knowledge, rather than referring. The mechanism is that the techniques appear learnable from description, and the therapist, wanting to help and reluctant to lose the client, applies them without the training that makes them safe and effective. The harm is twofold: the client receives an inferior version of a treatment that could help them if delivered competently, and some techniques, poorly delivered, can harm, as when exposure is applied without adequate preparation or when EMDR is delivered without trauma stabilization. Referring to a competent colleague is the ethical and clinical response when the best fit is outside your training.
 
+### Optimizing for the easy-to-measure signal while ignoring the harder one
+
+The visible, quantifiable metric is pursued while the qualitative risk that actually drives the outcome is neglected. The trap is that the dashboard looks good while the real danger grows unnoticed, because the meaningful signal was harder to capture and was dropped.
+
 ## Self-Check
 
 - [ ] Did I start from the evidence base for the presenting problem in selecting the modality?

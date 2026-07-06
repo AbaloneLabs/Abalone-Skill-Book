@@ -70,6 +70,10 @@ A client who consents because they feel they should, because the therapist recom
 
 A therapist who obtained general consent for therapy may begin a specific modality, exposure, EMDR, group therapy, without specific consent for that modality's distinct demands. The mechanism is that the general consent feels like it covers the treatment, and the specific modality feels like a technique within it, so the therapist does not recognize that the modality has its own consent requirements. The harm is that the client undergoes a demanding intervention, such as trauma exposure, without understanding and agreeing to its specific risks, which can feel violating and can cause harm. Specific consent for distinct modalities, beyond the general consent for therapy, is what ensures the client knows what they are agreeing to.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I cover the nature, benefits, risks, alternatives, practical frame, and right to withdraw in conversation, not just in a form?

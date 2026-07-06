@@ -65,10 +65,8 @@ For clients who do not want educational framing, keep the visit enjoyable and op
 - Overfilling days with passive viewing and no rest.
 - Ignoring contested history, sacred space rules, photography restrictions, and respectful behavior.
 - Missing timed-entry, bag, group, and external-guide restrictions.
-- Forgetting language level, captions, audio guides, and accessibility routes.
-- Treating children or casual travelers as if they will enjoy dense expert commentary.
-- Scheduling emotionally heavy sites without decompression.
-- Measuring cultural success by number of institutions visited.
+- Forgetting language level, captions, audio guides, and accessibility routes; treating children or casual travelers as if they will enjoy dense expert commentary
+- Scheduling emotionally heavy sites without decompression; measuring cultural success by number of institutions visited
 
 ## Self-Check
 

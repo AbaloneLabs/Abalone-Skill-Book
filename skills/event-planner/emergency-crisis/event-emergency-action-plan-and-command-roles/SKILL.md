@@ -54,8 +54,7 @@ Document incident time, location, people involved, actions taken, responders con
 - Letting the client, producer, venue, and security lead all believe someone else has stop-show authority.
 - Relying on one communication channel such as radio or PA only.
 - Forgetting accessible emergency communication, egress, and shelter support.
-- Assigning volunteers to roles that require trained security, medical, or legal judgment.
-- Restarting the event after an incident without a readiness decision and documentation.
+- Assigning volunteers to roles that require trained security, medical, or legal judgment; restarting the event after an incident without a readiness decision and documentation
 
 ## Self-Check
 

@@ -105,6 +105,10 @@ Plumbing pipes penetrate fire-rated walls and floors without coordinated firesto
 
 Medical gas, lab waste, grease interception, or fuel gas systems are not identified until late in design or construction, after space has been allocated and structure set. The trap is that these systems are use-specific and may not surface in a generic plumbing scope, so they are missed until a user or code requirement raises them. The harm is that the late addition forces re-design, requires space and structure that was not provided, and may delay the project or compromise other systems to accommodate it. The false signal is that the plumbing design covers the standard systems, masking the omission of the specialized ones. Identifying special plumbing needs during programming, in coordination with the owner and plumbing engineer, and allocating space early is what prevents the disruptive late additions that special systems otherwise cause.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are plumbing fixtures grouped and vertically aligned across floors to share risers and chases, with isolated distant fixtures avoided?
@@ -113,3 +117,5 @@ Medical gas, lab waste, grease interception, or fuel gas systems are not identif
 - [ ] Are chases, shafts, and penetrations coordinated with structure, other systems, and fire-rated assemblies, with access provided for valves and cleanouts?
 - [ ] Are backflow prevention, venting, and potable water protection requirements coordinated, with the technical design deferred to the plumbing engineer?
 - [ ] Are special plumbing systems, medical gas, lab waste, grease interception, fuel gas, identified in programming and allocated space and coordination early?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

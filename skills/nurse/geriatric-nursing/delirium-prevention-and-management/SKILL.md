@@ -59,6 +59,10 @@ The trap is that delirium is stereotyped as agitated and loud, so the quiet, wit
 
 The trap is that sensory aids are small, easily misplaced, and a hassle to put on a confused patient, so they sit unused in the drawer, and the nurse does not see this as clinically significant. The mechanism of harm is that sensory deprivation is a major, reversible driver of delirium, and a patient who cannot see or hear cannot orient, cannot follow conversation, and slides further into confusion. The harm is preventable delirium that persists and worsens for lack of a ten-second intervention. Ensure glasses and hearing aids are on, clean, and working every shift, label them, and involve family in bringing them from home if they were left behind.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I document a collateral cognitive baseline at admission, and can I distinguish the patient's current state from that baseline?

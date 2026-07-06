@@ -54,8 +54,7 @@ For returns, damaged goods, and customer shipments, assume risk is higher. Custo
 - Reusing boxes with old hazard labels or conflicting markings.
 - Tendering to a parcel or air service before confirming carrier account approval and service restrictions.
 - Letting marketplace, customer, or sales teams create labels for goods the service cannot carry.
-- Auto-generating declarations from weak master data.
-- Pressuring warehouse staff to ship when packaging is damaged, data is missing, or classification is uncertain.
+- Auto-generating declarations from weak master data; pressuring warehouse staff to ship when packaging is damaged, data is missing, or classification is uncertain
 
 ## Self-Check
 

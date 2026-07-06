@@ -60,12 +60,9 @@ Publish recordings, minutes, decisions, next steps, and response timelines promp
 - Treating accessibility as wheelchair entry only.
 - Running a hybrid meeting where remote participants cannot participate meaningfully.
 - Changing public comment rules during the meeting.
-- Using security to avoid criticism rather than manage safety.
-- Referring to documents, maps, or slides that the public cannot access.
-- Letting poor audio, captions, or recordings undermine transparency.
-- Failing to plan overflow, remote failure, or capacity limits for controversial meetings.
-- Allowing harassment to silence staff, interpreters, or participants.
-- Collecting public comment without publishing next steps or response process.
+- Using security to avoid criticism rather than manage safety; referring to documents, maps, or slides that the public cannot access
+- Letting poor audio, captions, or recordings undermine transparency; failing to plan overflow, remote failure, or capacity limits for controversial meetings
+- Allowing harassment to silence staff, interpreters, or participants; collecting public comment without publishing next steps or response process
 
 ## Self-Check
 

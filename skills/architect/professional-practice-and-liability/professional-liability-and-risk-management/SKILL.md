@@ -105,6 +105,10 @@ The owner's contract includes indemnities, warranties, or liability provisions t
 
 A potential claim emerges as a concern or complaint, and the architect treats it as routine, communicating freely, investigating informally, and delaying notice to counsel and insurer. The trap is that early-stage handling feels appropriate, while compromising the defense and potentially voiding coverage through late notice. The false signal is the manageable appearance of the issue, which seems resolvable through attention while actually being the early stage of a claim. The harm is lost coverage, because the insurer was not notified in time, weakened defense, because statements were made before counsel was involved, and a claim that might have been defensible becoming costly because the response was delayed until the issue escalated.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the architect's work understood and documented against the standard of care, without warranties or guarantees of outcome?
@@ -114,3 +118,4 @@ A potential claim emerges as a concern or complaint, and the architect treats it
 - [ ] Is professional liability insurance maintained, understood for coverage and exclusions, and coordinated with contract terms?
 - [ ] Are potential claims recognized early, with legal counsel and insurer notified promptly and documents preserved?
 - [ ] Are contract terms reviewed to ensure they do not exceed the standard of care or the insurance coverage?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

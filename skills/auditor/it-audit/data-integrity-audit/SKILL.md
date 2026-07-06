@@ -72,11 +72,9 @@ Strong current data with weak maintenance controls predicts future integrity fai
 
 Data migrations and ongoing interfaces are high-risk integrity events. For migrations, assess whether the conversion preserved completeness, accuracy, and validity, whether reconciliation was performed between old and new systems, and whether exceptions were resolved before cutover. For ongoing interfaces, test reconciliation over a period, examine error and rejection logs, and confirm that failed records are captured and corrected rather than silently dropped.
 
-### Consider the integrity needs of automated decisions and reporting
+### Consider the integrity needs of automated decisions and reporting and report integrity findings by impact and affected population
 
 Where data drives automated decisions (eligibility, pricing, risk scoring) or external reporting, the integrity bar is higher because errors propagate at scale and are hard to detect downstream. Identify which data elements feed high-stakes automation or public reporting and apply more rigorous testing to those. A small integrity error in a field that drives automated benefit denial is far more consequential than the same error in a descriptive field.
-
-### Report integrity findings by impact and affected population
 
 Quantify each integrity finding by the number of records, the population percentage, the business processes affected, and the downstream consequences. A finding of "2% invalid status codes" is meaningless without context; "2% invalid status codes affecting 14,000 benefit determinations, of which an estimated 600 resulted in incorrect denials" is actionable. Always connect the data issue to its real-world effect.
 
@@ -88,10 +86,8 @@ Quantify each integrity finding by the number of records, the population percent
 - **No designated system of record.** Testing integrity without establishing which system is authoritative, making inconsistencies uninterpretable.
 - **Boundary blindness.** Auditing data within a system while ignoring interfaces and migrations where most corruption occurs.
 - **Point-in-time-only assessment.** Reporting current data quality without evaluating the controls that sustain integrity over time.
-- **Rule-from-data validation.** Deriving validity rules from observed patterns, normalizing widespread invalid data as the standard.
-- **Silent-drop ignorance.** Failing to examine interface error and rejection logs where failed records disappear without correction.
-- **Equal-weight findings.** Reporting integrity issues without quantifying affected records and downstream consequences.
-- **Low-stakes over-focus.** Spending effort on descriptive fields while ignoring integrity of data that drives automated decisions or external reporting.
+- **Rule-from-data validation.** Deriving validity rules from observed patterns, normalizing widespread invalid data as the standard; **Silent-drop ignorance.** Failing to examine interface error and rejection logs where failed records disappear without correction
+- **Equal-weight findings.** Reporting integrity issues without quantifying affected records and downstream consequences; **Low-stakes over-focus.** Spending effort on descriptive fields while ignoring integrity of data that drives automated decisions or external reporting
 
 ## Self-Check
 

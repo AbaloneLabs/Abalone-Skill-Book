@@ -61,6 +61,10 @@ A therapist may observe the client developing rich intellectual understanding of
 
 A therapist uncomfortable with the slow pace and repetition of psychodynamic work may move to resolve, to interpret, or to conclude before the working-through has occurred, foreclosing the process that produces lasting change. The mechanism is that the repetition is frustrating, to the therapist and sometimes to the client, and the pressure to resolve, to move on, to achieve closure, can lead the therapist to wrap up a piece of work before it has been fully worked through. The harm is that the pattern, having been identified but not worked through, re-emerges, and the client and therapist repeat the cycle without the integration that working-through provides. Tolerating the ambiguity and pace, staying with the repetition, and trusting the process, is what allows the working-through that produces lasting change.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess the client's suitability for insight-oriented work before beginning?

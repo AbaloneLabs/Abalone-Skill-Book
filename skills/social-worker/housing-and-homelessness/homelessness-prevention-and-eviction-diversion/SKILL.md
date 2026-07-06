@@ -55,6 +55,10 @@ Negotiation with landlords depends on credibility, and the worker who over-promi
 
 The client whose immediate crisis is resolved may disengage from the stabilization plan, assuming the problem is solved. The trap is that the worker also treats the case as closed, and the client returns to crisis because the underlying cause was never addressed. The harm is recurrence of homelessness that could have been prevented. The mechanism is that crisis resolution feels like completion while stabilization is ongoing and requires sustained engagement. The corrective is to build follow-up into the intervention, to maintain contact through the stabilization period, and to measure outcomes over months rather than at the point of crisis resolution.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I act within the narrow window before the crisis became irreversible, prioritizing by imminence?

@@ -179,5 +179,4 @@ Documenting reliance with generic language that does not identify the specific w
 - Are the limits on reliance recognized, with significant risks, fraud risks, and the overall opinion receiving the auditor's own tailored procedures?
 - Is the reliance decision documented to a standard that an experienced reviewer can follow, including the party, the work, the criteria, and the extent?
 - Are category-specific criteria applied for internal audit, management's specialist, the auditor's specialist, and service auditor reports, rather than a generic checklist?
-- For SOC reports, is the type of report, the control objectives, the period covered, and the complementary user entity controls evaluated before reliance?
-- Is reliance revisited if the work is found deficient, the party's objectivity is impaired, or new risks emerge during the audit?
+- For SOC reports, is the type of report, the control objectives, the period covered, and the complementary user entity controls evaluated before reliance?; is reliance revisited if the work is found deficient, the party's objectivity is impaired, or new risks emerge during the audit?

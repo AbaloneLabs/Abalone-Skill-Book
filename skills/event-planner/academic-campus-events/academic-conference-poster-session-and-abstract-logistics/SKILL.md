@@ -65,10 +65,8 @@ Get appropriate permissions and let presenters opt out where policy allows. Do n
 - Forgetting conflicts of interest in judging and awards.
 - Providing vague poster dimensions and discovering size mismatches onsite.
 - Placing catering, registration, or queues where they block poster interaction.
-- Publishing misspelled names, wrong affiliations, or unproofed titles.
-- Ignoring accessibility for presenters, judges, and attendees during poster flow.
-- Photographing or publishing unpublished research without permission.
-- Sending presenter instructions too late for printing, travel, or institutional approvals.
+- Publishing misspelled names, wrong affiliations, or unproofed titles; ignoring accessibility for presenters, judges, and attendees during poster flow
+- Photographing or publishing unpublished research without permission; sending presenter instructions too late for printing, travel, or institutional approvals
 
 ## Self-Check
 

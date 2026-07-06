@@ -65,10 +65,8 @@ Operational detail prevents missed experiences. A beautiful excursion recommenda
 - Booking water, wildlife, ATV, or adventure activities without checking operator safety and insurance implications.
 - Believing all-inclusive dining means every restaurant is available every night.
 - Forgetting allergies, religious diets, dress codes, age limits, and reservation windows.
-- Treating ship accessibility as proof that every port and excursion is accessible.
-- Overbooking activities until the trip loses rest and spontaneity.
-- Missing refund rules for weather, missed port, illness, or minimum participation.
-- Giving travelers activity names without meeting points, clothing, timing, and backup instructions.
+- Treating ship accessibility as proof that every port and excursion is accessible; overbooking activities until the trip loses rest and spontaneity
+- Missing refund rules for weather, missed port, illness, or minimum participation; giving travelers activity names without meeting points, clothing, timing, and backup instructions
 
 ## Self-Check
 

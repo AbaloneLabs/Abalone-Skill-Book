@@ -57,10 +57,8 @@ When guests, press, civic leaders, or non-member attendees are present, provide 
 - Compressing prayer, silence, procession, or blessing into a schedule designed for entertainment.
 - Providing accessibility only as physical entry while ignoring ritual participation and dignity.
 - Giving guests no guidance, then correcting them publicly.
-- Livestreaming or photographing sacred moments without permission.
-- Assuming all communities within a religion use the same protocol.
-- Rehearsing production cues without ritual leaders, leaving sacred sequence and operations misaligned.
-- Allowing media or non-member guests to move freely without boundaries in sacred areas.
+- Livestreaming or photographing sacred moments without permission; assuming all communities within a religion use the same protocol
+- Rehearsing production cues without ritual leaders, leaving sacred sequence and operations misaligned; allowing media or non-member guests to move freely without boundaries in sacred areas
 
 ## Self-Check
 

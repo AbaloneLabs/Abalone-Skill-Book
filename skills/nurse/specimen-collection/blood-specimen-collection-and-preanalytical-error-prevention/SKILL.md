@@ -59,6 +59,10 @@ The trap is that the nurse fills a light blue citrate tube partially, especially
 
 The trap is that the nurse draws the vancomycin trough after hanging the dose, or just before but with the dose already running, and labels it a trough. The mechanism of harm is that a trough must reflect the lowest concentration immediately before the next dose, and a sample drawn during or after the infusion reflects a rising or peak level, not the trough, making the result uninterpretable and misleading the dosing — the team may increase a dose that is already adequate or miss accumulation. The harm is subtherapeutic or toxic dosing based on a meaningless level. Draw troughs within the defined window before the dose (commonly 30 minutes before, before the dose is hung), and document the exact time relative to the dose.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I identify the patient with two identifiers and label every specimen at the bedside, immediately after the draw, using the barcode when available?

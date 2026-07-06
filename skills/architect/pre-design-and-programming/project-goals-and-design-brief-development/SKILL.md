@@ -103,6 +103,10 @@ A brief that articulates a beautiful vision but never connects to how the organi
 
 As a project progresses, every new stakeholder, every site discovery, and every budget pressure generates pressure to add to or change the brief. When these changes accumulate without discipline, the brief loses coherence, contradictions multiply, and the design team cannot tell which intent governs. The trap is that each individual change feels reasonable, so no one notices the accumulation until the project is over budget, behind schedule, and internally inconsistent. The harm is a project that satisfies no one because it tried to satisfy everyone, with scope and cost growing silently. Version control, baselining at each phase, formal approval of changes, and a clear distinction between refinement and new demand are what keep the brief stable enough to anchor decisions.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does the brief distinguish vision, goals, objectives, and measurable success criteria as separate layers?

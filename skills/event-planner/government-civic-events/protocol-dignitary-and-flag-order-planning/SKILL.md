@@ -60,12 +60,9 @@ Public events can drift into campaign-style staging. Review signage, speeches, c
 - Forgetting aides, security, interpreters, drivers, family, and holding room needs.
 - Mispronouncing names, titles, ranks, tribal names, or offices.
 - Changing speaking order without approval from protocol authority.
-- Using flags or seals as decorative props.
-- Failing to check half-staff status, flag order, or military honors rules close to the event.
-- Giving AV, emcee, photographers, and ushers different versions of protocol details.
-- Improvising ribbon cuttings, wreath layings, color guard movements, or official photos without rehearsal.
-- Letting media or security needs override protocol without prior decision.
-- Allowing official ceremonies to take on campaign-style staging without ethics review.
+- Using flags or seals as decorative props; failing to check half-staff status, flag order, or military honors rules close to the event
+- Giving AV, emcee, photographers, and ushers different versions of protocol details; improvising ribbon cuttings, wreath layings, color guard movements, or official photos without rehearsal
+- Letting media or security needs override protocol without prior decision; allowing official ceremonies to take on campaign-style staging without ethics review
 
 ## Self-Check
 

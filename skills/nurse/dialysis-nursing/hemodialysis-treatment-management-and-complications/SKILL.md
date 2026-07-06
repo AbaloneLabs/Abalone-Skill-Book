@@ -1,6 +1,6 @@
 ---
 name: hemodialysis-treatment-management-and-complications.md
-description: Use when the nurse is initiating, monitoring, or terminating a hemodialysis treatment, managing intra-treatment complications such as hypotension or cramping, adjusting ultrafiltration goals, or responding to dialyzer reactions and access-related problems during a session.
+description: Use when the agent is initiating, monitoring, or terminating a hemodialysis treatment, managing intra-treatment complications such as hypotension or cramping, adjusting ultrafiltration goals, or responding to dialyzer reactions and access-related problems during a session.
 ---
 
 # Hemodialysis Treatment Management and Complications

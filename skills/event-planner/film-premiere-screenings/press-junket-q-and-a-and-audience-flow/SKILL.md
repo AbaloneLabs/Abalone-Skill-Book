@@ -70,12 +70,9 @@ Post-event materials reduce repetitive questions and improve coverage quality.
 - Allowing open microphones with no question screening or line management.
 - Letting press interviews run long and disrupt talent movement.
 - Running press blocks with no breaks, food, quiet space, touchups, or publicist stop authority.
-- Recording or livestreaming discussion without rights and consent clarity.
-- Ignoring embargoes, spoilers, and quote restrictions.
-- Turning house lights on or moving audience without a plan for Q and A transition.
-- Letting fans crowd talent exits after the screening.
-- Exposing vulnerable subjects to hostile or intrusive questions.
-- Providing no press kit, correction contact, or follow-up resources.
+- Recording or livestreaming discussion without rights and consent clarity; ignoring embargoes, spoilers, and quote restrictions
+- Turning house lights on or moving audience without a plan for Q and A transition; letting fans crowd talent exits after the screening
+- Exposing vulnerable subjects to hostile or intrusive questions; providing no press kit, correction contact, or follow-up resources
 
 ## Self-Check
 

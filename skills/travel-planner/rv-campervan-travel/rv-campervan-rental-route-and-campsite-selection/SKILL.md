@@ -65,10 +65,8 @@ Create a daily operating rhythm that includes setup, teardown, dishes, water, ch
 - Assuming national park or coastal campsites will be available last minute.
 - Ignoring vehicle length, hookup, generator, quiet hour, and arrival window rules.
 - Forgetting dump, water, propane, fuel, groceries, laundry, and cell service.
-- Sending large RVs into cities, narrow roads, low bridges, or steep unpaved routes.
-- Treating dispersed camping as legal everywhere.
-- Ignoring weather, wildfire smoke, winterization, and seasonal road closures.
-- Calling the trip flexible without backup campsites and hotel bailout options.
+- Sending large RVs into cities, narrow roads, low bridges, or steep unpaved routes; treating dispersed camping as legal everywhere
+- Ignoring weather, wildfire smoke, winterization, and seasonal road closures; calling the trip flexible without backup campsites and hotel bailout options
 
 ## Self-Check
 

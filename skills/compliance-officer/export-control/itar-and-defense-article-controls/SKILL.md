@@ -151,5 +151,4 @@ ITAR exemptions are narrowly construed. Confirm each element before relying on o
 - Is the correct authorization mechanism selected (DSP-5, DSP-73, TAA, MLA, or aggregated authorization) matching the activity type?
 - Are ITAR section 126.1 prohibited countries, embargoes, and end-use and end-user controls applied as overlays?
 - Are deemed exports of technical data to foreign persons in the United States treated as exports requiring authorization?
-- Are ITAR exemptions confirmed element-by-element before reliance, recognizing they are narrowly construed?
-- Is a commodity jurisdiction request pursued for genuinely ambiguous items, with conservative treatment pending resolution?
+- Are ITAR exemptions confirmed element-by-element before reliance, recognizing they are narrowly construed?; is a commodity jurisdiction request pursued for genuinely ambiguous items, with conservative treatment pending resolution?

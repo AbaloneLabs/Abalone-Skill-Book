@@ -54,8 +54,7 @@ For high-value or patient-critical shipments, consider shipping earlier, splitti
 - Booking reefer capacity without checking pre-cool, set point, airflow, door openings, and cross-dock exposure.
 - Forgetting cold storage, gel pack conditioning, dry ice supply, and receiving capacity constraints.
 - Ignoring dry ice, battery, biological, food, pharma, and international documentation rules.
-- Assuming an alert can be fixed when there is no re-icing, cold storage, or intercept option.
-- Choosing the lowest cold-chain option for a shipment whose failure cost is much higher than the freight savings.
+- Assuming an alert can be fixed when there is no re-icing, cold storage, or intercept option; choosing the lowest cold-chain option for a shipment whose failure cost is much higher than the freight savings
 
 ## Self-Check
 

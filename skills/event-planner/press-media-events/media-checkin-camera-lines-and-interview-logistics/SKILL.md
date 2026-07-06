@@ -60,12 +60,9 @@ Keep a record of pool assignments, denied credentials, special access, and inter
 - Allowing camera positions to block sightlines, exits, ADA routes, or other outlets.
 - Forgetting mult box, clean audio, power, Wi-Fi, cable ramps, and livestream testing.
 - Letting reporters chase speakers through private or unsafe areas.
-- Ignoring live truck parking, generator, and cable path needs.
-- Applying access rules inconsistently, creating favoritism complaints.
-- Offering interviews without timing, escort, topic, and exit control.
-- Leaving technical staff to enforce media behavior without a media floor manager.
-- Routing vulnerable guests or affected people through camera lines.
-- Having no backup when Wi-Fi, power, audio feed, or credential systems fail.
+- Ignoring live truck parking, generator, and cable path needs; applying access rules inconsistently, creating favoritism complaints
+- Offering interviews without timing, escort, topic, and exit control; leaving technical staff to enforce media behavior without a media floor manager
+- Routing vulnerable guests or affected people through camera lines; having no backup when Wi-Fi, power, audio feed, or credential systems fail
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Keep a record of pool assignments, denied credentials, special access, and inter
 - Are pool, rotation, access limit, and interview order rules fair and explainable?
 - Will post-event materials reach outlets that had limited or no access?
 - Is a media floor manager assigned to enforce positions, safety, access, and dispute resolution?
-- Are vulnerable people, private guests, and affected groups protected from unwanted camera exposure?
-- Are pool, denied credential, special access, and interview order decisions documented?
+- Are vulnerable people, private guests, and affected groups protected from unwanted camera exposure?; are pool, denied credential, special access, and interview order decisions documented?

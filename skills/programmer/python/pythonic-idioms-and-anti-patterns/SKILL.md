@@ -95,11 +95,9 @@ Class-level mutable attributes (`class C: items = []`) are shared across all ins
 
 `for k in d: process(d[k]); other(d[k])` looks up `d[k]` twice. Bind it once: `for k, v in d.items(): process(v); other(v)`. Micro, but it signals care and avoids re-evaluation when the lookup has side effects.
 
-### Using `type(x) ==` Instead Of `isinstance`
+### Using `type(x) ==` Instead Of `isinstance` and `__del__` For Cleanup
 
 `type(x) == int` rejects subclasses; `isinstance(x, int)` accepts them, which is almost always what you want. Reserve exact-type checks for cases where subclassing must be excluded.
-
-### `__del__` For Cleanup
 
 Relying on `__del__` for resource cleanup is unreliable: the interpreter does not guarantee when (or whether) it runs, especially at interpreter shutdown or in the presence of reference cycles. Use a context manager or an explicit `close()` method instead.
 

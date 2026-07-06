@@ -29,6 +29,10 @@ Vaccine spacing — the minimum intervals between doses in a series, between dif
 
 Some screening findings exceed the pharmacist's independent authority to manage and require deferral and referral to the prescriber. A complex allergy history (anaphylaxis to multiple vaccines or components, a history of vaccine-related adverse events), an uncertain immune status (a patient on immunosuppressive therapy whose live-vaccine eligibility is unclear), a pregnancy with a vaccination question outside the pharmacist's protocol, a patient with a history of severe adverse events following vaccination — these require the pharmacist to defer the vaccination, document the finding, communicate with the prescriber, and refer the patient for the prescriber's decision. The pharmacist must recognize the boundary of independent immunization authority (which is defined by state law, protocol, and training) and must not exceed it, because the complexity of these cases requires the integrated clinical judgment of the prescriber who knows the patient's full history. Deferral and referral are not failures; they are the appropriate response to a screening finding that exceeds the pharmacist's scope, and they protect the patient from a vaccination decision made without the full clinical context.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating the Screening Form as a Checkbox Rather Than a Clinical Assessment
@@ -50,6 +54,10 @@ The catch-up schedule and the routine schedule both define minimum intervals bet
 ### Failing to Account for a Recent Blood Product Before a Live Vaccine
 
 Blood products (transfusion, immune globulin, IVIG) contain antibodies that can neutralize a live vaccine, rendering it ineffective, and the deferral interval after a blood product (before a live vaccine can be administered) varies from weeks to months depending on the product and dose. The trap is that the pharmacist does not ask about recent blood products (the question is not on the standard form, or the patient does not mention it), so the live vaccine is administered within the deferral interval and is neutralized, and the patient is left unprotected without knowing it. The harm is a vaccine failure that is silent (no adverse event, just no protection) and that is discovered only when the patient contracts the disease. The fix is to ask about recent blood products and transfusions before any live vaccine, to reference the deferral interval for the specific product and dose, and to defer the live vaccine until the interval has passed, documenting the reason for deferral.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

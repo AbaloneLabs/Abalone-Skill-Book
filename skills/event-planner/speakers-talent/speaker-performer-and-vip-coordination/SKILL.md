@@ -70,12 +70,9 @@ Contingency planning should consider relationships, not only timing. Cutting the
 - Placing sensitive people together in green rooms, lounges, or transport without checking relationships.
 - Forgetting accessible routes, elevators, and backstage movement for visible moments.
 - Preparing each visible person separately while ignoring the handoffs between them.
-- Allowing informal access promises from sponsors, executives, family, or staff.
-- Ignoring titles, order, seating, protocol, and recognition hierarchy.
-- Broadcasting private numbers, room locations, and sensitive details too widely.
-- Updating one team about a timing change while production, security, or hospitality stays outdated.
-- Treating a delay as only a schedule problem rather than a relationship and promise problem.
-- Having no polite refusal language for photos, autographs, introductions, or backstage access.
+- Allowing informal access promises from sponsors, executives, family, or staff; ignoring titles, order, seating, protocol, and recognition hierarchy
+- Broadcasting private numbers, room locations, and sensitive details too widely; updating one team about a timing change while production, security, or hospitality stays outdated
+- Treating a delay as only a schedule problem rather than a relationship and promise problem; having no polite refusal language for photos, autographs, introductions, or backstage access
 
 ## Self-Check
 

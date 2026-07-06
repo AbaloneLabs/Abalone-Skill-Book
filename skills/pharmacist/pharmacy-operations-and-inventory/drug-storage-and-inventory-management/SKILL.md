@@ -29,6 +29,10 @@ Many drugs require specific storage conditions — refrigeration (2 to 8 degrees
 
 Certain drug categories require segregation and additional controls beyond standard storage: controlled substances (secure storage, access control, inventory — addressed in the controlled substances skills), hazardous drugs (separate negative-pressure storage, contamination control — addressed in the compounding skills), recalled stock (segregated and quarantined so it cannot be dispensed while awaiting return or destruction), expired stock (segregated for disposal), and investigational drugs (segregated with study-specific documentation and access control). The pharmacist must define the storage and segregation requirements for each category and must enforce them, because mixing a recalled or expired product back into active stock — through inattention during a busy shift — dispenses a product that every control was designed to remove. Segregation is the physical control that makes the documentary controls reliable.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Cost-Driven Stock Reduction Without Clinical Risk Assessment
@@ -51,6 +55,10 @@ A refrigerator's temperature drifts out of range overnight, or a monitoring alar
 
 A recalled product is set aside for return but is inadvertently returned to active stock during a busy period or a restocking task. The mechanism is that segregation is not enforced physically or procedurally. The false signal is that the product is on the shelf, so it is available. The harm is that a recalled product — recalled for a safety reason (contamination, mislabeling, potency deviation) — reaches a patient, producing exactly the harm the recall was meant to prevent. Segregation must be physical (a separate, labeled quarantine area) and procedural (a process that prevents return to active stock without deliberate action), not merely documentary.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I set stock levels and reorder points based on clinical criticality, demand variability, lead time, and shelf life, with a protected critical-drug list that is not subject to cost-driven reduction?
@@ -59,3 +67,5 @@ A recalled product is set aside for return but is inadvertently returned to acti
 - Are temperature and environmental controls maintained with continuous monitoring, alarms, calibrated devices, and a documented response protocol for excursions, including stability assessment and disposition of affected stock?
 - Are special-category stocks (controlled substances, hazardous drugs, recalled, expired, investigational) segregated physically and procedurally so they cannot be inadvertently returned to active inventory?
 - Did I treat inventory management as a clinical and safety function balancing availability, cost, and integrity, recognizing that stockouts and compromised products are measured in patient harm, not just dollars?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Has the edge case or exception been considered, not only the typical or textbook scenario?

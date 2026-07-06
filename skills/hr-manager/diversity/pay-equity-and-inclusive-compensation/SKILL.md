@@ -113,3 +113,4 @@ Comparing average pay between groups without controlling for legitimate factors 
 - [ ] Is occupational segregation analyzed and addressed through inclusive hiring, development, and promotion?
 - [ ] Is transparency provided within appropriate limits, with equitable practices ensured before disclosure?
 - [ ] Is legal counsel coordinated with throughout, including privilege, documentation, and proactive disparity resolution?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

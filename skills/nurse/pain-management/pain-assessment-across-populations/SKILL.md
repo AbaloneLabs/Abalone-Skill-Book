@@ -45,6 +45,8 @@ Pain expression is shaped by culture, prior pain experiences, fear, anxiety, dep
 
 **Treating the number without the function.** A patient may report a pain score that sounds high (7/10) but be functioning well, ambulating, and sleeping, while another reports 4/10 but cannot move or cough. The mechanism of harm is chasing a number with escalating opioids rather than assessing what the pain prevents the patient from doing. The harm is over-sedation, respiratory depression, and delirium from unnecessary opioid escalation, while the functional problem (e.g., a splinting chest, a rigid posture) goes unaddressed. Always pair the score with a functional question: "What does the pain stop you from doing?" and treat toward functional goals, not toward zero.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I use a validated pain scale appropriate to the patient's cognitive and communicative abilities?

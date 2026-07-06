@@ -29,6 +29,10 @@ The routine schedule is modified by conditions that change the vaccine indicatio
 
 When a patient is due for multiple vaccines, the pharmacist should co-administer them at the same visit (to minimize visits and improve completion), and must apply the co-administration rules to ensure all doses are valid. Most inactivated vaccines can be co-administered at the same visit, given at different sites (separated by at least one inch, in different anatomical sites if possible, and documented by site). Live vaccines can be co-administered on the same day; if not given on the same day, they must be separated by at least 28 days (the second live vaccine given before 28 days is invalid and must be repeated). COVID-19 vaccines can be co-administered with other vaccines (current guidance). The pharmacist must document each vaccine by site (so a local reaction can be attributed to the correct vaccine), must use separate syringes and separate sites, and must apply the spacing rules to avoid invalid doses. Co-administration increases the chance that the patient completes the needed vaccines, but it requires the pharmacist to manage the complexity of multiple vaccines, sites, and documentation at one visit.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating "Due" or "Overdue" in the Record as Sufficient Without Verifying the Interval
@@ -51,6 +55,10 @@ A recent blood product extends the interval before a live vaccine can be effecti
 
 A multi-dose series requires the patient to return for subsequent doses, and the pharmacist who documents the current dose without documenting the plan for the series (the next dose date, the remaining doses, the completion target) leaves the series to chance. The trap is that the current dose is the immediate task, so it is documented, while the series plan (which requires a calculation and a schedule) is deferred or omitted, and the patient does not return for the next dose because the plan was not communicated or documented. The harm is an incomplete series (the patient is partially protected) and a record that does not reflect the plan, so the next provider cannot continue the series correctly. The fix is to document the series plan (the next dose date based on the minimum interval, the remaining doses, the completion target) at every dose, to communicate the plan to the patient, and to enter the next dose in the recall or reminder system.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I obtain the patient's documented immunization history (registry, records, verified self-report) and use it to identify every vaccine that is due, overdue, or missing — not only the requested vaccine?
@@ -60,3 +68,4 @@ A multi-dose series requires the patient to return for subsequent doses, and the
 - For multiple vaccines at the same visit, did I apply the co-administration rules (separate sites, separate syringes, 28-day separation for live vaccines not given the same day) and document each by site?
 - Did I account for recent blood products (deferral interval before a live vaccine) and recent live vaccines (28-day separation) before scheduling the next live vaccine?
 - Did I document not only the current dose but the plan for the remaining series (next dose date, remaining doses, completion target), communicate the plan to the patient, and enter the next dose in the recall system?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

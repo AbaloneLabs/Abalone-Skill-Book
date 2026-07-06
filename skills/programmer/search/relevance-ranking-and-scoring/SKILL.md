@@ -101,11 +101,9 @@ A model that achieves excellent nDCG on its training judgments but generalizes p
 
 Blurring paid placements into organic results to maximize clicks, eroding user trust and risking regulatory issues. Separate, label, and bound sponsored slots explicitly.
 
-### Reporting Only Aggregate Metrics, Hiding Slice Regressions
+### Reporting Only Aggregate Metrics, Hiding Slice Regressions and changing The Ranking Without A Reversible Rollout
 
 An nDCG improvement that comes from helping head queries while quietly degrading rare queries, invisible in the aggregate. Slice metrics by query type (head/tail, navigational/informational) and inspect the worst-affected queries.
-
-### Changing The Ranking Without A Reversible Rollout
 
 Shipping a new ranking to 100% of traffic with no rollback path, then discovering a regression days later when metrics settle. Roll out ranking changes via A/B test with guardrail metrics and a rollback plan.
 

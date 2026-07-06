@@ -54,8 +54,7 @@ For young travelers, peer influence and online communities can shift plans quick
 - Ignoring mental health, loneliness, fatigue, substance risk, and relationship pressure over long stays.
 - Trusting informal placements without checking duties, hours, lodging, exit options, and local support.
 - Allowing parents or guardians to believe they can control an adult traveler's decisions without consent.
-- Forgetting rolling stay limits, address registration, onward tickets, and extension deadlines.
-- Treating plan changes as failure rather than using planned checkpoints to update risk, budget, and wellbeing.
+- Forgetting rolling stay limits, address registration, onward tickets, and extension deadlines; treating plan changes as failure rather than using planned checkpoints to update risk, budget, and wellbeing
 
 ## Self-Check
 

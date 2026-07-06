@@ -71,10 +71,8 @@ Control towers decay if they are not governed. Poor alerts teach users to ignore
 - Escalating every exception equally instead of ranking by business impact and recovery window.
 - Producing status dashboards with no owner, next action, deadline, or decision path.
 - Sending frequent updates that do not distinguish facts from estimates and uncertainty.
-- Allowing manual status overrides without reason codes, evidence, auditability, or ownership.
-- Closing shipments before POD, discrepancy, temperature, empty return, and accessorial exposure are resolved.
-- Letting false positives and stale alerts accumulate until users stop trusting the control tower.
-- Optimizing for dashboard completeness while missing shipments where intervention matters.
+- Allowing manual status overrides without reason codes, evidence, auditability, or ownership; closing shipments before POD, discrepancy, temperature, empty return, and accessorial exposure are resolved
+- Letting false positives and stale alerts accumulate until users stop trusting the control tower; optimizing for dashboard completeness while missing shipments where intervention matters
 
 ## Self-Check
 

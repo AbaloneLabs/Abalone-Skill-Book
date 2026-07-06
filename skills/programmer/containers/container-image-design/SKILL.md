@@ -136,11 +136,9 @@ Chasing the smallest possible image by switching to Alpine, then discovering the
 
 The scanner reports hundreds of CVEs, the team ignores them all because the list is overwhelming, and a critical exploitable one is buried in the noise. Scan with a triage policy that distinguishes exploitable from theoretical and blocks on the former; an unread scan report is worse than no scan because it creates false confidence.
 
-### Re-Tagging An Existing Immutable Tag
+### Re-Tagging An Existing Immutable Tag and a Shell As PID 1 That Breaks Shutdown
 
 Pushing a new image to an existing version tag (`v1.4.2` now points to different content). This silently changes what deployments pull and destroys the ability to know what ran. Enforce immutability in the registry so tags cannot be overwritten.
-
-### A Shell As PID 1 That Breaks Shutdown
 
 Using `CMD ["sh", "-c", "..."]` or an entrypoint shell script as PID 1, which does not forward signals, so `SIGTERM` is ignored and the container is killed forcefully after a timeout — dropping in-flight requests. Run the application process directly as PID 1, or use an init that forwards signals, so graceful shutdown works.
 

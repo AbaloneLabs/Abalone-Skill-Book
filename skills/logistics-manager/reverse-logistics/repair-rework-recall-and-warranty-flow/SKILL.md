@@ -58,8 +58,7 @@ Warranty and repair flows often use advance replacements, loaners, or service pa
 - Promising repair turnaround without parts and capacity visibility.
 - Handling safety complaints or recall matches through normal customer service only.
 - Failing to provide customers with packaging, data removal, accessory, and status instructions.
-- Returning repaired items without testing and release criteria.
-- Collecting defect data but not feeding it to quality, engineering, or supplier teams.
+- Returning repaired items without testing and release criteria; collecting defect data but not feeding it to quality, engineering, or supplier teams
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Warranty and repair flows often use advance replacements, loaners, or service pa
 - Are parts, tools, test procedures, quality release, data wipe, and packaging defined?
 - Are reworked or repaired goods released before return to customer or stock?
 - Are defect, no-fault-found, repeat repair, and root-cause data fed to quality and engineering?
-- Are recall communications, traceability, disposition, and reporting escalated to qualified owners?
-- Are replacement, loaner, service-part, and customer-owned inventory controls defined?
+- Are recall communications, traceability, disposition, and reporting escalated to qualified owners?; are replacement, loaner, service-part, and customer-owned inventory controls defined?

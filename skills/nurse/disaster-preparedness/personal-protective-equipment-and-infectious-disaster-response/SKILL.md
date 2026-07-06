@@ -59,6 +59,10 @@ The trap is that the nurse or team performs an intubation, suctioning, or nebuli
 
 The trap is that the shift is long, the PPE is hot and uncomfortable, the unit is busy, and the nurse skips the eye protection, reuses a mask beyond its intended life, or enters without full PPE "just for a minute." The mechanism of harm is that these shortcuts, repeated over many encounters and many shifts, accumulate exposure, and a single unprotected exposure in a high-prevalence environment can transmit infection. The harm is occupational infection. Plan care to minimize entries, take breaks with proper doffing and re-donning, monitor yourself and colleagues for fatigue and breaches, and sustain the discipline — the system should support the discipline with adequate supplies, rest, and staffing.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For the pathogen I am managing, do I know the transmission route and the correct PPE (contact, droplet, airborne, full-coverage for high-consequence)?

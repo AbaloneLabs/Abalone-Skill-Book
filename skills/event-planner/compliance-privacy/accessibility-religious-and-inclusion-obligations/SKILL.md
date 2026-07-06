@@ -54,8 +54,7 @@ When requests conflict with security, venue limits, or program design, escalate 
 - Scheduling events across religious observances without considering participation impact.
 - Providing a quiet, prayer, lactation, or accessibility space that is unmarked, locked, noisy, or used for storage.
 - Translating marketing text while leaving safety, wayfinding, and registration information inaccessible.
-- Training VIP staff but not security, ushers, volunteers, catering, or transport staff on inclusion needs.
-- Treating legal accessibility review as optional for public or regulated events.
+- Training VIP staff but not security, ushers, volunteers, catering, or transport staff on inclusion needs; treating legal accessibility review as optional for public or regulated events
 
 ## Self-Check
 

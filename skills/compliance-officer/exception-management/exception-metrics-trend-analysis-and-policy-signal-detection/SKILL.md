@@ -86,3 +86,4 @@ Without a defined threshold, broken policies are managed by exception forever. S
 - Is there a defined trigger that initiates formal policy review when exception patterns cross a threshold, rather than perpetual exception management?
 - Is exception health reported to leadership with interpretation, signals, actions, and decisions needed, not just raw counts?
 - Could the organization show that exception data is used to improve policies and controls, not merely to record deviations?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

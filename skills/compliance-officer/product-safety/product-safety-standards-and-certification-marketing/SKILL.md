@@ -33,6 +33,10 @@ The technical file, or technical construction file, is the central evidence docu
 
 Many product-safety failures are chemical rather than mechanical or electrical. Restrictions on heavy metals, flame retardants, plasticizers, and other substances of concern apply differently across jurisdictions and product categories. Chemical compliance requires substance declarations from the supply chain, periodic testing of accessible materials, and tracking of exemption lists that change over time. Treat this as a dedicated work stream within the product-safety program rather than assuming the mechanical safety testing covers it.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Assuming One Test Report Clears All Markets
@@ -54,6 +58,10 @@ Many regimes require a designated economic operator established in the market to
 ### Treating Warnings and Instructions as an Afterthought
 
 Warnings, age-grading, and instructions are mandatory safety elements in many regimes, with prescribed content, format, and language. Inadequate or absent warnings can be the direct cause of an injury and the basis for liability, independent of whether the product passed technical testing.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

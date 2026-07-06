@@ -100,3 +100,4 @@ Using a generic parameter where the relationship is functional (forcing callers 
 - [ ] Traits that may be used as objects are designed for object safety from the start (no generic methods, careful use of `Self` in signatures), because retrofitting object safety is breaking.
 - [ ] Abstraction follows observed need: concrete types are preferred until a second concrete implementation justifies the trait, and the trait abstracts the shared behavior the two reveal rather than speculative extras.
 - [ ] The highest-risk cases were verified — a hot path using static dispatch, a heterogeneous collection using trait objects, a bound list kept short by local placement, and a trait designed object-safe before it was needed as an object — not only the clean single-implementation path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

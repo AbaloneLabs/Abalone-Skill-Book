@@ -101,6 +101,10 @@ Asking about firearms, and asking a family to remove them, is uncomfortable, and
 
 When a client is at high risk, the therapist may delay or avoid emergency evaluation or involuntary hospitalization because the decision feels drastic, damaging to the alliance, or disruptive to the client's life. The mechanism is that the therapist weighs the cost of an unnecessary hospitalization against the cost of an adverse outcome and, under the discomfort of the decision, biases toward the less disruptive option. The harm is that an acute high-risk client is managed as an outpatient during the period of greatest danger, sometimes with fatal outcome. The corrective is to weigh the decision correctly: the cost of an unnecessary evaluation is inconvenience and alliance strain, both repairable; the cost of a missed high-risk case is irreversible. Erring toward evaluation when risk is high, and seeking consultation to share the decision, is the defensible path.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess ideation, plan, intent, and means directly and specifically, including asking about firearms by name?

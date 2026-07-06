@@ -176,5 +176,4 @@ RSI is part of the audit. Skipping the budgetary comparison schedule, pension sc
 - Are pension and OPEB liabilities evaluated for plan type, proportionate share, actuarial assumptions, actuary qualifications, and census data inputs?
 - Is fund integrity preserved, with interfund transfers, advances, and due-to balances tested for legality, collectibility, and proper elimination?
 - Is the full compliance reporting package, including Single Audit findings, bond covenants, and state requirements, scoped and completed?
-- Is required supplementary information, including budgetary comparison, pension schedules, and MD&A, tested for accuracy and consistency?
-- Are combining and individual fund statements and statistical sections complete where required?
+- Is required supplementary information, including budgetary comparison, pension schedules, and MD&A, tested for accuracy and consistency?; are combining and individual fund statements and statistical sections complete where required?

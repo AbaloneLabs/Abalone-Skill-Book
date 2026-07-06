@@ -90,19 +90,15 @@ Failing to check whether arm sizes match the intended split, so an assignment or
 
 User-level A/B in a setting where one user's treatment affects another's outcome, violating the no-interference assumption. Use cluster or geo-randomization where interference is likely.
 
-### Stopping Early Due To Novelty Or Change Aversion
+### Stopping Early Due To Novelty Or Change Aversion and simpson's Paradox In Aggregated Results
 
 Killing or shipping based on an early spike or dip that is a transient reaction to change, not the steady-state effect. Run to the planned duration to clear novelty/learning effects.
 
-### Simpson's Paradox In Aggregated Results
-
 An aggregate effect that reverses across segments due to composition differences, pointing the decision the wrong way. Slice by key segments and check for sign reversals.
 
-### Post-Hoc Metric Switching
+### Post-Hoc Metric Switching and treating A Single Significant Result As Proof
 
 Changing the "primary" metric after seeing results to the one that happened to win, turning noise into a story. Pre-register the analysis plan and stick to it.
-
-### Treating A Single Significant Result As Proof
 
 Acting on one experiment's significant metric as definitive, without checking guardrails, segments, or replication. Read conservatively; replicate for high-stakes decisions.
 

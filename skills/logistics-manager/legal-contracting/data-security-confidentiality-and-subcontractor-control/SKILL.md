@@ -60,12 +60,9 @@ During disruptions, teams may create temporary logins, shared files, manual spre
 - Using shared logins, emailed spreadsheets, and uncontrolled exports.
 - Signing NDAs but failing to brief warehouse, driver, broker, and temp staff.
 - Allowing subcontracting or rebrokering without approval and flow-down obligations.
-- Hiding high-value or regulated details in free-text fields that spread widely.
-- Treating cyber incidents separately from physical theft risk.
-- Ending a contract without disabling access and controlling retained data.
-- Leaking sensitive information through free-text notes, screenshots, photos, chat, and broad-access exception fields.
-- Treating subcontractor flow-down clauses as enough without audit, training, and party visibility.
-- Leaving emergency logins, spreadsheets, and temporary access active after disruptions.
+- Hiding high-value or regulated details in free-text fields that spread widely; treating cyber incidents separately from physical theft risk
+- Ending a contract without disabling access and controlling retained data; leaking sensitive information through free-text notes, screenshots, photos, chat, and broad-access exception fields
+- Treating subcontractor flow-down clauses as enough without audit, training, and party visibility; leaving emergency logins, spreadsheets, and temporary access active after disruptions
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ During disruptions, teams may create temporary logins, shared files, manual spre
 - Do flow-down obligations cover confidentiality, data security, audit, insurance, breach notice, and liability for subcontractor acts?
 - Are breach response, physical risk, evidence, notifications, remediation, and post-contract data return or destruction defined?
 - Are free-text fields, photos, screenshots, labels, and chat channels controlled for sensitive data exposure?
-- Can the provider identify and audit every downstream party that handled data or freight?
-- Are emergency access and temporary workaround controls approved, expired, and cleaned up?
+- Can the provider identify and audit every downstream party that handled data or freight?; are emergency access and temporary workaround controls approved, expired, and cleaned up?

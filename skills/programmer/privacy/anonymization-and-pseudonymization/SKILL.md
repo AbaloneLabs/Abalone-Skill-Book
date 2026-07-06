@@ -116,11 +116,9 @@ Applying differential privacy noise per query but allowing unlimited queries, so
 
 Releasing row-level records because "they're anonymized," when the recipient only needed aggregate statistics. Share the minimum granularity required; row-level data has far higher re-identification risk than aggregates.
 
-### Assuming A Model Or Embedding Cannot Leak Identity
+### Assuming A Model Or Embedding Cannot Leak Identity and mapping Kept With The Pseudonymous Data
 
 Sharing a model or embeddings trained on user data without assessing memorization, when the model may regurgitate identifying records. Assess memorization (especially for under-represented users) before sharing models trained on personal data.
-
-### Mapping Kept With The Pseudonymous Data
 
 Storing the pseudonymization mapping in the same database or with the same access as the pseudonymous data, so one compromise undoes the pseudonymization. Separate the mapping into a distinct trust boundary with least-privilege access.
 

@@ -84,3 +84,4 @@ Tagging things with "job" language without changing roadmap, metrics, or positio
 - [ ] Roadmap items and positioning trace back to helping the customer make the defined progress.
 - [ ] Metrics reflect whether customers are making progress on the job, not only feature usage.
 - [ ] Jobs are inferred from switching behavior and workarounds, not only from stated preference.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

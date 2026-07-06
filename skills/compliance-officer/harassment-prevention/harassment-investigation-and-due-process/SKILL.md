@@ -150,6 +150,10 @@ Restrictions preventing complainants from discussing harassment may be unenforce
 
 Discipline inconsistent with similar cases or lacking documented rationale evidences pretext.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the investigation launched promptly upon notice with interim measures that protect the complainant without penalizing them?

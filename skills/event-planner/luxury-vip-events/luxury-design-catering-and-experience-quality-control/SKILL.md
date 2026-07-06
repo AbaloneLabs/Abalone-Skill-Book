@@ -70,12 +70,9 @@ Without samples, teams discover quality problems when replacement is expensive o
 - Choosing a menu that cannot survive the actual service timing or venue limits.
 - Treating staffing quantity as a substitute for service choreography.
 - Allowing vendors to interpret the design direction independently.
-- Forgetting back-of-house, cables, trash, storage, and service doors in guest sightlines.
-- Scheduling no correction time between setup and guest arrival.
-- Adding personalization that creates clutter, errors, or cultural discomfort.
-- Checking quality only once before doors open.
-- Letting sponsor branding or required signage break the luxury environment.
-- Skipping samples, tastings, or mockups for details that define the guest's quality impression.
+- Forgetting back-of-house, cables, trash, storage, and service doors in guest sightlines; scheduling no correction time between setup and guest arrival
+- Adding personalization that creates clutter, errors, or cultural discomfort; checking quality only once before doors open
+- Letting sponsor branding or required signage break the luxury environment; skipping samples, tastings, or mockups for details that define the guest's quality impression
 
 ## Self-Check
 

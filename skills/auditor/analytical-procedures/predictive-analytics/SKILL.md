@@ -103,8 +103,7 @@ A conclusion resting on a model without this documentation is indefensible. The 
 - **Skipping validation on current, relevant data**, assuming historical performance persists despite business change.
 - **Accepting narrative explanations of differences** without specific, quantified, corroborated causes.
 - **Missing overfitting, drift, or regime change** that has silently invalidated the model since it was built.
-- **Using predictive analytics to replace detail testing** for high-risk or non-predictable assertions where the model cannot support the conclusion.
-- **Failing to document the model, validation, inputs, precision, and investigation**, leaving the conclusion indefensible.
+- **Using predictive analytics to replace detail testing** for high-risk or non-predictable assertions where the model cannot support the conclusion; **Failing to document the model, validation, inputs, precision, and investigation**, leaving the conclusion indefensible
 
 ## Self-Check
 

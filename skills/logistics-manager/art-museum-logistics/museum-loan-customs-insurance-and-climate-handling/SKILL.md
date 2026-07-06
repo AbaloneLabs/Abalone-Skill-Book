@@ -71,10 +71,8 @@ Failure to close temporary import documents or loan records can create penalties
 - Underbudgeting courier, crating, permits, secure storage, climate equipment, overtime, and emergency rerouting.
 - Monitoring climate in transit but not during staging, customs, installation, display, and return.
 - Scheduling unpacking or inspection before required courier arrival.
-- Sharing values, routes, storage sites, and security details too broadly.
-- Allowing customs inspection to proceed without condition documentation and repacking controls.
-- Forgetting CITES, cultural property permits, temporary import closure, or carnet discharge.
-- Treating return as simple outbound freight after the exhibition closes.
+- Sharing values, routes, storage sites, and security details too broadly; allowing customs inspection to proceed without condition documentation and repacking controls
+- Forgetting CITES, cultural property permits, temporary import closure, or carnet discharge; treating return as simple outbound freight after the exhibition closes
 
 ## Self-Check
 

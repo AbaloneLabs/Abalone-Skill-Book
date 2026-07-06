@@ -56,6 +56,10 @@ Stream joins and aggregations hold state proportional to the window size and the
 - **Monitor state size and checkpoint duration.** Growing state or slowing checkpoints signal that windows are too large, key cardinality is higher than expected, or eviction is insufficient.
 - **Prefer keyed state to non-keyed state.** Keyed state (state per key, redistributable) scales across parallel operators; non-keyed state (operator-level) does not and becomes a bottleneck.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Unbounded State In A Stream Join
@@ -94,3 +98,5 @@ Join or aggregation state that grows larger or checkpoints slower than expected,
 - [ ] Aggregations are correct under streaming conditions: window and trigger are explicit, early-emitted aggregations handle retractions/updates, non-associative aggregations (average, etc.) maintain the state needed for correct incremental updates, and heavy aggregations (top-N, distinct-count) are bounded per window.
 - [ ] State size is estimated from window size and key cardinality, the state backend is sized to the estimate, state size and checkpoint duration are monitored, and keyed state is preferred to non-keyed state for scalability.
 - [ ] The highest-risk cases were verified — a join that did not grow unbounded because it was windowed, a late event that matched because lateness was allowed, an aggregation that emitted a correct result despite out-of-order data, and state cost that was monitored rather than discovered at failure — not only the clean ordered-bounded path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

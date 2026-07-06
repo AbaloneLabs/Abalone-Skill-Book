@@ -84,3 +84,4 @@ Shipping and moving on without watching. The trap is problems detected through u
 - [ ] The go or no-go decision is based on readiness criteria, with schedule pressure acknowledged but not decisive.
 - [ ] A post-release monitoring plan matches the risk profile, with defined responders and rollback triggers.
 - [ ] Irreversible changes are identified and held to a higher readiness bar.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

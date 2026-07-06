@@ -147,11 +147,9 @@ Throwing to signal "item not found" or "validation failed" in a hot path turns a
 
 Designing an error type with no guidance on which variants are retryable, which are permanent, and what each means forces every caller to re-derive the policy, usually wrongly. Document the classification as part of the type. If a variant's correct handling is non-obvious, the type is under-specified.
 
-### Catching Only To Re-Throw
+### Catching Only To Re-Throw and treating Panic As A General Error Mechanism
 
 `catch (e) { throw e; }` (or re-wrapping without adding context) adds nothing and often strips the original stack or type. Either handle the error meaningfully at that layer, add real context and re-throw, or remove the catch and let it propagate. Catching just to re-throw is noise that hides the real handler.
-
-### Treating Panic As A General Error Mechanism
 
 Using panic/abort for expected operational failures (a missing config file, a network error, a user input problem) crashes the process for conditions a caller could have handled. Reserve panic for invariant violations where continuing would be unsafe; return errors for anything a caller might reasonably recover from.
 

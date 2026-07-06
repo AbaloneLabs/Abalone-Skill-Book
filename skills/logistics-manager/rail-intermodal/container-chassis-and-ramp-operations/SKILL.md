@@ -57,13 +57,11 @@ Container pickup is only useful when the consignee, warehouse, or offsite yard c
 
 This decision should compare storage, demurrage, per diem, chassis dwell, labor, and service risk. Moving a container out of the ramp too early can simply transfer congestion to a customer yard or a third-party lot.
 
-### Preserve custody, billing, and dispute evidence
+### Preserve custody, billing, and dispute evidence and escalate holds and exceptions fast
 
 Keep a timeline of availability, appointments, pickup attempts, gate transactions, holds, releases, seal checks, delivery, unload, empty notice, and return. Capture screenshots or EDI status where billing disputes are likely. Link cost responsibility to facts rather than assumptions.
 
 Evidence is especially important when free time is consumed by terminal congestion, rail delay, customs hold, or customer delay. Without a clean timeline, demurrage and per diem become arguments after the charge has already accrued.
-
-### Escalate holds and exceptions fast
 
 Customs, line, exam, freight, documentation, damage, hazmat, and ramp holds need owners and next steps. Track who can release the hold and what information is needed.
 
@@ -76,12 +74,9 @@ Unresolved holds consume free time and create cost even while teams wait for som
 - Ignoring terminal-specific rules for flips, empty returns, hazmat, reefers, and overweight moves.
 - Letting demurrage and per diem accrue without cause coding and ownership.
 - Waiting until last free day to secure drayage and chassis.
-- Forgetting empty return rules, locations, and cutoffs.
-- Failing to inspect container condition, seals, leaks, odor, damage, and placards.
-- Pulling containers from the ramp without confirming customer yard capacity, unload labor, or chassis dwell limits.
-- Losing appointment, gate, hold, and pickup-attempt evidence needed to dispute avoidable accessorials.
-- Allowing holds to age because release owner and required action are unclear.
-- Treating ramp delays as unavoidable rather than manageable flow constraints.
+- Forgetting empty return rules, locations, and cutoffs; failing to inspect container condition, seals, leaks, odor, damage, and placards
+- Pulling containers from the ramp without confirming customer yard capacity, unload labor, or chassis dwell limits; losing appointment, gate, hold, and pickup-attempt evidence needed to dispute avoidable accessorials
+- Allowing holds to age because release owner and required action are unclear; treating ramp delays as unavoidable rather than manageable flow constraints
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Unresolved holds consume free time and create cost even while teams wait for som
 - Are container condition, seals, placards, leaks, odor, contamination, and reefer status inspected and recorded?
 - Can the customer or interim yard receive the container without creating chassis dwell, detention, security, or congestion risk?
 - Is there a documented timeline for availability, holds, appointments, pickup attempts, delivery, unload, and empty return?
-- Are customs, line, exam, freight, documentation, damage, and hazmat holds owned and escalated?
-- Can the container flow complete without uncontrolled ground cost and terminal surprises?
+- Are customs, line, exam, freight, documentation, damage, and hazmat holds owned and escalated?; can the container flow complete without uncontrolled ground cost and terminal surprises?

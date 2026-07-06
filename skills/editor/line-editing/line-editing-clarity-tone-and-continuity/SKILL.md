@@ -150,7 +150,7 @@ Confirm:
 
 Continuity errors often look small but can break trust.
 
-### Cut Wordiness By Removing Weak Structures
+### Cut Wordiness By Removing Weak Structures and protect Quotes, Terms, And Meaning
 
 Concise editing is not simply making everything shorter. It removes structures that dilute meaning.
 
@@ -166,8 +166,6 @@ Common weak structures:
 - hedges that do not reflect real uncertainty.
 
 Keep length when rhythm, nuance, or clarity require it. Do not cut so aggressively that the prose becomes abrupt or loses warmth.
-
-### Protect Quotes, Terms, And Meaning
 
 Line edits must not alter quoted material, technical meaning, legal meaning, scientific nuance, or culturally specific language without care. If a quote is awkward but accurate, consider paraphrase outside quotation marks rather than "fixing" the quote.
 
@@ -210,9 +208,6 @@ Before treating line editing as complete, verify:
 - Transitions clarify real relationships rather than decorate gaps.
 - Repetition has been evaluated as either useful reinforcement or removable redundancy.
 - Tone matches the stakes, genre, reader, and evidence.
-- Names, pronouns, timelines, terms, acronyms, and examples are consistent.
-- Concision edits remove waste without cutting necessary nuance or rhythm.
-- Quotes, technical claims, and legally or ethically sensitive wording were not altered carelessly.
-- Display text was checked alongside body text.
-- Any unresolved ambiguity is flagged for the writer rather than silently guessed.
-- The edited prose is clearer and more intentional, not merely more conventional.
+- Names, pronouns, timelines, terms, acronyms, and examples are consistent; concision edits remove waste without cutting necessary nuance or rhythm
+- Quotes, technical claims, and legally or ethically sensitive wording were not altered carelessly; display text was checked alongside body text
+- Any unresolved ambiguity is flagged for the writer rather than silently guessed; the edited prose is clearer and more intentional, not merely more conventional

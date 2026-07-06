@@ -59,6 +59,10 @@ For years, hypotonic fluids (like 0.45% NaCl) were standard maintenance fluids f
 
 The trap is that liquid medications come in multiple concentrations (infant vs children's acetaminophen, different formulations of the same drug), and using the wrong concentration gives the wrong dose even when the volume is "correct" per the calculation. The harm is overdose or underdose. Always confirm the concentration of the specific bottle in your hand, not the concentration you assume. Teach parents to check the concentration when buying over-the-counter medications, as infant and children's formulations may have the same name but different strengths.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the weight I am using for this calculation current (re-weighed today if indicated), accurate, and in kilograms?

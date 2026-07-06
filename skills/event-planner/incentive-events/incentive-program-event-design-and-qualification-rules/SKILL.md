@@ -70,12 +70,9 @@ An incentive event should inform the next incentive design, not remain a one-off
 - Making exceptions after winners are known without transparent governance.
 - Letting winners discover guest, tax, travel, or cancellation limits too late.
 - Ignoring non-winner and manager communication, which can turn a reward into a morale problem.
-- Turning recognition into public ranking or embarrassment.
-- Treating companions as logistical extras rather than part of the reward value.
-- Ignoring compliance, payroll, gift, partner, or anti-bribery review.
-- Sharing performance and travel data too broadly.
-- Measuring success only by attendee enjoyment, not behavior and fairness.
-- Repeating the same program without learning whether it actually motivated the audience.
+- Turning recognition into public ranking or embarrassment; treating companions as logistical extras rather than part of the reward value
+- Ignoring compliance, payroll, gift, partner, or anti-bribery review; sharing performance and travel data too broadly
+- Measuring success only by attendee enjoyment, not behavior and fairness; repeating the same program without learning whether it actually motivated the audience
 
 ## Self-Check
 

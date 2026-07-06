@@ -1,6 +1,6 @@
 ---
 name: mobility-and-activities-of-daily-living-retraining.md
-description: Use when the nurse is supporting patients through mobility retraining, transfer training, gait re-education, activities of daily living restoration, adaptive equipment use, or functional independence measurement during rehabilitation for orthopedic, neurological, cardiac, or deconditioning recovery.
+description: Use when the agent is supporting patients through mobility retraining, transfer training, gait re-education, activities of daily living restoration, adaptive equipment use, or functional independence measurement during rehabilitation for orthopedic, neurological, cardiac, or deconditioning recovery.
 ---
 
 # Mobility and Activities of Daily Living Retraining

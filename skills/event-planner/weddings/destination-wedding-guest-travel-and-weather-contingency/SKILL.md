@@ -41,6 +41,10 @@ Guests should receive clear updates without being pulled into planning anxiety. 
 
 Staff need a separate operational version with timing, layout, roles, vendor contacts, and decision authority. Guest-facing messages should be brief and practical.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Assuming guest travel is outside the event planner's concern. Arrival patterns affect rehearsals, shuttles, photos, and ceremony timing.

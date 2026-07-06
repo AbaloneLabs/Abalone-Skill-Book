@@ -29,6 +29,10 @@ Every prescribing error that the pharmacist detects and intervenes on must be do
 
 There are situations where the prescriber confirms the order despite the pharmacist's concern, or where the prescriber cannot be reached at all. In these cases, the pharmacist must exercise independent professional judgment. If the pharmacist believes the medication will cause harm, they have both the right and the obligation to refuse to dispense. This refusal must be communicated to the prescriber with the clinical reasoning, documented thoroughly, and escalated to the pharmacist-in-charge or pharmacy manager. The pharmacist must not dispense a medication they believe is dangerous simply because the prescriber insists — the pharmacist's license and the patient's safety both depend on the willingness to hold the line.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Deference Trap — Noticing the Error but Trusting the Prescriber
@@ -47,6 +51,14 @@ The pharmacist calls the prescriber's office, reaches a medical assistant, leave
 
 Under workflow pressure, the pharmacist begins to treat all clarifications the same way: leave a message, continue dispensing other orders, and wait for a callback. The trap is that this uniform approach fails to distinguish between a non-urgent clarification (incomplete directions on a maintenance medication) and an urgent one (a suspected tenfold overdose of a pediatric chemotherapy agent). The harm is that the urgent clarification is handled at the same pace as the non-urgent one, and the window for preventing harm closes while the pharmacist waits for a callback that may not come for hours. The pharmacist must triage clarifications by clinical urgency and use direct, real-time communication for any error with potential for serious harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Optimizing for the easy-to-measure signal while ignoring the harder one
+
+The visible, quantifiable metric is pursued while the qualitative risk that actually drives the outcome is neglected. The trap is that the dashboard looks good while the real danger grows unnoticed, because the meaningful signal was harder to capture and was dropped.
+
 ## Self-Check
 
 - Did I classify the detected error by severity before choosing my intervention, or did I apply the same response regardless of clinical consequence?
@@ -55,3 +67,5 @@ Under workflow pressure, the pharmacist begins to treat all clarifications the s
 - If the prescriber confirmed the order despite my concern, did I evaluate their clinical reasoning, or did I defer to their authority without verifying the basis for their decision?
 - Did I treat documentation as the intervention itself, or did I document an actual intervention (hold, contact, resolution)?
 - For urgent errors, did I use real-time communication (phone call), or did I leave a message and assume it would be returned in time?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

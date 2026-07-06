@@ -142,11 +142,9 @@ An automated reversal or allocation that posts to the wrong period creates recon
 
 A rule that posts without reconciliation can drift for months after a driver, account, or source feed changes.
 
-### Over-Broad Rules With No Exception Handling
+### Over-Broad Rules With No Exception Handling and framework Non-Compliance Encoded In Logic
 
 A rule that posts everything it generates, including zero amounts, missing drivers, and out-of-range results, propagates errors at scale.
-
-### Framework Non-Compliance Encoded In Logic
 
 Automation logic for revenue, leases, hedging, or tax must reflect framework requirements confirmed by qualified professionals.
 

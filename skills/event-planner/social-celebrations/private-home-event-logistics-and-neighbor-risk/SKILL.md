@@ -70,12 +70,9 @@ The event is not complete until the home and neighborhood are restored.
 - Ignoring HOA, noise, fire, alcohol, tent, and local permit restrictions.
 - Assuming homeowners insurance automatically covers vendors, alcohol, valet, pools, tents, and paid staff.
 - Depending on household bathrooms, kitchen, outlets, and trash bins for event-scale use.
-- Failing to protect floors, furniture, plants, pools, private rooms, and valuables.
-- Letting vendors occupy the home longer or more widely than the host expected.
-- Forgetting pets, children, neighbors, and household routines during setup.
-- Making weather calls too late for tents, flooring, heaters, fans, or relocation.
-- Having no staff to enforce off-limits areas and guest boundaries.
-- Ending without cleanup, restoration, damage review, and neighbor follow-up.
+- Failing to protect floors, furniture, plants, pools, private rooms, and valuables; letting vendors occupy the home longer or more widely than the host expected
+- Forgetting pets, children, neighbors, and household routines during setup; making weather calls too late for tents, flooring, heaters, fans, or relocation
+- Having no staff to enforce off-limits areas and guest boundaries; ending without cleanup, restoration, damage review, and neighbor follow-up
 
 ## Self-Check
 

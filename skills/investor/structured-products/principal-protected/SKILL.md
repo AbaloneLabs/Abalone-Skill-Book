@@ -112,3 +112,4 @@ Some PPNs generate taxable income before cash is received. Tax treatment varies 
 - [ ] Tax treatment (phantom income, OID, annual versus maturity taxation) and inflation risk are factored in.
 - [ ] The note is compared to replication (government bond plus option, or bond plus equity) and the embedded cost and issuer risk are weighed.
 - [ ] The conclusion avoids presenting PPNs as risk-free, references the participation rate, cap, issuer risk, and lockup, and notes the opportunity cost and the investor-specific suitability (packaged guarantee versus lower-cost replication).
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

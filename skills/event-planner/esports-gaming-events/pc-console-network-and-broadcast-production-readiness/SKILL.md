@@ -70,12 +70,9 @@ A checklist-only rehearsal is not enough. Esports systems fail at handoffs betwe
 - Updating games or drivers after rehearsal without retesting.
 - Depending on shared venue Wi-Fi for competitive play.
 - Forgetting firewall, ports, anti-cheat, and launcher account issues.
-- Failing to reset stations, log out accounts, clear comms, and protect private player settings between matches.
-- Losing access because two-factor authentication is tied to one person's phone.
-- Testing cameras and mics but not full game capture to stream.
-- Underestimating observer and caster preparation.
-- Having no spare cables, controllers, headsets, capture devices, or network gear.
-- Skipping a real end-to-end technical rehearsal.
+- Failing to reset stations, log out accounts, clear comms, and protect private player settings between matches; losing access because two-factor authentication is tied to one person's phone
+- Testing cameras and mics but not full game capture to stream; underestimating observer and caster preparation
+- Having no spare cables, controllers, headsets, capture devices, or network gear; skipping a real end-to-end technical rehearsal
 
 ## Self-Check
 

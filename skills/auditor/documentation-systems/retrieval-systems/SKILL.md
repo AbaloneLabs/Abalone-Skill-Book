@@ -174,7 +174,5 @@ Different authors using different terms for the same concept breaks keyword sear
 - Is there a designated coordinator and a defined production format for document requests?
 - Before any production, is the set verified for completeness, currency, and inclusion of attachments?
 - Does a production manifest record every item, its version, recipient, and date?
-- Are items withheld from a production documented with a legal basis?
-- Is the retrieval system tested periodically for speed, metadata completeness, and version accuracy?
-- Could an inspector locate the complete current set for any assertion or account without the original preparer's help?
-- Are privileged and confidential items screened, marked, and withheld on a documented legal basis during production?
+- Are items withheld from a production documented with a legal basis?; is the retrieval system tested periodically for speed, metadata completeness, and version accuracy?
+- Could an inspector locate the complete current set for any assertion or account without the original preparer's help?; are privileged and confidential items screened, marked, and withheld on a documented legal basis during production?

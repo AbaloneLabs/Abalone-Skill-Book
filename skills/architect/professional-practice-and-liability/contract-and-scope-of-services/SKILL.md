@@ -105,6 +105,10 @@ The owner's counsel inserts warranties, guarantees, or indemnities that exceed t
 
 The owner or contractor relies on the architect for site services beyond the contracted CA scope, additional visits, extensive documentation, direction to subcontractors, and the architect provides them to support the project without formalizing the expansion. The trap is that CA work is relationship-driven and hard to refuse in the moment, so it expands informally while the contract remains unchanged. The false signal is the engaged construction administration, which appears diligent while exceeding the scope. The harm is unpaid effort, liability for site matters outside the contracted role, and an expectation set that future projects will provide the same expanded service for the standard fee, because the boundary was never enforced.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is basic services defined by phase, deliverable, and effort, with explicit exclusions, and tied to the fee?
@@ -114,3 +118,4 @@ The owner or contractor relies on the architect for site services beyond the con
 - [ ] Are scope changes managed as written amendments or additional-services authorizations before work is performed?
 - [ ] Is risk allocated to the standard of care, with indemnities, warranties, and uninsurable clauses reviewed by counsel and insurance?
 - [ ] Is the signed contract reconciled with the working scope, rather than allowed to drift from the actual engagement?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

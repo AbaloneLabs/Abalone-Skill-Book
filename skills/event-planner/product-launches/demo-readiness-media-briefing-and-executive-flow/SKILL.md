@@ -60,12 +60,9 @@ Executive briefings, photos, VIP greetings, analyst sessions, and internal commi
 - Testing demos in the office but not on venue network, screens, lighting, and audio.
 - Using personal data, real customer data, or unstable accounts in demos.
 - Having no authority to abandon a failing live demo.
-- Letting executives improvise roadmap or pricing promises.
-- Giving media or analysts a different story than the public launch.
-- Building hands-on stations with no reset, security, staffing, or follow-up capture.
-- Testing demos without full show conditions and realistic failure drills.
-- Exposing private data through notifications, browser history, dashboards, file names, or demo accounts.
-- Overscheduling executives so they arrive at stage without rehearsal or recovery time.
+- Letting executives improvise roadmap or pricing promises; giving media or analysts a different story than the public launch
+- Building hands-on stations with no reset, security, staffing, or follow-up capture; testing demos without full show conditions and realistic failure drills
+- Exposing private data through notifications, browser history, dashboards, file names, or demo accounts; overscheduling executives so they arrive at stage without rehearsal or recovery time
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Executive briefings, photos, VIP greetings, analyst sessions, and internal commi
 - Are media and analyst briefings aligned on embargo, NDA, on-record status, materials, interviews, and technical access?
 - Do hands-on areas control queues, devices, security, privacy, accessibility, staffing, reset, and follow-up capture?
 - Has the demo been rehearsed under real venue, screen, network, livestream, caption, audio, and movement conditions?
-- Are demo data, notifications, files, accounts, and privacy risks cleaned and controlled?
-- Is executive pre-stage time protected from media, VIP, and internal scheduling pressure?
+- Are demo data, notifications, files, accounts, and privacy risks cleaned and controlled?; is executive pre-stage time protected from media, VIP, and internal scheduling pressure?

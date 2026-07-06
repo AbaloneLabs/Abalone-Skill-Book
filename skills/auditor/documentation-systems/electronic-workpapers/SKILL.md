@@ -170,11 +170,7 @@ A file left open indefinitely remains editable and never reaches the controlled 
 - Are sign-offs applied only after review, never before?
 - Does the system log every change with user, timestamp, and reason?
 - Are prior versions retained and is the current version clearly identified?
-- Is attached evidence original, sourced, dated, and linked to a specific procedure and conclusion?
-- Is access restricted to the engagement team with an auditable access log?
-- Does each workpaper state its objective, procedure, result, and conclusion explicitly?
-- Are all review notes cleared and all open items resolved before closure?
-- Has the file been formally closed with a documented completion check and placed under change control?
-- Are open items and subsequent events logged with owners, due dates, and resolution before the file is locked?
-- Does every significant judgment in the file have a workpaper that documents its basis and conclusion?
-- Does the change history show what was altered, by whom, when, and why for every post-sign-off edit?
+- Is attached evidence original, sourced, dated, and linked to a specific procedure and conclusion?; is access restricted to the engagement team with an auditable access log?
+- Does each workpaper state its objective, procedure, result, and conclusion explicitly?; are all review notes cleared and all open items resolved before closure?
+- Has the file been formally closed with a documented completion check and placed under change control?; are open items and subsequent events logged with owners, due dates, and resolution before the file is locked?
+- Does every significant judgment in the file have a workpaper that documents its basis and conclusion?; does the change history show what was altered, by whom, when, and why for every post-sign-off edit?

@@ -94,11 +94,9 @@ Acting on whichever supporting or segment metric happened to be significant, whi
 
 Measuring only short-window metrics and missing harms (retention, churn, support volume) that appear weeks after launch. Plan post-launch follow-ups for lagging metrics.
 
-### User-Level Metrics Under Network Effects
+### User-Level Metrics Under Network Effects and composite Metric With Hidden Component Swings
 
 Using user-level metrics in a two-sided market or social setting where treatment spills to control, mixing direct and indirect effects. Use cluster randomization and analyze at the cluster level.
-
-### Composite Metric With Hidden Component Swings
 
 A single composite "score" that improved while one component collapsed and another spiked, hiding the real change. Inspect components, not just the composite.
 

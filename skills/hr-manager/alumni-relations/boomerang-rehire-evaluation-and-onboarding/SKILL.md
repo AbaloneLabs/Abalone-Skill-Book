@@ -76,3 +76,4 @@ Without outcome data, the organization cannot validate the strategy or improve e
 - Is the compensation and level decision benchmarked to market and internal equity, deliberate and defensible?
 - Have I clarified role expectations and the boomerang's reasons for return, documenting alignment before the rehire?
 - Am I tracking boomerang outcomes — performance, retention, time to productivity, re-departure reasons — against new-hire benchmarks to validate and improve the strategy?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

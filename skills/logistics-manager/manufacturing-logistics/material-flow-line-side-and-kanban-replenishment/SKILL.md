@@ -57,12 +57,9 @@ Tie material flow to planning, procurement, quality, engineering, and production
 - Letting cards, bins, and scans become optional during rush periods.
 - Ignoring ergonomics, container orientation, and operator motion.
 - Allowing obsolete or mixed-revision parts near the line.
-- Measuring material handlers by activity rather than missed signals and line risk.
-- Designing milk runs without empty returns, aisle congestion, and route interruptions.
-- Failing to update kanban after BOM, demand, supplier pack, or layout changes.
-- Letting emergency replenishment become the normal method while the formal signal system decays.
-- Decanting or repacking parts in ways that lose lot, shelf-life, revision, or customer-restriction evidence.
-- Escalating shortages without classifying whether the cause is supplier, planning, quality, engineering, route, or inventory accuracy.
+- Measuring material handlers by activity rather than missed signals and line risk; designing milk runs without empty returns, aisle congestion, and route interruptions
+- Failing to update kanban after BOM, demand, supplier pack, or layout changes; letting emergency replenishment become the normal method while the formal signal system decays
+- Decanting or repacking parts in ways that lose lot, shelf-life, revision, or customer-restriction evidence; escalating shortages without classifying whether the cause is supplier, planning, quality, engineering, route, or inventory accuracy
 
 ## Self-Check
 
@@ -75,5 +72,4 @@ Tie material flow to planning, procurement, quality, engineering, and production
 - Are route adherence, missed signals, emergency replenishment, and line stoppage risk measured?
 - Are card counts, pack quantities, BOM changes, location master, and demand changes audited for drift?
 - Does the escalation path name who can resequence production, authorize temporary buffers, release emergency stock, or involve suppliers?
-- Are lot, FIFO, shelf life, revision, inspection status, customer restriction, and traceability requirements preserved after decanting or point-of-use storage?
-- Do shift handoffs and tier meetings separate root causes instead of recording every issue as generic material lateness?
+- Are lot, FIFO, shelf life, revision, inspection status, customer restriction, and traceability requirements preserved after decanting or point-of-use storage?; do shift handoffs and tier meetings separate root causes instead of recording every issue as generic material lateness?

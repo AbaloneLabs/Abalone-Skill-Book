@@ -106,6 +106,10 @@ Using regional climate data — the nearest weather station — as if it describ
 
 When the envelope and passive strategy are designed in isolation from the mechanical systems, the two can conflict: a high-glazing envelope forces oversized cooling, a tight envelope without shading requires constant mechanical tempering, or daylight design that ignores lighting controls wastes its potential. The trap is that each discipline's documents look complete — the architect shows the envelope, the engineer shows the systems — so the design appears coordinated, while in reality the systems fight each other, inflating first cost and energy use. The harm is an inefficient, uncomfortable building whose components never achieve their intended performance. Coordinating envelope, daylight, shading, lighting, and mechanical strategies as an integrated whole, with consultants engaged early and findings fed back into the design, is what makes passive and active systems reinforce rather than undermine each other.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Was the site microclimate analyzed before massing, considering regional climate data plus site-specific modifiers (topography, water, vegetation, adjacent buildings)?

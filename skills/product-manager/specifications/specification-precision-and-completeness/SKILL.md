@@ -84,3 +84,4 @@ Specs committed without structured review for precision and completeness. The tr
 - [ ] Examples are used to clarify stated rules, not to replace specification of the general principle.
 - [ ] The spec has been reviewed specifically for precision and completeness, using a structured checklist.
 - [ ] A builder could implement the system from the spec without inferring undefined behavior or interpreting ambiguous statements.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

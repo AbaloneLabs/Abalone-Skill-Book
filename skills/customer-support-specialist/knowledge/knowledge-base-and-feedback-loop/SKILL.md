@@ -1,193 +1,90 @@
 ---
-name: knowledge_base_and_feedback_loop.md
-description: Use when the agent is creating or reviewing support knowledge base articles, help center content, macros, internal notes, self-service flows, support documentation, or feedback loops from customer issues into product and operations.
+name: knowledge-base-and-feedback-loop.md
+description: Use when the agent is using, updating, reviewing, or creating support knowledge base content, identifying gaps from tickets, routing product or policy feedback, preventing stale guidance, and deciding how knowledge should reduce repeat contacts without hiding risk or misleading customers.
 ---
 
 # Knowledge Base And Feedback Loop
 
-Support knowledge is a product surface. A help article, macro, internal note, troubleshooting guide, or self-service flow can reduce customer effort and improve consistency. It can also mislead customers, expose outdated policy, hide product defects, or train support teams into poor answers. The support specialist must keep knowledge accurate, findable, customer-centered, and connected to product feedback.
-
-Use this skill before writing support documentation, updating a help center article, creating a macro, summarizing recurring tickets, proposing self-service content, or turning support patterns into product feedback. The goal is to prevent documentation from becoming a static dumping ground.
+A knowledge base is not a warehouse of answers. It shapes what customers try before contacting support, what agents say, which issues are deflected, and which product or policy problems become visible. Agents often treat knowledge gaps as one-off ticket friction. This skill helps the agent turn repeated support evidence into maintained, accurate, and accountable knowledge.
 
 ## Core Rules
 
-### Start From Real Customer Questions
+### Use tickets as evidence, not anecdotes
 
-Knowledge content should answer questions customers actually have. Use ticket patterns, search logs, failed searches, support tags, onboarding friction, release changes, and repeated misunderstandings.
+Identify recurring customer questions, repeated failure points, confusing wording, high-contact topics, broken self-service flows, and macros that require frequent manual correction. Look for patterns across volume, severity, customer effort, and risk.
 
-Ask:
+Do not create or change knowledge content based on one unusual case unless the risk is high and clearly generalizable.
 
-- what customers ask;
-- what words they use;
-- where they get stuck;
-- what they tried first;
-- what outcome they need;
-- whether the issue is confusion, product defect, policy, or missing capability;
-- whether self-service is appropriate.
+### Separate content gap from product gap
 
-Do not create articles only because an internal team wants to publish information. Start from customer need.
+Some repeat contacts happen because the article is missing or unclear. Others happen because the product flow is broken, policy is confusing, the UI is misleading, or the process is too hard. Route product and policy problems instead of trying to write around them forever.
 
-### Choose The Right Knowledge Format
+Good documentation should not become camouflage for bad design or broken operations.
 
-Different problems need different formats.
+### Define the owner and review cycle
 
-Possible formats:
+Each knowledge item should have a content owner, subject-matter owner, review cadence, last-reviewed date, and update path. Without ownership, stale information persists after product, policy, pricing, legal, or workflow changes.
 
-- step-by-step article;
-- troubleshooting guide;
-- FAQ;
-- policy explanation;
-- known issue note;
-- release note;
-- macro;
-- internal-only runbook;
-- video or screenshot guide;
-- decision tree;
-- escalation checklist.
+Do not publish guidance that no one is responsible for maintaining.
 
-Public content should be safe, clear, and customer-actionable. Internal content can include routing, diagnostic details, and policy nuance that should not be exposed publicly.
+### Keep internal and customer-facing knowledge distinct
 
-### Keep Instructions Accurate And Testable
+Internal articles may include routing criteria, approval paths, risk signals, and troubleshooting depth that customers should not see. Customer-facing articles should be clear, safe, and action-oriented without exposing internal controls, fraud thresholds, security procedures, or sensitive policies.
 
-Support documentation should be verified against the current product or process.
+Do not copy internal notes into public help content.
 
-Check:
+### Preserve policy and compliance accuracy
 
-- UI labels and navigation;
-- screenshots;
-- permissions;
-- plan differences;
-- region differences;
-- device or browser differences;
-- policy dates;
-- billing behavior;
-- edge cases;
-- failure modes;
-- when to contact support.
+Knowledge touching refunds, privacy, safety, legal requests, billing, auto-renewal, warranties, security, accessibility, or regulated claims needs approved sources and review. A convenient answer can create obligations if it contradicts policy.
 
-Do not publish steps that support has not tested or confirmed with the owning team.
+Escalate content conflicts rather than editing around them casually.
 
-### Write For Customer Action
+### Make feedback actionable
 
-Customers come to support content to solve something. The article should help them decide whether it applies, take the next step, and know what to expect.
+When submitting feedback, include the article or missing topic, customer problem, evidence from tickets, frequency or impact, incorrect wording, proposed change, owner needed, and urgency. "Article is bad" is not actionable.
 
-Include:
+Knowledge feedback should let the owner decide and act quickly.
 
-- who the article applies to;
-- prerequisites;
-- clear steps;
-- expected result;
-- common errors;
-- what to do if it does not work;
-- links to related articles;
-- support contact path when self-service is not enough.
+### Measure deflection quality, not just volume
 
-Avoid long internal explanations before the customer can act.
+High self-service usage is not success if customers still reopen cases, misunderstand policy, perform unsafe steps, or contact support angrier. Use repeat contact, search failures, escalation rate, CSAT, and issue resolution to judge knowledge quality.
 
-### Maintain Version And Ownership
+Deflection that hides unresolved harm is not support success.
 
-Knowledge decays. Assign ownership and review rhythm.
+### Close the feedback loop
 
-Track:
+After content is updated, confirm macros, bots, help-center search, translations, internal training, and related articles are aligned. Notify agents where needed. Track whether contacts reduce or change.
 
-- article owner;
-- subject matter reviewer;
-- last reviewed date;
-- product version or release dependency;
-- policy dependency;
-- analytics and feedback;
-- deprecation or replacement article;
-- internal versus public status.
+A fixed article can fail if surrounding systems still point to stale guidance.
 
-If nobody owns the content, it will become stale.
+### Prioritize by harm, not only volume and preserve source traceability
 
-### Use Macros Carefully
+Low-volume topics can deserve urgent knowledge work when they involve money loss, account access, safety, privacy, legal exposure, accessibility, or irreversible actions. High-volume low-risk topics may need usability improvement, but they should not crowd out high-harm gaps.
 
-Macros increase consistency and speed, but they can make support sound careless when used blindly.
+Knowledge prioritization should combine contact volume, customer effort, risk, and reversibility.
 
-Good macros:
-
-- include placeholders that must be filled;
-- adapt to customer context;
-- avoid unsupported promises;
-- include safe information only;
-- route sensitive cases correctly;
-- stay updated with policy and product changes.
-
-Macros should remind agents to think, not remove judgment.
-
-### Measure Whether Knowledge Actually Helps
-
-Publishing an article is not proof that it works. Review whether customers find it, understand it, and avoid needing another contact.
-
-Useful signals include:
-
-- search terms with no useful result;
-- article views followed by support contact;
-- negative article feedback;
-- repeated macro edits by agents;
-- unresolved tickets after self-service;
-- time saved for customers or support;
-- reduction in duplicate questions.
-
-If content is frequently viewed but customers still contact support, the article may be unclear, incomplete, outdated, or solving the wrong problem.
-
-### Close The Product Feedback Loop
-
-Repeated support contacts are evidence. They may show unclear UI, broken flows, missing features, weak onboarding, policy confusion, or product defects.
-
-Turn patterns into:
-
-- product feedback;
-- bug reports;
-- documentation updates;
-- onboarding changes;
-- UI copy improvements;
-- support training;
-- operational process fixes.
-
-Include ticket volume, customer impact, examples, affected segment, workaround, and business risk. Product teams need evidence, not only complaints.
+When knowledge changes, link the supporting source: policy, product owner, release note, legal guidance, incident record, billing rule, or ticket pattern. Future maintainers need to know whether the article is based on authority, observation, or temporary workaround.
 
 ## Common Traps
 
-### Writing For Internal Organization
-
-Customers do not care which internal team owns a feature. Organize content by customer task and language.
-
-### Publishing Workarounds As Permanent Fixes
-
-If many customers need a workaround, product or operations may need to address the root cause.
-
-### Letting Screenshots Age
-
-Outdated screenshots quickly reduce trust. Use them when they help, and review after UI changes.
-
-### Macro Overuse
-
-A correct macro used in the wrong context can feel insulting or fail to solve the problem.
-
-### No Search Language
-
-If the article does not use customer terms, customers may not find it.
-
-### Feedback Without Evidence
-
-Product feedback that says "customers are confused" is weaker than one with ticket counts, examples, impact, and proposed root cause.
-
-### Measuring Article Views As Success
-
-High views can mean the article is useful, but it can also mean customers are repeatedly forced to look up a confusing workflow. Pair views with resolution and follow-up contact signals.
+- Treating every ticket as a knowledge article request.
+- Writing around a broken product or policy instead of routing the root issue.
+- Publishing content without owner, review date, or maintenance path.
+- Mixing internal risk controls into customer-facing guidance; updating a public article from memory instead of approved policy
+- Submitting vague feedback that content owners cannot act on; judging knowledge success only by reduced ticket volume
+- Ignoring search terms customers actually use; updating one article while macros, bots, translations, and related articles remain stale
+- Failing to verify whether the update reduced repeat contacts or confusion; prioritizing only by ticket volume and missing low-volume high-risk gaps
+- Treating knowledge maintenance as content cleanup rather than risk control; updating knowledge without recording the source or authority behind the change
 
 ## Self-Check
 
-- [ ] The content is based on real customer questions, ticket patterns, search behavior, or known friction.
-- [ ] The chosen format fits the problem: article, FAQ, troubleshooting guide, macro, internal runbook, known issue, or decision tree.
-- [ ] Instructions were checked against current product behavior, policy, permissions, plans, regions, and edge cases.
-- [ ] The article states who it applies to, prerequisites, steps, expected result, errors, and what to do if it fails.
-- [ ] Public content avoids internal-only details, sensitive diagnostics, and unsafe disclosure.
-- [ ] Content has owner, reviewer, review date, and dependency on product or policy changes where relevant.
-- [ ] Macros require context adaptation and avoid unsupported promises.
-- [ ] Repeated support issues are converted into product feedback, documentation updates, training, or operational fixes.
-- [ ] Product feedback includes volume, examples, impact, segment, workaround, and risk.
-- [ ] Knowledge performance is reviewed with findability, resolution, feedback, and repeat-contact signals.
-- [ ] Knowledge content reduces customer effort rather than hiding product or process problems.
+- Is the knowledge need supported by recurring evidence, severity, customer effort, or high-risk gap?
+- Is the issue a content gap, product gap, policy gap, workflow gap, or training gap?
+- Are content owner, subject owner, review cadence, last-reviewed date, and update path clear?
+- Is internal guidance separated from customer-facing content?
+- Are fraud, security, privacy, legal, safety, approval, and internal routing details protected from public content?
+- Are policy-sensitive topics based on approved current sources?
+- Does feedback include article or topic, customer problem, evidence, frequency or impact, wording issue, proposed change, owner, and urgency?
+- Are deflection quality signals checked beyond ticket volume?; are macros, bots, search, translations, training, and related articles aligned after update?
+- Is there a plan to observe whether repeat contacts or confusion decrease?; was prioritization based on volume, harm, customer effort, risk, and reversibility?
+- Are low-volume issues involving money, access, safety, privacy, legal, accessibility, or irreversible action treated with appropriate urgency?; is the source or authority for the knowledge change traceable?

@@ -70,12 +70,9 @@ Marketing can create operational risk if conversion rises faster than capacity o
 - Hiding date, location, cost, guest policy, accessibility, or RSVP details.
 - Collecting too much data before the invitee is ready to commit.
 - Failing to test registration forms, payments, promo codes, and confirmation emails.
-- Sending reminders that repeat the same message without new value.
-- Ignoring funnel signals that reveal form, message, or segment problems.
-- Overbooking without clear capacity, waitlist, and priority-seat rules.
-- Assuming RSVP equals attendance without follow-up logistics and reminders.
-- Mishandling opt-outs, partner lists, personal data, or visible recipient information.
-- Keeping registration forecasts separate from catering, staffing, seating, security, and transport decisions.
+- Sending reminders that repeat the same message without new value; ignoring funnel signals that reveal form, message, or segment problems
+- Overbooking without clear capacity, waitlist, and priority-seat rules; assuming RSVP equals attendance without follow-up logistics and reminders
+- Mishandling opt-outs, partner lists, personal data, or visible recipient information; keeping registration forecasts separate from catering, staffing, seating, security, and transport decisions
 
 ## Self-Check
 

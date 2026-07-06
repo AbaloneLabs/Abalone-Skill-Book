@@ -70,12 +70,9 @@ After the event, thank hosts and guests appropriately and resolve any lounge ser
 - Staffing the room with people who cannot recognize or help key guests.
 - Designing for luxury visuals instead of conversation, privacy, and service reliability.
 - Having no empowered recovery path for wrong names, credentials, dietary misses, full seating, or service failures.
-- Overselling access until the lounge is crowded.
-- Ignoring accessibility, restrooms, power, Wi-Fi, and quiet.
-- Allowing media or social content into a privacy-sensitive space.
-- Letting VIPs miss program moments because no one cues them.
-- Forgetting sponsor or donor follow-up from lounge conversations.
-- Treating VIP service failures as minor because general attendees did not see them.
+- Overselling access until the lounge is crowded; ignoring accessibility, restrooms, power, Wi-Fi, and quiet
+- Allowing media or social content into a privacy-sensitive space; letting VIPs miss program moments because no one cues them
+- Forgetting sponsor or donor follow-up from lounge conversations; treating VIP service failures as minor because general attendees did not see them
 
 ## Self-Check
 

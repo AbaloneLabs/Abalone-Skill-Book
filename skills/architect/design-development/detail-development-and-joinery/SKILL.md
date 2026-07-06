@@ -99,6 +99,10 @@ When an architectural detail is developed without integrating the structural con
 
 When a project defaults to library standard details at conditions where the design concept demands a specific resolution, the building's execution contradicts its intent, producing a structure whose concept is visible in the renderings and absent in the construction. The trap is that the standard detail is familiar, quick to produce, and code-compliant, so the team accepts it as efficient, while it actually undermines the architectural idea the project is built around. The harm is a building that disappoints, whose details read as generic where the concept promised specificity, and whose coherence dissolves at the scale the occupant actually encounters. Details must be developed from the design concept, with standard details used only where they genuinely serve the intent, because a detail that betrays the concept is a failure of design, not merely of documentation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does every enclosure detail manage water through layered defenses, lapped flashings, and drained cavities, with sealant as a secondary seal?

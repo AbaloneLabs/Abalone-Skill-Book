@@ -59,6 +59,10 @@ The team focuses on geometry and treats parameters as optional, so the as-built 
 
 Files are emailed, dropped on shared drives, and named informally, so the team works from multiple versions and the federated model federates against stale discipline models. The mechanism is that a CDE feels like overhead and email feels immediate, and the false signal is that the file was sent and so it is current. The harm is that coordination runs against superseded models, clashes are reported against geometry that has already changed, and decisions are made on bad information. The CDE must be the single source of truth, with status-based naming, and discipline leads must publish rather than send.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does the BEP derive from a documented owner information requirement, with each required deliverable mapped to a model use, author, and milestone?

@@ -59,6 +59,10 @@ The trap is that the nurse or provider wants to "see the coagulation panel" befo
 
 The trap is that the bleeding visibly slows, the uterus firms up, and the team relaxes, so the frequency of assessment drops. The mechanism of harm is that re-bleeding from atony (the uterus can relax again), retained tissue, or evolving coagulopathy can resume within minutes to hours, and the depleted patient has no reserve to tolerate a second hemorrhage. The harm is a patient who "was fine" suddenly deteriorates in the recovery period when monitoring has been stepped down. After any PPH, maintain close monitoring (frequent vitals, fundal checks, QBL, urine output, mental status) for at least four to six hours, and educate the next shift on the event and the residual risk.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is my blood loss quantified by weighing and calibrated collection, not visual estimation, and is the cumulative QBL documented at defined intervals?

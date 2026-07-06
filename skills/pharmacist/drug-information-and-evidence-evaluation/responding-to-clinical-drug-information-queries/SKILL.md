@@ -29,6 +29,10 @@ A drug information response is useful only if it arrives when the decision is be
 
 Every drug information response must be documented, not as bureaucratic record-keeping, but as the evidence trail that allows the response to be verified, updated, and reused. The documentation must include the original question as asked, the reformulated question, the sources searched, the key evidence found, the recommendation, and the evidence grade. This documentation protects the patient (the recommendation can be reviewed if new evidence emerges), protects the pharmacist (the reasoning is visible if the outcome is questioned), and serves the institution (recurring questions can be answered from the documented response rather than re-searched). A response delivered verbally and never documented is, for practical purposes, a response that never existed if it is later questioned.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Tertiary Source That Has Not Been Updated
@@ -47,6 +51,14 @@ A nurse asks "what is the half-life of this drug?" The pharmacist provides the h
 
 A prescriber asks about a rare drug interaction. The pharmacist searches and finds a single published case report describing the interaction. The mechanism of the trap is that a case report is the lowest level of evidence — it describes one event, with no control, no measurement of confounders, and no ability to distinguish causation from coincidence — but it is also the only evidence available, and the pharmacist, needing to provide an answer, treats it as definitive. The harm is that the prescriber, receiving a confident-sounding recommendation, changes the regimen based on an observation that may not generalize — the interaction may have been caused by the patient's other conditions, by a different drug, or by chance. The correct response communicates the evidence grade explicitly: "this interaction is described in a single case report; causality is uncertain; monitor if the combination is necessary, but do not assume the interaction is established."
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I reformulate the request into a structured clinical question specifying the population, drug, outcome, and context, or did I search on the vague original question?
@@ -55,3 +67,5 @@ A prescriber asks about a rare drug interaction. The pharmacist searches and fin
 - Did I distinguish "absence of evidence" (no studies) from "evidence of absence" (studies found no harm), or did I let the requester interpret the gap as safety?
 - Did I ask why the information was needed before answering, to ensure I addressed the underlying clinical question rather than the literal question asked?
 - Did I document the question, the search strategy, the sources, the answer, and the evidence grade, so the response can be verified and updated if new evidence emerges?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

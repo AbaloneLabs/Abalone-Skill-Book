@@ -65,10 +65,8 @@ An educational trip should be inclusive enough that all learners can participate
 - Overloading days with content until attention and retention collapse.
 - Presenting difficult history without preparation, context, or debrief.
 - Using community encounters as visitor entertainment rather than respectful exchange.
-- Ignoring supervision, accessibility, dietary, and sensory needs in pursuit of learning goals.
-- Making assignments so heavy that travel becomes performance anxiety.
-- Forgetting that language level and prior knowledge affect guide comprehension.
-- Measuring success only by number of sites visited.
+- Ignoring supervision, accessibility, dietary, and sensory needs in pursuit of learning goals; making assignments so heavy that travel becomes performance anxiety
+- Forgetting that language level and prior knowledge affect guide comprehension; measuring success only by number of sites visited
 
 ## Self-Check
 

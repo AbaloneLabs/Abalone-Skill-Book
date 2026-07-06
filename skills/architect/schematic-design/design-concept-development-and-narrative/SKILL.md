@@ -98,6 +98,10 @@ When a building's elements share a consistent visual vocabulary, the consistency
 
 When the concept lives in the lead designer's understanding and is never fully communicated to the team, every team member makes decisions against their own interpretation, and the building accumulates inconsistencies that no one notices because each decision seemed reasonable in isolation. The trap is that the lead designer believes the concept is shared, because it was mentioned in meetings, while the team is actually working from fragments. The harm is a building that lacks the coherence the concept was meant to provide, discovered only when the fragments fail to integrate. The corrective is to articulate the concept and narrative explicitly to the full team, including consultants, to return to it at reviews, and to make it the shared standard against which decisions are tested.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the concept stated as a generative proposition that produces specific design consequences, not as a label, phrase, or image?

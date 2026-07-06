@@ -52,8 +52,7 @@ Incident plans should be exercised before a real spill or road event. Review whe
 - Losing evidence needed for regulatory reporting, claims, and corrective action.
 - Communicating speculative causes or safety conclusions before qualified review.
 - Continuing to use a carrier after serious response failures because they are cheap or familiar.
-- Ignoring multimodal handoffs where documents, placards, or emergency contacts can break down.
-- Maintaining emergency plans that have never been tested with after-hours contacts, carrier dispatch, receivers, and EHS decision makers.
+- Ignoring multimodal handoffs where documents, placards, or emergency contacts can break down; maintaining emergency plans that have never been tested with after-hours contacts, carrier dispatch, receivers, and EHS decision makers
 
 ## Self-Check
 

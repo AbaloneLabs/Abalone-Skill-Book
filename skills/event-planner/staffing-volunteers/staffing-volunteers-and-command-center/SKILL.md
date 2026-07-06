@@ -60,8 +60,7 @@ At event end, collect radios, badges, devices, keys, cash bags, lost-and-found i
 - Using radios without channel discipline, spare batteries, or coverage testing.
 - Ignoring breaks, meals, relief coverage, weather exposure, and shift length.
 - Planning guest-hour staffing while underplanning load-in, rehearsal, strike, and post-event closeout.
-- Failing to track staff and volunteer no-shows before posts are uncovered.
-- Letting sensitive incidents be discussed on broad radio channels or group chats.
+- Failing to track staff and volunteer no-shows before posts are uncovered; letting sensitive incidents be discussed on broad radio channels or group chats
 
 ## Self-Check
 

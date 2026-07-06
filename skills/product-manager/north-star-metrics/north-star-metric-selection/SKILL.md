@@ -84,3 +84,4 @@ A metric so complex that only specialists understand it. The trap is an alignmen
 - [ ] Historical data shows the metric correlates with retention, expansion, and long-term success, or it is treated as a hypothesis pending data.
 - [ ] The metric is communicable in plain language and meaningful across functions.
 - [ ] A sustained increase in the metric, holding all else constant, genuinely means customers are better off.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

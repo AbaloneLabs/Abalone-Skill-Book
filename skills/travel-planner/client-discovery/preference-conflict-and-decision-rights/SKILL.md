@@ -65,10 +65,8 @@ Decision records protect the advisor from endless redesign and protect the group
 - Averaging conflicting preferences into an itinerary no one is excited about.
 - Designing before clarifying who approves budget and who can authorize booking.
 - Allowing every new idea to reopen destination, budget, and route decisions.
-- Ignoring payer dynamics, subsidies, room-sharing fairness, or upgrade resentment.
-- Assuming quiet travelers have no strong needs.
-- Creating optional activities without logistics for meeting points, transport, or costs.
-- Recording final choices but not the assumptions that made those choices valid.
+- Ignoring payer dynamics, subsidies, room-sharing fairness, or upgrade resentment; assuming quiet travelers have no strong needs
+- Creating optional activities without logistics for meeting points, transport, or costs; recording final choices but not the assumptions that made those choices valid
 
 ## Self-Check
 

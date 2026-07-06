@@ -54,8 +54,7 @@ Onboard amenities vary. Wi-Fi, power, food, bedding, towels, showers, accessible
 - Scheduling an important tour or meeting right after an overnight train.
 - Ignoring late-night station safety, taxi availability, and public transit hours.
 - Assuming luggage storage, showers, early check-in, and breakfast will be available.
-- Leaving valuables and documents buried in large luggage.
-- Booking tight onward connections after night trains.
+- Leaving valuables and documents buried in large luggage; booking tight onward connections after night trains
 
 ## Self-Check
 

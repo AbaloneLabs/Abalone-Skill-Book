@@ -49,6 +49,10 @@ The preoperative phase of the WHO Surgical Safety Checklist (or facility equival
 
 **Failing to verify and communicate pacemaker/ICD status.** A patient with a pacemaker or ICD is scheduled for surgery, and the device is noted but not specifically evaluated for perioperative management. The mechanism of harm is that electrocautery can inhibit pacemakers, reprogram devices, or inappropriately trigger ICD shocks during surgery, causing intraoperative arrhythmia or asystole. The harm is a device-related intraoperative cardiac emergency. Identify the device, confirm its function and settings with cardiology/device clinic, and ensure the anesthesia and surgical teams know the plan (reprogramming, magnet use, or post-op re-interrogation).
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I verify patient identity with two identifiers and confirm the consent matches the scheduled procedure and marked site, with the patient confirming?

@@ -55,6 +55,10 @@ Pharmacists and prescribers who have practiced at an institution for years often
 
 Acute illness causes renal function to fluctuate, and a dose that was appropriate at admission may become nephrotoxic or subtherapeutic days later as renal function declines or improves. The trap is setting a renally-adjusted dose at admission and not reassessing it, or setting a standard dose and not noticing when the patient's creatinine begins to rise. The harm is concentration-dependent toxicity — vancomycin nephrotoxicity, aminoglycoside ototoxicity and nephrotoxicity — or subtherapeutic exposure that fails to treat the infection and selects for resistance. The corrective is to reassess renal function at every antibiotic adjustment and at least every few days for patients on renally-cleared agents, and to adjust doses proactively rather than reactively.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I anchor empiric selection to the infection syndrome, the likely pathogens at the site, and the current local antibiogram rather than personal preference or habit?

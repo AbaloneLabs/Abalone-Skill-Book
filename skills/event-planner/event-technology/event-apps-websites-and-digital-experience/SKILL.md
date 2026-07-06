@@ -54,8 +54,7 @@ Accessibility also includes cognitive load. An app with too many menus, gamifica
 - Adding networking, gamification, sponsor, or map features without moderation and support.
 - Sharing attendee profiles or behavior data without clear notice and permission.
 - Assuming push notifications reach everyone.
-- Forgetting app failure, Wi-Fi failure, device incompatibility, and password issues.
-- Publishing inaccessible PDFs, maps, image-only agendas, or unlabeled videos.
+- Forgetting app failure, Wi-Fi failure, device incompatibility, and password issues; publishing inaccessible PDFs, maps, image-only agendas, or unlabeled videos
 
 ## Self-Check
 

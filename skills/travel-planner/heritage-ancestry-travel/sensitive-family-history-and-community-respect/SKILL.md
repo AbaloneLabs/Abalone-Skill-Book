@@ -65,10 +65,8 @@ The agent's role is to support travel planning and respectful process, not to re
 - Treating communities as identity-confirmation sites for the traveler.
 - Ignoring gift, money, donation, inheritance, or future-contact expectations.
 - Using guides who sensationalize painful history or repeat unverified stories.
-- Posting photos, names, graves, homes, or family stories without consent.
-- Scheduling emotionally heavy visits without rest or privacy afterward.
-- Collapsing complex histories into simple narratives for itinerary appeal.
-- Acting as counselor, legal advisor, or genealogical authority beyond the agent's role.
+- Posting photos, names, graves, homes, or family stories without consent; scheduling emotionally heavy visits without rest or privacy afterward
+- Collapsing complex histories into simple narratives for itinerary appeal; acting as counselor, legal advisor, or genealogical authority beyond the agent's role
 
 ## Self-Check
 

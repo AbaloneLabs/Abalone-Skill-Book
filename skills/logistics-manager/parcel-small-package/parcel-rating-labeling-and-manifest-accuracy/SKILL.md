@@ -54,8 +54,7 @@ Monitor rejected labels, API errors, timeout rates, printer failures, voids, dup
 - Reprinting labels without voiding duplicates or preserving carton history.
 - Sending customer tracking before carrier possession or clear status language.
 - Missing manifest close errors and discovering them through billing or customer complaints.
-- Ignoring invoice adjustments that reveal bad master data.
-- Creating emergency labels outside systems and never reconciling them.
+- Ignoring invoice adjustments that reveal bad master data; creating emergency labels outside systems and never reconciling them
 
 ## Self-Check
 

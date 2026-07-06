@@ -60,12 +60,9 @@ If brokers, carriers, warehouse agents, temps, or last-mile partners are involve
 - Confusing declared value with all-risk insurance.
 - Agreeing to indemnity that does not match operational control.
 - Overlooking consequential damage exclusions for critical production or retail commitments.
-- Treating service credits as adequate for chronic failures without exit rights.
-- Keeping claim deadlines and evidence rules inside the contract instead of SOPs.
-- Letting dispatch tender prohibited or excluded commodities without approval.
-- Accepting liability language without testing realistic theft, fire, temperature, delay, hazmat, customs, data, and injury scenarios.
-- Missing short notice duties because operations and after-hours teams do not know contract clocks.
-- Assuming the primary provider is responsible for subcontractors when the contract shifts or excludes that risk.
+- Treating service credits as adequate for chronic failures without exit rights; keeping claim deadlines and evidence rules inside the contract instead of SOPs
+- Letting dispatch tender prohibited or excluded commodities without approval; accepting liability language without testing realistic theft, fire, temperature, delay, hazmat, customs, data, and injury scenarios
+- Missing short notice duties because operations and after-hours teams do not know contract clocks; assuming the primary provider is responsible for subcontractors when the contract shifts or excludes that risk
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ If brokers, carriers, warehouse agents, temps, or last-mile partners are involve
 - Are service credits, cure rights, termination rights, and chronic failure remedies commercially adequate?
 - Have key terms been translated into SOPs, training, evidence capture, notice, and approval triggers?
 - Have concrete failure scenarios been tested against caps, exclusions, insurance, evidence, and remedies?
-- Do operations know notice deadlines and after-hours reporting paths for loss, claims, breach, accidents, and legal demands?
-- Does the contract clearly assign responsibility for brokers, carriers, agents, temps, and subcontractors?
+- Do operations know notice deadlines and after-hours reporting paths for loss, claims, breach, accidents, and legal demands?; does the contract clearly assign responsibility for brokers, carriers, agents, temps, and subcontractors?

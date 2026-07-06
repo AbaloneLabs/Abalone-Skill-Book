@@ -29,6 +29,10 @@ Therapeutic interchange — substituting a formulary-preferred drug within the s
 
 The pharmacist has access to prescribing data that no individual prescriber sees: the patterns across an institution, the outliers, the trends. The pharmacist must use this data proactively, not reactively — to identify the prescribing patterns that signal a system problem before they cause patient harm. A spike in high-alert medication overrides, a cluster of dosing errors in renal-impaired patients, a prescriber whose orders deviate consistently from guidelines — each is a signal that the system is failing somewhere, and the pharmacist must investigate the cause (unclear guidelines, missing decision support, inadequate training) and intervene at the system level. Waiting for an adverse event to trigger the analysis means the harm has already occurred; the pharmacist's role is to identify the pattern while it is still a near-miss.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Adding the New Drug Because It Is New
@@ -47,6 +51,14 @@ An MUE reports that 92 percent of heparin orders used the correct order set, and
 
 A therapeutic interchange policy substitutes drug B for drug A within the same class, on the basis that both are "ACE inhibitors." The mechanism of the trap is that the two drugs may differ in half-life, tissue penetration, approved indications, or interaction profile enough that the substitution is not clinically equivalent for every patient. The harm is that a patient whose blood pressure was controlled on drug A experiences loss of control on drug B (different half-life), or a patient with a specific indication for drug A receives drug B which is not approved for that indication. The false signal is that drugs in the same class are interchangeable, when in fact within-class differences matter for specific patients and specific indications. The pharmacist must evaluate the interchange for each indication and must preserve the override for patients whose characteristics make the substitution inappropriate.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I evaluate the new drug against the existing alternatives on therapeutic, safety, and economic grounds, or did I support its addition because it is new and the manufacturer presented favorable data?
@@ -55,3 +67,5 @@ A therapeutic interchange policy substitutes drug B for drug A within the same c
 - Did I verify that the therapeutic interchange is clinically equivalent for each indication, and did I preserve a meaningful override mechanism with tracking of override frequency?
 - Did I analyze the prescribing data proactively to identify system-level patterns before they caused harm, or did I wait for an adverse event to trigger the investigation?
 - Did I present the formulary recommendation with the evidence grade and the conflicts, so the committee can weigh the recommendation on its merits rather than on the confidence of the presentation?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

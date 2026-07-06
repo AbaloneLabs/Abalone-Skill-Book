@@ -159,11 +159,9 @@ Clearing exceptions in bulk is the equivalent of not reviewing at all.
 
 Rising or recurring exception volumes signal root-cause problems that bulk clearance perpetually masks.
 
-### Unstoppable Automation
+### Unstoppable Automation and framework Judgment Encoded In Tolerance Rules
 
 A process that cannot be halted continues posting errors while permission is sought.
-
-### Framework Judgment Encoded In Tolerance Rules
 
 Exception dispositions involving revenue, leases, hedging, or estimates require professional judgment, not just a threshold.
 

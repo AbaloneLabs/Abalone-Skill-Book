@@ -54,8 +54,7 @@ Emergency planning should include trusted contacts, embassy or consular informat
 - Ignoring documentation mismatch risk for trans or nonbinary travelers.
 - Assuming legal protection means social safety, or legal restriction means every itinerary is impossible.
 - Giving fear-based advice that removes traveler agency.
-- Forgetting dating app, nightlife, Pride event, police, or late-night transport risks where relevant.
-- Ignoring medication, medical privacy, and continuity needs.
+- Forgetting dating app, nightlife, Pride event, police, or late-night transport risks where relevant; ignoring medication, medical privacy, and continuity needs
 
 ## Self-Check
 

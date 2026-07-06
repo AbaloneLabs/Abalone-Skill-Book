@@ -65,10 +65,8 @@ Fallbacks let the traveler be spontaneous because they know how to recover.
 - Recommending nightlife without return transport and exit strategy.
 - Treating alcohol risk as a moral issue rather than a logistics and safety issue.
 - Ignoring social options outside bars and party hostels.
-- Forgetting privacy around room numbers, lodging details, and new acquaintances.
-- Underestimating single supplements and solo transport costs.
-- Suggesting remote apartments for first-night arrivals without support.
-- Providing no low-energy fallback for tired or uncomfortable evenings.
+- Forgetting privacy around room numbers, lodging details, and new acquaintances; underestimating single supplements and solo transport costs
+- Suggesting remote apartments for first-night arrivals without support; providing no low-energy fallback for tired or uncomfortable evenings
 
 ## Self-Check
 

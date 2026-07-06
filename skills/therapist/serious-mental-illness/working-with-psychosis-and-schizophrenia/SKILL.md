@@ -1,6 +1,6 @@
 ---
 name: working-with-psychosis-and-schizophrenia.md
-description: Use when the therapist is working with clients experiencing schizophrenia spectrum disorders, bipolar disorder with psychotic features, or other serious mental illnesses involving psychosis, managing symptoms of delusions and hallucinations in the therapeutic relationship, supporting medication adherence, coordinating with psychiatric care, or addressing functional recovery and quality of life.
+description: Use when the agent is working with clients experiencing schizophrenia spectrum disorders, bipolar disorder with psychotic features, or other serious mental illnesses involving psychosis, managing symptoms of delusions and hallucinations in the therapeutic relationship, supporting medication adherence, coordinating with psychiatric care, or addressing functional recovery and quality of life.
 ---
 
 # Working with Psychosis and Schizophrenia

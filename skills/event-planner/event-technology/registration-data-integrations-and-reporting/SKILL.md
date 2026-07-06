@@ -54,8 +54,7 @@ After the event, reconcile onsite changes back to source systems. Manual badge e
 - Sharing full attendee exports with vendors or sponsors who need only limited fields.
 - Confusing registered, paid, checked in, attended, scanned, and engaged metrics.
 - Ignoring walkups, comps, refunds, chargebacks, group registrations, and sponsor codes in reconciliation.
-- Freezing badges without a late-change process.
-- Leaving temporary exports with personal data in shared drives after the event.
+- Freezing badges without a late-change process; leaving temporary exports with personal data in shared drives after the event
 
 ## Self-Check
 

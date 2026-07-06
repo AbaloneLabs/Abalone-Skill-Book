@@ -57,10 +57,8 @@ New SOPs often decay after the first week. Schedule follow-up observations at re
 - Giving the same training to new hires, temporary labor, supervisors, and experienced operators.
 - Punishing near-miss reporting, which hides the best prevention data.
 - Investigating incidents to assign blame instead of finding failed controls.
-- Choosing retraining as the default corrective action for every problem.
-- Closing actions without field verification and effectiveness review.
-- Limiting root cause to frontline behavior while ignoring staffing, incentives, equipment, maintenance, or planning decisions.
-- Issuing a revised SOP and never checking whether work drifted back under real volume pressure.
+- Choosing retraining as the default corrective action for every problem; closing actions without field verification and effectiveness review
+- Limiting root cause to frontline behavior while ignoring staffing, incentives, equipment, maintenance, or planning decisions; issuing a revised SOP and never checking whether work drifted back under real volume pressure
 
 ## Self-Check
 

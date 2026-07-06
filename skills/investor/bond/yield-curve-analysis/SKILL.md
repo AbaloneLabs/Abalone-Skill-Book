@@ -107,3 +107,4 @@ The curve shifts daily from supply, data, and positioning. Investment strategy s
 - [ ] Any curve-positioning strategy accounts for carry, roll-down, path risk, and the investor's duration objective.
 - [ ] Foreign-curve analysis adjusts for currency, inflation, credit, and central-bank differences.
 - [ ] The conclusion avoids presenting curve-based trades as low-risk predictions and references investor-specific horizon and risk tolerance.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

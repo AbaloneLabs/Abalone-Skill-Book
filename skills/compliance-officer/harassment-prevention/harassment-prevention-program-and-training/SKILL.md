@@ -139,6 +139,10 @@ Low volume may reflect fear and distrust, not a healthy climate.
 
 Customer harassment and cyber conduct are recognized bases for liability.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Does the program integrate policy, accessible complaint channels, leadership engagement, tailored training, prompt investigation, consistent corrective action, and effectiveness measurement?

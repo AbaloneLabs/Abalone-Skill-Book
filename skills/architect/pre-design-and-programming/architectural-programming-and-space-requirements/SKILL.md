@@ -113,6 +113,10 @@ Clients think in the area they will occupy and pay for, which is often neither t
 
 Programming a building for projected growth that is never validated against the client's actual strategic plan, hiring trends, or market reality produces a facility that is oversized, underused, and unaffordable, or one that is obsolete the day it opens because growth was underestimated. The trap is that growth projections are inherently uncertain, so any number feels defensible, and the programmer is tempted to accept whatever the client states rather than stress-test it. The harm is durable: an oversized building carries operating and capital costs for decades, while an undersized one forces disruptive expansion or relocation within a few years. Growth assumptions must be explicit, scenario-based, and tied to documented drivers, with the client choosing which scenario to build to rather than the programmer silently embedding one.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does every programmed space have both a quantified area (with stated basis) and documented qualitative criteria?

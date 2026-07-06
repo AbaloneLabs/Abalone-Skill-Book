@@ -59,6 +59,10 @@ The trap is that hypernatremia is a water problem, and the patients most at risk
 
 The trap is that the team corrects the sodium to 135, declares success, and stops monitoring, missing the delayed onset of osmotic demyelination or the recurrence of the underlying disorder. The mechanism of harm is that osmotic demyelination typically presents two to six days after the overcorrection, often after discharge, and recurrence of SIADH or diabetes insipidus can swing the sodium again. The harm is a patient who deteriorates days later without the team connecting it to the recent correction. Continue to monitor the sodium and neurologic status for several days after correction, communicate the risk at transitions, and educate the patient on symptoms to report.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I determine the time course of the dysnatremia (acute vs chronic) and the symptom severity before initiating or continuing correction?

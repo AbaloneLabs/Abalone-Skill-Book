@@ -57,13 +57,11 @@ Track ELD logs, violations, unassigned miles, inspection reports, DVIR issues, r
 
 Compliance data should improve planning, not only satisfy audits.
 
-### Use driver feedback in route design
+### Use driver feedback in route design and communicate schedule changes clearly
 
 Drivers often know unsafe turns, tight docks, poor parking, recurring delays, restroom gaps, bad lighting, and customer practices that consume hours. Capture feedback through debriefs, safety meetings, or exception reports and feed it into route and appointment design.
 
 Ignoring driver feedback makes schedules look cleaner than the road actually is.
-
-### Communicate schedule changes clearly
 
 Drivers need start time, route, stops, equipment, load details, breaks, contacts, customer instructions, and escalation path. If dispatch changes mid-route, confirm hours and safety impact before reassigning work.
 
@@ -76,12 +74,9 @@ Poor communication leads to violations, missed stops, and driver frustration.
 - Assigning specialized loads to drivers without current qualifications or customer authorization.
 - Treating legal maximum hours as normal scheduling practice.
 - Running the fleet with no spare driver or recovery margin.
-- Ignoring bids, vacations, leave, training, medical renewals, and planned absence in capacity planning.
-- Ignoring customer wait time as a driver compliance and fatigue issue.
-- Reviewing ELD violations after the fact without changing routes and appointments.
-- Ignoring driver feedback about unsafe sites, tight docks, parking gaps, lighting, and recurring delays.
-- Letting dispatchers reassign work mid-route without checking remaining hours.
-- Treating driver complaints about fatigue as resistance instead of risk signals.
+- Ignoring bids, vacations, leave, training, medical renewals, and planned absence in capacity planning; ignoring customer wait time as a driver compliance and fatigue issue
+- Reviewing ELD violations after the fact without changing routes and appointments; ignoring driver feedback about unsafe sites, tight docks, parking gaps, lighting, and recurring delays
+- Letting dispatchers reassign work mid-route without checking remaining hours; treating driver complaints about fatigue as resistance instead of risk signals
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Poor communication leads to violations, missed stops, and driver frustration.
 - Do customer appointments, check-in, wait time, site rules, and unloading needs fit driver hours?
 - Are ELD logs, violations, unassigned miles, DVIRs, inspections, accidents, delays, and edits reviewed?
 - Is driver feedback used to improve routes, appointments, safety controls, parking, and customer-site instructions?
-- Are schedule changes communicated with load, route, equipment, stop, break, contact, and escalation details?
-- Can the fleet meet service without normalizing legal or fatigue risk?
+- Are schedule changes communicated with load, route, equipment, stop, break, contact, and escalation details?; can the fleet meet service without normalizing legal or fatigue risk?

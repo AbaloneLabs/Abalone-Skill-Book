@@ -195,11 +195,7 @@ Before treating narrative material as ready, verify:
 - Character is shown through behavior, contradiction, and consequence, not only described with traits.
 - Specific details reveal meaning, mood, place, power, or perspective.
 - Point of view is controlled and does not give the reader knowledge the narrator cannot responsibly have.
-- The scene creates a real narrative question without withholding basic context unfairly.
-- Summary and scene are balanced so pacing serves the larger piece.
-- Dialogue reveals more than information and is accurate to the genre's truth obligations.
-- Backstory appears when the reader needs it, not before the scene has stakes.
-- Emotional language is supported by concrete action or image.
-- The anecdote connects to the larger argument, theme, or reader promise.
-- The scene does not turn a person into a symbol without complexity.
-- The ending of the narrative unit changes the reader's understanding from where it began.
+- The scene creates a real narrative question without withholding basic context unfairly; summary and scene are balanced so pacing serves the larger piece
+- Dialogue reveals more than information and is accurate to the genre's truth obligations; backstory appears when the reader needs it, not before the scene has stakes
+- Emotional language is supported by concrete action or image; the anecdote connects to the larger argument, theme, or reader promise
+- The scene does not turn a person into a symbol without complexity; the ending of the narrative unit changes the reader's understanding from where it began

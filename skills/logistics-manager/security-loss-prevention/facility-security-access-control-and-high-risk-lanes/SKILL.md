@@ -54,8 +54,7 @@ Security improvements should be proportional. More locks, cameras, or guards are
 - Ignoring temporary labor access during peak periods.
 - Designing gate procedures that staff bypass during volume surges.
 - Recording seals without matching them to loads and delivery checks.
-- Applying the same lane security to high-value and low-risk freight.
-- Adding physical controls without fixing yard visibility, appointment discipline, and carrier verification.
+- Applying the same lane security to high-value and low-risk freight; adding physical controls without fixing yard visibility, appointment discipline, and carrier verification
 
 ## Self-Check
 

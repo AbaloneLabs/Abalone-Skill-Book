@@ -60,8 +60,7 @@ Fraud controls should not punish ordinary customers for carrier mistakes, porch 
 - Disputing valid surcharges without fixing address, package, or service data.
 - Missing carrier claim deadlines or packaging retention requirements.
 - Confusing customer reimbursement with carrier claim recovery.
-- Failing to track exception patterns by carrier, lane, product, and address type.
-- Letting fraud controls become so harsh they damage legitimate customer recovery.
+- Failing to track exception patterns by carrier, lane, product, and address type; letting fraud controls become so harsh they damage legitimate customer recovery
 
 ## Self-Check
 
@@ -74,5 +73,4 @@ Fraud controls should not punish ordinary customers for carrier mistakes, porch 
 - Are carrier claim deadlines, documents, photos, packaging, proof of value, and appeals tracked?
 - Are customer credits and expected carrier recovery tracked separately?
 - Are exception patterns reviewed by carrier, service, lane, SKU, warehouse, and customer segment?
-- Do findings feed back into carrier selection, packaging, promise design, and fraud controls?
-- Are customer claim policies and fraud controls clear enough to apply consistently without blocking legitimate recovery?
+- Do findings feed back into carrier selection, packaging, promise design, and fraud controls?; are customer claim policies and fraud controls clear enough to apply consistently without blocking legitimate recovery?

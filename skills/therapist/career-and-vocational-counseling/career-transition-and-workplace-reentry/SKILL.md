@@ -61,6 +61,10 @@ A therapist may fail to build relapse prevention into a return-to-work plan afte
 
 A therapist may apply a generic transition framework, ending, neutral zone, beginning, without attending to the specific dynamics of the client's transition type, when a layoff, a parental reentry, a retirement, and a post-crisis return have qualitatively different dynamics that require different emphasis. The mechanism of harm is that the generic frame misses what is distinctive, the intervention is not tailored, and the client's specific challenges are not addressed. The harm is that the client feels misunderstood, the work does not engage their actual situation, and the transition is poorly supported. Working with the specific dynamics prevents this harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I frame the transition as ending, neutral zone, and beginning, and attend to each phase?

@@ -84,3 +84,4 @@ Splits that produce stories failing quality criteria. The trap is moving the lar
 - [ ] Interface splits are used only when each surface delivers coherent value alone.
 - [ ] Each split story is itself well-formed: valuable, estimable, small, testable, and appropriately independent.
 - [ ] The set of split stories collectively achieves the epic's original outcome.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

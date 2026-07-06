@@ -71,10 +71,8 @@ The move is not complete when the load reaches the site. Public impacts, damage 
 - Forgetting municipal, police, utility, rail, bridge, curfew, and holiday restrictions.
 - Selecting heavy-haul equipment before axle loads, route limits, and unloading method are confirmed.
 - Scheduling transport without crane pad, rigging crew, exclusion zone, and ground-bearing readiness.
-- Having no secure holding area if weather or permit windows stop the move.
-- Underestimating public-impact coordination and agency lead time.
-- Allowing outdated route surveys or drawings to circulate after changes.
-- Ending the job at unloading while leaving road, utility, permit, damage, and cost closeout unresolved.
+- Having no secure holding area if weather or permit windows stop the move; underestimating public-impact coordination and agency lead time
+- Allowing outdated route surveys or drawings to circulate after changes; ending the job at unloading while leaving road, utility, permit, damage, and cost closeout unresolved
 
 ## Self-Check
 

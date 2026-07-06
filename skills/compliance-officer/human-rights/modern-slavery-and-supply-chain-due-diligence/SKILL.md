@@ -139,6 +139,10 @@ Policy descriptions without evidence of action are scrutinized and may be mislea
 
 Worker-paid recruitment fees are a leading indicator of debt bondage.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Has the applicable due diligence and disclosure regime been identified based on revenue, operations, and sourcing geography?

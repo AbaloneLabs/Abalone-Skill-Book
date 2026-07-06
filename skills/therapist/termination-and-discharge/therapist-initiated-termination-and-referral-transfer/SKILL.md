@@ -1,6 +1,6 @@
 ---
 name: therapist_initiated_termination_and_referral_transfer.md
-description: Use when the agent must terminate therapy on the therapist's initiative due to scope of practice limits practice changes or therapeutic impasse, transfer a client to another provider, or manage the clinical and ethical obligations when the therapist cannot continue treating a client.
+description: Use when the agent is managing a therapist-initiated termination on the therapist's initiative due to scope of practice limits practice changes or therapeutic impasse, transfer a client to another provider, or manage the clinical and ethical obligations when the therapist cannot continue treating a client.
 ---
 
 # Therapist-Initiated Termination And Referral Transfer
@@ -60,6 +60,10 @@ A therapist may terminate and transfer a client without managing the risk during
 ### Avoiding Therapist-Initiated Termination When It Is Indicated
 
 A therapist may avoid initiating termination when it is clinically indicated, continuing a treatment that exceeds their scope, that has reached an impasse, or that is compromised by a boundary issue, out of discomfort with ending or fear of the client's reaction. The mechanism is that therapist-initiated termination is uncomfortable, and the therapist, wanting to avoid the discomfort, continues a treatment that is not appropriate, when ending and referring is the ethical course. The harm is that the client does not receive the care they need, the therapy may be ineffective or harmful, and the therapist practices outside their competency. Initiating termination when it is indicated, despite the discomfort, is what serves the client's interests.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

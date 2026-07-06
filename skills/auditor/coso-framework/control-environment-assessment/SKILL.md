@@ -83,8 +83,7 @@ Many entities have adopted the trappings of a strong control environment — wri
 - **Underweighting the audit committee.** A weak or ceremonial committee is one of the strongest indicators of an environment that will not self-correct.
 - **Ignoring incentive structures.** Compensation that rewards only short-term results is a control environment weakness even when the ethics policy is exemplary.
 - **Missing the gap between structure on paper and structure in practice** after growth, acquisitions, or turnover.
-- **Concluding the environment is strong because no problems have surfaced**, when the real explanation is that problems are not being surfaced or escalated.
-- **Letting a generally strong environment mask a specific weakness** (e.g., one dominant executive who overrides controls) that still requires targeted procedures.
+- **Concluding the environment is strong because no problems have surfaced**, when the real explanation is that problems are not being surfaced or escalated; **Letting a generally strong environment mask a specific weakness** (e.g., one dominant executive who overrides controls) that still requires targeted procedures
 
 ## Self-Check
 

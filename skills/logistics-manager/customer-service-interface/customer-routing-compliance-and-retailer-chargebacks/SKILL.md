@@ -60,8 +60,7 @@ Treat unreviewed customer-rule changes as operational risk. If a customer update
 - Missing dispute windows because chargebacks are reviewed monthly.
 - Disputing penalties without evidence, weakening credibility.
 - Ignoring customer-approved exceptions because they were not recorded in systems.
-- Letting customer-specific compliance costs remain invisible in pricing and account reviews.
-- Fixing one shipment without updating customer profiles, labels, EDI, or training.
+- Letting customer-specific compliance costs remain invisible in pricing and account reviews; fixing one shipment without updating customer profiles, labels, EDI, or training
 
 ## Self-Check
 
@@ -74,5 +73,4 @@ Treat unreviewed customer-rule changes as operational risk. If a customer update
 - Are valid chargebacks converted into process corrections?
 - Are exceptions communicated through approved channels and recorded on the order or shipment?
 - Is cost-to-serve from compliance visible to account and pricing owners?
-- Are recurring customer rule conflicts escalated for negotiation or process redesign?
-- Is there a process for detecting, testing, and communicating customer routing-guide changes?
+- Are recurring customer rule conflicts escalated for negotiation or process redesign?; is there a process for detecting, testing, and communicating customer routing-guide changes?

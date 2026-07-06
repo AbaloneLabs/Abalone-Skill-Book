@@ -57,10 +57,8 @@ Review cancellation, interruption, missed embarkation, medical disembarkation, a
 - Assuming provided gear covers every traveler and condition.
 - Underestimating seasickness, cold, wet landings, and physical demands.
 - Ignoring medical screening, evacuation limits, and insurance exclusions.
-- Treating itinerary changes as supplier failure rather than expedition reality.
-- Forgetting biosecurity and environmental procedures for landings.
-- Assuming expedition cruising offers the same independent timing as conventional cruising.
-- Ignoring contract and insurance treatment for missed embarkation, canceled landings, or medical disembarkation.
+- Treating itinerary changes as supplier failure rather than expedition reality; forgetting biosecurity and environmental procedures for landings
+- Assuming expedition cruising offers the same independent timing as conventional cruising; ignoring contract and insurance treatment for missed embarkation, canceled landings, or medical disembarkation
 
 ## Self-Check
 

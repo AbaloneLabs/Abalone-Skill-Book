@@ -70,3 +70,4 @@ Conventional incident response cannot reconstruct an autonomous-system failure. 
 - Did I review existing insurance for autonomous-operation exclusions and obtain coverage structured for the system's actual failure modes and any required bonding?
 - Did I build autonomy-specific incident response capability, including sensor, decision-log, and model-version capture and preservation?
 - Did I confirm the applicable operational rules, permitting, and liability framework with specialist counsel and insurers before deployment?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

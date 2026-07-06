@@ -39,6 +39,10 @@ Frontline support needs authority to make reasonable exceptions, but exceptions 
 
 Escalate legal or compliance questions for consumer protection, warranty, marketplace, payment, accessibility, privacy, and product safety issues. Return policies can create regulatory exposure when they misstate rights or treat protected situations unfairly.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Treating all returns as fraud or all returns as loyalty opportunities. The correct control depends on product, customer, channel, and evidence.

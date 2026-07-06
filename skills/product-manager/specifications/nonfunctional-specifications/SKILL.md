@@ -84,3 +84,4 @@ Requirements without specified checks. The trap is quality that is assumed rathe
 - [ ] Tradeoffs between quality attributes are acknowledged, with explicit decisions about priorities.
 - [ ] Each NFR has a specified verification method, including ongoing production monitoring.
 - [ ] The NFR specification enables both design for quality and verification that quality is achieved and sustained.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

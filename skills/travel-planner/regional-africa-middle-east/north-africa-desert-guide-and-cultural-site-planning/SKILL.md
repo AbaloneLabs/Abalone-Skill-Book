@@ -57,10 +57,8 @@ Markets, craft visits, and guide-recommended shops can be valuable, but commissi
 - Planning medina or archaeological site days with no rest or hydration.
 - Assuming cross-border routes are feasible because they appear close.
 - Giving generic cultural advice without country, city, site, and traveler identity context.
-- Ignoring environmental and community impact of desert camps and animal activities.
-- Minimizing current advisories, protests, or regional disruptions.
-- Treating fragile heritage and sacred sites as photo backdrops without behavior guidance.
-- Letting commission-based shopping stops consume time or undermine trust in the guide.
+- Ignoring environmental and community impact of desert camps and animal activities; minimizing current advisories, protests, or regional disruptions
+- Treating fragile heritage and sacred sites as photo backdrops without behavior guidance; letting commission-based shopping stops consume time or undermine trust in the guide
 
 ## Self-Check
 

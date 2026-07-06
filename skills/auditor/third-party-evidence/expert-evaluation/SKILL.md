@@ -109,8 +109,7 @@ A conclusion that relies on an expert without this documentation is indefensible
 - **Relying on the expert's conclusion without corroboration** from other evidence.
 - **Using management's expert where objectivity or competence is impaired** without engaging the auditor's own expert.
 - **Treating the auditor's expert's work as transferring the judgement**, rather than as input the auditor must direct, evaluate, and challenge.
-- **Ignoring estimation uncertainty** for sensitive estimates, where a range rather than a point estimate is the appropriate evaluation.
-- **Documenting the conclusion without documenting the evaluation** of competence, objectivity, method, assumptions, and corroboration.
+- **Ignoring estimation uncertainty** for sensitive estimates, where a range rather than a point estimate is the appropriate evaluation; **Documenting the conclusion without documenting the evaluation** of competence, objectivity, method, assumptions, and corroboration
 
 ## Self-Check
 

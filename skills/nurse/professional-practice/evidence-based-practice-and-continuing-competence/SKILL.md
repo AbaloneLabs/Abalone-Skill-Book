@@ -53,6 +53,8 @@ Evidence tells you what works on average; it does not tell you what is right for
 
 **Silent compliance with a practice you believe is wrong.** A nurse encounters a practice, order, or policy they believe lacks evidence or may cause harm, but does not raise it because of hierarchy, inertia, or fear of conflict. The mechanism of harm is that silence allows the practice to continue, and the patient is harmed by a practice that one nurse's question could have changed. The harm is preventable adverse events and a culture that suppresses inquiry. Raise concerns respectfully, consult the evidence and resources, and document if the practice continues.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I ground my practice in the best available evidence, integrated with my clinical expertise and the patient's values?

@@ -135,11 +135,9 @@ Extracting `useToggle` for a one-line boolean, adding indirection without reuse.
 
 Adding `showAdminBadge` or `isCheckoutFlow` props so the component knows about specific features, guaranteeing the next feature needs another flag. Use slots or children so callers extend without editing the component.
 
-### Hardcoding Values Instead Of Consuming Tokens
+### Hardcoding Values Instead Of Consuming Tokens and unconstrained Polymorphic `as` Prop
 
 Hardcoding colors, spacing, or font sizes in an application component, breaking theming and dark mode. Consume design tokens.
-
-### Unconstrained Polymorphic `as` Prop
 
 Exposing `as={any}` for flexibility and losing type safety and predictable attribute forwarding. Constrain the allowed elements and type the forwarded attributes.
 

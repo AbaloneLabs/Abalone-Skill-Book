@@ -176,5 +176,4 @@ Failing to test how the estimate changes when assumptions move leaves the audito
 - Was the underlying data tested for completeness and accuracy and reconciled to the records?
 - Were recognition criteria applied correctly to distinguish accruals from disclosure-only items?
 - Is disclosure of methods, assumptions, and estimation uncertainty consistent with the testing performed?
-- Were differences between the independent estimate and management's estimate investigated and resolved?
-- Are the estimate conclusions documented with the evidence supporting each significant assumption?
+- Were differences between the independent estimate and management's estimate investigated and resolved?; are the estimate conclusions documented with the evidence supporting each significant assumption?

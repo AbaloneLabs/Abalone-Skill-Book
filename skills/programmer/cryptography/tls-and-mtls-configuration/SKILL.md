@@ -123,11 +123,9 @@ Configuring the server to request a client certificate but accept connections th
 
 An OCSP check that fails open when the responder is unreachable, so a revoked certificate is accepted whenever the responder is down. Understand the fail mode; for high-value PKIs, prefer short-lived certs or hard-fail against a reliable responder.
 
-### HPKP Or Static Pinning In A Browser Context
+### HPKP Or Static Pinning In A Browser Context and reusing A Private Key Across Renewals Indefinitely
 
 Deploying HTTP Public Key Pinning (deprecated) or static pins that can permanently lock users out of their own browser if the key is lost. Pin only in clients you control and can update, and always with a backup pin.
-
-### Reusing A Private Key Across Renewals Indefinitely
 
 Renewing the certificate but keeping the same private key forever, so a compromise of that key compromises every period it covered. Rotate keys periodically, with overlapping deployment.
 

@@ -60,12 +60,9 @@ Remote islands have limited waste, water, roads, clinics, housing, and staff. Tr
 - Assuming food, medicine, cash, fuel, or phone service will be available like on the mainland.
 - Booking activities on one fixed day with no weather backup.
 - Underestimating evacuation limits for medical or adventure incidents.
-- Ignoring seasonal storms, fog, swell, ice, monsoon, or wildlife closures.
-- Failing to explain that being weathered in may be normal, not supplier failure.
-- Leaving travelers without contacts or options if transport is canceled.
-- Ignoring supplier and insurance terms for weather delays, no-shows, force majeure, and missed onward connections.
-- Assuming mobile data and internet will work during storms or island-wide disruption.
-- Overlooking the effect of visitors on limited island water, waste, clinic, housing, and transport capacity.
+- Ignoring seasonal storms, fog, swell, ice, monsoon, or wildlife closures; failing to explain that being weathered in may be normal, not supplier failure
+- Leaving travelers without contacts or options if transport is canceled; ignoring supplier and insurance terms for weather delays, no-shows, force majeure, and missed onward connections
+- Assuming mobile data and internet will work during storms or island-wide disruption; overlooking the effect of visitors on limited island water, waste, clinic, housing, and transport capacity
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Remote islands have limited waste, water, roads, clinics, housing, and staff. Tr
 - Are activities planned with weather windows rather than single-point failure dates?
 - Does the traveler have fallback contacts, accommodation extensions, alternate transport, insurance, emergency, and consular information?
 - Are supplier terms, insurance coverage, single points of failure, and cost authorization rules clear for weather disruption?
-- Are offline communications, printed details, local contacts, and low-connectivity plans in place?
-- Does the itinerary respect local island capacity and recovery needs?
+- Are offline communications, printed details, local contacts, and low-connectivity plans in place?; does the itinerary respect local island capacity and recovery needs?

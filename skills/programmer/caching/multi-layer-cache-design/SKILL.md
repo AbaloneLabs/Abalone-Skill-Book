@@ -95,11 +95,9 @@ Relying on server-driven purge of a browser cache, which is impossible, so stale
 
 Compressing every cache entry by default, adding CPU cost that exceeds the memory/network savings on hot entries. Measure the CPU/byte tradeoff; compress selectively where it wins.
 
-### Cold-Cache Cascade After Deploy Or Failure
+### Cold-Cache Cascade After Deploy Or Failure and cascading Failure When A Layer Is Lost
 
 All layers empty simultaneously after a deploy or failure, so every request misses through every layer and the backend is overwhelmed. Warm critical layers, stagger, or protect against the cold-cache spike (see the stampede skill).
-
-### Cascading Failure When A Layer Is Lost
 
 A cache layer failing and multiplying load on the layer behind until it too fails. Provision the backend to survive the loss of the cache in front, or accept the risk explicitly; never assume the cache cannot fail.
 

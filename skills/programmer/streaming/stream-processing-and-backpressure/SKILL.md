@@ -122,19 +122,15 @@ An allowed-lateness so large that windows wait a long time to close, delaying ou
 
 Per-key windows, joins, or accumulators held indefinitely, so state grows with the key space or time until memory or disk is exhausted. Bound state with TTL, window eviction, and keyed sharding; monitor state size.
 
-### Assuming The Framework Provides Exactly-Once End-To-End
+### Assuming The Framework Provides Exactly-Once End-To-End and nondeterministic Processing Breaking Recovery
 
 Reading "exactly-once" in the framework's feature list and using a non-idempotent, non-transactional sink, so recovery after a failure produces duplicate output. Effectively-once requires the source, processor, and sink to participate; verify the sink deduplicates or commits transactionally with the checkpoint.
 
-### Nondeterministic Processing Breaking Recovery
-
 Using wall-clock time, randomness, or non-deterministic external calls inside the processing logic, so reprocessing the same events after recovery yields different results and the exactly-once guarantee collapses. Make stateful processing deterministic for recoverable pipelines.
 
-### Global Ordering Requirement That Kills Parallelism
+### Global Ordering Requirement That Kills Parallelism and choosing Streaming When Batch Would Do
 
 Demanding all events across the stream be processed in order, forcing a single serial path that cannot scale. Identify the real per-key ordering requirement, partition on the key, and process keys in parallel.
-
-### Choosing Streaming When Batch Would Do
 
 Building a complex stateful streaming pipeline for a workload that is consumed daily or hourly, paying checkpointing, state, and operational cost for latency the business does not need. Match the architecture to the actual latency requirement; batch or micro-batch is often simpler and more robust.
 

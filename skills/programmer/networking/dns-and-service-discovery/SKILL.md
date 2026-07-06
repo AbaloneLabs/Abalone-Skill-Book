@@ -53,6 +53,10 @@ Both DNS and service discovery are eventually consistent: changes propagate with
 - **Tolerate stale views gracefully.** Clients should retry on a failed instance and let discovery route elsewhere, not fail hard because one resolved address is dead.
 - **Do not assume all clients see the same view simultaneously.** During a change (deploy, failover), some clients see the old view and some the new; design for the overlap.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Long DNS TTL Blocking Fast Failover
@@ -91,3 +95,5 @@ A health check that flips healthy/unhealthy on transient blips, causing traffic 
 - [ ] Split-brain is prevented with quorum-based leader election (a node becomes primary only with majority agreement) and fencing (leases, generation counters, I/O barriers) so a superseded primary's writes are rejected, consensus-based systems are preferred over ad-hoc election, and the partition case is tested.
 - [ ] DNS and discovery are treated as eventual consistency (changes propagate with delay, clients may see stale views during a change), and clients tolerate stale views gracefully (retry and reroute rather than fail hard).
 - [ ] The highest-risk cases were verified — a failover that was not delayed by DNS caching, an instance removed from routing before termination, a health check that caught a broken-but-alive service, and a partition that did not produce split-brain — not only the clean steady-state path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

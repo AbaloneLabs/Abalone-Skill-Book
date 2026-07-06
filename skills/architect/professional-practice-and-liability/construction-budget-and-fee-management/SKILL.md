@@ -105,6 +105,10 @@ Effort is recorded but not reviewed until the project closes, so that overruns a
 
 Facing a tight fee, the firm compresses the work, reduces coordination, under-documents, and cuts construction administration, to protect the margin. The trap is that the margin is preserved in the short term while the project quality erodes, producing deficiencies that generate claims, rework, and reputational damage worth more than the margin saved. The false signal is the profitable project on the financial report, which appears successful while embedding future cost. The harm is construction-phase claims for document deficiencies, a damaged reputation that costs future work, and a project that met its fee by failing its standard of care, converting a margin problem into a liability problem that costs the firm far more than the fee preserved.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the fee based on analysis of the actual scope, complexity, and risk, rather than on a formula or what the owner will bear?
@@ -114,3 +118,4 @@ Facing a tight fee, the firm compresses the work, reduces coordination, under-do
 - [ ] Are additional services identified, priced at actual effort, authorized in writing, and billed promptly?
 - [ ] Is the fee managed to balance profitability with project quality and staff sustainability?
 - [ ] Is the firm willing to have scope-and-fee conversations with the owner rather than absorbing imbalance silently?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

@@ -55,6 +55,10 @@ App size affects whether users install (especially where storage is scarce) and 
 - **Use app bundles and on-demand delivery.** Deliver only the code and assets needed for a device (architecture, density, language) and defer large optional features via on-demand modules.
 - **Right-size assets.** Include only the image densities needed; avoid shipping max-resolution assets that get downscaled.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Optimizing Only On Flagships And Fast Networks
@@ -94,3 +98,4 @@ Steady-state memory that looks fine while leaks accumulate, eventually triggerin
 - [ ] App size is tracked as a first-class metric with a budget, growth is a reviewed decision, unused code/assets are stripped, app bundles and on-demand delivery ship only what each device needs, and assets are right-sized to needed densities.
 - [ ] The app is profiled for leaks and retain cycles and tested over extended sessions, so steady-state memory does not hide leak-driven kills.
 - [ ] The highest-risk cases were verified — startup on the lowest-end device, memory behavior under OS pressure, battery drain from background work, and app size on a storage-constrained market — not only the clean flagship-on-fast-Wi-Fi path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

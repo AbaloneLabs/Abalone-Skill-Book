@@ -201,5 +201,4 @@ An address provided by the client may route the confirmation to an accomplice or
 - When confirmation fails, do alternative procedures provide equivalent assurance about existence and completeness, and is the sufficiency documented?
 - Are exceptions investigated, corroborated, and resolved rather than noted and ignored?
 - Have fraud indicators in the confirmation process been considered, and are suspicious patterns escalated?
-- Is the confirmation date appropriate, with roll-forward or roll-back procedures documented where it differs from the balance sheet date?
-- Could another auditor reconstruct the confirmation process and conclude the evidence is reliable from the documentation alone?
+- Is the confirmation date appropriate, with roll-forward or roll-back procedures documented where it differs from the balance sheet date?; could another auditor reconstruct the confirmation process and conclude the evidence is reliable from the documentation alone?

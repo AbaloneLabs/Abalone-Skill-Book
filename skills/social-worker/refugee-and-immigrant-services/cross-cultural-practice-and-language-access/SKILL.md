@@ -59,6 +59,10 @@ The mirror image of pathologizing culturally normative experience is normalizing
 
 Workers who share ethnicity, nationality, or language with a client may assume cultural alignment that does not exist, because within any group, class, region, generation, religion, political history, and personal experience create significant difference. A worker and client from the same country may differ in every meaningful dimension — urban versus rural, educated versus not, politically opposed, from regions with historical conflict, of different religions within the same nationality. The trap is that shared surface characteristics mask deep difference, and the worker, assuming alignment, fails to assess the actual relationship. The harm is missed cues, misread dynamics, and the particular alienation of a client who expected understanding from a co-national and received assumption instead. The corrective is to treat every client as an individual whose cultural context must be learned, regardless of shared characteristics.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I approach the client from cultural humility, asking about their experience rather than applying generalizations, and treating cultural reference materials as starting questions rather than conclusions?

@@ -65,6 +65,10 @@ A client who has been stabilized and sent home with a safety plan may not be fol
 
 When emergency evaluation is being arranged, the therapist may step out to make calls, leaving the acutely at-risk client alone in the office or waiting room. The mechanism is that the arrangement requires the therapist's attention, and the client, seeming calmer, appears safe to leave. The harm is that the calm may be temporary, and an unattended client at acute risk can act in the brief window of being alone. Staying with the client, or arranging a responsible support person to stay, until the evaluation occurs, is the standard of care.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the signs of escalation early and shift to a crisis posture before the crisis became severe?

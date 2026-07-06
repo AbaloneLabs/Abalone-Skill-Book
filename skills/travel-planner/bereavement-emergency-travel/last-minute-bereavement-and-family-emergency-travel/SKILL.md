@@ -39,6 +39,10 @@ An emergency itinerary should not assume the traveler can sprint through termina
 
 The tone of recommendations matters. Be concise, factual, and gentle. Avoid overly casual language, complex upsells, or unnecessary pressure. The traveler needs confident logistics and clear next steps, not a broad travel consultation.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Acting on the first emotional urgency without confirming the true arrival deadline. This can lead to expensive bookings that still miss the event.

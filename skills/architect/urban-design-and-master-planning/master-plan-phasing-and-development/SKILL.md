@@ -71,6 +71,10 @@ Establish by:
 - recognizing that a plan that cannot be amended will be ignored, and one that is amended casually loses its coherence;
 - coordinating with planning, transportation, and utility authorities whose systems the plan depends on.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Fixed End-State Rendering
@@ -92,6 +96,10 @@ Sequencing phases by design logic alone — what looks best on plan — without 
 ### No Governance To Maintain And Revise The Plan
 
 A master plan delivered without a governance structure to maintain, interpret, and revise it erodes as each successive project deviates, until the plan exists only as a historical document. The trap is that the plan is adopted and published, so it appears to govern, while in reality no body has authority or process to enforce it, and each project is justified on its own merits until the cumulative deviations bear no resemblance to the original intent. The harm is a campus that grows incoherently, with conflicts, inefficiencies, and lost opportunities that a maintained plan would have prevented. Establishing a review process with authority, documenting the plan's logic, and building in scheduled revisions are what allow a master plan to guide growth over the decades of its horizon.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

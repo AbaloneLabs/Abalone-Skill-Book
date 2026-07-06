@@ -99,10 +99,8 @@ Leaving the order unstated invites disputes about whether the indemnitee must ex
 - **Conflicting other-insurance clauses.** Both policies claiming to be excess creates gridlock and litigation; contractually require primary and non-contributing coverage.
 - **Overlooking the contractual liability exclusion.** Most general liability policies exclude assumed contractual liability; without a carve-back or endorsement, the indemnity is unfunded.
 - **Mismatched RWI retention and seller basket.** A gap or overlap between the policy retention and the seller indemnity basket creates an unfunded layer or double recovery.
-- **Ignoring an SIR's effect on defense control.** With a large self-insured retention, the insured controls and funds defense up to the threshold, which can leave the indemnitee exposed if the indemnitor is undercapitalized.
-- **Assuming defense costs are outside limits.** If defense erodes limits, the indemnity cap may be exhausted by defense alone. Confirm the policy structure.
-- **Forgetting that insurance does not cover intentional misconduct or fraud.** An indemnity for fraud is effectively uninsured; the indemnitee must rely on the indemnitor's solvency.
-- **Treating insurance and indemnity as separate workstreams.** The contract team and insurance team must reconcile scope, limits, exclusions, and ordering together, or gaps and conflicts emerge at claim time.
+- **Ignoring an SIR's effect on defense control.** With a large self-insured retention, the insured controls and funds defense up to the threshold, which can leave the indemnitee exposed if the indemnitor is undercapitalized; **Assuming defense costs are outside limits.** If defense erodes limits, the indemnity cap may be exhausted by defense alone. Confirm the policy structure
+- **Forgetting that insurance does not cover intentional misconduct or fraud.** An indemnity for fraud is effectively uninsured; the indemnitee must rely on the indemnitor's solvency; **Treating insurance and indemnity as separate workstreams.** The contract team and insurance team must reconcile scope, limits, exclusions, and ordering together, or gaps and conflicts emerge at claim time
 
 ## Self-Check
 

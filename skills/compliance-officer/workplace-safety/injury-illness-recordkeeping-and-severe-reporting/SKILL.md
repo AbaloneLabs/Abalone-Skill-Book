@@ -143,6 +143,10 @@ Rate-based incentives that discourage reporting violate anti-retaliation princip
 
 The exceptions are narrow; over-applying them to avoid recording is a violation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are the required injury and illness records maintained including the log, annual summary certified by an executive, and incident reports, retained for the required period and updated as information emerges?

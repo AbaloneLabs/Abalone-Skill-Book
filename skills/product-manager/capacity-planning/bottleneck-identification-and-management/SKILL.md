@@ -84,3 +84,4 @@ Continuing to focus on a former constraint after it migrated. The trap is invest
 - [ ] Policy bottlenecks are distinguished from capacity bottlenecks and addressed by rule change where possible.
 - [ ] The constraint is monitored for migration, and optimization targets the current bottleneck, not a previous one.
 - [ ] Improvements are measured by system throughput, not by local step productivity.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

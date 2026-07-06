@@ -29,6 +29,10 @@ Controlled substances are subject to inventory and recordkeeping requirements th
 
 Every controlled-substance dispensing decision must be documented with enough specificity to demonstrate the pharmacist exercised the required "corresponding responsibility" — the legal duty to ensure a controlled-substance prescription is issued for a legitimate medical purpose by a prescriber acting in the usual course of practice. The documentation must include the PDMP review and its findings, any red flags identified, the investigation conducted (prescriber contact, clinical rationale confirmed), and the basis for the dispensing decision. For refusals, the documentation must record the reason for refusal and any referrals offered. This documentation protects the pharmacist in the event of a regulatory or law-enforcement inquiry and creates the institutional record that supports ongoing diversion prevention. A controlled-substance dispensing record that says only "filled" with no verification documentation is indefensible if the prescription is later found to be illegitimate.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The "Valid Prescription" Equivalence
@@ -51,6 +55,10 @@ The pharmacy tracks receipts and dispensing but defers the periodic reconciliati
 
 The pharmacist identifies an unresolved red flag and refuses to fill the prescription, ending the encounter. The mechanism is that refusal discharges the pharmacist's diversion-prevention duty. The false signal is that the prescription was not filled, so the public-interest duty was met. The harm is twofold: a patient with a legitimate need (the red flag was a false positive) is abandoned without their medication and without guidance, and a patient with a substance use disorder is denied without an offer of help. Refusal is sometimes correct, but it should be accompanied by appropriate referral — to the prescriber for clarification, to an alternative pharmacy if the issue is administrative, or to addiction treatment resources when misuse is suspected — because the pharmacist's duty is to both prevent diversion and serve the patient.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I verify clinical appropriateness (indication, dose, MME, duration, risk mitigation) before treating the prescription as legitimate, or did I stop at regulatory validity?
@@ -59,3 +67,5 @@ The pharmacist identifies an unresolved red flag and refuses to fill the prescri
 - Are my controlled-substance inventory controls current — initial and biennial inventory, perpetual tracking where required, scheduled reconciliation with discrepancy investigation, secure storage, and prompt loss reporting?
 - Did I document the PDMP review, any red flags, the prescriber contact, the clinical rationale, and the basis for the dispensing or refusal decision, so the record demonstrates corresponding responsibility?
 - If I refused to fill, did I offer appropriate referral (prescriber clarification, alternative pharmacy, addiction treatment resources) rather than ending the encounter, recognizing my duty to the patient as well as to diversion prevention?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

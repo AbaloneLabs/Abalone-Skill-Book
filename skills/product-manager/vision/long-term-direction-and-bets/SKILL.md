@@ -84,3 +84,4 @@ Evaluating long-term work with quarterly metrics designed for incremental delive
 - [ ] Long-term investment is spread across a small portfolio of bets with different risk and horizon profiles.
 - [ ] Bets are measured against milestone and theory criteria, not against near-term delivery metrics.
 - [ ] Leadership understands which investments are bets and why near-term metric movement may lag.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

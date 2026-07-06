@@ -147,6 +147,10 @@ A plan without exercises is an assumption, not a response capability.
 
 Notification is triggered by the event, not by fault determination; delay compounds liability.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is process safety management implemented as an integrated system including process safety information, hazard analysis, procedures, training, mechanical integrity, management of change, pre-startup review, audits, incident investigation, and employee participation?

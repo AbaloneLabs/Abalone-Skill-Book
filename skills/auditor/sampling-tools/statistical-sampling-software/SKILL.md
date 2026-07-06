@@ -172,9 +172,6 @@ A clean sample does not prove the population is free of error; it only proves th
 - Is the sampling plan documented and signed off before selection, with a fixed decision rule?
 - If stratified, are the variable, cut points, and per-stratum method documented and reconciled to the total?
 - Is the evaluation performed using the pre-set decision rule, without adjusting parameters after the fact?
-- Are anomalous errors distinguished from projected errors in the evaluation?
-- Is the conclusion stated in statistical terms relative to tolerable limits, not as absolute certainty?
-- Does the retained evidence package allow a reviewer to reproduce the process from population to conclusion?
-- Would an inspector accept this sample as defensible based on the documentation alone?
-- Is the error definition fixed in the plan and applied consistently to every item tested?
-- Are zero-error and high-error results evaluated against the plan's decision rule without relaxing parameters?
+- Are anomalous errors distinguished from projected errors in the evaluation?; is the conclusion stated in statistical terms relative to tolerable limits, not as absolute certainty?
+- Does the retained evidence package allow a reviewer to reproduce the process from population to conclusion?; would an inspector accept this sample as defensible based on the documentation alone?
+- Is the error definition fixed in the plan and applied consistently to every item tested?; are zero-error and high-error results evaluated against the plan's decision rule without relaxing parameters?

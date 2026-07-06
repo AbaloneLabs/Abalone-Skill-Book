@@ -55,6 +55,10 @@ C-reactive protein and procalcitonin can support antibiotic decisions, but they 
 
 Surgical prophylaxis is among the most overused and over-extended antibiotic categories, and the trap is allowing prophylactic antibiotics to continue for 24, 48, or 72 hours postoperatively — or until discharge — despite evidence that continuation beyond the recommended endpoint does not reduce infection and increases resistance. The mechanism is that surgeons may extend prophylaxis out of caution or habit, the pharmacy may not flag prophylactic orders for discontinuation, and no one owns the endpoint. The corrective is to identify prophylactic antibiotic orders, enforce the recommended discontinuation time, and distinguish prophylactic continuation from legitimate therapeutic initiation for a confirmed postoperative infection.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I evaluate every patient on IV antibiotics daily for oral conversion eligibility, and intervene proactively when criteria are met?

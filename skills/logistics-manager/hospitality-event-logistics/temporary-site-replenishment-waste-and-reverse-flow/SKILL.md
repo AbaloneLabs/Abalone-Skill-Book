@@ -71,10 +71,8 @@ Good intentions can create liability if leftovers are handled casually. Reverse 
 - Letting waste, grease, cardboard, glass, and gray water accumulate visibly or unsafely.
 - Losing rented or reusable assets during teardown because no manifest exists.
 - Forgetting that weather changes vehicle access, storage, power, ice, and waste plans.
-- Leaving service teams to solve logistics issues while serving guests.
-- Removing equipment during teardown before waste, leftovers, or returns are handled.
-- Donating, storing, or disposing leftovers without food-safety, alcohol, brand, and approval controls.
-- Ending without site restoration, damage notes, and final vendor confirmation.
+- Leaving service teams to solve logistics issues while serving guests; removing equipment during teardown before waste, leftovers, or returns are handled
+- Donating, storing, or disposing leftovers without food-safety, alcohol, brand, and approval controls; ending without site restoration, damage notes, and final vendor confirmation
 
 ## Self-Check
 

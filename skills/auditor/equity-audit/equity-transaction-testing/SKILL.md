@@ -176,5 +176,4 @@ The rights, terms, and restrictions attached to each equity class must be disclo
 - Were equity issuance costs accounted for consistently with the applicable framework?
 - Does the equity roll-forward reconcile each component, with every material movement supported?
 - Are related-party equity transactions identified and assessed for arm's-length terms?
-- Is disclosure of terms, rights, restrictions, and EPS effects complete and consistent with the testing?
-- Are authorized, issued, and outstanding share counts reconciled to the registrar at period-end?
+- Is disclosure of terms, rights, restrictions, and EPS effects complete and consistent with the testing?; are authorized, issued, and outstanding share counts reconciled to the registrar at period-end?

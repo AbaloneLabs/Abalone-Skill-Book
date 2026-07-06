@@ -52,6 +52,10 @@ A legacy test suite's job is to make change safe — to give you the confidence 
 - **Keep tests stable across refactors.** If every refactor requires updating many tests, the tests are tied to implementation rather than behavior; refactor the tests toward the public interface.
 - **Fix characterized bugs deliberately, updating the test.** When a characterization test reveals a bug, decide explicitly whether to fix it; if you fix it, update the test to the new (correct) behavior, with a record of the change.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Attempting Full Coverage And Stalling
@@ -91,3 +95,4 @@ A suite so tied to implementation that any refactor requires extensive test upda
 - [ ] The suite is treated as a safety net for change (regression detection) rather than a correctness proof, optimized for catching feared regressions over coverage metrics, and kept stable across refactors so it enables change rather than blocking it.
 - [ ] Characterized bugs are handled deliberately (fix explicitly, update the test to the new correct behavior with a record of the change) rather than left as silent assertions of buggy behavior.
 - [ ] The highest-risk cases were verified — characterizing behavior before a refactor caught a regression, breaking a dependency did not alter behavior, a black-box test survived an internal refactor, and the suite caught a real regression rather than only proving coverage — not only the clean test-first path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

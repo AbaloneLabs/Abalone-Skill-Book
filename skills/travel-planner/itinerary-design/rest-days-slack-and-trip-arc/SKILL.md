@@ -65,10 +65,8 @@ Identify which days can absorb changes and which cannot. Avoid every day dependi
 - Using "free time" without useful nearby options or recovery purpose.
 - Filling optional blocks until they become mandatory pressure.
 - Ignoring meals, medication, laundry, child naps, and bathroom needs.
-- Mistaking geographic proximity for emotional and cognitive compatibility.
-- Ending trips with the most stressful transfer or densest day.
-- Creating no skip logic for low-energy or bad-weather days.
-- Designing for ideal conditions instead of normal delays and human fatigue.
+- Mistaking geographic proximity for emotional and cognitive compatibility; ending trips with the most stressful transfer or densest day
+- Creating no skip logic for low-energy or bad-weather days; designing for ideal conditions instead of normal delays and human fatigue
 
 ## Self-Check
 

@@ -113,11 +113,9 @@ Choosing to roll forward (write a hotfix) instead of rolling back, because the f
 
 Promoting through staging as a formality because "it always passes," so environment-specific defects surface only in production. Make each stage earn its place by catching a distinct class of defect, and gate promotion on signal rather than schedule.
 
-### Checklist Items That Are Not Real Gates
+### Checklist Items That Are Not Real Gates and releasing Multiple Features On One Shared Flag
 
 A release checklist whose items can be checked without the work being done, providing false assurance and training the team to rubber-stamp. Make each item a real gate, automating it where possible so it cannot be bypassed by a click.
-
-### Releasing Multiple Features On One Shared Flag
 
 Gating several features behind a single flag to "keep it simple," so that a defect in one forces rolling back all of them, defeating the per-feature blast-radius benefit. Give each independently releasable feature its own flag.
 

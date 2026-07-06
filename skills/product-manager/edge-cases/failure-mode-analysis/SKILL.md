@@ -84,3 +84,4 @@ Treating any failure as total. The trap is systems that become entirely unavaila
 - [ ] Recovery is designed, addressing the state the failure leaves behind and restoring consistency.
 - [ ] The system is designed for graceful degradation, with essential features protected and non-essential features degrading tolerably.
 - [ ] Failure behavior is a deliberate design decision, not an accidental implementation outcome.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -190,13 +190,8 @@ Before treating publication as ready, verify:
 - The people or institutions facing serious criticism received a meaningful response opportunity.
 - Anonymous sources are described as fully as safety permits and are not used for avoidable opinion or speculation.
 - Sensitive private details have been removed unless they materially serve the public-interest purpose.
-- Visuals, audio, graphics, social copy, headlines, captions, and thumbnails do not distort the story.
-- Opinion, analysis, sponsored content, archival material, generated material, reconstructions, and updates are clearly labeled.
-- Conflicts of interest were checked for the reporter, outlet, funder, partner, and sources.
-- Legal and safety risks were identified, and qualified review was sought when stakes require it.
-- The story explains its method when conclusions depend on data, documents, investigation, fact-checking, translation, or reconstruction.
-- A correction and update plan exists, including who monitors responses and new facts.
-- Any post-publication changes that affect meaning will be noted visibly.
-- Social posts and distributed versions can be corrected if the article changes.
-- The publication does not expose vulnerable sources, private people, or minors through unnecessary direct or indirect identifiers.
-- The final version is narrower where evidence is narrow and stronger only where evidence is strong.
+- Visuals, audio, graphics, social copy, headlines, captions, and thumbnails do not distort the story; opinion, analysis, sponsored content, archival material, generated material, reconstructions, and updates are clearly labeled
+- Conflicts of interest were checked for the reporter, outlet, funder, partner, and sources; legal and safety risks were identified, and qualified review was sought when stakes require it
+- The story explains its method when conclusions depend on data, documents, investigation, fact-checking, translation, or reconstruction; a correction and update plan exists, including who monitors responses and new facts
+- Any post-publication changes that affect meaning will be noted visibly; social posts and distributed versions can be corrected if the article changes
+- The publication does not expose vulnerable sources, private people, or minors through unnecessary direct or indirect identifiers; the final version is narrower where evidence is narrow and stronger only where evidence is strong

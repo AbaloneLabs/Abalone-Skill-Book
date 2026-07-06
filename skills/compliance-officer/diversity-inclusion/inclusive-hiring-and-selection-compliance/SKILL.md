@@ -129,6 +129,10 @@ Express preferences or tie-breakers based on protected status are restricted and
 
 Federal contractors must maintain written programs; absence is a violation regardless of outcomes.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are selection criteria job-related and validated, with inflated requirements removed and assessments supported by criterion, content, or construct validity?

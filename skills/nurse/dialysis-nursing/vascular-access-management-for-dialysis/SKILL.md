@@ -1,6 +1,6 @@
 ---
 name: vascular-access-management-for-dialysis.md
-description: Use when the nurse is assessing or cannulating an arteriovenous fistula or graft, managing a tunneled dialysis catheter, recognizing access dysfunction or infection, performing exit-site care, or preventing access-related complications such as infiltration, thrombosis, and bacteremia.
+description: Use when the agent is assessing or cannulating an arteriovenous fistula or graft, managing a tunneled dialysis catheter, recognizing access dysfunction or infection, performing exit-site care, or preventing access-related complications such as infiltration, thrombosis, and bacteremia.
 ---
 
 # Vascular Access Management for Dialysis

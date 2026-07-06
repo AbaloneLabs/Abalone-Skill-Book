@@ -70,12 +70,9 @@ Clear instructions reduce conflict with contractors and prevent accidental rule 
 - Sending carriers without booth, event, contractor, and target-time information.
 - Scheduling labor before freight can reach the booth.
 - Blocking aisles, utility access, or neighboring booths with crates.
-- Tracking shipments only by carrier tracking instead of piece-level booth delivery.
-- Running move-in from memory instead of a freight command log with tickets, owners, and timestamps.
-- Packing needed show materials into empty crates that are removed.
-- Mislabeling empties and losing them before move-out.
-- Waiting until show close to arrange outbound carrier and bills of lading.
-- Letting exhibitors violate hand-carry or labor rules because instructions were unclear.
+- Tracking shipments only by carrier tracking instead of piece-level booth delivery; running move-in from memory instead of a freight command log with tickets, owners, and timestamps
+- Packing needed show materials into empty crates that are removed; mislabeling empties and losing them before move-out
+- Waiting until show close to arrange outbound carrier and bills of lading; letting exhibitors violate hand-carry or labor rules because instructions were unclear
 
 ## Self-Check
 

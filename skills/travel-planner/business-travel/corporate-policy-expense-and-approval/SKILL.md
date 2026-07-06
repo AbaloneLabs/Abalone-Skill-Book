@@ -54,8 +54,7 @@ Do not encourage policy workarounds. If personal choices are permitted, document
 - Treating upgrades, seat fees, baggage, parking, and Wi-Fi as minor details that finance will automatically reimburse.
 - Failing to document why a preferred hotel, fare class, or booking window could not be used.
 - Mixing personal and business trip components without separating costs and coverage.
-- Ignoring local tax invoice or receipt rules that matter for reimbursement or VAT recovery.
-- Leaving disruption approvals unclear until the traveler is stranded.
+- Ignoring local tax invoice or receipt rules that matter for reimbursement or VAT recovery; leaving disruption approvals unclear until the traveler is stranded
 
 ## Self-Check
 

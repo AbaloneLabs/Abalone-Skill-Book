@@ -99,3 +99,4 @@ A macro that expands to thousands of lines, inflating compile time and complicat
 - [ ] The readability and compile-time trade is weighed: macros make call sites clearer not murkier, compile-time cost is accounted for across the codebase, and a small set of well-designed macros is preferred over a sprawl of one-offs.
 - [ ] Code generation (build scripts, codegen) is considered as an alternative for substantial schema-driven generation, with macros reserved for call-site-driven generation.
 - [ ] The highest-risk cases were verified — a macro justified over a function, a declarative macro chosen over a procedural one, an expansion inspectable via `cargo expand` to debug an error, and a proc macro generating clear error spans — not only the clean simple-macro path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

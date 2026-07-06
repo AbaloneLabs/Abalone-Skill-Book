@@ -61,6 +61,10 @@ A therapist may treat a co-occurring mental health condition without addressing 
 
 A therapist may advise a client to stop using a substance abruptly, not recognizing the withdrawal risk for substances like alcohol or benzodiazepines, which can be dangerous or life-threatening. The mechanism is that the therapist recognizes the substance use and wants the client to stop, without assessing the withdrawal risk or coordinating medical care. The harm is that the client undergoes dangerous withdrawal, which can include seizures or delirium tremens, and the therapist has endangered the client by advising cessation without medical oversight. Assessing withdrawal risk and referring for medical management when needed is what prevents this dangerous error.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I screening every client for substance use, regardless of presentation?

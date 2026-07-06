@@ -65,10 +65,8 @@ The best route often leaves something out. A coherent trip beats a checklist rou
 - Keeping one base when repeated day trips create more travel than a strategic move.
 - Ignoring check-in gaps and luggage storage.
 - Scheduling major experiences right after fragile transfers.
-- Designing movement for an energetic solo traveler when the party includes children, seniors, or mobility needs.
-- Forgetting laundry and luggage handling across many moves.
-- Ending a trip with the hardest transfer.
-- Treating every omitted destination as a failure rather than a necessary scope choice.
+- Designing movement for an energetic solo traveler when the party includes children, seniors, or mobility needs; forgetting laundry and luggage handling across many moves
+- Ending a trip with the hardest transfer; treating every omitted destination as a failure rather than a necessary scope choice
 
 ## Self-Check
 

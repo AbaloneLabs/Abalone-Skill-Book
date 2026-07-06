@@ -70,12 +70,9 @@ Derivative content can extend value, but it can also remove nuance, expose outda
 - Publishing recordings with dead air, private chat, bad audio, no captions, or unreadable slides.
 - Hosting replay on a page with no context, CTA, expiration, or support path.
 - Sending the same follow-up to attendees, no-shows, replay viewers, and high-intent prospects.
-- Routing leads without behavioral context, priority rules, owner, or SLA.
-- Sharing attendee questions, poll answers, or viewing behavior beyond consent.
-- Waiting so long for edited replay that the event's momentum disappears.
-- Keeping outdated recordings live after content becomes inaccurate.
-- Letting speakers or sponsors repost clips without approved rights or language.
-- Creating clips, quote cards, or sales assets without approval, context, accuracy review, or expiration.
+- Routing leads without behavioral context, priority rules, owner, or SLA; sharing attendee questions, poll answers, or viewing behavior beyond consent
+- Waiting so long for edited replay that the event's momentum disappears; keeping outdated recordings live after content becomes inaccurate
+- Letting speakers or sponsors repost clips without approved rights or language; creating clips, quote cards, or sales assets without approval, context, accuracy review, or expiration
 
 ## Self-Check
 

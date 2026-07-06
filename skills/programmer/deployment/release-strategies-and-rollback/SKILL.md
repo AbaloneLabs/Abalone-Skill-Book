@@ -127,11 +127,9 @@ The pipeline auto-promotes because no *critical* alert fired, even though latenc
 
 Replacing all instances at once to save time or capacity. The blast radius is maximal, detection is after-the-fact, and rollback is a full redeploy. The time saved is repaid many times over the first time it causes an outage. Use rolling or blue-green with canary.
 
-### Releasing Without A Defined Rollback Trigger
+### Releasing Without A Defined Rollback Trigger and increasing Deploy Frequency Without Detection Or Rollback Capacity
 
 The team releases, then waits to see if anyone complains, then debates whether "this is bad enough to roll back." The decision is made late, by committee, under pressure. Define the rollback trigger (specific metrics and thresholds) and the owner before the release, so containment is a reflex, not a meeting.
-
-### Increasing Deploy Frequency Without Detection Or Rollback Capacity
 
 Shipping faster to gain safety, but without the observability to detect a bad release quickly or the automation to roll it back fast. Higher frequency without containment is just faster harm. Build detection and rollback first, then raise cadence.
 

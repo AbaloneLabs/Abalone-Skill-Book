@@ -71,10 +71,8 @@ Fashion compliance is detailed. Memory and email summaries are not enough.
 - Missing retailer routing-guide details such as ASN timing, label placement, barcode quality, and carrier instructions.
 - Sampling labels by style while missing size, color, fit, or channel variants.
 - Relying on development samples instead of auditing production cartons and edge variants.
-- Discovering reticketing, RFID, or relabeling needs after goods arrive at the wrong node.
-- Removing packaging for sustainability while increasing damage, moisture, or theft risk.
-- Failing to capture evidence needed to dispute chargebacks or supplier errors.
-- Letting suppliers substitute carton sizes, tags, or packing methods without approval.
+- Discovering reticketing, RFID, or relabeling needs after goods arrive at the wrong node; removing packaging for sustainability while increasing damage, moisture, or theft risk
+- Failing to capture evidence needed to dispute chargebacks or supplier errors; letting suppliers substitute carton sizes, tags, or packing methods without approval
 
 ## Self-Check
 

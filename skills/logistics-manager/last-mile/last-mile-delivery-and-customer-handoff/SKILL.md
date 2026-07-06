@@ -54,8 +54,7 @@ Customer safety also matters: installation boundaries, packaging debris, trip ha
 - Using weak POD for high-value, regulated, or disputed deliveries.
 - Recording failed delivery reason codes that are too vague to fix the next attempt.
 - Ignoring driver safety and lifting requirements.
-- Letting customer service promise reattempts or inside delivery that dispatch cannot support.
-- Closing delivery as successful before damage, refusal, or installation issues are resolved.
+- Letting customer service promise reattempts or inside delivery that dispatch cannot support; closing delivery as successful before damage, refusal, or installation issues are resolved
 
 ## Self-Check
 

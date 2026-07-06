@@ -90,6 +90,10 @@ A rich formulation that explains why a client developed a pattern can slide into
 
 A formulation built at intake and treated as fixed becomes increasingly wrong as the client changes and as new information emerges, yet it continues to guide treatment because no one revisits it. The mechanism is that the original formulation is documented, shared with the care team, and treated as the case's official understanding, so subsequent data is interpreted to fit it rather than to test it. Treatment that is not working is explained as client non-compliance rather than as evidence that the formulation is wrong. The harm is months of ineffective treatment directed at the wrong target, while the client's actual condition, which may have evolved or which was mischaracterized from the start, goes unaddressed. Building in scheduled formulation reviews, and treating treatment non-response as a signal to re-examine the formulation rather than to blame the client, is what keeps the formulation honest.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does the formulation integrate predisposing, precipitating, perpetuating, and protective factors, plus a functional analysis, rather than locating cause at a single level?

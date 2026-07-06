@@ -70,12 +70,9 @@ Do not let sponsor slides or unauthorized recordings violate rights. Show flow i
 - Waiting until show day to discover KDM window or server mismatch.
 - Testing the projector but not the actual content package.
 - Forgetting captions, subtitles, audio description, and assistive listening.
-- Treating anti-piracy rules as optional because guests are invited.
-- Announcing phone or camera restrictions only at the door with no storage, exemption, or refusal process.
-- Giving too many people access to pre-release files.
-- Having no backup plan for KDM, audio, captions, microphones, or playback failure.
-- Adding sponsor slides or recording rights not approved by the distributor.
-- Turning lights up before credits when filmmaker or rights terms require otherwise.
+- Treating anti-piracy rules as optional because guests are invited; announcing phone or camera restrictions only at the door with no storage, exemption, or refusal process
+- Giving too many people access to pre-release files; having no backup plan for KDM, audio, captions, microphones, or playback failure
+- Adding sponsor slides or recording rights not approved by the distributor; turning lights up before credits when filmmaker or rights terms require otherwise
 
 ## Self-Check
 

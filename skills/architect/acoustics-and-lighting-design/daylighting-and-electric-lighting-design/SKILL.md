@@ -1,6 +1,6 @@
 ---
 name: daylighting-and-electric-lighting-design.md
-description: Use when the architect is designing the lighting strategy for a building, integrating daylighting with electric lighting, addressing visual comfort and glare control, specifying light levels and color quality for task performance, coordinating with lighting consultants and electrical engineers, navigating energy code requirements, or designing for the psychological and circadian effects of light in residential, commercial, healthcare, educational, or industrial buildings.
+description: Use when the agent is designing the lighting strategy for a building, integrating daylighting with electric lighting, addressing visual comfort and glare control, specifying light levels and color quality for task performance, coordinating with lighting consultants and electrical engineers, navigating energy code requirements, or designing for the psychological and circadian effects of light in residential, commercial, healthcare, educational, or industrial buildings.
 ---
 
 # Daylighting and Electric Lighting Design

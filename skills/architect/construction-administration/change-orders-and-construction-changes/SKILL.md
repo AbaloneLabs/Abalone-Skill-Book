@@ -101,6 +101,10 @@ The contractor asserts that a change has delayed the project and requests a sche
 
 The contract requires the contractor to give notice of a change or claim within a specific period, often 7 to 21 days, but the contractor submits a claim months after the underlying event, often bundled into a large end-of-job claim. The trap is that the architect, focused on substance rather than procedure, evaluates the claim on its merits without enforcing the notice requirement, forfeiting the owner's strongest procedural defense. The false signal is that fairness suggests considering the claim regardless of timing. The harm is that late claims are far harder to investigate because conditions and memories have degraded, and waiving the notice requirement weakens the owner's position on every subsequent claim. Enforcing contractual notice requirements, while documenting the enforcement, is what preserves the procedural protections the contract provides.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the root cause and responsibility for each change been established and documented before agreeing to any price or time adjustment?
@@ -109,3 +113,5 @@ The contract requires the contractor to give notice of a change or claim within 
 - [ ] Have schedule and time impact claims been evaluated against the critical path, with concurrent delay considered and the basis for any extension documented?
 - [ ] Is there contemporaneous documentation, daily notes, correspondence, notices, and photographs, supporting the position taken on each change?
 - [ ] Have claims been recognized, processed through the contractual procedure, and escalated to counsel or a claims consultant when high-value or design-liability-implicating?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

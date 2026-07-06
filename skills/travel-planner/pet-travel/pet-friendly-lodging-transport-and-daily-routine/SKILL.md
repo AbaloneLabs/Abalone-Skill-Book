@@ -54,8 +54,7 @@ Contingency planning should cover illness, lost pet, lodging refusal, transport 
 - Assuming restaurants, beaches, parks, trails, and ferries allow pets because the destination is outdoorsy.
 - Failing to plan food continuity, medication, waste, litter, crate, leash, and cleaning supplies.
 - Ignoring pet anxiety, barking, damage risk, and hotel complaint procedures.
-- Omitting pet fees, deposits, transport surcharges, and sitting costs from the budget.
-- Not identifying local vet or emergency care.
+- Omitting pet fees, deposits, transport surcharges, and sitting costs from the budget; not identifying local vet or emergency care
 
 ## Self-Check
 

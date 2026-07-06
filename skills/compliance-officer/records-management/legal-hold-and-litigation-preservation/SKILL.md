@@ -70,3 +70,4 @@ Deactivating a departing custodian's accounts and wiping their devices without f
 - Am I tracking the hold over time, re-issuing notices, adding custodians and sources as scope evolves, and preserving departing custodians's records before offboarding?
 - Did I release the hold promptly and completely when the matter concluded, reaching all systems and custodians and documenting the release?
 - Did I confirm the applicable preservation duty with litigation counsel and act immediately on any trigger, given the sanctions exposure for spoliation?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -95,10 +95,8 @@ Timing decisions affect the engagement schedule: interim testing requires early 
 - **Performing subsequent events procedures early and not updating** to the report date.
 - **Accepting timing-compromised procedures as fully effective** without supplementation or recognition of limitation.
 - **Concentrating control testing at one point**, undermining period-wide reliance.
-- **Using interim testing for high-risk, material balances** without sufficient roll-forward.
-- **Treating timing as a scheduling matter** rather than a substantive dimension of evidence.
-- **Failing to build timing into the engagement schedule**, forcing compromises that weaken the evidence.
-- **Not testing each version of a control** that changed during the period, missing the version that operated at the relevant time.
+- **Using interim testing for high-risk, material balances** without sufficient roll-forward; **Treating timing as a scheduling matter** rather than a substantive dimension of evidence
+- **Failing to build timing into the engagement schedule**, forcing compromises that weaken the evidence; **Not testing each version of a control** that changed during the period, missing the version that operated at the relevant time
 
 ## Self-Check
 

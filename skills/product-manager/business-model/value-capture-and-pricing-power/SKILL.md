@@ -83,3 +83,5 @@ Failing to revisit capture as the product matures and the market shifts. The tra
 - [ ] Capture is segmented by willingness to pay, using signals of value, while remaining simple and trustworthy.
 - [ ] The signal the price sends about positioning has been considered alongside the value it captures.
 - [ ] Pricing and capture are revisited on a regular cadence as the product and market mature.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

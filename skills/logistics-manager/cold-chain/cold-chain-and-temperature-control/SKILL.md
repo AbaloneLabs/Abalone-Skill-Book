@@ -54,8 +54,7 @@ Avoid unauthorized release. If temperature data is missing or out of range, the 
 - Placing temperature monitors where they do not represent product exposure or cannot support release decisions.
 - Receiving goods into stock before reviewing excursion data when quality approval is required.
 - Relying on real-time monitors without assigning alert response ownership.
-- Forgetting dry ice, batteries, pharma, food safety, and international restrictions.
-- Investigating temperature failures without preserving equipment, set-point, logger, and custody records.
+- Forgetting dry ice, batteries, pharma, food safety, and international restrictions; investigating temperature failures without preserving equipment, set-point, logger, and custody records
 
 ## Self-Check
 

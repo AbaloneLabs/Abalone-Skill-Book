@@ -71,10 +71,8 @@ The launch is not over when outbound orders ship. Poor post-launch handling can 
 - Shipping orders before fraud, bot, duplicate, and reshipper checks are complete.
 - Planning warehouse capacity without carrier, sort center, customer service, and returns capacity.
 - Losing serial, IMEI, order, and channel visibility during launch rush.
-- Publishing optimistic delivery promises that do not reflect parcel network constraints.
-- Giving customer support no clear rules for backorders, address changes, theft, and signatures.
-- Monitoring launch performance too slowly to intervene.
-- Planning outbound launch volume without reverse capacity for failed deliveries, returns, claims, and exchanges.
+- Publishing optimistic delivery promises that do not reflect parcel network constraints; giving customer support no clear rules for backorders, address changes, theft, and signatures
+- Monitoring launch performance too slowly to intervene; planning outbound launch volume without reverse capacity for failed deliveries, returns, claims, and exchanges
 
 ## Self-Check
 

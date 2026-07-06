@@ -57,13 +57,11 @@ Use mock receiving, putaway, replenishment, picking, packing, shipping, returns,
 
 Readiness testing should expose failure while time remains to fix it.
 
-### Monitor stabilization deliberately
+### Monitor stabilization deliberately and assign cross-functional startup governance
 
 After go-live, track service, backlog, inventory accuracy, labor productivity, safety, system errors, carrier misses, quality issues, and customer escalations daily. Keep extra support until trends stabilize.
 
 The move is not complete on first ship day. Stabilization is part of the project.
-
-### Assign cross-functional startup governance
 
 Facility startups need a command structure across operations, IT, inventory, transportation, HR, safety, maintenance, customer service, finance, and vendors. Define daily decision forums, issue severity, owners, escalation, and change control during ramp.
 
@@ -76,12 +74,9 @@ Without governance, every team solves its own piece while customer orders, inven
 - Forgetting open orders, returns, quarantined stock, obsolete stock, and slow movers.
 - Testing systems with simple transactions while real exceptions fail.
 - Assuming new or transferred labor will perform at steady-state productivity immediately.
-- Failing to update suppliers, carriers, labels, routing guides, and appointment systems.
-- Promising normal service during a transition with no buffers or communication plan.
-- Missing basic startup supplies such as labels, batteries, pallets, tools, and spare parts.
-- Skipping mock operations and safety drills before go-live.
-- Removing project support before stabilization metrics are healthy.
-- Running startup without a cross-functional issue forum, severity rules, owners, and change control.
+- Failing to update suppliers, carriers, labels, routing guides, and appointment systems; promising normal service during a transition with no buffers or communication plan
+- Missing basic startup supplies such as labels, batteries, pallets, tools, and spare parts; skipping mock operations and safety drills before go-live
+- Removing project support before stabilization metrics are healthy; running startup without a cross-functional issue forum, severity rules, owners, and change control
 
 ## Self-Check
 

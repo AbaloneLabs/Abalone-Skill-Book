@@ -54,8 +54,7 @@ Avoid combining medical care with remote or tightly scheduled tourism. If compli
 - Assuming language support at the front desk equals medical interpretation.
 - Booking nonrefundable flights before recovery and follow-up timing is confirmed.
 - Forgetting medical records, medication lists, allergies, translations, and discharge summaries.
-- Sending a recovering traveler to lodging without elevator, accessible bathroom, quiet space, or nearby support.
-- Planning solo recovery without checking whether the procedure requires a companion.
+- Sending a recovering traveler to lodging without elevator, accessible bathroom, quiet space, or nearby support; planning solo recovery without checking whether the procedure requires a companion
 
 ## Self-Check
 

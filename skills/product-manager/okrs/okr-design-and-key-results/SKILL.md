@@ -84,3 +84,4 @@ Downstream outcomes driven by many factors. The trap is demoralization and gamin
 - [ ] The number of objectives is capped, typically three per team, to preserve focus.
 - [ ] Key results are controllable by the team and attributable, with clear ownership for shared outcomes.
 - [ ] Hitting all key results genuinely constitutes achieving the objective, with no obvious way to game the set.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

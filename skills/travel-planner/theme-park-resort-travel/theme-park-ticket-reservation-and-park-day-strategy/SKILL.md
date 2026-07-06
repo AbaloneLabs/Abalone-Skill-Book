@@ -70,12 +70,9 @@ Technology failure can become park failure. Provide offline confirmation and mee
 - Trying to do every headliner in one day.
 - Missing height, motion, pregnancy, accessibility, and fear constraints.
 - Assuming virtual queues, paid access, or dining reservations will work without a backup.
-- Optimizing the map while ignoring stroller, bathroom, shade, and sensory breaks.
-- Forgetting mobile order, allergy, hydration, and meal timing.
-- Promising fireworks, parades, or rides that may close for weather or operations.
-- Missing separately ticketed events that change hours, access, costumes, dining, and evening crowd flow.
-- Arriving with unlinked tickets, dead phones, or no app login.
-- Leaving no plan for split groups with different ride priorities.
+- Optimizing the map while ignoring stroller, bathroom, shade, and sensory breaks; forgetting mobile order, allergy, hydration, and meal timing
+- Promising fireworks, parades, or rides that may close for weather or operations; missing separately ticketed events that change hours, access, costumes, dining, and evening crowd flow
+- Arriving with unlinked tickets, dead phones, or no app login; leaving no plan for split groups with different ride priorities
 
 ## Self-Check
 

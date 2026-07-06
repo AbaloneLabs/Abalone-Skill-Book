@@ -90,8 +90,7 @@ Where change management is weak — uncontrolled migrations, developers with pro
 - **Accepting cosmetic UAT** that confirms the system runs without exercising the financial controls and calculations.
 - **Stopping change management testing at the fieldwork date**, missing changes in the window before period-end that could affect relied-upon controls.
 - **Allowing developers to hold production access** without compensating detective controls and post-change review.
-- **Treating change management weaknesses as IT observations only**, without reflecting them in reduced reliance on automated controls and expanded substantive testing.
-- **Missing interface changes** — changes to data feeds between systems can alter downstream reporting even when each individual system is unchanged.
+- **Treating change management weaknesses as IT observations only**, without reflecting them in reduced reliance on automated controls and expanded substantive testing; **Missing interface changes** — changes to data feeds between systems can alter downstream reporting even when each individual system is unchanged
 
 ## Self-Check
 

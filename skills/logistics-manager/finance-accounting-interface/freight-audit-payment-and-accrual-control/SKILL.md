@@ -71,10 +71,8 @@ If the cost is challenged, the organization should be able to reconstruct why it
 - Under-accruing shipped-not-invoiced freight and accessorial exposure at period end.
 - Letting one person validate, code, approve, accrue, and release payments without control.
 - Allowing disputes to age without evidence, owner, and commercial decision.
-- Letting outdated rates, duplicate carrier records, wrong fuel tables, and cost-center mappings drive payments.
-- Treating freight audit as a finance task disconnected from operations.
-- Reconciling cost only after payment, when recovery is harder.
-- Keeping poor records for BOL, POD, quotes, tenders, contracts, approvals, and accruals.
+- Letting outdated rates, duplicate carrier records, wrong fuel tables, and cost-center mappings drive payments; treating freight audit as a finance task disconnected from operations
+- Reconciling cost only after payment, when recovery is harder; keeping poor records for BOL, POD, quotes, tenders, contracts, approvals, and accruals
 
 ## Self-Check
 

@@ -100,11 +100,9 @@ Sorting by a non-unique key (`created_at` alone) so ties shift items between pag
 
 Running a facet on an analyzed `text` field, loading fielddata into the heap and risking out-of-memory. Facet on `keyword`/numeric/date fields with `doc_values`.
 
-### Post-Filter Hiding Mismatched Facet Counts
+### Post-Filter Hiding Mismatched Facet Counts and new Inserts Shifting Offset Pages
 
 Using `post_filter` for a user-facing filter so facet counts include items the filter excludes, misleading the user. Prefer pre-filter for correctness; reserve post-filter for measured optimizations.
-
-### New Inserts Shifting Offset Pages
 
 Offset pagination where a new insert at the top shifts every page, causing duplicates or skips, with no documented behavior. Use cursor pagination for feeds, or document the offset behavior.
 

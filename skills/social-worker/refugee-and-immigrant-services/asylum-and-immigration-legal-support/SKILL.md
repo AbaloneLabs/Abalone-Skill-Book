@@ -59,6 +59,10 @@ The desire to help the client present well can blur into coaching — suggesting
 
 Asylum seekers are expected to recount traumatic experiences with chronological consistency and specific detail, but trauma neurologically affects memory — fragmenting it, distorting sequence, producing gaps, and causing inconsistency between tellings. The trap is treating inconsistency as evidence of fabrication rather than as a recognized effect of trauma, both when assessing the client's own credibility and when preparing documentation. The harm is that workers who do not understand trauma's effects on memory may inadvertently pressure clients for consistency they cannot provide, may document inconsistencies as concerning, or may fail to connect the client with the mental health support that would help them testify more effectively. The corrective is to understand trauma-informed memory, to coordinate with the attorney regarding how trauma-related inconsistency will be addressed, and to avoid pressuring the client for details they do not remember.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I connect the client to immigration legal services as a same-week priority, and did I follow up to confirm the connection rather than assuming the referral succeeded?

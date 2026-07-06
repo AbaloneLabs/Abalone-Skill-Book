@@ -192,5 +192,4 @@ Before treating meaning transfer as complete, verify:
 - Intentional ambiguity, irony, politeness, and subtext were preserved or flagged.
 - Tone adaptation did not change obligations, warnings, facts, or responsibility.
 - Sensitive or loaded terms were checked for target-locale connotation.
-- The target text reads naturally enough for its purpose.
-- Any unavoidable loss of wordplay, cultural meaning, or ambiguity is noted when the reviewer needs to know.
+- The target text reads naturally enough for its purpose; any unavoidable loss of wordplay, cultural meaning, or ambiguity is noted when the reviewer needs to know

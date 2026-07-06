@@ -70,12 +70,9 @@ Recommend a villa when space, privacy, kitchen, group cohesion, location, or sta
 - Missing construction, neighbor noise, events, mosquitos, beach clubs, and privacy issues around the property.
 - Assuming staff duties, hours, cooking, laundry, and tipping are obvious.
 - Booking a house for a party, event, or outside chef without rule approval.
-- Missing cameras, noise rules, pets, parking, trash, and guest limits.
-- Assuming pool heat, air conditioning, Wi-Fi, and baby gear are included and working.
-- Paying directly without understanding protection and dispute path.
-- Leaving late arrival, keys, groceries, and house orientation vague.
-- Ignoring utility failure, pests, and service recovery process.
-- Choosing a villa when hotel services better fit the travelers.
+- Missing cameras, noise rules, pets, parking, trash, and guest limits; assuming pool heat, air conditioning, Wi-Fi, and baby gear are included and working
+- Paying directly without understanding protection and dispute path; leaving late arrival, keys, groceries, and house orientation vague
+- Ignoring utility failure, pests, and service recovery process; choosing a villa when hotel services better fit the travelers
 
 ## Self-Check
 

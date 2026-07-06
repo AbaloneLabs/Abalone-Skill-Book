@@ -61,6 +61,10 @@ A therapist, careful to stay within scope, may defer so completely to the prescr
 
 A therapist, told by a client that they have stopped medication without telling the prescriber, may keep the secret, treating it as the client's choice, when undisclosed discontinuation can carry medical risk and undermines the prescriber's ability to manage the care. The mechanism of harm is that the therapist colludes with a secret that affects the client's safety and treatment, and the prescriber, believing the medication is being taken, misinterprets the clinical picture. The harm is that the client may suffer preventable harm from abrupt discontinuation, the prescriber's decisions are based on false information, and the care is compromised. Encouraging the client to be honest with the prescriber, and addressing the reasons for discontinuation, protects the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I clarify my role and scope in medication matters, and refer specific medication decisions to the prescriber?

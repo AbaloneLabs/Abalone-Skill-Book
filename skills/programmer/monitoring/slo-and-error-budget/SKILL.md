@@ -55,6 +55,10 @@ SLOs are hypotheses about what users need, and they should be revised as you lea
 - **Revise the SLI if it diverges from user experience.** A service meeting its SLO while users suffer means the SLI does not capture the user's reality; fix the indicator.
 - **Treat SLO misses as data, not failure.** A miss tells you where to invest; the response is reliability work, not blame.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### SLI Measuring Infrastructure Uptime Instead Of User Impact
@@ -93,3 +97,5 @@ Setting the SLA at the SLO target, so normal SLO misses breach contract. Differe
 - [ ] Alerting is on burn rate (current error rate over budget-sustainable rate) with multi-window thresholds (a short window for fast burns, a long window for sustained burns, both required to fire) tuned to the SLO stringency, paging only on burns that threaten the budget within the window.
 - [ ] SLOs are reviewed periodically against user behavior (complaints, churn, support tickets), the SLI is revised when it diverges from user experience, and SLO misses are treated as data driving reliability investment rather than as failure.
 - [ ] The highest-risk cases were verified — an SLI that captured user impact rather than server uptime, a budget consumption decision that balanced velocity and reliability, a burn-rate alert that caught a fast degradation without paging on noise, and an SLO revised when users complained despite a "passing" metric — not only the clean steady-state path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

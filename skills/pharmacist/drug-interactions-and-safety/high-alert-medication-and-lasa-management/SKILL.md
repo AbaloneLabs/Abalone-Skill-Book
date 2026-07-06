@@ -29,6 +29,10 @@ Chemotherapy requires a level of verification beyond standard high-alert medicat
 
 Concentrated electrolytes — potassium chloride vials, hypertonic saline, magnesium sulfate concentrate — are among the highest-risk products in any pharmacy because they look identical to dilute versions and because direct administration of the concentrate is rapidly fatal. The pharmacist must ensure that concentrated electrolytes are not stored in patient care areas where they can be accessed and administered directly, that they are diluted and labeled before leaving the pharmacy, and that the final product is verified as the dilute concentration, not the stock concentrate. The verification must confirm the final concentration on the label, not just the presence of the drug — "potassium chloride" is insufficient; "potassium chloride 10 mEq in 100 mL" must be verified.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Familiarity Collapse on High-Alert Drugs
@@ -47,6 +51,14 @@ The institution requires a double check for high-alert medications. Two pharmaci
 
 The pharmacist verifies the drug name (heparin), confirms the patient, checks the dose — but does not verify the concentration on the vial, because "heparin is heparin." The trap is that heparin comes in at least four concentrations, and the vials look similar. The harm is that a flush concentration (1,000 units/mL) is confused with a therapeutic concentration (25,000 units/mL), and the patient receives a twenty-five-fold overdose. The verification that would have caught the error — reading the concentration on the vial — is skipped because the pharmacist's mental model treats the drug name as the identifier, when in fact the concentration is the identifier for safety purposes. Every heparin and insulin verification must include explicit concentration reading from the vial label.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - For medications on the high-alert list, did I perform an independent double check (second verifier working from scratch), or did I perform a dependent confirmation?
@@ -55,3 +67,5 @@ The pharmacist verifies the drug name (heparin), confirms the patient, checks th
 - For chemotherapy, did I verify the order against the specific protocol, including the BSA calculation, dose reductions, cumulative limits, and administration sequence?
 - For concentrated electrolytes, did I verify the final diluted concentration on the label, not just the presence of the drug?
 - Did I treat high-alert medications with the same care on the thousandth verification as on the first, or did familiarity compress my verification into a routine-level check?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

@@ -61,6 +61,10 @@ A client may voice agreement with change, nodding, saying the right things, or m
 
 A therapist may use MI as the primary intervention for a problem that requires structured treatment, such as a substance use disorder that needs CBT, relapse prevention, or medication, or an anxiety disorder that needs exposure, relying on motivation alone to produce change. The mechanism is that MI is effective for resolving ambivalence, so the therapist stays with it, when the client's problem requires skills, exposure, or other active interventions that MI does not provide. The harm is that the client's motivation increases but their skills and condition do not, because the structured treatment was not provided. Recognizing when MI has done its work and transitioning to, or combining it with, the structured treatment the client needs, is what prevents using MI as a standalone when it should be a preparation or adjunct.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I working within the client's stage of change, not jumping to action?

@@ -70,12 +70,9 @@ Pacing should protect the whole trip, not maximize one day at the expense of the
 - Ignoring transfer requirements, evacuation constraints, and mobility-device availability.
 - Treating sensory overload as bad behavior rather than an environment mismatch.
 - Forgetting rain gear, cooling strategy, footwear, and dry storage.
-- Having no backup when a headliner ride closes.
-- Underestimating walking distance and bag weight.
-- Ignoring medication timing, device charging, service animal relief, first aid, and private care needs.
-- Making one adult manage every app, queue, meal, and conflict all day.
-- Staying until close when the group is already depleted.
-- Measuring success by attractions completed rather than trip wellbeing.
+- Having no backup when a headliner ride closes; underestimating walking distance and bag weight
+- Ignoring medication timing, device charging, service animal relief, first aid, and private care needs; making one adult manage every app, queue, meal, and conflict all day
+- Staying until close when the group is already depleted; measuring success by attractions completed rather than trip wellbeing
 
 ## Self-Check
 

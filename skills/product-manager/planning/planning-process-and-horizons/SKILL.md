@@ -84,3 +84,4 @@ Replanning on schedule regardless of learning. The trap is either stale plans or
 - [ ] The plan accounts for realistic capacity, dependencies, bottlenecks, and historical unplanned work.
 - [ ] Replanning happens on a cadence tied to learning, with both scheduled and triggered replanning.
 - [ ] The plan is credible and executable, not a wish list that will be abandoned under pressure.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

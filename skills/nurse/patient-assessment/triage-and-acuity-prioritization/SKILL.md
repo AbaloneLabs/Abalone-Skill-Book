@@ -77,6 +77,10 @@ Under time pressure, nurses gravitate toward tasks that are quick, satisfying, a
 
 When assigned a patient load whose acuity exceeds what one nurse can safely manage, the nurse attempts to cope through speed and skipped steps rather than escalating for help, because asking for help feels like a personal failure or because past requests were refused. The mechanism is that the nurse internalizes the load as a personal capacity problem rather than a system safety problem, and tries to stretch to meet it. The harm is that the coping strategy involves compressing or omitting assessments and interventions, and the patients who are shortchanged are the ones who cannot afford it. The defense is to recognize that there is a ratio and acuity above which safe care is impossible regardless of individual skill, to escalate to the charge nurse or supervisor with specific safety concerns, and to document the concern and the response, because accepting an unsafe load silently transfers the risk onto patients.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I prioritize by physiological threat and time-sensitivity of intervention, not by which patient was loudest or most recent?

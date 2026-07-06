@@ -123,11 +123,9 @@ The postmortem lists eight action items, they are assigned to tickets, and six m
 
 Marking every issue SEV1 so that people respond, because lower severities are ignored. This desensitizes responders, burns out on-call engineers, and means a real SEV1 does not stand out. If low severities are ignored, fix the response process for them; do not relabel them as critical.
 
-### Treating The Trigger As The Root Cause
+### Treating The Trigger As The Root Cause and no Decision Owner, So The Loudest Voice Directs
 
 The postmortem concludes "a bad deploy caused the outage" and the action is "the deploy was reverted." But the deploy was only the trigger; the root cause is why that deploy could take down the system, why tests did not catch it, why rollback was slow, why there was no canary. Fixing only the trigger guarantees recurrence with a different trigger next time.
-
-### No Decision Owner, So The Loudest Voice Directs
 
 Without a named IC, the most senior or most assertive person in the channel ends up making calls, regardless of whether they have the best information. Decisions are not logged, dissent is suppressed, and the response is driven by hierarchy rather than evidence. Name the IC and let them decide based on the investigators' input.
 

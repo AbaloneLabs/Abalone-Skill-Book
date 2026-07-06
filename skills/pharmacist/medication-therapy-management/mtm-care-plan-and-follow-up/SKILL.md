@@ -29,6 +29,10 @@ Follow-up must be scheduled at the time of the review, not deferred to "when som
 
 For every recommendation transmitted to a prescriber, the pharmacist must document the recommendation, the date sent, the prescriber's response (or non-response), and the resulting change (or lack of change). Recommendations that go unanswered must be escalated — a second contact, a different channel, or escalation to the patient — rather than abandoned. A recommendation that is sent but never confirmed acted upon is an unresolved problem, and the pharmacist's responsibility does not end at transmission. At follow-up, the pharmacist must close the loop: confirm whether the change was made, whether the goal was achieved, whether adverse effects emerged, and whether further action is needed. The care plan is a cycle (assess, plan, act, follow up, reassess), not a line that ends at the recommendation.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Equal-Weight Plan That Addresses Nothing
@@ -51,6 +55,10 @@ The pharmacist completes the review, transmits the recommendations, and intends 
 
 The pharmacist sends the recommendation to the prescriber and marks the problem as addressed in the care plan. The mechanism is that sending the message feels like completing the action. The false signal is that the recommendation is "in the system," so it must be on its way to resolution. The harm is that transmission is not adoption — the prescriber may not read it, may disagree, may intend to act and forget — and a recommendation that is sent but not confirmed acted upon leaves the problem unresolved while creating the illusion that it is handled. The pharmacist must close the loop by confirming the prescriber's response and the resulting change, not by treating the send as the finish line.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I prioritize the identified problems by clinical risk and actionability, and did I communicate the prioritization so that attention is directed at the highest-value problems first?
@@ -59,3 +67,5 @@ The pharmacist sends the recommendation to the prescriber and marks the problem 
 - Did I schedule a concrete follow-up (with a date, a parameter to check, and an action if the goal is unmet) before the patient left the review, or did I defer follow-up to an unspecified "later"?
 - For every recommendation sent to a prescriber, did I document the send, seek the response, and close the loop at follow-up — or did I treat transmission as completion?
 - At follow-up, did I confirm whether the change was made, whether the goal was achieved, whether adverse effects emerged, and whether further action is needed, treating the care plan as a cycle rather than a one-time event?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

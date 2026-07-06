@@ -54,8 +54,7 @@ Preserve evidence: emails, call logs, rate confirmations, bills of lading, gate 
 - Recording seal numbers but not checking them at delivery.
 - Buying GPS tracking but not assigning alert monitoring and escalation.
 - Assuming known brokers eliminate double-brokering or identity fraud risk.
-- Letting warehouse staff feel pressured to release freight when documentation mismatches.
-- Waiting too long to escalate suspected diversion.
+- Letting warehouse staff feel pressured to release freight when documentation mismatches; waiting too long to escalate suspected diversion
 
 ## Self-Check
 

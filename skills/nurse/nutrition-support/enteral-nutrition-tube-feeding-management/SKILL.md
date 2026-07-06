@@ -59,6 +59,10 @@ The trap is that the nurse, to administer through the tube, crushes everything, 
 
 The trap is that the patient is malnourished and the team wants to "catch up," so the feeding is started at the full goal rate. The mechanism of harm is that rapid refeeding in a depleted patient drives phosphorus, potassium, and magnesium into cells, causing refeeding syndrome with arrhythmias, respiratory failure, and death, and it overwhelms gut tolerance causing diarrhea and distension. The harm is iatrogenic metabolic and respiratory collapse. Start at a low rate in at-risk patients, advance gradually, check electrolytes daily, replace thiamine, and monitor closely during the first week.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I confirm initial tube placement radiographically and verify ongoing placement before every feeding and medication with pH testing and external length, not auscultation alone?

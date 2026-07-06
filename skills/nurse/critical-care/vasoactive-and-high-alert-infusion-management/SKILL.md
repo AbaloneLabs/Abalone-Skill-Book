@@ -59,6 +59,10 @@ Once a patient is stable, the sedatives and paralytics that were appropriate dur
 
 Every high-alert infusion has a pharmacokinetic profile: how quickly it takes effect, how long it lasts after you stop, how it accumulates with prolonged use. The trap is that nurses adjust rates without considering the timeline — they stop a vasopressor abruptly and the pressure crashes within minutes; they start an insulin drip and expect glucose to fall immediately; they stop a heparin drip and assume anticoagulation is gone within an hour (it is not). Know the onset, peak, and duration of every high-alert drug you manage, and anticipate the effect of your changes over the appropriate time window.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For every high-alert infusion running right now, can I state the drug, the goal, the concentration, and the line it runs through?

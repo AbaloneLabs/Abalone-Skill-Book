@@ -199,5 +199,4 @@ Disagreeing with a finding is legitimate, but only with testable counter-evidenc
 - Has internal verification been performed before claiming completion, with gaps closed and consistency with prior representations confirmed?
 - Is resolution status communicated honestly and timely, with changes, partial completion, and extension requests reported promptly?
 - Are unresolved, disputed, or recurring findings escalated through the appropriate path with documented response?
-- Has the team avoided claiming completion on implementation evidence alone for findings that concern operating effectiveness?
-- Are evidence packages mapped to each corrective action and ready for regulator verification, including walkthroughs and population coverage?
+- Has the team avoided claiming completion on implementation evidence alone for findings that concern operating effectiveness?; are evidence packages mapped to each corrective action and ready for regulator verification, including walkthroughs and population coverage?

@@ -100,10 +100,8 @@ A small number of critical, easily exploitable vulnerabilities is more dangerous
 - **Lifecycle gaps.** Testing provisioning but not deprovisioning or periodic access review, leaving dormant excessive access unexamined.
 - **Point-in-time snapshot.** Reporting current vulnerabilities without assessing whether the remediation process keeps pace with emerging threats.
 - **Deprecated-crypto blindness.** Accepting "encrypted" as sufficient without checking algorithm currency and key management strength.
-- **Detection omission.** Evaluating only preventive controls and ignoring whether breaches would actually be detected.
-- **Human-factor neglect.** Assessing technical controls while skipping awareness, incident response, and segregation of duties.
-- **Spreadsheet-as-truth.** Reconciling access to a manually maintained list rather than system-generated evidence.
-- **Count-based ranking.** Prioritizing findings by number rather than combined risk and exploitability, misrepresenting the real threat picture.
+- **Detection omission.** Evaluating only preventive controls and ignoring whether breaches would actually be detected; **Human-factor neglect.** Assessing technical controls while skipping awareness, incident response, and segregation of duties
+- **Spreadsheet-as-truth.** Reconciling access to a manually maintained list rather than system-generated evidence; **Count-based ranking.** Prioritizing findings by number rather than combined risk and exploitability, misrepresenting the real threat picture
 
 ## Self-Check
 

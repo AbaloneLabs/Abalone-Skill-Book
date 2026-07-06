@@ -59,6 +59,10 @@ The trap is that the patient with sepsis or pancreatitis has gross edema and wei
 
 The trap is that the intake and output record shows a positive balance and the weight is up, so the nurse concludes the patient is overloaded, missing that the patient is third-spacing or that the urine output is low because of poor perfusion rather than overload. The mechanism of harm is that the I&O and weight are aggregates that do not distinguish intravascular from interstitial fluid or perfusion from overload, and treating them as ground truth leads to the wrong therapy. The harm is diuresis of an intravascularly dry patient or fluid restriction of a patient who needs volume. Interpret the I&O and weight in the context of the exam, the vitals, the labs (BUN, creatinine, lactate), and the underlying condition, not in isolation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I assess volume status using multiple converging signs (history, exam, vitals, urine output, labs, weight), or am I relying on a single sign?

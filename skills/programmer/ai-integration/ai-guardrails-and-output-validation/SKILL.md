@@ -95,19 +95,15 @@ User input or retrieved documents containing PII or secrets reaching the model u
 
 Logging complete prompts and outputs by default, creating a PII retention and breach surface. Log metadata by default; log full content only with redaction and access controls.
 
-### Rendering A Refusal As If It Were The Answer
+### Rendering A Refusal As If It Were The Answer and accepting Empty, Truncated, Or Repeating Output
 
 The model returns a safety refusal ("I can't help with that") and the system displays it as the answer to a legitimate query, with no detection or retry. Detect refusals and handle meaningfully.
 
-### Accepting Empty, Truncated, Or Repeating Output
-
 Treating an empty completion, a `max_tokens` truncation, or a degenerate repetition as a valid answer. Detect and retry or fail.
 
-### Ignoring The Provider's Data Retention
+### Ignoring The Provider's Data Retention and no Monitoring Of Validation-Failure Or Filter Rates
 
 Sending sensitive prompts to a provider endpoint that retains or trains on them, expanding the privacy boundary unintentionally. Use non-retaining endpoints or self-host for sensitive workloads.
-
-### No Monitoring Of Validation-Failure Or Filter Rates
 
 Shipping without tracking validation-failure, filter-trigger, refusal, and cost rates, so a model or prompt change that degrades output quality goes unnoticed until users complain. Monitor these as guardrails.
 

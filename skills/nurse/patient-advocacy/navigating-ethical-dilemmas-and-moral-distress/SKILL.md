@@ -53,6 +53,8 @@ Nurses have a professional and sometimes legal obligation to refuse to participa
 
 **Failing to document ethical deliberation.** An ethical decision is reached through discussion but is not documented, leaving the reasoning invisible and the decision vulnerable. The mechanism of harm is that undocumented decisions are subject to reversal, misinterpretation, or challenge, and the rationale that protected the patient and staff is lost. The harm is a decision undone or misread, and exposure of the staff and institution. Document the issue, the deliberation, the consultation, and the decision with its rationale.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I recognize and name the category of ethical conflict (end-of-life, consent, advocacy, resource allocation, etc.)?

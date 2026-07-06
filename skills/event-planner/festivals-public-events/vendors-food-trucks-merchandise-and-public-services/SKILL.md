@@ -54,8 +54,7 @@ For family-oriented or all-day events, include lost child procedures, quiet or s
 - Underestimating restrooms, water, shade, seating, handwashing, and waste service because they are not revenue items.
 - Letting vendor restocking vehicles move through public areas during peak attendance.
 - Failing to coordinate health and fire inspections with vendor readiness.
-- Ignoring post-event vendor performance data beyond sales.
-- Having no recovery owner for restroom, water, payment, waste, or vendor outage failures.
+- Ignoring post-event vendor performance data beyond sales; having no recovery owner for restroom, water, payment, waste, or vendor outage failures
 
 ## Self-Check
 

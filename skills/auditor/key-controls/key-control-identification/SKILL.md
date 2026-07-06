@@ -79,8 +79,7 @@ For each key control, record why it is key: which risk and assertion it addresse
 - **Designating high-level management reviews as key** without assessing whether the review is precise enough to detect a material error.
 - **Rolling forward last year's key control list** without re-mapping to current risks, missing changes after acquisitions, system changes, or new standards.
 - **Treating redundant controls as separately key**, duplicating testing effort without adding assurance.
-- **Failing to document the rationale for each key control**, making the scoping indefensible and discouraging challenge.
-- **Letting management's control catalogue define scope** rather than the auditor's independent risk assessment.
+- **Failing to document the rationale for each key control**, making the scoping indefensible and discouraging challenge; **Letting management's control catalogue define scope** rather than the auditor's independent risk assessment
 
 ## Self-Check
 

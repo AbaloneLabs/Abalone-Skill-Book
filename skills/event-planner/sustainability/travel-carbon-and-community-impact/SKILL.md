@@ -57,10 +57,8 @@ Large events can strain small destinations, especially during peak season or hou
 - Calling an event carbon neutral without clear boundaries, calculations, and offset quality review.
 - Promoting transit while scheduling sessions outside transit operating hours.
 - Designing shuttles that are too infrequent, inaccessible, or unclear, causing car dependence.
-- Treating the host community as a backdrop rather than a stakeholder.
-- Reporting only visible onsite sustainability while excluding flights, hotels, and freight.
-- Reducing travel emissions in a way that shifts cost, time zone burden, visa difficulty, or access barriers onto less powerful attendees.
-- Scaling an event in a host community without checking lodging, transit, waste, emergency, and resident capacity.
+- Treating the host community as a backdrop rather than a stakeholder; reporting only visible onsite sustainability while excluding flights, hotels, and freight
+- Reducing travel emissions in a way that shifts cost, time zone burden, visa difficulty, or access barriers onto less powerful attendees; scaling an event in a host community without checking lodging, transit, waste, emergency, and resident capacity
 
 ## Self-Check
 

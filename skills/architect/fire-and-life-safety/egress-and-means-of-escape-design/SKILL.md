@@ -105,6 +105,10 @@ An exit stairway discharges into a lobby, a ground-floor space, an enclosed cour
 
 A door in the means of egress is fitted with a lock requiring a key, an electronic lock without proper release, or hardware requiring two operations, in the name of security, and the door cannot be opened quickly in an emergency. The trap is that security and access control feel like reasonable concerns, and the hardware appears functional, so the egress compromise is overlooked. The harm is deadly: occupants reach a door they cannot open and are trapped, a failure that has caused fatalities in real fires. The false signal is that the door locks and unlocks for normal use, masking its failure under emergency egress. Specifying hardware that is openable from the egress side by a single motion without a key, and coordinating all access control to release upon fire alarm and power loss, is a non-negotiable life-safety requirement where error is intolerable.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the occupant load calculated using the correct code factor for each space's actual use, summed correctly, and documented for verification?
@@ -113,3 +117,5 @@ A door in the means of egress is fitted with a lock requiring a key, an electron
 - [ ] Are exit access, exit, and exit discharge identified and designed to their distinct requirements, with exits terminating at a public way or approved discharge?
 - [ ] Is all egress door hardware openable from the egress side by a single motion without a key, with panic hardware where required and access control coordinated to release on alarm and power loss?
 - [ ] Has the applicable code edition and amendments been confirmed, the AHJ engaged on ambiguous conditions, and a fire protection engineer or code consultant consulted for complex or alternative designs?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?
+- Would a reviewer with no prior context understand the tradeoffs that were weighed and why each mattered?

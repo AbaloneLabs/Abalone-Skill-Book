@@ -181,5 +181,4 @@ Independence extends to components, affiliates, and entities the firm's network 
 - Are safeguards described honestly with their limits, and is any non-reducible threat escalated rather than rationalized?
 - Is the independence conclusion reconciled with the threats, services, fees, and rotation status in the audit file?
 - Are component, affiliate, and network relationships considered for independence effects?
-- Does the auditor retain ownership of the independence communication, with management limited to factual input?
-- Are any independence breaches or exceptions disclosed to the committee with their resolution and any remedial action?
+- Does the auditor retain ownership of the independence communication, with management limited to factual input?; are any independence breaches or exceptions disclosed to the committee with their resolution and any remedial action?

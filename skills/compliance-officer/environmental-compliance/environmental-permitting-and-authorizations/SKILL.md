@@ -137,6 +137,10 @@ Expired permits create exposure unless a timely renewal application preserves op
 
 Misclassification leads to under-permitting and enforcement.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are all required authorizations identified for each medium and activity including air, water, waste, tanks, chemicals, land use, and sector-specific permits?

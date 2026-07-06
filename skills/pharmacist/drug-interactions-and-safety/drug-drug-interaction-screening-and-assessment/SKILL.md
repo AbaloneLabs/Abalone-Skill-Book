@@ -29,6 +29,10 @@ When a significant interaction is identified and a management decision is made, 
 
 Interactions are dynamic. A patient's interaction profile changes every time a medication is added, removed, or dose-adjusted. A patient who was safely co-managed on two interacting drugs may develop a new risk when a third drug is added that compounds the effect. The pharmacist must re-screen the interaction profile at every prescription event — not just the new prescription, but the new prescription in the context of the full active list. This is especially important at care transitions (hospital discharge, transfer to a skilled nursing facility) where the medication list often changes substantially and where interaction-related adverse events are most common.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Database Rating as a Proxy for Clinical Judgment
@@ -47,6 +51,14 @@ Under alert fatigue, pharmacists develop a pattern of overriding any interaction
 
 The pharmacist identifies a significant interaction, develops a monitoring plan (check INR in three days, check renal function weekly), documents the plan, and considers the interaction managed. The trap is that the monitoring plan exists in the pharmacy documentation but is never communicated to the person who will actually perform the monitoring — the prescriber who orders the lab, the nurse who draws it, or the patient who keeps the appointment. The harm is that a well-designed monitoring plan that is never executed provides zero protection — the interaction proceeds unmonitored, and the adverse event that the monitoring was supposed to catch occurs on schedule. The pharmacist must ensure the monitoring plan is communicated to and accepted by the party responsible for executing it.
 
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
+### Optimizing for the easy-to-measure signal while ignoring the harder one
+
+The visible, quantifiable metric is pursued while the qualitative risk that actually drives the outcome is neglected. The trap is that the dashboard looks good while the real danger grows unnoticed, because the meaningful signal was harder to capture and was dropped.
+
 ## Self-Check
 
 - Did I classify the interaction by mechanism (pharmacokinetic vs pharmacodynamic) before deciding on management, or did I apply a generic "hold and notify" response?
@@ -55,3 +67,5 @@ The pharmacist identifies a significant interaction, develops a monitoring plan 
 - Did I communicate the management plan — including specific timing, monitoring parameters, and follow-up intervals — to the prescriber, the patient, and the pharmacy record?
 - Did I re-screen the interaction profile at this care transition, considering the new prescription in the context of the full active medication list?
 - For every "moderate" interaction I overrode, did I read the mechanism and management recommendation before deciding, or did I override based on the rating alone?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

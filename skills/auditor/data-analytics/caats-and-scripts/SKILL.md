@@ -102,10 +102,8 @@ The CAAT's output is evidence only to the extent the data, logic, and reproducib
 - **Losing reproducibility** through poor version control, overwritten files, or undocumented environments.
 - **Failing to reconcile output to input and to the conclusion**, missing errors in processing.
 - **Over-relying on Excel** for material models without locking, documenting, and reviewing formulas.
-- **Building CAATs without a clear assertion link**, producing data processing rather than audit evidence.
-- **Documenting the output but not the script, logic, assumptions, and limitations**, leaving the procedure unreviewable.
-- **Treating the CAAT as conclusive** without recording what it does not test or what could mislead.
-- **Re-running last year's script without re-validating** its logic and data against this year's population and systems.
+- **Building CAATs without a clear assertion link**, producing data processing rather than audit evidence; **Documenting the output but not the script, logic, assumptions, and limitations**, leaving the procedure unreviewable
+- **Treating the CAAT as conclusive** without recording what it does not test or what could mislead; **Re-running last year's script without re-validating** its logic and data against this year's population and systems
 
 ## Self-Check
 

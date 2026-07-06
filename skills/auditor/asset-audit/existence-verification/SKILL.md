@@ -182,5 +182,4 @@ A confirmation from a related party or affiliated custodian is not independent e
 - Did fixed asset testing trace selected register items to physical assets and supporting invoices?
 - Were surprise and unpredictability elements built into timing, location, and sample selection?
 - Is the existence conclusion kept separate from ownership, valuation, and completeness conclusions?
-- Where observation was impossible, were alternative procedures documented and assessed for sufficiency, and was any scope limitation escalated?
-- Were off-site, consigned, and third-party-held assets explicitly included in the existence scope?
+- Where observation was impossible, were alternative procedures documented and assessed for sufficiency, and was any scope limitation escalated?; were off-site, consigned, and third-party-held assets explicitly included in the existence scope?

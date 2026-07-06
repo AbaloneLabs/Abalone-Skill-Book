@@ -57,10 +57,8 @@ Suppliers may substitute materials when stock changes. Require approval for subs
 - Asking small local suppliers to meet large-event requirements without enough lead time or support.
 - Planning donations after strike begins, when recipients and transport are not ready.
 - Forgetting debranding, sorting, cleaning, and repacking labor for material recovery.
-- Shipping reusable materials long distances without comparing local rental or procurement.
-- Making public sourcing claims without evidence.
-- Scheduling strike without labor, labels, vehicles, and staging space for reusable or recoverable materials.
-- Allowing supplier substitutions that invalidate recycled, local, certified, reusable, or donation claims.
+- Shipping reusable materials long distances without comparing local rental or procurement; making public sourcing claims without evidence
+- Scheduling strike without labor, labels, vehicles, and staging space for reusable or recoverable materials; allowing supplier substitutions that invalidate recycled, local, certified, reusable, or donation claims
 
 ## Self-Check
 

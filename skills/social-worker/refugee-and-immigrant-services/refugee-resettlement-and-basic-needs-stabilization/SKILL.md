@@ -59,6 +59,10 @@ The case management instinct is to document thoroughly, and the trap is applying
 
 When working across cultures, there is a risk of misreading culturally normative behavior as pathology, or conversely, of attributing trauma symptoms to culture and thereby failing to assess them. A client who avoids eye contact may be expressing cultural respect, trauma-related avoidance, or both. A client who describes physical symptoms rather than emotional ones may be expressing distress in a culturally shaped idiom, not somatizing pathology. The trap is collapsing these possibilities into a single interpretation — pathologizing culturally normative behavior, or normalizing trauma symptoms as "cultural" — and the harm is that both errors produce inappropriate intervention: unnecessary psychiatric referral in the first case, and failure to treat real suffering in the second. The corrective is to seek cultural consultation, to ask rather than assume, and to hold multiple hypotheses simultaneously.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I establish or verify the client's immigration status, or connect them to immigration legal services, before initiating benefits applications that could require status disclosure?

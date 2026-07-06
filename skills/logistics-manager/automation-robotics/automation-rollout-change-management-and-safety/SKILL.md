@@ -57,13 +57,11 @@ Watch for operators bypassing safety zones, overriding alerts, creating manual s
 
 Do not punish every workaround before understanding the reason. Use them as signals for training, system, layout, or process correction.
 
-### Formalize stabilization exit criteria
+### Formalize stabilization exit criteria and use operational acceptance testing
 
 Define when rollout is considered stable: throughput, error rate, safety incidents, downtime, backlog, maintenance response, labor productivity, user proficiency, and customer service. Keep leadership aligned on when benefits can be claimed.
 
 Automation ROI should not be declared while the site is still relying on emergency labor and vendor support.
-
-### Use operational acceptance testing
 
 Acceptance should test real orders, peak waves, bad labels, short picks, jams, maintenance stops, emergency stops, battery changes, shift handoffs, and recovery from downtime. Include operations, safety, maintenance, IT, and the vendor in signoff.
 
@@ -76,12 +74,9 @@ Factory acceptance and installation checks are not enough. The site must prove i
 - Treating vendor safety compliance as a substitute for site-specific hazard control.
 - Training workers only on ideal flow while exceptions dominate actual operation.
 - Understocking spare parts or relying on vendor support that cannot respond fast enough.
-- Announcing productivity expectations before workers are trained and the system is stable.
-- Allowing customer promises to assume full automation performance during ramp-up.
-- Ignoring worker concerns and practical knowledge during design and rollout.
-- Letting unsafe or undocumented workarounds become normal operations.
-- Accepting the system after installation tests without proving operational exception handling.
-- Declaring success before safety, service, downtime, and labor metrics stabilize.
+- Announcing productivity expectations before workers are trained and the system is stable; allowing customer promises to assume full automation performance during ramp-up
+- Ignoring worker concerns and practical knowledge during design and rollout; letting unsafe or undocumented workarounds become normal operations
+- Accepting the system after installation tests without proving operational exception handling; declaring success before safety, service, downtime, and labor metrics stabilize
 
 ## Self-Check
 

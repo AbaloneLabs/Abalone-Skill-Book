@@ -41,6 +41,10 @@ If the safari is combined with city, beach, trekking, or formal events, luggage 
 
 Drones are often restricted or prohibited in wildlife areas. Firearms, hunting gear, animal products, ivory, feathers, shells, and certain souvenirs may be illegal or unethical. Provide practical guidance without turning the trip into a legal manual; direct uncertain cases to official rules.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Booking small aircraft transfers without checking soft-sided luggage, weight, dimensions, and excess baggage rules.

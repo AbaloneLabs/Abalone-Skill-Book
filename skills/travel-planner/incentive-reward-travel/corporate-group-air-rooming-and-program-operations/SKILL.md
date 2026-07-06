@@ -65,10 +65,8 @@ Incentive operations repeat. A strong closeout protects future contracting, budg
 - Choosing cheapest flights while creating unmanageable arrival waves.
 - Sending hotels multiple rooming lists without version control.
 - Forgetting guest policy, extra nights, incidentals, and sponsor-paid boundaries.
-- Understaffing airport arrivals and delayed-flight recovery.
-- Letting on-site issue resolution become public or embarrassing.
-- Missing master account reconciliation and attrition exposure after departure.
-- Failing to convert operational lessons into the next program playbook.
+- Understaffing airport arrivals and delayed-flight recovery; letting on-site issue resolution become public or embarrassing
+- Missing master account reconciliation and attrition exposure after departure; failing to convert operational lessons into the next program playbook
 
 ## Self-Check
 

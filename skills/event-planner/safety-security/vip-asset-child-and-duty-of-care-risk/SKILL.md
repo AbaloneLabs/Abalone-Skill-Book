@@ -54,8 +54,7 @@ Asset plans should include packaging, environmental conditions, insurance, acces
 - Publishing sensitive movement details in general staff packets. Convenience can create privacy and security exposure.
 - Designing VIP routes that block exits, disrupt crowd flow, or expose the VIP to uncontrolled public contact.
 - Using volunteers for confrontational access control. Volunteers can support lists and wayfinding, but refusal and removal need trained authority.
-- Leaving valuables in multi-use green rooms, unlocked offices, or unattended registration desks.
-- Failing to reconcile assets after the event. Missing items discovered days later are harder to investigate and resolve.
+- Leaving valuables in multi-use green rooms, unlocked offices, or unattended registration desks; failing to reconcile assets after the event. Missing items discovered days later are harder to investigate and resolve
 
 ## Self-Check
 

@@ -57,12 +57,9 @@ Measure expedite spend, line impact, recurrence, premium freight cause, and reco
 - Starting changeover before material, tools, labels, and quality checks are ready.
 - Air freighting parts that cannot clear customs, receiving, or inspection in time.
 - Letting supervisors allocate scarce parts informally.
-- Using unapproved substitutions because they look similar.
-- Closing a shortage once the part arrives without root cause.
-- Hiding premium freight as a cost of doing business.
-- Running shortage meetings from stale dates, informal messages, or supplier promises with no pickup and line-ready evidence.
-- Broadcasting every shortage as urgent, which buries the few decisions that actually need escalation.
-- Treating resequencing as free even when it creates changeover loss, labor imbalance, packaging conflict, or downstream customer failure.
+- Using unapproved substitutions because they look similar; closing a shortage once the part arrives without root cause
+- Hiding premium freight as a cost of doing business; running shortage meetings from stale dates, informal messages, or supplier promises with no pickup and line-ready evidence
+- Broadcasting every shortage as urgent, which buries the few decisions that actually need escalation; treating resequencing as free even when it creates changeover loss, labor imbalance, packaging conflict, or downstream customer failure
 
 ## Self-Check
 
@@ -75,5 +72,4 @@ Measure expedite spend, line impact, recurrence, premium freight cause, and reco
 - Are substitutions approved by engineering, quality, regulatory, and customer authorities where needed?
 - Are root cause, corrective action, premium freight spend, recurrence, and line impact tracked after recovery?
 - Does each hot part have evidence for pickup time, mode, tracking or driver identity, customs risk, receiving window, inspection need, and expected line-ready time?
-- Is there a fallback production sequence or customer decision if the promised recovery misses?
-- Have premium freight, allocation, substitution, resequencing, and customer-impact decisions been recorded with owner and reason?
+- Is there a fallback production sequence or customer decision if the promised recovery misses?; have premium freight, allocation, substitution, resequencing, and customer-impact decisions been recorded with owner and reason?

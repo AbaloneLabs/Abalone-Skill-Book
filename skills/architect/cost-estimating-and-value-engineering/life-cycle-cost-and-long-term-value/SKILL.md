@@ -104,6 +104,10 @@ A system is selected for energy performance, with life-cycle energy savings just
 
 The architect makes life-cycle arguments assuming a long ownership horizon, but the owner is a developer who will sell in three years, or an institution whose planning horizon is shorter than the system's payback. The trap is that life-cycle value is real but only to the party who holds the asset, so arguments pitched to the wrong horizon fail to persuade and waste credibility. The false signal is the strength of the life-cycle case, which is valid in principle while irrelevant to the actual decision-maker. The harm is recommendations rejected for reasons the architect should have anticipated, a relationship where the architect appears out of touch with the owner's economics, and life-cycle value that goes unrealized because the argument was not tailored to the audience who could act on it.
 
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - [ ] Is the cost decision framed as total cost of ownership, with construction cost positioned as one component?
@@ -113,3 +117,4 @@ The architect makes life-cycle arguments assuming a long ownership horizon, but 
 - [ ] Is non-monetary value, comfort, durability, adaptability, resilience, carbon, presented alongside monetary analysis?
 - [ ] Are cost estimator, energy consultant, and facilities expertise engaged for the inputs they hold?
 - [ ] Is the life-cycle argument tailored to the owner's actual ownership horizon rather than assumed to be long-term?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

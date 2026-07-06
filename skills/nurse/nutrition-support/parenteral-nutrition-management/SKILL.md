@@ -59,6 +59,10 @@ The trap is that the patient is now eating or has enteral feeding, so the PN is 
 
 The trap is that the PN bag was hung late or the tubing was not changed, and the nurse continues the existing setup past the time limit to avoid waste or delay. The mechanism of harm is that PN at room temperature beyond the compounding limit supports bacterial and fungal growth, and the administration set accumulates organisms over time; infusing a contaminated bag causes bloodstream infection and sepsis. The harm is a fatal CLABSI from a preventable handling error. Hang PN within the time limit, change the tubing per protocol with each new bag, and discard any bag or tubing that has exceeded the limit — the cost of a new bag is trivial compared to a CLABSI.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the PN running through a dedicated central line lumen, managed with maximal asepsis, scrub the hub, and dedicated to PN alone?

@@ -70,12 +70,9 @@ Do not let the post-speech period dissolve into unmanaged crowds, missing vehicl
 - Ignoring holding rooms, restrooms, emergency exits, and departure security.
 - Creating room optics that look staged, misleading, or exclusionary.
 - Letting question selection feel unfair or improvising hostile-question handling.
-- Assigning untrained volunteers to entry, stage, or conflict-heavy roles.
-- Forgetting press sightlines, audio feeds, credentials, and power needs.
-- Running without cue sheets, timing authority, or a plan for late candidate arrival.
-- Having no overflow plan for capacity, weather, or protest turnout.
-- Ending without a clear mobilization action and volunteer capture process.
-- Allowing the post-event rope line or departure to become unmanaged.
+- Assigning untrained volunteers to entry, stage, or conflict-heavy roles; forgetting press sightlines, audio feeds, credentials, and power needs
+- Running without cue sheets, timing authority, or a plan for late candidate arrival; having no overflow plan for capacity, weather, or protest turnout
+- Ending without a clear mobilization action and volunteer capture process; allowing the post-event rope line or departure to become unmanaged
 
 ## Self-Check
 

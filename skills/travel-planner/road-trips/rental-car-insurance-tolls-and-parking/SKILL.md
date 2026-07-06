@@ -54,8 +54,7 @@ Roadside support, spare tire, tire repair kit, emergency triangle, reflective ve
 - Ignoring cross-border, ferry, gravel road, winter tire, and low-emission zone restrictions.
 - Forgetting toll transponder fees, electronic toll admin fees, vignettes, and city congestion charges.
 - Keeping a rental car during city stays where parking is expensive and movement is poor.
-- Scheduling pickup after a late flight without counter-hour contingency.
-- Returning without photos and then disputing damage with weak evidence.
+- Scheduling pickup after a late flight without counter-hour contingency; returning without photos and then disputing damage with weak evidence
 
 ## Self-Check
 

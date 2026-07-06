@@ -49,6 +49,10 @@ When the cumulative workload exceeds what the team can safely manage — too few
 
 **Accepting chronic understaffing silently instead of escalating.** The unit is consistently short, the charge nurse makes the best of it shift after shift, but never formally escalates or documents the unsafe staffing because "it's always like this" or "nothing will change." The mechanism of harm is that unescalated, undocumented unsafe staffing is invisible to leadership and is treated as acceptable, allowing the risk to persist and accumulate harm. The harm is ongoing preventable adverse events and staff burnout. Escalate unsafe staffing through the formal chain, document the concern and the response, and advocate for the resources the unit needs.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I match assignments on acuity and complexity, not just patient count?

@@ -141,11 +141,9 @@ Logging without review, or no logging at all, means sensitive access is never te
 
 Shared accounts destroy individual accountability and make segregation analysis impossible.
 
-### Treating Access As An IT Concern
+### Treating Access As An IT Concern and ignoring Regulatory Control Expectations
 
 Access configuration is control design and must be owned by finance and control owners, not only IT.
-
-### Ignoring Regulatory Control Expectations
 
 SOX, tax, and industry regulation may impose specific control expectations beyond general segregation principles; confirm with professionals.
 

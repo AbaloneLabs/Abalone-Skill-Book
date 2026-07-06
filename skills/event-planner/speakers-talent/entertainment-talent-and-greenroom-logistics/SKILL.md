@@ -65,10 +65,8 @@ Entertainment problems are public quickly. Recovery should be calm, contract-awa
 - Scheduling no real technical rehearsal or letting it be squeezed by other agenda items.
 - Using multiple conflicting call times, cue sheets, or stage instructions.
 - Letting sponsors, executives, or fans access backstage without approval.
-- Photographing, recording, tagging, or using talent names outside agreed rights.
-- Forgetting deposits, tax forms, final payment, overtime, per diem, and settlement needs.
-- Leaving a junior volunteer to manage late talent, rider gaps, or backstage conflict.
-- Having no backup for travel delay, illness, inappropriate content, or technical failure.
+- Photographing, recording, tagging, or using talent names outside agreed rights; forgetting deposits, tax forms, final payment, overtime, per diem, and settlement needs
+- Leaving a junior volunteer to manage late talent, rider gaps, or backstage conflict; having no backup for travel delay, illness, inappropriate content, or technical failure
 
 ## Self-Check
 

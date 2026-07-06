@@ -57,13 +57,11 @@ A weak projector reprocesses from the beginning on every restart or double-appli
 
 Because the read model lags the write side, the classic user-facing defect is "I submitted the form and the next page doesn't show my change." Decide per flow how to handle this. Options include routing the immediately-following read to the write side, using a session token or correlation id to wait until the projector has caught up to the client's last write, accepting bounded staleness with a clear UI signal, or projecting the optimistic result client-side until confirmed. The wrong choice is to ignore the lag and let users conclude their action failed and retry it, creating duplicates.
 
-### Choose Event Granularity Deliberately — It Shapes Everything Downstream
+### Choose Event Granularity Deliberately — It Shapes Everything Downstream and budget For The Operational Complexity Tax Honestly
 
 Event granularity — how much business meaning a single event carries — is an early, hard-to-reverse decision that shapes replay cost, projection simplicity, and audit usefulness. Two failure modes bracket the spectrum. **Too fine-grained** events (property-level deltas: `OrderShippingAddressChanged`, `OrderBillingAddressChanged`) multiply event counts, bloat the log, make replay slow, and force every consumer to reassemble business meaning from fragments. **Too coarse-grained** events (a single `OrderModified` carrying the entire aggregate state) lose the temporal and audit value that justified event sourcing in the first place — you can no longer answer "what specifically changed and why" from the log.
 
 The strong choice models events at the level of a meaningful business occurrence — a fact that domain experts recognize (`OrderPlaced`, `OrderShipped`, `PaymentCaptured`). Each event should represent one thing that happened, carry the data needed to understand and apply it (including the intent behind the change where audit matters), and be named in the past tense as an immutable fact. Avoid "crud-events" that mirror database column updates, and avoid god-events that bundle unrelated changes. Granularity also affects idempotency and ordering: a coarse event is easier to make idempotent but harder to evolve; a fine event is more flexible but produces more volume. Decide the grain by what the business needs to query and audit, not by what is easiest to emit.
-
-### Budget For The Operational Complexity Tax Honestly
 
 ES and CQRS are powerful but expensive to run. The costs include operating an event store as critical infrastructure, running and monitoring a fleet of projectors, handling projection drift and rebuilds, managing event schema evolution and upcasters over years, debugging issues that require correlating across the log and multiple read models, and onboarding team members to a more demanding mental model. Before adopting, name these costs and confirm the team can absorb them. A system that delivers audit and temporal power but is too complex to operate reliably is a net loss.
 
@@ -85,35 +83,27 @@ Letting streams grow without snapshots until loading an aggregate by full replay
 
 Returning a read from a lagging projection immediately after a write, so users see stale state and assume their action failed. Handle read-after-write explicitly via session-aware routing, version tokens, or accepted-and-signaled staleness.
 
-### Non-Idempotent Projectors That Double-Apply On Redelivery
+### Non-Idempotent Projectors That Double-Apply On Redelivery and splitting A Simple App Into CQRS For No Reason
 
 Projectors that increment counters or insert rows without deduplication, so a restarted or redelivered event corrupts the read model. Key updates on event identity and position, and design projectors for at-least-once delivery.
 
-### Splitting A Simple App Into CQRS For No Reason
-
 Introducing separate command and query models on a workload with similar read/write loads and simple queries, doubling code and operational surface for no gain. Use CQRS only where read/write asymmetry or complex reads justify it.
 
-### Losing The Event Store Because It Was Treated As Ordinary Data
+### Losing The Event Store Because It Was Treated As Ordinary Data and no Replay Or Rebuild Tooling Until A Projection Drifts
 
 Failing to treat the event store as the irreplaceable source of truth — inadequate backups, no HA, or a schema that allows destructive updates. The event store is the business state; protect and operate it accordingly.
 
-### No Replay Or Rebuild Tooling Until A Projection Drifts
-
 Discovering at 3am that a projector bug corrupted a read model and there is no tested way to rebuild it from the log. Build and exercise rebuild pipelines before you need them.
 
-### Letting Projections Drift Silently With No Monitoring
+### Letting Projections Drift Silently With No Monitoring and choosing Event Granularity By What Is Easiest To Emit
 
 Running projectors without lag monitoring, so a stalled projector makes the whole system stale with no alert. Monitor projection lag and event-store append-to-projection delay as first-class metrics.
 
-### Choosing Event Granularity By What Is Easiest To Emit
-
 Modeling events as property-level deltas (mirroring database column updates) or as god-events bundling the whole aggregate, both of which undermine the audit and temporal value that justified event sourcing. Model events at the level of a business-meaningful occurrence that domain experts recognize.
 
-### Storing Implementation Details In Events That Will Churn
+### Storing Implementation Details In Events That Will Churn and using A Generic Database As An Event Store Without Append-Only Enforcement
 
 Persisting internal identifiers, enum ordinals, or framework-specific structure inside events, so that a refactor or library change makes old events unreadable without a migration. Persist stable, business-meaningful fields and reinterpret them with upcasters if the representation must change.
-
-### Using A Generic Database As An Event Store Without Append-Only Enforcement
 
 Storing events in a relational table without enforcing append-only semantics or per-stream optimistic concurrency, then discovering that updates or out-of-order appends corrupt replay. The event store has specialized requirements — append-only, stream-level ordering, optimistic concurrency — that a naive table does not meet.
 
@@ -128,5 +118,4 @@ Storing events in a relational table without enforcing append-only semantics or 
 - [ ] All projectors are idempotent (keyed on event identity/position, safe under redelivery), checkpoint their position durably, and can be reset and replayed from any point to rebuild a read model.
 - [ ] CQRS was adopted only where read/write asymmetry or complex read shapes justify it, not applied to a simple symmetric workload that a single model would serve.
 - [ ] The operational complexity tax is budgeted honestly — event store HA/backups, projector fleet monitoring with lag alerts, schema evolution over years, rebuild tooling, and team onboarding are all accounted for.
-- [ ] Event granularity is chosen at the level of a business-meaningful occurrence, not as property-level deltas or god-events, and events carry stable business-meaningful fields rather than implementation details that will churn.
-- [ ] Projection lag and event-store-to-read-model delay are monitored as first-class metrics with alerts, so a stalled projector cannot make the system silently stale.
+- [ ] Event granularity is chosen at the level of a business-meaningful occurrence, not as property-level deltas or god-events, and events carry stable business-meaningful fields rather than implementation details that will churn; [ ] Projection lag and event-store-to-read-model delay are monitored as first-class metrics with alerts, so a stalled projector cannot make the system silently stale

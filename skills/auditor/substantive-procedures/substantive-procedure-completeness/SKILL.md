@@ -96,8 +96,7 @@ Build the completeness assessment as a living map, updated as the audit progress
 - **Leaving a location, component, or period without coverage**, despite account-level procedures being well designed.
 - **Defaulting to record-based testing for completeness and cutoff**, which structurally cannot test those assertions.
 - **Under-testing disclosures and presentation** relative to the primary statements.
-- **Treating the completeness map as a one-time plan** rather than updating it as findings and risks emerge.
-- **Concluding sufficient appropriate evidence without explicitly aggregating** the evidence across procedures and assertions.
+- **Treating the completeness map as a one-time plan** rather than updating it as findings and risks emerge; **Concluding sufficient appropriate evidence without explicitly aggregating** the evidence across procedures and assertions
 
 ## Self-Check
 

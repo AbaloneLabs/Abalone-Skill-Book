@@ -120,19 +120,15 @@ Extracting a `UserCard` shared component after one use, then discovering the sec
 
 Wrapping every component in `memo` and every value in `useMemo` without measuring. The overhead of memoization can exceed the cost of the re-renders it prevents, and it adds a maintenance burden (every input must be a stable reference or the memo is useless). Profile, then memoize the expensive cases.
 
-### Mutating State In Place Because It "Looks Simpler"
+### Mutating State In Place Because It "Looks Simpler" and a Giant Component That Fetches, Validates, And Renders
 
 Doing `state.items.push(newItem)` instead of returning a new array. The framework sees the same reference and does not re-render, producing a UI that silently fails to update. Always update immutably.
 
-### A Giant Component That Fetches, Validates, And Renders
-
 One component handles the API call, the form state, the validation, and the rendering. Every change — visual, data, or logic — touches it, and it cannot be tested in pieces. Split by responsibility: a data/container layer, a form/state layer, and presentational children.
 
-### Fetching In Leaf Components Causing Waterfalls
+### Fetching In Leaf Components Causing Waterfalls and mixing Controlled And Uncontrolled On The Same Input
 
 A parent renders, a child renders and fetches, then a grandchild renders and fetches — three serial round trips for data that could have been fetched in parallel at the page level. Fetch at the boundary; parallelize independent queries.
-
-### Mixing Controlled And Uncontrolled On The Same Input
 
 Providing a `value` prop and also reading the input via ref, so the input's displayed value and its tracked state disagree. Pick one model per input and commit to it.
 

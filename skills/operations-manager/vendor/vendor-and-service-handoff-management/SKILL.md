@@ -1,196 +1,90 @@
 ---
-name: vendor_and_service_handoff_management.md
-description: Use when the agent is managing vendors, outsourced operations, service handoffs, supplier coordination, internal-to-external responsibility boundaries, or transitions where work crosses team or organization boundaries.
+name: vendor-and-service-handoff-management.md
+description: Use when the agent is setting up or reviewing vendor work, outsourced operations, service handoffs, supplier coordination, partner responsibility boundaries, internal-to-external transitions, customer-impacting vendor processes, or cross-organization operational ownership.
 ---
 
 # Vendor And Service Handoff Management
 
-Operations often fail at boundaries. A vendor, supplier, outsourced team, partner, or internal service group may own one part of the work while the customer experiences the whole result. The operations manager must make responsibilities, service levels, information flow, escalation, quality, and continuity explicit.
+Vendor management is not only contract management. It is the design of a boundary where work, data, expectations, quality, escalation, and customer impact cross between organizations. Agents often assume that a signed agreement or an email introduction makes the handoff reliable. In practice, failures happen because inputs are incomplete, ownership is unclear, service definitions differ, data sharing is unsafe, and no one knows who tells the customer when the vendor misses.
 
-Use this skill before setting up a vendor process, outsourcing work, changing suppliers, handing work between teams, reviewing service levels, or managing operational dependencies. The goal is to prevent the agent from assuming that a contract or email thread is enough to make cross-boundary work reliable.
+Use this skill before outsourcing work, onboarding a vendor, assigning tasks to a partner, changing service responsibility, or designing an operational handoff between internal and external teams. The goal is to make the customer-facing outcome reliable even when delivery depends on another organization.
 
 ## Core Rules
 
-### Define The Boundary Of Responsibility
+### Define the responsibility boundary
 
-Start by mapping who owns what.
+Map exactly what the vendor owns, what remains internal, and what is shared. Include intake, validation, execution, quality review, customer communication, exception handling, approvals, reporting, billing, data retention, and closure. Avoid broad phrases like "vendor handles fulfillment" unless the included and excluded responsibilities are clear.
 
-Clarify:
+The boundary should also define decision rights. A vendor may perform work but not approve exceptions, speak to customers, waive fees, change policy, access sensitive records, or close incidents. If authority is unclear, either work stalls or the vendor makes decisions the business did not intend.
 
-- work the vendor or receiving team owns;
-- work retained internally;
-- inputs required;
-- outputs expected;
-- decision authority;
-- customer communication owner;
-- exception owner;
-- quality owner;
-- payment or approval owner;
-- data and system access owner.
+### Specify inputs and outputs
 
-If the boundary is vague, customers and staff will experience gaps.
+Vendors need complete, consistent inputs. Define required fields, file formats, access, evidence, deadlines, priority signals, special handling flags, and how missing or invalid inputs are returned. If internal teams send inconsistent work to the vendor, performance problems may be self-created.
 
-### Specify Service Levels And Quality Expectations
+Outputs should be equally clear: deliverable, completion evidence, status update, defect report, invoice support, customer-facing proof, and system update. A vendor's definition of done may not match the operation's definition of done.
 
-Service expectations should be measurable where possible.
+### Align service levels to customer promises
 
-Define:
+Vendor SLAs should connect to the promises the business makes to customers or internal recipients. Response time, completion time, accuracy, availability, escalation time, defect handling, reporting cadence, and rework responsibility should be measurable and meaningful.
 
-- response time;
-- completion time;
-- availability;
-- accuracy;
-- quality criteria;
-- reporting cadence;
-- escalation time;
-- defect handling;
-- rework responsibility;
-- documentation required.
+Do not accept vendor-friendly metrics that look green while customer experience fails. A vendor can meet its response SLA and still miss the delivery window the customer cares about.
 
-Do not assume the vendor's definition of done matches yours.
+### Control data sharing and access
 
-### Control Access And Data Sharing
+Share the minimum data needed for the work. Review customer consent, contractual basis, privacy obligations, security controls, system permissions, audit logs, secure transfer, data retention, subcontractor access, and offboarding. Operational convenience should not decide data exposure.
 
-Vendors and handoff partners often need information, but not all information. Share the minimum data needed for the work and protect sensitive information.
+External handoffs create privacy and security risk because the business loses direct control. Access should be reviewed periodically and removed promptly when scope changes or the relationship ends.
 
-Review:
+### Design escalation before failure
 
-- data fields shared;
-- customer consent or contractual basis;
-- access permissions;
-- system accounts;
-- audit logging;
-- data retention;
-- secure transfer;
-- confidentiality;
-- offboarding access removal.
+Define routine contact, operational escalation, emergency escalation, executive or account escalation, after-hours contact, and dispute path. Specify triggers: missed SLA, repeated defects, data incident, safety risk, customer complaint, capacity constraint, unplanned outage, invoice dispute, or unclear ownership.
 
-Operational convenience should not override privacy, security, or customer trust.
+Escalation should include what evidence is required and who communicates to customers or internal stakeholders. Waiting to design escalation during a failure wastes the period when recovery is still possible.
 
-### Create Escalation Paths
+### Monitor quality and customer impact
 
-When a vendor misses a deadline, provides poor quality, loses information, or encounters an exception, the team needs an escalation path.
+Track volume, SLA adherence, defects, rework, aging, rejected inputs, customer complaints, incident count, cost, invoice accuracy, and communication quality. Segment by work type, location, customer, product, and vendor team where useful.
 
-Define:
+Vendor quality is still brand quality. Customers typically blame the business they bought from, not the subcontractor. Internal teams should not use vendor ownership as a reason to stop monitoring customer impact.
 
-- frontline contact;
-- operational owner;
-- executive or account owner;
-- emergency contact;
-- escalation trigger;
-- response expectation;
-- dispute path;
-- customer communication owner.
+### Pilot before scaling
 
-Escalation paths should be known before the first failure.
+Test the handoff with representative work before shifting critical volume. A pilot should reveal missing fields, unclear responsibilities, access issues, reporting gaps, quality defects, timing mismatches, cost assumptions, and exception handling weakness.
 
-### Monitor Performance Continuously
+Do not pilot only easy work. Include realistic edge cases and at least one exception path. Scale only after the pilot proves the boundary works in practice.
 
-Vendor and handoff performance should be managed with evidence.
+### Keep internal teams aligned
 
-Track:
+Sales, support, finance, legal, security, compliance, operations, and customer success may all be affected by vendor work. Make sure they know what the vendor does, what not to promise, how to request work, where status lives, how to escalate, and who owns customer communication.
 
-- volume;
-- service level adherence;
-- defect rate;
-- rework;
-- aging;
-- missed handoffs;
-- cost;
-- customer complaints;
-- incident count;
-- communication quality.
+Vendor onboarding can fail internally when teams continue using old expectations or private channels. The internal operating model must change along with the external handoff.
 
-Review performance regularly and document actions. Do not rely only on anecdotal frustration.
+### Plan continuity and exit from the start
 
-### Plan Continuity And Exit
+Every important vendor dependency needs a continuity plan. Define backup supplier, internal fallback, data retrieval, work transition, knowledge retention, access removal, open-work handoff, customer communication, and termination support.
 
-Every important external dependency needs a continuity plan.
-
-Ask:
-
-- what happens if the vendor is unavailable;
-- whether there is a backup supplier;
-- how data can be recovered;
-- how work is transitioned;
-- what notice period exists;
-- what knowledge must be retained internally;
-- what customer commitments depend on the vendor;
-- whether exit rights and access removal are clear.
-
-Vendor management includes the possibility of change.
-
-### Align Internal Teams
-
-Vendors do not remove internal coordination needs. Sales, support, finance, legal, security, operations, and customer success may all be affected.
-
-Make sure internal teams know:
-
-- what the vendor does;
-- what not to promise;
-- how to request work;
-- how to report issues;
-- where status lives;
-- who approves exceptions;
-- how customer questions are answered.
-
-### Validate Before Scaling The Handoff
-
-Before moving large volume or critical work to a vendor or receiving team, test the handoff with a controlled sample. A pilot can reveal missing fields, unclear definitions, slow response, quality gaps, access problems, and customer communication issues.
-
-Check during pilot:
-
-- whether inputs are complete;
-- whether the receiving team understands the work;
-- whether outputs meet quality standards;
-- how exceptions are handled;
-- whether reporting is useful;
-- whether customers experience delay or confusion;
-- whether internal owners can monitor status;
-- whether cost and effort match assumptions.
-
-Scale only after the boundary works in practice, not only because the process was designed in a meeting.
+Exit planning is not pessimism. It protects customers and operations from vendor outage, performance failure, acquisition, contract dispute, insolvency, or strategic change.
 
 ## Common Traps
 
-### Assuming The Contract Runs The Process
-
-Contracts matter, but daily operations need workflow, contacts, reporting, and exception handling.
-
-### Over-Sharing Data
-
-Sending full records because it is easier can create privacy and security risk.
-
-### No Backup Plan
-
-If a vendor is critical, outage or failure can become your customer-facing problem.
-
-### Treating Vendor Quality As Separate From Brand
-
-Customers usually blame the business they bought from, not the vendor behind the scenes.
-
-### No Offboarding Process
-
-Vendor transitions can leave access, data, inventory, documentation, and customer commitments unresolved.
-
-### Ambiguous Customer Communication
-
-When something goes wrong, decide who tells the customer and what can be said.
-
-### Skipping Pilot Because The Vendor Is Experienced
-
-An experienced vendor still does not know your customers, systems, edge cases, terminology, and service promises. Test the specific handoff.
+- Assuming a contract or statement of work is enough to run daily operations.
+- Defining vendor scope broadly while leaving exceptions, customer communication, and approvals ambiguous.
+- Sending incomplete or inconsistent inputs and then blaming the vendor for slow work.
+- Accepting vendor metrics that do not match the business's customer promise.
+- Over-sharing customer, employee, financial, or security data because it is operationally convenient.
+- Having no escalation path beyond a generic account manager.
+- Treating vendor defects as separate from brand, customer trust, and internal service quality; scaling vendor work before testing realistic edge cases and reporting
+- Letting internal teams make promises the vendor process cannot support; waiting until termination or failure to think about access removal, data recovery, and transition
 
 ## Self-Check
 
-- [ ] Vendor or handoff responsibilities, internal responsibilities, inputs, outputs, and decision authority are explicit.
-- [ ] Service levels, quality criteria, reporting, defect handling, and documentation expectations are defined.
-- [ ] Data sharing is limited to what is needed and includes access, security, retention, audit, and offboarding controls.
-- [ ] Escalation contacts, triggers, response expectations, and dispute paths are known.
-- [ ] Performance is monitored with service levels, defects, rework, aging, cost, incidents, and customer impact.
-- [ ] Continuity, backup, transition, and exit plans exist for critical dependencies.
-- [ ] Internal teams know what the vendor does, how to request work, what not to promise, and how to escalate issues.
-- [ ] Customer communication ownership is clear when vendor issues affect customers.
-- [ ] A controlled pilot or validation step checks input quality, output quality, exceptions, reporting, monitoring, and customer impact before scaling.
-- [ ] Vendor quality is treated as part of the overall customer experience.
-- [ ] The handoff design prevents work from disappearing between organizations or teams.
+- Are vendor-owned, internally owned, and shared responsibilities clearly separated?
+- Are decision rights defined for exceptions, customer communication, approvals, policy changes, and closure?
+- Are inputs, formats, evidence, deadlines, priority signals, and rejection paths specified?
+- Does the vendor output include completion evidence, status, defect reporting, invoice support, and system updates?
+- Do SLAs align with actual customer or internal service promises?
+- Are data sharing, permissions, retention, secure transfer, subcontractors, audit logs, and offboarding controlled?
+- Are routine, operational, emergency, executive, and dispute escalation paths defined before failure?
+- Are quality, rework, customer complaints, aging, cost, and communication monitored by meaningful segments?
+- Has a pilot tested realistic work, edge cases, access, reporting, and exception handling before scale?
+- Is there a continuity and exit plan covering backup, data, access, open work, and customer communication?

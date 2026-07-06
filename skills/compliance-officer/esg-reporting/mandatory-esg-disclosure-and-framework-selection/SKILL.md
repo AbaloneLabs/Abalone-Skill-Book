@@ -137,6 +137,10 @@ Greenwashing liability arises from unsubstantiated or inconsistent claims.
 
 Non-headquartered companies can be caught by revenue and activity thresholds abroad.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are all applicable mandatory disclosure regimes identified based on listing, operations, size, sector, supply chain, and extraterritorial reach?

@@ -164,11 +164,7 @@ Before treating the reporting as complete, verify:
 - Repeated claims were traced to their original source.
 - At least one meaningful attempt was made to corroborate major claims through independent evidence.
 - Anonymous sourcing is justified by news value, source knowledge, lack of on-record alternatives, and risk of harm or retaliation.
-- People or institutions facing criticism were given a fair opportunity to respond when practicable.
-- Digital media was checked for origin, time, location, authenticity, and context before use.
-- Numbers, names, dates, titles, places, and quotes were checked against primary records or notes.
-- The story says what remains unknown instead of filling gaps with confident language.
-- The wording does not imply causation, intent, guilt, motive, or certainty beyond the evidence.
-- Sensitive details are included only when they serve a public-interest purpose.
-- Notes preserve the verification path without exposing protected sources or private information unnecessarily.
-- Any update or correction plan is ready if new facts change the story.
+- People or institutions facing criticism were given a fair opportunity to respond when practicable; digital media was checked for origin, time, location, authenticity, and context before use
+- Numbers, names, dates, titles, places, and quotes were checked against primary records or notes; the story says what remains unknown instead of filling gaps with confident language
+- The wording does not imply causation, intent, guilt, motive, or certainty beyond the evidence; sensitive details are included only when they serve a public-interest purpose
+- Notes preserve the verification path without exposing protected sources or private information unnecessarily; any update or correction plan is ready if new facts change the story

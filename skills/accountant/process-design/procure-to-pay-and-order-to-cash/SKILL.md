@@ -162,11 +162,9 @@ Items left on account distort the receivable and obscure collection performance.
 
 AP and AR subledgers that do not tie to the GL indicate process or configuration errors.
 
-### Efficiency Without Control
+### Efficiency Without Control and process Design Without Framework Review
 
 Automating away the match or approval removes the controls that make the ledger reliable.
-
-### Process Design Without Framework Review
 
 Revenue, credit loss, accrual, and tax treatments must be confirmed against the applicable framework by qualified professionals.
 

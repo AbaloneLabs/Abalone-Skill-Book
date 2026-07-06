@@ -235,11 +235,7 @@ Before treating the translation as ready for delivery, verify:
 - Negations, conditions, obligations, permissions, deadlines, quantities, and warnings are correct.
 - Terminology follows the glossary or documented decisions.
 - Names, titles, product terms, legal references, and technical terms are accurate.
-- Numbers, dates, units, currency, percentages, and ranges are correct.
-- Placeholders, tags, variables, links, code, and IDs are intact.
-- Tone, register, politeness, and reader relationship fit the target context.
-- The target text reads naturally enough for its purpose.
-- Machine translation output, if used, was reviewed skeptically for fluent errors.
-- Ambiguity, source errors, or risky choices are noted for reviewer attention.
-- Formatting, layout, file format, comments, tracked changes, and version state are ready for handoff.
-- High-stakes material is clearly marked as needing qualified review when applicable.
+- Numbers, dates, units, currency, percentages, and ranges are correct; placeholders, tags, variables, links, code, and IDs are intact
+- Tone, register, politeness, and reader relationship fit the target context; the target text reads naturally enough for its purpose
+- Machine translation output, if used, was reviewed skeptically for fluent errors; ambiguity, source errors, or risky choices are noted for reviewer attention
+- Formatting, layout, file format, comments, tracked changes, and version state are ready for handoff; high-stakes material is clearly marked as needing qualified review when applicable

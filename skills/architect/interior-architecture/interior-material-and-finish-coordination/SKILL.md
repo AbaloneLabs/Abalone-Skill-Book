@@ -105,6 +105,10 @@ When furniture is selected for its look and placed on the plan without coordinat
 
 Specifying finishes and furniture without confirming availability, lead time, or replacement stock creates an interior that cannot be repaired or completed on schedule, because the materials are discontinued, the lead times exceed the schedule, or the maintenance products are unavailable. The trap is that the documents name a product, so the design appears specified, while in reality the product is sole-source, six months out, or no longer made, and the substitution that arrives does not match. The harm is schedule slip, mismatched patches after damage, and an owner who cannot maintain the interior as designed. Confirming availability and lead time before specifying, avoiding procurement-risk materials, and documenting maintenance requirements for the owner are what allow an interior to be built on time and maintained as intended.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is each finish selected for the performance demands of its location — traffic, wear, moisture, impact, cleaning, acoustics — not appearance alone?

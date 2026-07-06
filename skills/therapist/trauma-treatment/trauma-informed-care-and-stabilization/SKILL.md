@@ -61,6 +61,10 @@ A therapist may process past trauma while the client is currently being abused, 
 
 A therapist may improvise trauma processing, using unstructured exploration of traumatic memories without a trained, evidence-based approach, which can be ineffective or harmful. The mechanism is that the therapist recognizes the trauma and wants to address it, but is not trained in a specific processing approach, so they explore the memories conversationally, when unstructured exploration can flood the client without the structure that makes processing therapeutic. The harm is that the client is exposed to traumatic material without the containment, and the processing is ineffective or re-traumatizing. Using a trained, evidence-based approach, and referring when not trained, is what keeps trauma processing safe and effective.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I applying the trauma-informed principles, safety, trust, choice, collaboration, empowerment, across all phases?

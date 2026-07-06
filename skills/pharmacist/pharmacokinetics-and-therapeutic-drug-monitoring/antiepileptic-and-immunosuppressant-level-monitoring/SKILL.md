@@ -29,6 +29,10 @@ The therapeutic range is a population-derived window, not a guarantee of efficac
 
 Transplant immunosuppression operates under constraints that change the meaning of the level. In the immediate post-transplant period, the target range is higher (to prevent acute rejection) and narrows over months (to reduce chronic nephrotoxicity and infection risk). The pharmacist must know where the patient is in the transplant timeline and apply the range appropriate to that phase, not a single static target. Pregnancy dramatically alters AED pharmacokinetics: increased volume of distribution, increased clearance, and decreased protein binding all lower the total level, and a pregnant patient whose seizures were controlled may break through on the same dose because the free concentration has fallen. The pharmacist must monitor free levels in pregnancy and anticipate the need for dose increases as pregnancy progresses, then reductions postpartum as clearance normalizes — failure to reduce postpartum produces toxicity.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Treating the Total Level as the Active Drug in a Hypoalbuminemic Patient
@@ -47,6 +51,14 @@ A patient starts carbamazepine and has a level of 8 mg/L at week one. At week th
 
 A patient's tacrolimus level is within the reference range, but their creatinine is climbing and a biopsy shows acute rejection. The trap is that the pharmacist and team treat the in-range level as evidence that the immunosuppression is adequate, and they look elsewhere for the cause of the graft dysfunction. The mechanism is that the reference range feels authoritative — if the number is in range, the drug must be working — and the cognitive effort of questioning whether this patient's individual therapeutic window is lower than the population average is avoided. The harm is that the rejection progresses while the team chases other explanations, and the window for salvage therapy narrows. The false signal is that a population-derived range guarantees individual efficacy, when in fact some patients reject at levels that are therapeutic for the population.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - For phenytoin, did I correct the total level for the patient's albumin or order a free level, or did I interpret an uncorrected total level in a hypoalbuminemic or uremic patient?
@@ -55,3 +67,5 @@ A patient's tacrolimus level is within the reference range, but their creatinine
 - For carbamazepine, did I consider auto-induction when interpreting a level drawn before steady state, or did I treat the falling level as non-adherence?
 - Did I integrate the level with the clinical endpoint — seizure control, graft function, signs of toxicity — or did I treat the reference range as the goal independent of whether the patient's clinical condition was actually controlled?
 - For a pregnant patient on an AED, did I monitor free levels and anticipate dose changes across trimesters, or did I apply the non-pregnant reference range to a patient whose pharmacokinetics have fundamentally changed?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

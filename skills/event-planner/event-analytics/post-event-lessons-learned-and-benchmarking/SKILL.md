@@ -70,12 +70,9 @@ People leave and roles change. Event quality depends on memory that outlasts ind
 - Recording problems without root causes or impact.
 - Comparing metrics to unrelated events.
 - Producing recommendations with no owner, priority, or deadline.
-- Writing lessons without testing fixes or documenting accepted residual risk before the next event.
-- Avoiding vendor feedback because the event is over.
-- Failing to update templates, scopes, and timelines before the next planning cycle.
-- Treating sponsor or attendee surveys as the only evidence.
-- Hiding safety or accessibility lessons because they are uncomfortable.
-- Storing lessons where future planners will not find them.
+- Writing lessons without testing fixes or documenting accepted residual risk before the next event; avoiding vendor feedback because the event is over
+- Failing to update templates, scopes, and timelines before the next planning cycle; treating sponsor or attendee surveys as the only evidence
+- Hiding safety or accessibility lessons because they are uncomfortable; storing lessons where future planners will not find them
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Strike planning matters from the start. If materials cannot be removed, stored, 
 - Ignoring rigging, fire, power, loading, attachment, and strike restrictions.
 - Skipping mockups or scale checks for photo moments, scenic builds, stage decor, and sponsor walls.
 - Blocking accessible routes, service paths, sightlines, or emergency exits.
-- Creating photo moments with no queue space.
-- Forgetting lighting and photography until decor is installed.
-- Using cultural motifs superficially or disrespectfully.
-- Underbudgeting labor, delivery, damage, storage, and strike.
-- Changing custom designs after fabrication deadlines.
-- Claiming sustainable design without a realistic reuse, donation, or waste plan.
+- Creating photo moments with no queue space; forgetting lighting and photography until decor is installed
+- Using cultural motifs superficially or disrespectfully; underbudgeting labor, delivery, damage, storage, and strike
+- Changing custom designs after fabrication deadlines; claiming sustainable design without a realistic reuse, donation, or waste plan
 
 ## Self-Check
 

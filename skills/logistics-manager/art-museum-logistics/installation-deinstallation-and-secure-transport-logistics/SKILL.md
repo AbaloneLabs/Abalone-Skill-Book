@@ -71,10 +71,8 @@ Secure transport is weakened by uncontrolled dwell. The best move is often the o
 - Using general labor or riggers without art-handling qualification and clear command structure.
 - Allowing dust, HVAC changes, public traffic, or construction to affect staged objects.
 - Letting installation areas fill with tools, drinks, loose hardware, and unrelated staff.
-- Hiding critical-path delays until opening, press, donor, or public commitments force unsafe work.
-- Discarding or scattering packing materials needed for deinstallation and return.
-- Treating deinstallation as teardown rather than another high-risk handling event.
-- Allowing high-value shipments to dwell unsecured because receiving or courier timing was not aligned.
+- Hiding critical-path delays until opening, press, donor, or public commitments force unsafe work; discarding or scattering packing materials needed for deinstallation and return
+- Treating deinstallation as teardown rather than another high-risk handling event; allowing high-value shipments to dwell unsecured because receiving or courier timing was not aligned
 
 ## Self-Check
 

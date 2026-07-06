@@ -214,11 +214,7 @@ Before treating substantive review as complete, verify:
 - Attribution explains how the writer knows, not merely that someone said something.
 - Vague source phrases have been replaced or flagged.
 - Quotes and paraphrases preserve source meaning and context.
-- Numbers, percentages, dates, names, titles, units, and terminology have been checked.
-- Data claims include enough context for fair interpretation.
-- Logical links between evidence and conclusion have been tested.
-- Unsupported leaps have been narrowed, sourced, or flagged.
-- Serious criticism, technical complexity, or high-stakes advice has been flagged for response or expert review.
-- Necessary uncertainty remains visible.
-- Captions, charts, headings, bullets, summaries, and display text were reviewed for factual accuracy.
-- The editor did not let polished prose substitute for evidence.
+- Numbers, percentages, dates, names, titles, units, and terminology have been checked; data claims include enough context for fair interpretation
+- Logical links between evidence and conclusion have been tested; unsupported leaps have been narrowed, sourced, or flagged
+- Serious criticism, technical complexity, or high-stakes advice has been flagged for response or expert review; necessary uncertainty remains visible
+- Captions, charts, headings, bullets, summaries, and display text were reviewed for factual accuracy; the editor did not let polished prose substitute for evidence

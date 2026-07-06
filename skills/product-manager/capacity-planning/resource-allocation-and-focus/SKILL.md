@@ -84,3 +84,4 @@ Starting a higher-priority initiative immediately rather than finishing in-progr
 - [ ] Allocation tradeoffs are made visible, with every accepted request naming what it displaces.
 - [ ] Re-allocation happens on a cadence and is triggered by priority or learning shifts, with changes communicated.
 - [ ] The team finishes work regularly, not merely advances many things in parallel.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -65,10 +65,8 @@ The final travel output should not turn hypotheses into facts. Accuracy matters 
 - Scheduling archives or churches without checking appointments, hours, holidays, and access rules.
 - Bringing too much unfocused family material and no concise research question.
 - Showing up at private homes or communities without consent or local sensitivity.
-- Ignoring language, script, border changes, and historical place-name changes.
-- Overpacking emotional days with ordinary sightseeing or tight transfers.
-- Letting disappointment define the trip if a hoped-for discovery is not found.
-- Recording uncertain leads as confirmed family history.
+- Ignoring language, script, border changes, and historical place-name changes; overpacking emotional days with ordinary sightseeing or tight transfers
+- Letting disappointment define the trip if a hoped-for discovery is not found; recording uncertain leads as confirmed family history
 
 ## Self-Check
 

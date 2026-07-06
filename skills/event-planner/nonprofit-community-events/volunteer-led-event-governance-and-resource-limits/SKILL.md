@@ -70,12 +70,9 @@ Do not discover the dependency map at call time. A volunteer no-show should crea
 - Describing roles vaguely instead of assigning named owners, deadlines, and backups.
 - Putting volunteers in licensed, safety-critical, or conflict-heavy roles without training.
 - Treating donated services as reliable without confirming scope and fallback options.
-- Allowing board members, donors, or sponsors to make operational promises informally.
-- Cutting accessibility, food, water, safety, or sound quality before optional features.
-- Failing to track reimbursements, cash, restricted funds, and in-kind commitments.
-- Providing no breaks, meals, or escalation support for volunteers.
-- Ending without gratitude, reimbursement, feedback, documentation, and retention planning.
-- Having no backup plan for volunteer no-shows in registration, food, transport, safety, or cleanup.
+- Allowing board members, donors, or sponsors to make operational promises informally; cutting accessibility, food, water, safety, or sound quality before optional features
+- Failing to track reimbursements, cash, restricted funds, and in-kind commitments; providing no breaks, meals, or escalation support for volunteers
+- Ending without gratitude, reimbursement, feedback, documentation, and retention planning; having no backup plan for volunteer no-shows in registration, food, transport, safety, or cleanup
 
 ## Self-Check
 

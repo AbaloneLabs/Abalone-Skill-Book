@@ -61,6 +61,10 @@ A therapist may document a sanitized or idealized version of the session, omitti
 
 A therapist may use copy-forward or templated notes, carrying forward the previous note's content with minimal changes, producing notes that have the form of documentation but do not reflect the individual session. The mechanism is that templates and copy-forward save time, and the therapist, pressed, uses them, when the resulting notes are generic and do not capture what happened in this session. The harm is that the record is inaccurate, it cannot guide care, and in an audit or legal proceeding, the pattern of identical or near-identical notes undermines the credibility of the entire record. Writing notes that reflect the individual session, using templates as structure but not as content, is what keeps the record accurate.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I writing notes contemporaneously, the same day, or noting the actual date if late?

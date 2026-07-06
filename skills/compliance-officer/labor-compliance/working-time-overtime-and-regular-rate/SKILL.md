@@ -144,6 +144,10 @@ Rounding must be neutral. Consistent underpayment is not defensible.
 
 Severe on-call restrictions make the time compensable regardless of call frequency.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are all hours worked captured including unauthorized overtime, preliminary and postliminary activities, waiting, travel, training, on-call, and remote work?

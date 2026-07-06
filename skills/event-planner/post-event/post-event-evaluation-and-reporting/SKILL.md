@@ -54,8 +54,7 @@ Avoid hiding bad news. Stakeholders can handle a balanced report if it is factua
 - Making recommendations that are too broad to act on.
 - Ignoring near misses because guests did not notice them.
 - Reporting budget before final invoices, refunds, deposits, and disputes are reconciled.
-- Blaming one vendor or team without examining process and decision causes.
-- Creating one generic report for every stakeholder.
+- Blaming one vendor or team without examining process and decision causes; creating one generic report for every stakeholder
 
 ## Self-Check
 

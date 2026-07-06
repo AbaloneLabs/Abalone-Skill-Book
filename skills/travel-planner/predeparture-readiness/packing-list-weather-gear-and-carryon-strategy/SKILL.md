@@ -54,8 +54,7 @@ For groups and families, assign shared items so duplicates are intentional. For 
 - Forgetting culturally appropriate clothing for religious sites, business meetings, formal dining, or conservative areas.
 - Underplanning footwear for walking, rain, snow, heat, beaches, or formal events.
 - Listing outdoor gear without deciding what should be rented versus brought.
-- Creating a long list with no prioritization, causing travelers to miss the critical items.
-- Ignoring laundry, sink-wash, or rewear strategy for longer trips.
+- Creating a long list with no prioritization, causing travelers to miss the critical items; ignoring laundry, sink-wash, or rewear strategy for longer trips
 
 ## Self-Check
 

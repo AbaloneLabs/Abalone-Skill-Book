@@ -166,11 +166,9 @@ A close without status tracking slips silently until the deadline.
 
 Cutting reconciliation or review to close faster produces restatements and is slower overall.
 
-### Stale Checklist
+### Stale Checklist and standardization Without Framework Review
 
 A checklist that is never updated drifts from reality and loses its value.
-
-### Standardization Without Framework Review
 
 The close must implement framework-compliant policy confirmed by qualified professionals.
 

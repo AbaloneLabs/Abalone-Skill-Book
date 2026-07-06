@@ -108,11 +108,9 @@ Showing "Saved!" before the request completes, then the request fails and the UI
 
 A toggle whose animation must complete before a reverse toggle registers, so a user who toggles back rapidly sees the animation play out fully or lands in the wrong state. Read the current state on each input and redirect the animation from wherever it is.
 
-### Success Animation On An Error Path
+### Success Animation On An Error Path and hover-Only Feedback On Touch Devices
 
 A toast or animation that looks identical whether the action succeeded or failed, so the user cannot distinguish the outcome. Distinguish in-progress, done, and failed visually and textually.
-
-### Hover-Only Feedback On Touch Devices
 
 Feedback that appears only on `:hover`, which does not exist on touch devices, so mobile users get no acknowledgment. Provide tap/active-state feedback that works without hover.
 

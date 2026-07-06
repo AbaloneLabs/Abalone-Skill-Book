@@ -181,5 +181,4 @@ A GUI-only session with no saved log cannot be reviewed or rerun. Save scripts, 
 - Do joins preserve or deliberately account for unmatched records, with before-and-after record counts checked?
 - Are exceptions investigated and resolved, with follow-up documented rather than ignored?
 - Is the output exported to the workpaper with test description, population, script reference, exceptions, conclusion, and review evidence?
-- Are continuous monitoring scripts governed with periodic tuning, data-feed validation, and issue tracking?
-- Is the original data extract retained unchanged for reproducibility alongside the scripts and outputs?
+- Are continuous monitoring scripts governed with periodic tuning, data-feed validation, and issue tracking?; is the original data extract retained unchanged for reproducibility alongside the scripts and outputs?

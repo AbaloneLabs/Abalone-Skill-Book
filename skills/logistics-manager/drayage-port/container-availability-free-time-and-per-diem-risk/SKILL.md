@@ -39,6 +39,10 @@ Small errors in container numbers, bill of lading, SCAC, terminal, steamship lin
 
 Exception communication should be precise. Say which container, which charge clock, which date, which party must act, and what the cost consequence is. General statements such as "container is not available" or "free time is running out" do not create accountable action.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Treating vessel arrival as container availability. Discharge, release, payment, holds, and appointment access can all block pickup.

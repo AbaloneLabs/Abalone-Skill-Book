@@ -65,10 +65,8 @@ Do not moralize, but do not ignore the issue. It can affect brand, employee, fam
 - Choosing aircraft by passenger count only, without luggage, range, runway, pets, and comfort.
 - Treating broker marketing as safety verification.
 - Building fixed-event trips around empty-leg flexibility.
-- Assuming private flights avoid all weather, slot, customs, curfew, and airport restrictions.
-- Overlooking privacy risks from manifests, tail tracking, FBO locations, and supplier emails.
-- Ignoring environmental and optics issues for corporate or public-facing travelers.
-- Promising operational certainty that only a qualified operator can confirm.
+- Assuming private flights avoid all weather, slot, customs, curfew, and airport restrictions; overlooking privacy risks from manifests, tail tracking, FBO locations, and supplier emails
+- Ignoring environmental and optics issues for corporate or public-facing travelers; promising operational certainty that only a qualified operator can confirm
 
 ## Self-Check
 

@@ -65,10 +65,8 @@ Do not shame comfort needs. Spending on sleep, safety, or privacy can be a ratio
 - Assuming every hostel is appropriate for solo travelers, older travelers, minors, or travelers with sensory needs.
 - Forgetting baggage fees, bag size, check-in printing fees, and storage costs.
 - Building self-transfers as if separate tickets protect each other.
-- Recommending party hostels to travelers who need quiet or recovery.
-- Ignoring shower, laundry, food, charging, and secure document storage logistics.
-- Removing all taxi or private-room contingency to meet a target budget.
-- Treating discomfort as proof of authentic travel rather than a tradeoff to manage.
+- Recommending party hostels to travelers who need quiet or recovery; ignoring shower, laundry, food, charging, and secure document storage logistics
+- Removing all taxi or private-room contingency to meet a target budget; treating discomfort as proof of authentic travel rather than a tradeoff to manage
 
 ## Self-Check
 

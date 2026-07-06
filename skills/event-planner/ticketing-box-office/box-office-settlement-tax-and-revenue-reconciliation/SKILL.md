@@ -39,6 +39,10 @@ Final settlement should explain variances from forecast: price mix, discount usa
 
 Retain final reports, contracts, invoices, tax assumptions, refund logs, chargeback files, scan reports, cash counts, and approval records according to the organization's policy. Ticketing data often supports future pricing, sponsor reports, audits, and disputes.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Reporting gross sales as net revenue. Taxes, fees, refunds, splits, and reserves can materially change the result.

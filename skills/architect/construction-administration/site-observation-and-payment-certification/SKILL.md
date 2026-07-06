@@ -104,6 +104,10 @@ A payment application includes a substantial sum for materials stored off site o
 
 Eager to maintain goodwill or under contractor pressure about cash flow, the architect or owner agrees to release retainage before the work is complete and the punch list is closed. The trap is that the release feels like a reasonable gesture and the remaining work appears minor, so the risk seems small. The harm is that retainage is the owner's primary financial leverage to compel completion and correction; once released, the contractor's incentive to finish the punch list diminishes sharply, and the owner may be left with incomplete or defective work and no funds to withhold. The false signal is that the project is "essentially done," a feeling that routinely precedes the discovery of significant remaining defects. Holding retainage until the contractual milestones and a closed punch list are achieved is what preserves the leverage needed to reach true completion.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are site observations conducted at appropriate intervals and understood as general familiarity, not exhaustive inspection or supervision of means, methods, and safety?
@@ -112,3 +116,5 @@ Eager to maintain goodwill or under contractor pressure about cash flow, the arc
 - [ ] Has substantial completion been evaluated against its true standard, including operational life-safety systems, regulatory approvals, and a comprehensive punch list attached to the certificate?
 - [ ] Is the punch list specific, responsibility-assigned, and tracked to closure, with final payment not certified until all items are resolved?
 - [ ] Has retainage been withheld and released only at the contractually defined stages, not prematurely under pressure?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

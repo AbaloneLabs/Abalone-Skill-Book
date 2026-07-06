@@ -57,10 +57,8 @@ Travelers may witness crowding, baiting, off-road abuse, unsafe animal contact, 
 - Pressuring guides for closer views, off-road driving, or rule-breaking.
 - Ignoring vehicle crowding and habitat pressure at famous sightings.
 - Allowing social media goals to override animal welfare or sensitive species protection.
-- Focusing on wildlife while ignoring local community rights, employment, and revenue.
-- Assuming expensive luxury automatically means ethical conservation.
-- Treating cultural or village visits as add-ons without checking consent, compensation, host authority, and privacy.
-- Leaving travelers with no way to report unethical guiding, animal handling, or community treatment.
+- Focusing on wildlife while ignoring local community rights, employment, and revenue; assuming expensive luxury automatically means ethical conservation
+- Treating cultural or village visits as add-ons without checking consent, compensation, host authority, and privacy; leaving travelers with no way to report unethical guiding, animal handling, or community treatment
 
 ## Self-Check
 

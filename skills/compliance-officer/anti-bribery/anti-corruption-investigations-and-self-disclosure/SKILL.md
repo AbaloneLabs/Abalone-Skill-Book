@@ -126,11 +126,9 @@ Remediation includes:
 
 Document the remediation and its timing, since prompt and effective remediation is itself a factor in enforcement outcomes.
 
-### Protect Those Who Raise Concerns
+### Protect Those Who Raise Concerns and capture Lessons And Feed Them Back
 
 Retaliation against whistleblowers and witnesses destroys the reporting channel and is itself a violation. Make non-retaliation explicit, monitor the treatment of those who raise concerns, and act quickly on any indication of retaliation. The integrity of the investigation and of the program depends on people being willing to come forward.
-
-### Capture Lessons And Feed Them Back
 
 Every investigation should produce lessons that strengthen the program. Feed findings back into risk assessment, training, controls, and monitoring. An investigation that resolves a single matter without changing the program has not delivered its full value, and a pattern of similar findings indicates that prior lessons were not absorbed.
 

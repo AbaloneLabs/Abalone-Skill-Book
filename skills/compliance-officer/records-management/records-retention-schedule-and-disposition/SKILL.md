@@ -57,6 +57,10 @@ The most serious records-management failure is destroying records subject to a l
 
 Records that survive in backups after primary disposition are not truly destroyed. Backup retention and disposition must be part of the lifecycle governance, or the disposition is illusory.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I build the retention schedule from an inventory of record types defined by business and legal function, each mapped to its retention drivers?
@@ -66,3 +70,4 @@ Records that survive in backups after primary disposition are not truly destroye
 - Does the legal-hold process precisely scope, preserve across all systems, track, and release holds, avoiding both spoliation and permanent over-preservation?
 - Is retention implemented and enforceable across all systems, including legacy systems and backups, not only documented as policy?
 - Did I verify the applicable retention periods for each jurisdiction, industry, and record type, and consult counsel before changing any retention period?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

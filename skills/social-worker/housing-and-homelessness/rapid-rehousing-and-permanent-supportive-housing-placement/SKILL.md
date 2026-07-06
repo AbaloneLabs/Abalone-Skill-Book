@@ -55,6 +55,10 @@ Housing placement depends on landlords and property managers willing to accept t
 
 The time between CES assessment and housing placement can be months or years, and during this wait the client may move, lose contact, be incarcerated, be hospitalized, deteriorate, or die. The trap is treating the referral as accomplished and losing track of the client, so that when a unit becomes available the client cannot be found. The harm is that the client loses the placement they waited for, and the unit goes to someone else while the client remains unsheltered. The mechanism is that referral is a point-in-time event while the client's situation is dynamic. The corrective is to maintain regular contact during the wait, to update contact information and location, to track the client through system contacts, and to re-engage immediately when a unit is available.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I match the client to the housing model based on assessed need, not on what was available or what felt like "more help"?

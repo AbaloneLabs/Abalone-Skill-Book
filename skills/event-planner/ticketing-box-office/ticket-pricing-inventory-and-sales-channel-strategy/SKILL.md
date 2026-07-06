@@ -39,6 +39,10 @@ Popular events need presale testing, code limits, bot or bulk-buying controls, q
 
 Do not let urgency override change control. A wrong price, unlimited comp code, bad seat map, or misconfigured capacity can sell hundreds of flawed tickets quickly. Assign launch authority and a stop-sale process.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Pricing before defining what each ticket includes and how it will be enforced.

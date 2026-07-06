@@ -70,12 +70,9 @@ Do not treat the gift as the end. The event should deepen donor relationship and
 - Telling inspiring stories without a concrete case for support.
 - Using public giving formats with an audience that values privacy.
 - Announcing matches or leadership gifts without documented terms, permission, and fulfillment confidence.
-- Asking too late in the program after energy has dropped.
-- Assuming the auctioneer or speaker can improvise gift strategy.
-- Exploiting beneficiary stories without consent and dignity.
-- Letting meal service, bar noise, or entertainment distract from the ask.
-- Failing to prepare pledge capture and follow-up before the appeal.
-- Measuring success only by event-night revenue and not donor retention or cultivation.
+- Asking too late in the program after energy has dropped; assuming the auctioneer or speaker can improvise gift strategy
+- Exploiting beneficiary stories without consent and dignity; letting meal service, bar noise, or entertainment distract from the ask
+- Failing to prepare pledge capture and follow-up before the appeal; measuring success only by event-night revenue and not donor retention or cultivation
 
 ## Self-Check
 

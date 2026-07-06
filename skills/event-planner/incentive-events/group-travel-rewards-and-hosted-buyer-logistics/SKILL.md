@@ -70,12 +70,9 @@ Travel closeout often reveals hidden cost and service patterns. Do it before ren
 - Optimizing airfare without considering arrival experience and agenda protection.
 - Letting hotel rooming changes happen through multiple uncontrolled channels.
 - Providing no defined service desk for travel questions, delayed flights, room issues, and guest changes.
-- Understaffing airport arrivals and delayed-flight recovery.
-- Failing to tell hosted buyers what meetings or attendance are required.
-- Approving guest, upgrade, and extension exceptions without budget control.
-- Ignoring accessible transfers, child seats, luggage, and late arrivals.
-- Letting travelers check out with billing surprises.
-- Skipping post-event reconciliation of travel costs and attrition.
+- Understaffing airport arrivals and delayed-flight recovery; failing to tell hosted buyers what meetings or attendance are required
+- Approving guest, upgrade, and extension exceptions without budget control; ignoring accessible transfers, child seats, luggage, and late arrivals
+- Letting travelers check out with billing surprises; skipping post-event reconciliation of travel costs and attrition
 
 ## Self-Check
 

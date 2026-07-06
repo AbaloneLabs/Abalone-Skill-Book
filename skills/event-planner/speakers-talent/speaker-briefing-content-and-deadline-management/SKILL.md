@@ -70,12 +70,9 @@ Do not rely on memory across many speakers. Speaker management is a production w
 - Setting content deadlines too close to the event to allow review and correction.
 - Letting promotional, off-topic, inaccurate, offensive, or inaccessible content reach the stage.
 - Treating accessibility as a captioning task while slides and delivery remain inaccessible.
-- Collecting files through scattered email threads with no version control.
-- Forgetting embedded videos, fonts, aspect ratio, demos, and internet dependency.
-- Failing to align moderators and panelists on format, questions, and timekeeping.
-- Not telling speakers about cameras, translation, captioning, recording, or stage setup.
-- Tracking speaker readiness informally across multiple team members.
-- Escalating late content only when production has no time left to solve it.
+- Collecting files through scattered email threads with no version control; forgetting embedded videos, fonts, aspect ratio, demos, and internet dependency
+- Failing to align moderators and panelists on format, questions, and timekeeping; not telling speakers about cameras, translation, captioning, recording, or stage setup
+- Tracking speaker readiness informally across multiple team members; escalating late content only when production has no time left to solve it
 
 ## Self-Check
 

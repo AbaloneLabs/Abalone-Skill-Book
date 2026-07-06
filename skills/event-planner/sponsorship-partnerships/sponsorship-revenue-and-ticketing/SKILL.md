@@ -60,8 +60,7 @@ If sponsor ticketing caused overages, no-shows, code leakage, or access issues, 
 - Giving sponsor badges broader access than intended.
 - Printing badges before sponsor names, dietary needs, or access levels are finalized.
 - Treating in-kind or bundled ticket value casually without finance visibility.
-- Allowing nonpaid sponsors to receive benefits without policy or approval.
-- Leaving registration staff to resolve sponsor guest disputes without escalation rules.
+- Allowing nonpaid sponsors to receive benefits without policy or approval; leaving registration staff to resolve sponsor guest disputes without escalation rules
 
 ## Self-Check
 

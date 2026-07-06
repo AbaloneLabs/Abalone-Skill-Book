@@ -84,3 +84,4 @@ Imposing a single cadence regardless of product velocity. The trap is cadence th
 - [ ] Committed and aspirational goals are interpreted differently at every checkpoint.
 - [ ] End-of-cycle scoring is honest, and misses are treated as learning rather than failure.
 - [ ] A retrospective on OKR design quality feeds into the next cycle's design, improving metrics and calibration over time.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

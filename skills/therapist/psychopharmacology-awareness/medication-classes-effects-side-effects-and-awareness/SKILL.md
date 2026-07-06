@@ -61,6 +61,10 @@ A therapist, wanting to explain a client's experience, may offer pharmacological
 
 A therapist may not coordinate with the prescriber around medication starts, stops, and adjustments, treating the medication as the prescriber's separate concern, when these changes often affect the therapy and the client's presentation and coordination improves care. The mechanism of harm is that the therapist is surprised by changes in presentation that track with medication changes the prescriber made, the therapy and the medication management are not integrated, and the client receives fragmented care. The harm is that care is less effective, the therapist may misattribute medication effects, and the client's experience is not well-coordinated. Establishing communication and coordinating around changes integrates the care.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I maintain working awareness of common medication classes, their typical effects, and their characteristic side effects, for recognition and coordination?

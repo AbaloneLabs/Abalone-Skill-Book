@@ -162,11 +162,9 @@ Duplicate payments and duplicate entries often originate from feeds processed tw
 
 A degrading feed corrupts the ledger gradually until the error becomes material and visible.
 
-### Undocumented And Unmaintained Rules
+### Undocumented And Unmaintained Rules and validation Treated As Purely Technical
 
 Validation rules that no one maintains eventually stop catching the errors they were designed for.
-
-### Validation Treated As Purely Technical
 
 Validation of revenue, lease, intercompany, and tax feeds requires framework-specific logic confirmed by professionals.
 

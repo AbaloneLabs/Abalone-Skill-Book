@@ -49,6 +49,8 @@ Document who participated in goals-of-care discussions, what was discussed, what
 
 **Treating goals-of-care conversations as the physician's exclusive job.** Nurses may defer these conversations entirely to the provider, missing the opportunity to surface mismatches and support the patient. The mechanism of harm is that the nurse has the most continuous contact and the earliest sense of the patient's values and decline, and deferring means the conversation happens late, poorly, or not at all. The harm is decisions made in crisis without the patient's input. While ordering code status is a provider act, the nurse can initiate, facilitate, and document the conversation and advocate for it to happen.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Do I know my patient's code status, the basis for it, and whether an advance directive or POLST/MOLST exists?

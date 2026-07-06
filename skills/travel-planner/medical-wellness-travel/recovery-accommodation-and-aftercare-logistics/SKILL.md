@@ -54,8 +54,7 @@ Companions need planning too. They may need lodging, meals, workspace, transport
 - Booking rigid return flights when clearance to travel may change.
 - Treating vacation rentals as automatically better for recovery without checking support and access.
 - Sharing procedure details broadly with hotels, drivers, or group members.
-- Ignoring the companion's role, fatigue, and logistics.
-- Providing clinical guidance instead of asking the traveler to obtain medical instructions.
+- Ignoring the companion's role, fatigue, and logistics; providing clinical guidance instead of asking the traveler to obtain medical instructions
 
 ## Self-Check
 

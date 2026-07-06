@@ -72,8 +72,7 @@ Finished vehicle dwell is expensive and visible. Root cause should drive action,
 - Shipping before processing, accessories, software, title, emissions, fuel, charge, or washing is complete.
 - Ignoring EV state of charge and charging access during yard dwell.
 - Giving dealers vague ETAs without VIN-level status and appointment coordination.
-- Capturing proof of delivery without condition, keys, documents, and exception details.
-- Blaming transportation for dwell caused by holds, processing, or dealer readiness.
+- Capturing proof of delivery without condition, keys, documents, and exception details; blaming transportation for dwell caused by holds, processing, or dealer readiness
 
 ## Self-Check
 

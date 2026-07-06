@@ -84,3 +84,4 @@ Designing only for cooperative users. The trap is vulnerabilities that adversari
 - [ ] Data integrity is protected through atomic operations, constraints, and recovery design, including under concurrency.
 - [ ] Adversarial conditions are considered, with defenses against injection, overflow, replay, and escalation attacks.
 - [ ] The system tolerates unexpected, invalid, and adversarial input without breaking, corrupting data, or compromising safety.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

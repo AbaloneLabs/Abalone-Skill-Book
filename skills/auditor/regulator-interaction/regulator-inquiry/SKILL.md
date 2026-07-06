@@ -191,5 +191,4 @@ The client may want to shape the auditor's response to protect itself. The audit
 - Has conduct been reviewed to ensure nothing could constitute obstruction, including no alteration or concealment of records?
 - Is the inquiry and response fully documented, including classification, counsel advice, scope, productions, and oral communications?
 - Has the client been coordinated with appropriately without the auditor surrendering independent control of its response?
-- Are oral communications treated with the same care as written responses and documented?
-- Has the auditor avoided letting the client dictate a response that would be inaccurate or incomplete?
+- Are oral communications treated with the same care as written responses and documented?; has the auditor avoided letting the client dictate a response that would be inaccurate or incomplete?

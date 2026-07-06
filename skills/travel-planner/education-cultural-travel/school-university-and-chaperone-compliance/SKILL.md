@@ -65,10 +65,8 @@ Vendor contracts should support supervision and safety, not only price. A cheape
 - Collecting medical and passport data without privacy or access discipline.
 - Forgetting custody, notarized consent, or minor border-crossing documents.
 - Allowing free time without boundaries, check-ins, or lost-student protocol.
-- Scheduling high-risk activities without policy, insurance, and parent approval review.
-- Ignoring student behavior expectations around alcohol, social media, sacred sites, and hotels.
-- Choosing vendors that cannot support youth supervision needs.
-- Failing to define who communicates with parents and institution during incidents.
+- Scheduling high-risk activities without policy, insurance, and parent approval review; ignoring student behavior expectations around alcohol, social media, sacred sites, and hotels
+- Choosing vendors that cannot support youth supervision needs; failing to define who communicates with parents and institution during incidents
 
 ## Self-Check
 

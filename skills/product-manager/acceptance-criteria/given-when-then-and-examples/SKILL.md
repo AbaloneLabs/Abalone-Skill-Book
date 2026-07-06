@@ -84,3 +84,4 @@ Automating trivial or volatile scenarios. The trap is maintenance burden without
 - [ ] The scenario set focuses on important behaviors, avoiding bloat that obscures rather than illuminates.
 - [ ] Scenarios are connected to automated tests where the behavior is important, stable, and repeatedly verified.
 - [ ] Removing any scenario would leave a gap in understanding an important behavior.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

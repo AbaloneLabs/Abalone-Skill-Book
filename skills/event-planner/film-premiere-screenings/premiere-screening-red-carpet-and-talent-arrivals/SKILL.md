@@ -70,12 +70,9 @@ Premieres require disciplined communication because many stakeholders have statu
 - Letting press interviews delay the screening start indefinitely.
 - Mixing talent, fans, general guests, and late arrivals in the same bottleneck.
 - Oversubscribing the theater without standby and seat-release rules.
-- Forgetting no-photo talent, mobility needs, and security-sensitive alternate routes.
-- Allowing publicists, sponsors, and venue staff to use different schedules.
-- Underplanning post-screen Q and A and afterparty movement.
-- Treating talent departure and afterparty arrival as informal after the screening ends.
-- Ignoring paparazzi, protest, autograph, and fan barricade risk.
-- Failing to brief security on talent routes and boundaries.
+- Forgetting no-photo talent, mobility needs, and security-sensitive alternate routes; allowing publicists, sponsors, and venue staff to use different schedules
+- Underplanning post-screen Q and A and afterparty movement; treating talent departure and afterparty arrival as informal after the screening ends
+- Ignoring paparazzi, protest, autograph, and fan barricade risk; failing to brief security on talent routes and boundaries
 
 ## Self-Check
 

@@ -59,6 +59,10 @@ The trap is that the team gives insulin-dextrose and a binder, the potassium dro
 
 The trap is that the diabetic ketoacidosis patient presents with normal or high potassium (from acidosis-driven cellular shift), so the team does not worry, then starts the insulin drip, and the potassium crashes as insulin drives it into cells and the underlying total-body deficit is revealed. The mechanism of harm is that total-body potassium in DKA is profoundly depleted despite a normal or high serum level, and insulin therapy unmasks the deficit, producing severe hypokalemia and arrhythmia. The harm is a cardiac arrest during what looked like a straightforward DKA treatment. Check the potassium frequently during the insulin drip (every one to two hours initially), replete aggressively as it falls, and anticipate the drop rather than reacting to it.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For any significant dyskalemia, did I obtain a 12-lead ECG and initiate continuous cardiac monitoring, and am I treating the ECG as much as the number?

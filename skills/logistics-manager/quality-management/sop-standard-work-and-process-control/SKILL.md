@@ -57,13 +57,11 @@ Before release, have workers or supervisors follow the SOP on real or simulated 
 
 Usability testing prevents a document from looking correct while failing in the hands of the people who must use it under time pressure.
 
-### Govern version control and training
+### Govern version control and training and verify adherence and improvement
 
 Assign document owner, review cycle, effective date, version, change summary, training requirement, and obsolete-document removal. Train affected users before or at effective date.
 
 Outdated SOPs create inconsistent work and audit findings. Version control is operational control.
-
-### Verify adherence and improvement
 
 Audit whether the SOP is followed, whether it works, and whether exceptions suggest process change. Update standard work when systems, products, customers, regulations, or equipment change.
 
@@ -76,12 +74,9 @@ SOPs should evolve with the operation. A stale procedure is risk.
 - Hiding critical control points in generic instructions.
 - Covering only normal flow and leaving exceptions to improvisation.
 - Ignoring recurring exception logs, help requests, and workarounds when updating standard work.
-- Using person names instead of roles and handoff responsibilities.
-- Creating long documents that workers cannot use during the task.
-- Releasing SOPs without having real users test whether they can follow them accurately.
-- Updating the process without updating SOPs, training, and job aids.
-- Leaving obsolete versions available in binders, shared drives, or screenshots.
-- Auditing for document existence rather than process adherence and usefulness.
+- Using person names instead of roles and handoff responsibilities; creating long documents that workers cannot use during the task
+- Releasing SOPs without having real users test whether they can follow them accurately; updating the process without updating SOPs, training, and job aids
+- Leaving obsolete versions available in binders, shared drives, or screenshots; auditing for document existence rather than process adherence and usefulness
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ SOPs should evolve with the operation. A stale procedure is risk.
 - Are steps usable on the floor with clear language, visuals, field names, job aids, and quick checks?
 - Has the SOP been tested by real users for missing steps, unclear terms, screen names, safety, and exceptions?
 - Are owner, version, effective date, review cycle, change summary, training, and obsolete-document removal controlled?
-- Is adherence audited through observation, records, exceptions, and worker feedback?
-- Is the SOP updated when systems, customers, products, regulations, equipment, or process design changes?
+- Is adherence audited through observation, records, exceptions, and worker feedback?; is the SOP updated when systems, customers, products, regulations, equipment, or process design changes?

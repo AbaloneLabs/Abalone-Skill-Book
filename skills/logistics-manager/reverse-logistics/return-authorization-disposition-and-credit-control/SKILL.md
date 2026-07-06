@@ -58,8 +58,7 @@ Return policies often change after a spike in abuse, seasonal volume, marketplac
 - Returning goods to saleable inventory before inspection and release.
 - Allowing receiving staff to invent disposition rules.
 - Applying fraud controls inconsistently or based on suspicion without evidence.
-- Failing to reconcile authorized, shipped, received, inspected, and credited returns.
-- Ignoring tax, shipping fee, restocking fee, and marketplace rules in credit decisions.
+- Failing to reconcile authorized, shipped, received, inspected, and credited returns; ignoring tax, shipping fee, restocking fee, and marketplace rules in credit decisions
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Return policies often change after a spike in abuse, seasonal volume, marketplac
 - Are disposition rules explicit for all major condition and risk categories?
 - Is saleable inventory protected from uninspected returns?
 - Are fraud controls evidence-based with appeal or discretion paths?
-- Are RMA, carrier, receiving, inspection, inventory, and credit records reconciled?
-- Are return policy changes coordinated across customer messaging, systems, warehouse, finance, and exception rules?
+- Are RMA, carrier, receiving, inspection, inventory, and credit records reconciled?; are return policy changes coordinated across customer messaging, systems, warehouse, finance, and exception rules?

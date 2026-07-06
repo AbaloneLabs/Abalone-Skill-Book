@@ -101,10 +101,8 @@ Some findings during performance require escalation: a suspected fraud, a contro
 - **Drifting toward lighter testing** as the sample progresses, compromising uniform rigour.
 - **Glossing over deviations** to keep the sample "clean," distorting the results and missing broader issues.
 - **Shortcutting under deadline pressure** and presenting a degraded procedure as complete.
-- **Modifying procedures silently** rather than deliberately with documented rationale and review.
-- **Implicit links between evidence and conclusion**, leaving the workpaper hard to review and defend.
-- **Concluding on matters beyond competence** without escalation, exposing the conclusion to challenge.
-- **Accepting incomplete evidence** because the full evidence is hard to obtain, rather than extending effort or modifying deliberately.
+- **Modifying procedures silently** rather than deliberately with documented rationale and review; **Implicit links between evidence and conclusion**, leaving the workpaper hard to review and defend
+- **Concluding on matters beyond competence** without escalation, exposing the conclusion to challenge; **Accepting incomplete evidence** because the full evidence is hard to obtain, rather than extending effort or modifying deliberately
 
 ## Self-Check
 

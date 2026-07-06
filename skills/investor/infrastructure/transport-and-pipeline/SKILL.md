@@ -114,3 +114,4 @@ Leveraged midstream companies face rising interest expense and valuation pressur
 - [ ] Counterparty/producer credit risk and indirect commodity-price exposure through volumes are assessed.
 - [ ] Interest-rate sensitivity, floating-rate exposure, and refinancing risk are factored into the investment case.
 - [ ] The conclusion distinguishes between stable, well-covered, fee-heavy operators and leveraged, commodity-exposed, weakly-covered ones, and references investor-specific income needs, tax situation, holding horizon, and energy-transition views.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

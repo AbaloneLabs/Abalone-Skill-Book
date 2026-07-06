@@ -29,6 +29,10 @@ Physical security is a control that prevents diversion at the source, and the ph
 
 A theft, significant loss, or unexplained discrepancy of controlled substances must be reported to the DEA and, where required, to state authorities, promptly upon discovery, using the DEA Form 106. The pharmacist must not delay reporting while completing the investigation, must not write off the loss as a routine adjustment, and must not omit the report because the loss seems small or embarrassing. The report is the mechanism by which diversion patterns are detected across pharmacies and regions — a single pharmacy's loss may be one data point in a pattern of a diverter targeting multiple pharmacies — and the failure to report conceals the pattern. The pharmacist must cooperate with any subsequent investigation and must take corrective action to address the vulnerability the loss revealed.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Biennial Inventory as a Compliance Ritual
@@ -51,6 +55,10 @@ The controlled-substance cabinet is left unlocked during business hours, or the 
 
 A significant discrepancy is discovered, and the pharmacist delays the DEA Form 106 report while completing an internal investigation to "be sure" before reporting. The mechanism is that the pharmacist wants certainty before making a report that has consequences. The false signal is that a thorough investigation will produce a clearer report. The harm is that the regulation requires prompt reporting upon discovery, and delay conceals the loss from the cross-pharmacy pattern detection that the report supports; moreover, a delayed report looks like concealment and exposes the pharmacy to enforcement action. The report must be filed upon discovery, with the investigation continuing and supplemental information provided as it develops.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Do I maintain a complete inventory system — initial, biennial, and perpetual for Schedule II — that can produce an accurate count of every controlled substance on hand at any time?
@@ -59,3 +67,5 @@ A significant discrepancy is discovered, and the pharmacist delays the DEA Form 
 - Is controlled-substance storage substantially constructed, locked, access-limited to authorized personnel, with the pharmacist in charge controlling keys and combinations and documenting who has access?
 - Upon discovery of a theft, significant loss, or unexplained discrepancy, do I file the DEA Form 106 promptly without delaying for investigation, and do I cooperate with subsequent inquiry and take corrective action?
 - Do I treat the records as a diversion-detection system rather than a compliance formality, recognizing that every control exists to make a missing dose identifiable and investigatable?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -103,6 +103,10 @@ When the massing is developed for its internal logic and its effect on neighbors
 
 When the massing relies on dramatic cantilevers, long spans, or structural transfers, and the cost and constructability implications are not surfaced to the client before the form is approved, the structural logic becomes a budget crisis discovered during design development. The trap is that the dramatic form is the element the client fell in love with, so there is enormous pressure to retain it even as the cost emerges, forcing cuts elsewhere to fund the structure. The harm is a distorted budget, where the structural spectacle consumes resources that would have produced more value in the building's everyday use. Significant structural moves must be costed with the engineer during massing studies and disclosed honestly, so the client chooses the drama with full knowledge of its price.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the massing generated from the convergence of program, structure, daylight, code, and context, rather than from a single aesthetic driver?

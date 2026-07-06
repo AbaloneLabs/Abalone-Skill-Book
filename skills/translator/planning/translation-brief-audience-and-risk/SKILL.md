@@ -198,7 +198,5 @@ Before starting or approving a translation plan, verify:
 - The allowed degree of adaptation is clear.
 - Source quality issues, missing context, or ambiguity have been flagged.
 - Non-translatable elements and protected tokens are identified.
-- Formatting, tables, captions, footnotes, metadata, and UI strings are included or intentionally excluded.
-- The deliverable format is defined.
-- The plan does not imply certification, legal authority, or expert validation when none exists.
-- Confidentiality and sensitive information risks are considered before using tools or examples.
+- Formatting, tables, captions, footnotes, metadata, and UI strings are included or intentionally excluded; the deliverable format is defined
+- The plan does not imply certification, legal authority, or expert validation when none exists; confidentiality and sensitive information risks are considered before using tools or examples

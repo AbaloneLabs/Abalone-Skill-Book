@@ -84,3 +84,4 @@ Measuring clicks and sessions rather than whether the customer succeeded at the 
 - [ ] Each important outcome maps to a metric that reflects customer progress, not only feature usage.
 - [ ] The map changed at least one prioritization decision; if not, it was decorative.
 - [ ] Outcomes the product does not serve or serves poorly are identified as expansion or investment candidates.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

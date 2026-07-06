@@ -61,6 +61,10 @@ A therapist may have a signed consent form but no documentation of the consent c
 
 A therapist may continue treatment under the original consent when circumstances have changed significantly, a modality change, a transfer, the client reaching the age of majority, without revisiting and re-documenting consent. The mechanism is that the original consent feels ongoing, and the therapist does not recognize that the change requires re-consent, so the client continues under consent that no longer matches the treatment. The harm is that the client's agreement to the current treatment is not documented, and if the change is significant, the original consent may not cover it. Re-consenting at points of change, and documenting the re-consent, is what keeps consent aligned with the treatment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I documenting consent as a process, with notes on the conversation, not just the signed form?

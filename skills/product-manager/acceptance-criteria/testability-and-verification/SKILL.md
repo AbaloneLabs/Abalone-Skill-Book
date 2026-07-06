@@ -84,3 +84,4 @@ Completing stories without testable criteria. The trap is disputes about complet
 - [ ] Verification is feasible within the project's time, cost, and capability constraints.
 - [ ] The definition of done rests on testable criteria, making completion a matter of evidence.
 - [ ] Requirements that cannot be made testable are reframed or acknowledged as aspirational rather than treated as checkable.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

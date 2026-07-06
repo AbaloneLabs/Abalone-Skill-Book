@@ -39,6 +39,10 @@ The agent should be honest about what can and cannot be guaranteed. Emergency pa
 
 Use exact dates and local times. In urgent contexts, "as soon as possible" is less useful than "call the passport agency when it opens at 8:00 a.m. local time" or "complete the electronic authorization before buying the connecting itinerary." Document every assumption that affects boarding or fare recovery.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Promising bereavement discounts. Supplier policies vary and may not produce a cheaper or better ticket.

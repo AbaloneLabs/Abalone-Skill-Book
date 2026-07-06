@@ -71,14 +71,10 @@ Seating strategy should inform donor moves management, not disappear after the e
 - Giving table hosts no mission, guest, or giving briefing.
 - Allowing multiple people to edit seating without version control.
 - Moving guests without checking companion, caregiver, interpreter, security, and household relationships.
-- Misspelling donor, sponsor, honoree, or memorial names.
-- Publicly recognizing donors who wanted anonymity.
-- Making donors resolve seating, recognition, meal, payment, or accessibility errors in public.
-- Sharing sensitive donor notes with volunteers or vendors.
-- Overexposing VIP hierarchy and making other guests feel secondary.
-- Forgetting accessible seating, companion seats, sightlines, and route.
-- Seating key donors where they cannot hear or participate in the ask.
-- Failing to capture post-event relationship notes from table hosts.
+- Misspelling donor, sponsor, honoree, or memorial names; publicly recognizing donors who wanted anonymity
+- Making donors resolve seating, recognition, meal, payment, or accessibility errors in public; sharing sensitive donor notes with volunteers or vendors
+- Overexposing VIP hierarchy and making other guests feel secondary; forgetting accessible seating, companion seats, sightlines, and route
+- Seating key donors where they cannot hear or participate in the ask; failing to capture post-event relationship notes from table hosts
 
 ## Self-Check
 

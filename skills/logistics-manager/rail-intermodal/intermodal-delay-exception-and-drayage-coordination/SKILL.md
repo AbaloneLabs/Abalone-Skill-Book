@@ -57,13 +57,11 @@ Delays often consume free time at destination or origin. Track last free day, ho
 
 Cost recovery depends on evidence. Capture timeline and cause.
 
-### Keep internal owners aligned
+### Keep internal owners aligned and review recurring delay patterns
 
 Customer service, inventory, sales, procurement, finance, and warehouses may need to know delays and recovery choices. Provide factual status, risk, decision needed, and cost implication.
 
 Intermodal exceptions create downstream planning decisions, not just transportation updates.
-
-### Review recurring delay patterns
 
 Analyze delays by lane, ramp, rail provider, dray carrier, customer, day of week, commodity, and season. Use patterns to adjust lead time, carrier choice, cutoff discipline, or safety stock.
 
@@ -76,12 +74,9 @@ Repeated exceptions should change the network design or promise, not only create
 - Assuming dray carriers can recover missed appointments without capacity impact.
 - Missing origin ingate or rail cutoff and discovering the load did not depart.
 - Choosing transload or truck recovery without checking product handling and custody risk.
-- Waiting for another status update until cutoffs, appointment windows, or recovery capacity are no longer usable.
-- Changing route or mode without controlling seals, documents, customs status, hazmat records, or claim ownership.
-- Letting demurrage accrue during holds without cause evidence and charge ownership.
-- Failing to communicate cost and service tradeoffs to sales, service, inventory, and finance.
-- Treating recurring ramp or dray failures as isolated incidents.
-- Updating customers once and then letting ETAs age.
+- Waiting for another status update until cutoffs, appointment windows, or recovery capacity are no longer usable; changing route or mode without controlling seals, documents, customs status, hazmat records, or claim ownership
+- Letting demurrage accrue during holds without cause evidence and charge ownership; failing to communicate cost and service tradeoffs to sales, service, inventory, and finance
+- Treating recurring ramp or dray failures as isolated incidents; updating customers once and then letting ETAs age
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Repeated exceptions should change the network design or promise, not only create
 - Are custody, seal, customs, hazmat, temperature, BOL, and customer-approval records controlled after any path change?
 - Are free time, last free day, holds, appointment availability, charge ownership, and relief evidence tracked?
 - Are customer service, inventory, sales, procurement, finance, and warehouse owners aligned on risk and decisions?
-- Are recurring delay patterns used to adjust lead times, lanes, providers, cutoffs, promises, and buffers?
-- Can the exception response protect both service and cost without losing custody or visibility?
+- Are recurring delay patterns used to adjust lead times, lanes, providers, cutoffs, promises, and buffers?; can the exception response protect both service and cost without losing custody or visibility?

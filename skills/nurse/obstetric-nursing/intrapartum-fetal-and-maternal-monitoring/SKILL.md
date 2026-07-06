@@ -59,6 +59,10 @@ The trap is that a laboring patient who is breathing through contractions appear
 
 The trap is that the nurse notified the provider of a non-reassuring tracing, received a verbal order to "continue to monitor," and then did not re-escalate when the strip worsened, assuming the single notification fulfilled the obligation. The mechanism of harm is that labor is dynamic and a strip that warranted watching thirty minutes ago may now warrant an operating room. The nurse who treats the first call as the only call allows a deteriorating fetus to decompensate without the provider's updated awareness. The harm is a baby born with hypoxic ischemic encephalopathy that timely escalation could have prevented. Re-escalate whenever the clinical picture changes meaningfully, document each notification, and use the chain of command if the response is inadequate.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I confirm I am reading fetal, not maternal, heart rate, and have I established a true ten-minute baseline and variability before categorizing the strip?

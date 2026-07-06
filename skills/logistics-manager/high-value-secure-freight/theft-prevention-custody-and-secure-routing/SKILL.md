@@ -43,6 +43,10 @@ Customer communication should be factual and controlled. Avoid public disclosure
 
 After any suspected theft attempt, review whether the exposure came from carrier selection, leaked load information, weak dock verification, route planning, or receiver readiness. The lesson should update future tender rules, not remain only in an incident file.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Posting high-value freight broadly with enough detail for thieves to target it.

@@ -105,6 +105,10 @@ Opening walls, removing finishes, or demolishing assemblies to investigate condi
 
 Commissioning structural, materials, and historical analyses from separate specialists and treating them as standalone documents, without integrating their findings into a single coherent conditions understanding, produces reports that contradict or ignore each other. The trap is that each report exists and appears authoritative, so the investigation feels complete, while in reality the structural engineer's findings about movement, the conservator's findings about materials, and the historian's findings about significance are not reconciled, and the design proceeds on partial understanding. The harm is conflicts discovered late, redesign, and conditions missed because no one synthesized the whole. Integrating specialist findings into a single coherent understanding, with the architect coordinating the synthesis, is what makes investigation cumulative rather than fragmented.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the investigation planned in tiers, beginning with documentary research and visual survey and reserving targeted probes for genuine gaps?

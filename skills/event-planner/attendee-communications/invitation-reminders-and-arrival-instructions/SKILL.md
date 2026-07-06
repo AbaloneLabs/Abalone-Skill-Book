@@ -54,8 +54,7 @@ Brand voice matters, but clarity matters more. A clever invitation that hides el
 - Waiting until the final reminder to ask about accessibility, dietary, language, or mobility needs.
 - Sending conflicting details through email, website, ticketing platform, app, SMS, and calendar holds.
 - Treating reminders as marketing touches rather than operational tools that reduce onsite exceptions.
-- Exposing private links, VIP details, personal data, security procedures, or private addresses too broadly.
-- Omitting what to do if an attendee is late, cannot find the entrance, has a ticket issue, or needs urgent help.
+- Exposing private links, VIP details, personal data, security procedures, or private addresses too broadly; omitting what to do if an attendee is late, cannot find the entrance, has a ticket issue, or needs urgent help
 
 ## Self-Check
 

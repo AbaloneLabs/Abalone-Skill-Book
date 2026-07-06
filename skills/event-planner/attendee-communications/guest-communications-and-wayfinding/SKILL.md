@@ -54,8 +54,7 @@ For complex events, maps should be simplified for the task. A venue architectura
 - Forgetting exterior wayfinding from parking, transit, rideshare, shuttle drop, or sidewalk approaches.
 - Sending attendees with mobility needs through longer or hidden routes without pre-arrival notice.
 - Updating the app or website but leaving old physical signs and staff scripts unchanged.
-- Assigning volunteers to wayfinding without giving them simple answers and escalation paths.
-- Letting brand design reduce contrast, font size, arrow clarity, or sign placement.
+- Assigning volunteers to wayfinding without giving them simple answers and escalation paths; letting brand design reduce contrast, font size, arrow clarity, or sign placement
 
 ## Self-Check
 

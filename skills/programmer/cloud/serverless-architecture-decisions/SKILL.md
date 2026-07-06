@@ -106,11 +106,9 @@ Designing a fan-out that depends on simultaneous executions beyond the platform'
 
 Building a chain of functions with logging only, then being unable to localize an intermittent cross-function failure in production because the logs are scattered across invocations with no correlation. Propagate a correlation identifier and send distributed traces from the start; serverless failure modes are distributed and require distributed observability.
 
-### Forcing A Long-Running Or Stateful Workload Into Functions
+### Forcing A Long-Running Or Stateful Workload Into Functions and treating The Prototype's Performance As Production's
 
 Splitting, checkpointing, and chaining functions to work around the execution time ceiling or the statelessness requirement for a workload that fundamentally runs long or holds state, accumulating complexity and failure modes. When a workload fights the model's limits at every turn, switch to always-on compute or an orchestration platform.
-
-### Treating The Prototype's Performance As Production's
 
 Concluding serverless is fast and cheap from a prototype under sustained load and low volume, then hitting cold starts and scale-driven cost in production. Test under the real traffic pattern (including idle-then-burst) and model cost at projected peak before committing.
 

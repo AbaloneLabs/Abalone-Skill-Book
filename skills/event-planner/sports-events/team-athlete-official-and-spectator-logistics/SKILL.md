@@ -57,10 +57,8 @@ Sports teams often travel with uniforms, protective gear, balls, timing chips, r
 - Placing officials where fans or coaches can harass them before or after play.
 - Letting spectator services block emergency lanes, athlete routes, or field sightlines.
 - Forgetting youth-specific needs such as parent pickup, child safeguarding, and team supervision.
-- Communicating schedule changes to spectators but not concessions, security, officials, or teams.
-- Treating family access as informal, causing crowding at benches or locker exits.
-- Letting media, sponsors, or VIPs interrupt athlete preparation, treatment, or recovery.
-- Failing to secure team equipment and personal property, creating competition delays or theft complaints.
+- Communicating schedule changes to spectators but not concessions, security, officials, or teams; treating family access as informal, causing crowding at benches or locker exits
+- Letting media, sponsors, or VIPs interrupt athlete preparation, treatment, or recovery; failing to secure team equipment and personal property, creating competition delays or theft complaints
 
 ## Self-Check
 

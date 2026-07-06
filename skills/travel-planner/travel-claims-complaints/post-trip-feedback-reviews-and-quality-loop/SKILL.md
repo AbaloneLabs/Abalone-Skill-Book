@@ -70,12 +70,9 @@ Post-trip learning should reduce future rework and improve recommendation precis
 - Ignoring small operational issues because the overall trip was successful.
 - Waiting too long to collect evidence for complaints.
 - Requesting public reviews before unresolved issues are handled.
-- Using private trip stories or photos without consent.
-- Recording vague supplier notes that cannot guide future choices.
-- Blaming suppliers when the advisor's proposal or handover language created unrealistic expectations.
-- Letting repeated complaints remain anecdotal rather than changing recommendations.
-- Closing feedback emotionally but not operationally.
-- Keeping lessons in one advisor's memory instead of updating shared materials.
+- Using private trip stories or photos without consent; recording vague supplier notes that cannot guide future choices
+- Blaming suppliers when the advisor's proposal or handover language created unrealistic expectations; letting repeated complaints remain anecdotal rather than changing recommendations
+- Closing feedback emotionally but not operationally; keeping lessons in one advisor's memory instead of updating shared materials
 
 ## Self-Check
 

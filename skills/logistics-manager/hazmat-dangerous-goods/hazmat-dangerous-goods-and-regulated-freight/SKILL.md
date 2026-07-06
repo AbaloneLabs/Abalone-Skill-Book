@@ -54,8 +54,7 @@ Records should include classification basis, SDS, shipping papers, declarations,
 - Using generic packaging for products that require tested or specific packaging.
 - Forgetting lithium batteries, dry ice, aerosols, perfumes, cleaning products, magnets, and returns.
 - Accepting carrier booking as proof of compliance.
-- Ignoring storage and damaged-goods procedures before transport.
-- Failing to update processes when product formulation, battery size, packaging quantity, or destination changes.
+- Ignoring storage and damaged-goods procedures before transport; failing to update processes when product formulation, battery size, packaging quantity, or destination changes
 
 ## Self-Check
 

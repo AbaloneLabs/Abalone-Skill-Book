@@ -54,8 +54,7 @@ After the event, use helpdesk data to improve future planning. If many guests as
 - Relying entirely on Wi-Fi, badge printers, scanners, or apps without offline fallback.
 - Overcompensating early attendees and then denying the same remedy later because supplies or budget ran out.
 - Handling harassment, safety, medical, or legal complaints as normal customer service.
-- Discussing sensitive attendee issues in a public line.
-- Failing to record promises, refunds, lost items, complaints, or incident follow-up.
+- Discussing sensitive attendee issues in a public line; failing to record promises, refunds, lost items, complaints, or incident follow-up
 
 ## Self-Check
 

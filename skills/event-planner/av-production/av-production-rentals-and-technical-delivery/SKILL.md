@@ -54,8 +54,7 @@ Redundancy should be operational, not just available in a case somewhere. Staff 
 - Leaving power, internet, and cable paths to be solved during load-in.
 - Scheduling rehearsals after the room is already needed for guests, catering, or sponsor setup.
 - Relying on cloud video playback or personal devices for critical program moments.
-- Forgetting accessible cable management, sightlines, hearing support, and caption or interpretation needs.
-- Treating AV vendor arrival as the start of setup while dock access, freight elevator, security, and union rules add time.
+- Forgetting accessible cable management, sightlines, hearing support, and caption or interpretation needs; treating AV vendor arrival as the start of setup while dock access, freight elevator, security, and union rules add time
 
 ## Self-Check
 

@@ -53,6 +53,8 @@ Bias is universal; what matters is whether you recognize and counteract it. Refl
 
 **Lowering the standard of care for patients based on social status.** An unhoused patient, an incarcerated patient, or a patient with substance use disorder receives less thorough assessment, less education, less advocacy, or less follow-up, because the team unconsciously lowers expectations. The mechanism of harm is that the lowered standard produces missed diagnoses, untreated conditions, and worse outcomes for patients who are already disadvantaged. The harm is compounding inequity with substandard care. Hold the same standard for every patient; examine where you are lowering it and why.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I use a qualified medical interpreter (not family or ad-hoc) for every clinical interaction with a patient with limited English proficiency?

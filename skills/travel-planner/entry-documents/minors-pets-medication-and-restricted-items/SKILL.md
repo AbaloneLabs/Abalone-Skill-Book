@@ -54,8 +54,7 @@ Do not check only the destination. Multi-country trips, cruises, land borders, a
 - Assuming medication legal at home can be carried abroad without documentation.
 - Packing medication, prescriptions, or medical devices in checked luggage only.
 - Forgetting drones, satellite communicators, food, seeds, wildlife products, cash, and professional equipment restrictions.
-- Discovering document validity windows too late, especially pet health certificates and consent letters.
-- Relying on blogs or forums for rules that should be verified with official or carrier sources.
+- Discovering document validity windows too late, especially pet health certificates and consent letters; relying on blogs or forums for rules that should be verified with official or carrier sources
 
 ## Self-Check
 

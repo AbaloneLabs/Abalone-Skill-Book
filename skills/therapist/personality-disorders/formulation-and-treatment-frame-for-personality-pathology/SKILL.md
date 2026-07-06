@@ -61,6 +61,10 @@ A therapist may apply generic supportive or insight-oriented therapy to a person
 
 A therapist, stirred by the relational intensity of personality pathology, may act on countertransference impulses, rescuing the client, extending the frame beyond what is therapeutic, withdrawing in self-protection, or punishing with harsh limits, rather than using the feelings as data about the client's relational world. The mechanism of harm is that the enactment confirms the client's worst expectations, the rescuer becomes the persecutor, the withdrawn therapist becomes the abandoning one, and the treatment reenacts the very patterns it should be examining. The harm is that the alliance ruptures, the client's pathology is reinforced, and the therapist may behave in ways they later regret. Using supervision, recognizing enactments, and repairing ruptures when they occur prevents this harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the enduring, pervasive pattern of personality pathology rather than treating each presentation as isolated?

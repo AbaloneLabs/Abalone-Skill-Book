@@ -153,6 +153,10 @@ Without certificates, double social security contributions may be required.
 
 Employees working from unknown countries create unmanaged exposure.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is work authorization secured in the host country before cross-border work, recognizing that business visitor status rarely permits productive work and remote work is host-country work?

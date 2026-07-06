@@ -70,12 +70,9 @@ Use one source of truth for final copy and links. Old registration URLs, outdate
 - Promoting after practical deadlines such as hotel cutoffs or accessibility request dates.
 - Creating excitement without enough logistical confidence for people to commit.
 - Assuming speakers and partners will promote without assets, ownership, or reminders.
-- Over-messaging the same audience without suppression or message variation.
-- Letting comments and DMs become an unstaffed service channel.
-- Publishing unapproved speaker, sponsor, or venue claims.
-- Forgetting rights, disclosures, and permissions for images, testimonials, and creator content.
-- Losing control of asset status, approvals, final URLs, or outdated copy across teams.
-- Measuring only impressions while ignoring registrations, attendance, and audience quality.
+- Over-messaging the same audience without suppression or message variation; letting comments and DMs become an unstaffed service channel
+- Publishing unapproved speaker, sponsor, or venue claims; forgetting rights, disclosures, and permissions for images, testimonials, and creator content
+- Losing control of asset status, approvals, final URLs, or outdated copy across teams; measuring only impressions while ignoring registrations, attendance, and audience quality
 
 ## Self-Check
 

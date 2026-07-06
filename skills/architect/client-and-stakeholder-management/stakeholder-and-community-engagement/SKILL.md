@@ -104,6 +104,10 @@ The architect hears loud opposition and assumes the design is the problem, when 
 
 The team pours engagement effort into stakeholders whose opposition is fixed, often ideological or identity-based, and who cannot be satisfied by any design. The trap is that these voices are the loudest, so they absorb the attention, while persuadable stakeholders and potential allies go uncultivated. The false signal is the intensity of the engagement, which feels comprehensive while misallocated. The harm is that the project enters its hearings without the allies it needed, having exhausted its engagement resources on opponents it could never convert, and loses support that was available to be built.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has a stakeholder map identified affected parties, formal authorities, and informal influencers, with effort allocated to where it can change outcomes?
@@ -113,3 +117,4 @@ The team pours engagement effort into stakeholders whose opposition is fixed, of
 - [ ] Is the project building allied support and documenting community benefits, not merely defending against opposition?
 - [ ] Is engagement coordinated with the regulatory calendar, feeding the formal record and preceding key hearings?
 - [ ] Is there a documented record showing how community input influenced the design?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -54,6 +54,8 @@ For complex symptom refractory to standard titration, escalate to palliative car
 
 **Abruptly stopping chronic opioids or benzodiazepines at transition to comfort care.** When a patient transitions to hospice or comfort care, medications are reviewed, and chronic opioids or benzodiazepines are sometimes stopped because "they're not needed anymore" or to "keep things simple." The mechanism of harm is that a physically dependent patient goes into acute withdrawal — pain crisis, agitation, tremor, autonomic instability — superimposed on the dying process. The harm is severe, preventable suffering in the final days. Reconcile all chronic comfort medications, convert to a sustainable route, and continue them; only taper deliberately and slowly if there is a clear reason.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I reframe the goal to comfort, dignity, and the patient's/family's definition of a good death?
@@ -65,5 +67,4 @@ For complex symptom refractory to standard titration, escalate to palliative car
 - Did I assess terminal agitation for reversible causes and treat with the appropriate agent (not opioid-only escalation)?
 - Did I explain "death rattle" to the family and avoid deep suctioning?
 - Did I convert chronic medications to tolerable routes as oral intake declined, without abrupt discontinuation?
-- Did I support and educate the family as part of the care unit?
-- Did I escalate to palliative/hospice for refractory symptoms or complex goals-of-care conflict?
+- Did I support and educate the family as part of the care unit?; did I escalate to palliative/hospice for refractory symptoms or complex goals-of-care conflict?

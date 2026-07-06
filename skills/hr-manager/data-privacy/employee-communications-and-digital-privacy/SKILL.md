@@ -76,3 +76,4 @@ Mishandled sensitive content creates breaches and exposure. Implement encryption
 - Are BYOD policies containerizing work data, limiting employer access to the work container, and protecting personal data, including at termination?
 - Am I handling investigation access deliberately — narrow scope, controlled process, documented business need, legal consultation where required?
 - Am I protecting sensitive content with encryption, access controls, DLP, training, and lifecycle management including retention and legal hold?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

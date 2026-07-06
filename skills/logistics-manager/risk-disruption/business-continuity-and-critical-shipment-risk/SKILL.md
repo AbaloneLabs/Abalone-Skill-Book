@@ -54,8 +54,7 @@ After delivery, confirm usability. Was the correct item received? Was it undamag
 - Using normal tracking for a shipment that needs milestone-level monitoring.
 - Failing to prepare the destination for after-hours delivery, unloading, security, or release.
 - Communicating optimistic status without naming remaining risks and decision points.
-- Celebrating proof of delivery before confirming the goods are correct, usable, and released.
-- Not recording the cost and cause of critical shipment escalation for later prevention.
+- Celebrating proof of delivery before confirming the goods are correct, usable, and released; not recording the cost and cause of critical shipment escalation for later prevention
 
 ## Self-Check
 

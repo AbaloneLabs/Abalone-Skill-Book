@@ -117,19 +117,15 @@ Locking an account after N failed attempts, which an attacker weaponizes to deny
 
 Mandatory 30-day rotation that leads users to cycle "Spring2024!", "Summer2024!", weakening security. Drop scheduled rotation; rotate only on suspected compromise.
 
-### Reset Token That Is Predictable, Reusable, Or Long-Lived
+### Reset Token That Is Predictable, Reusable, Or Long-Lived and complexity Rules Without Breached-Password Checking
 
 A reset link based on a timestamp or a short token, valid for days and usable multiple times, emailed in plaintext. Treat reset tokens as short-lived, single-use, unguessable bearer credentials.
 
-### Complexity Rules Without Breached-Password Checking
-
 Enforcing `1 upper, 1 lower, 1 digit, 1 symbol` while accepting `Password1!` which is in every breach corpus. Check against breached passwords; length and breach-checking beat character-class rules.
 
-### Emailing The Password In Plaintext On Signup Or Reset
+### Emailing The Password In Plaintext On Signup Or Reset and migration That Downgrades Or Locks Everyone Out
 
 Sending the user's password (current or new) through email, an insecure channel, where it persists in the inbox. Send a token-bound reset link; never email passwords.
-
-### Migration That Downgrades Or Locks Everyone Out
 
 Rewriting hashes to a weaker algorithm during migration, or forcing a mass password reset because the migration was not designed for gradual re-hash-on-login. Migrate by re-hashing on next successful login, never downgrading.
 

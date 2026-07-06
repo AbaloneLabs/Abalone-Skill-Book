@@ -60,12 +60,9 @@ Use short daily briefings: route, hazards, weather, fuel, water, roles, camps, a
 - Having no missed-check-in or lost-vehicle procedure.
 - Treating first aid as a kit rather than roles, skills, medications, and evacuation decisions.
 - Driving too long because the route plan is ambitious.
-- Letting one traveler's risk tolerance dominate the group.
-- Posting live camp locations or routes in insecure areas.
-- Failing to adjust after near misses because no one wants to slow the trip.
-- Accepting participants or vehicles that do not meet the route's skill, health, equipment, or compliance requirements.
-- Having no plan for a vehicle that cannot continue legally or mechanically.
-- Skipping daily briefings until assumptions diverge across the group.
+- Letting one traveler's risk tolerance dominate the group; posting live camp locations or routes in insecure areas
+- Failing to adjust after near misses because no one wants to slow the trip; accepting participants or vehicles that do not meet the route's skill, health, equipment, or compliance requirements
+- Having no plan for a vehicle that cannot continue legally or mechanically; skipping daily briefings until assumptions diverge across the group
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ Use short daily briefings: route, hazards, weather, fuel, water, roles, camps, a
 - Does the plan manage fatigue, conflict, driver rotation, rest days, privacy, security, and conduct?
 - Are daily near misses and incidents used to adjust the route before they become emergencies?
 - Are participant eligibility, vehicle readiness, insurance, recovery points, communication gear, and rule acceptance checked before departure?
-- Is there a plan for disabled vehicle recovery, towing, group split, cost, people transfer, and legal custody?
-- Do daily briefings refresh route, hazards, weather, fuel, water, roles, and contingency decisions?
+- Is there a plan for disabled vehicle recovery, towing, group split, cost, people transfer, and legal custody?; do daily briefings refresh route, hazards, weather, fuel, water, roles, and contingency decisions?

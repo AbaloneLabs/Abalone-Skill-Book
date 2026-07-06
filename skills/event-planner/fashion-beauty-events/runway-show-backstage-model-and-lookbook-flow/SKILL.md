@@ -70,12 +70,9 @@ Post-show chaos is a theft and loss risk. Assign wardrobe closeout owners before
 - Underestimating fitting, alteration, shoe, and undergarment issues.
 - Ignoring model welfare, payment terms, releases, minors, breaks, and footwear safety.
 - Creating backstage layouts where models, dressers, glam, and photographers collide.
-- Scheduling quick changes that cannot physically happen.
-- Rehearsing the runway but not backstage lineup and finale flow.
-- Allowing content capture to interfere with show timing.
-- Forgetting model releases and photographer access rules.
-- Leaving garment security and post-show return informal.
-- Treating broken zippers, stains, shoe failure, and missing accessories as unlikely rather than expected contingencies.
+- Scheduling quick changes that cannot physically happen; rehearsing the runway but not backstage lineup and finale flow
+- Allowing content capture to interfere with show timing; forgetting model releases and photographer access rules
+- Leaving garment security and post-show return informal; treating broken zippers, stains, shoe failure, and missing accessories as unlikely rather than expected contingencies
 
 ## Self-Check
 

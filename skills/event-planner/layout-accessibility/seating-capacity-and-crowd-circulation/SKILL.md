@@ -70,12 +70,9 @@ Room safety changes as guests behave. A compliant setup can become unsafe if unm
 - Letting decor, sponsor displays, or cameras reduce aisle width.
 - Choosing seating that conflicts with the program's interaction style.
 - Treating accessible seating as a small reserved area rather than integrated participation.
-- Ignoring companion seating and caption or interpreter sightlines.
-- Planning capacity for seated moments but not break, bar, buffet, and departure surges.
-- Watching crowding grow without preplanned thresholds for opening, pausing, redirecting, or removing obstacles.
-- Overcrowding banquet seating until service becomes slow and unsafe.
-- Allowing informal standing room to block exits.
-- Failing to monitor moved chairs and blocked aisles onsite.
+- Ignoring companion seating and caption or interpreter sightlines; planning capacity for seated moments but not break, bar, buffet, and departure surges
+- Watching crowding grow without preplanned thresholds for opening, pausing, redirecting, or removing obstacles; overcrowding banquet seating until service becomes slow and unsafe
+- Allowing informal standing room to block exits; failing to monitor moved chairs and blocked aisles onsite
 
 ## Self-Check
 

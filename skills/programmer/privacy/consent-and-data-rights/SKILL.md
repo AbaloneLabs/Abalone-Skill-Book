@@ -96,11 +96,9 @@ Using data collected for billing to train an ad-targeting model, on the assumpti
 
 Third-party sharing or non-essential processing enabled by default, with the user responsible for opting out across buried settings. Default to least sharing; make opt-in the path for non-essential processing.
 
-### Treating Rights Requests As Customer Support Tickets
+### Treating Rights Requests As Customer Support Tickets and forking The System Per Regime
 
 No defined workflow, deadline tracking, or identity verification; requests handled ad hoc by whoever sees the email. Operationalize the workflow with identity verification, deadline tracking, and a data map that makes fulfillment routine.
-
-### Forking The System Per Regime
 
 A separate consent and rights implementation for each region, diverging and rotting. Model the most protective regime as a baseline and express regional differences as configuration over shared machinery.
 

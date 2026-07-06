@@ -56,6 +56,10 @@ Mobile bugs appear under the conditions the OS imposes — background, memory pr
 - **Test permission denial and revocation.** Verify the app functions when each permission is denied and when a previously granted permission is revoked.
 - **Test on low-end devices and poor networks.** A flagship on fast Wi-Fi hides problems that surface on a low-end device on a flaky cellular connection; test the long tail.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Assuming Parity Between iOS And Android
@@ -95,3 +99,4 @@ Validating only on a flagship on fast Wi-Fi, missing problems that surface on lo
 - [ ] The app is tested under the conditions the OS imposes: backgrounding and termination (state preserved), memory pressure (resources released, survives), permission denial and revocation (functions degraded), and low-end devices on poor networks (the long tail).
 - [ ] App-store review risks are anticipated for permission use, background operation, and policy compliance, so the build is not rejected for a violation discovered at submission.
 - [ ] The highest-risk cases were verified — a background task killed by the OS budget, user state lost on termination then restored, a permission denied at runtime handled gracefully, and a bridge crash under threading mismatch — not only the clean foreground-on-a-flagship path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

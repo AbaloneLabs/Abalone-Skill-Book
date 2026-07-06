@@ -114,19 +114,15 @@ Loading synonyms at index time, so every synonym edit requires a full reindex. A
 
 Trying to sort by a `text` field and getting an error or lexicographic-on-tokens nonsense. Sort and aggregate on `keyword`, numeric, or date fields with `doc_values`.
 
-### Denormalizing Without An Update Path
+### Denormalizing Without An Update Path and n-Gramming Everything For "Fuzzy" Search
 
 Copying a related attribute into the document for filtering, but never reindexing when the related entity changes, so the index shows stale category names or prices forever. Define the propagation event for every denormalized field.
 
-### N-Gramming Everything For "Fuzzy" Search
-
 Applying n-gram analyzers to all text fields to get substring matching, multiplying index size and degrading relevance (every short token matches too much). Use n-grams only on specific search-as-you-type fields with a non-n-gram `search_analyzer`.
 
-### Pointing Clients At The Concrete Index Name
+### Pointing Clients At The Concrete Index Name and treating The Search Index As Authoritative State
 
 Hardcoding the concrete index name, so a mapping change forces a coordinated migration with downtime instead of an alias swap. Always query through an alias.
-
-### Treating The Search Index As Authoritative State
 
 Writing records only to the search engine and losing them when the index is rebuilt, or relying on strong consistency from an eventually-consistent index. Keep the primary store authoritative and the index rebuildable.
 

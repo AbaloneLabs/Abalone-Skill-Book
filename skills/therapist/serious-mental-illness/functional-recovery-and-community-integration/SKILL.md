@@ -1,6 +1,6 @@
 ---
 name: functional-recovery-and-community-integration.md
-description: Use when the therapist is supporting clients with serious mental illness in rebuilding functional skills, returning to work or school, establishing social connections, managing daily living independently, navigating disability and benefits systems, or building a meaningful life in the community after hospitalization or during long-term recovery.
+description: Use when the agent is supporting clients with serious mental illness in rebuilding functional skills, returning to work or school, establishing social connections, managing daily living independently, navigating disability and benefits systems, or building a meaningful life in the community after hospitalization or during long-term recovery.
 ---
 
 # Functional Recovery and Community Integration
@@ -88,3 +88,4 @@ The therapist organizes every session around symptoms, medication, and crisis ma
 - Am I helping the client navigate benefits systems, and have I addressed the benefits cliff with accurate information rather than shared fear?
 - Have I built structure and routine with the client, anchored to external commitments, with a plan for maintaining it during stressors?
 - Am I supporting the client's identity reconstruction beyond the illness — exploring values, interests, and goals that the illness has not consumed?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

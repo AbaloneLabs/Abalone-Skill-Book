@@ -55,6 +55,8 @@ Before administering a known vesicant (e.g., certain chemotherapy, concentrated 
 
 **Overlooking the dominant-arm or restricted-limb rule under pressure.** When access is difficult, a nurse may reach for the first usable vein without checking the chart for mastectomy, lymphedema risk, dialysis access, paralysis, or prior stroke. Cannulating a limb with compromised lymphatic drainage or vascular integrity risks worsening edema, infection, and in dialysis patients, jeopardizes future fistula viability. The harm is both immediate (poor healing, infiltration) and long-term (loss of a limb that the patient needs for future life-sustaining access). Always verify limb restrictions before site selection, even when the vein looks perfect.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I select gauge and site based on the prescribed therapy and anticipated duration, not just the easiest vein?

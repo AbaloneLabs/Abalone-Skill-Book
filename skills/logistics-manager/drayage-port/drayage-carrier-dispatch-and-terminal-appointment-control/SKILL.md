@@ -39,6 +39,10 @@ On execution day, monitor driver assignment, gate status, appointment check-in, 
 
 Communication should be exception-focused. Stakeholders need to know whether the move is still on plan, what blocked it, what decision is needed, and what cost clock is affected. Avoid vague updates like "driver at port" if the driver has not outgated the container.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Sending a carrier an incomplete dispatch and expecting them to infer terminal, release, appointment, or delivery details.

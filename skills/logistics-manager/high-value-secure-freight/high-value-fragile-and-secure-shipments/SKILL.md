@@ -43,6 +43,10 @@ Preserve evidence: packaging photos, seal records, serial lists, pickup scans, c
 
 When the shipment supports a launch, sale, repair, or installation deadline, define the commercial escalation path separately from the carrier trace. Operations may need replacement stock, customer notification, or site rescheduling before the shipment is officially declared lost.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Treating insurance as a substitute for secure handling. Insurance may not cover excluded commodities or full business impact.

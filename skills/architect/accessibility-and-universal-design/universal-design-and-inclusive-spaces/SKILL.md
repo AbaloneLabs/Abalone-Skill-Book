@@ -107,6 +107,10 @@ The team adds a few symbolic inclusive features, a quiet room, a tactile map, an
 
 The architect designs for the hypothetical average user and then adds accessible variants for those outside the norm, producing a primary design and a set of accommodations. The trap is that this pattern encodes the average as normal and everyone else as exception, the opposite of universal design, and the variants are invariably inferior, afterthought, or stigmatizing. The false signal is the comprehensive set of accommodations, which appears to address every user while actually reproducing segregation. The harm is a building where inclusion is a category rather than a quality, where the variants mark difference, and where the design has missed the universal design insight that designing for the range from the start produces better spaces for everyone, including the average the variants were added to.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is universal design understood as distinct from and exceeding code compliance, with compliance as baseline and inclusion as aspiration?
@@ -116,3 +120,4 @@ The architect designs for the hypothetical average user and then adds accessible
 - [ ] Is universal design integrated from the concept and documented to survive value engineering, rather than added as features?
 - [ ] Is the design grounded in evidence and input from users with diverse abilities and lived experience?
 - [ ] Has the design been tested against who it serves and who it excludes, avoiding token gestures and segregated solutions?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

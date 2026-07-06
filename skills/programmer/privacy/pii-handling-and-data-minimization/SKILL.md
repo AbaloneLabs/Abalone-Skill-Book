@@ -131,19 +131,15 @@ Storing personal data with no retention rule and no deletion mechanism, so it ac
 
 Using emails collected for transactional mail for marketing, or behavioral data collected for the product for ad targeting or model training, without a new basis. Purpose limitation binds later use; repurposing without consent or another legal basis is a violation even if the data was legitimately collected.
 
-### Broad Production Access With No Audit
+### Broad Production Access With No Audit and sending Personal Data To A Third Party Without Checking Its Handling
 
 Letting all engineers query production personal data freely, with no logging. One compromised account or one curious employee is a breach, and with no audit log you cannot detect or investigate it. Least privilege plus auditability is the baseline.
 
-### Sending Personal Data To A Third Party Without Checking Its Handling
-
 Forwarding identifiers or user content to an analytics vendor, CRM, or AI/LLM service without confirming retention, security, or training practices. You remain accountable for what the recipient does; an unvetted processor is uncontrolled risk. Minimize what you send and confirm the recipient's obligations.
 
-### Treating Pseudonymization As Anonymization
+### Treating Pseudonymization As Anonymization and forgetting The Indirect Copies When Deleting
 
 Replacing a user id with a token and believing the data is no longer personal. Because the mapping can re-identify, the data is still personal data under most regimes. Pseudonymization reduces risk; it does not remove obligations.
-
-### Forgetting The Indirect Copies When Deleting
 
 Deleting a user's row from the primary table and declaring the deletion done, while the data remains in backups, logs, analytics, exports, and caches. A deletion that does not reach every store is incomplete; enumerate the copies as part of the design.
 

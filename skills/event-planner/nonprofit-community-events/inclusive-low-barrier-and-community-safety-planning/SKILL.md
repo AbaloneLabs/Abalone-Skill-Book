@@ -70,12 +70,9 @@ Do not invite sensitive disclosures unless there is a responsible response path.
 - Assuming visible law enforcement always increases safety.
 - Removing all boundaries in the name of inclusion.
 - Forgetting quiet areas, opt-outs, support staff, and trauma-informed facilitation.
-- Making help available only through a loud public desk or English-only instructions.
-- Underplanning food, water, restrooms, seating, shade, warmth, and hygiene needs.
-- Letting volunteers handle conflict, harassment, or distress without training or escalation.
-- Photographing or collecting names from vulnerable attendees without clear consent.
-- Failing to explain safety measures, privacy practices, and conduct expectations.
-- Surfacing urgent needs without referral partners, handoff paths, or clear limits on help.
+- Making help available only through a loud public desk or English-only instructions; underplanning food, water, restrooms, seating, shade, warmth, and hygiene needs
+- Letting volunteers handle conflict, harassment, or distress without training or escalation; photographing or collecting names from vulnerable attendees without clear consent
+- Failing to explain safety measures, privacy practices, and conduct expectations; surfacing urgent needs without referral partners, handoff paths, or clear limits on help
 
 ## Self-Check
 

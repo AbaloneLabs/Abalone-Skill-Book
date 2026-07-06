@@ -102,19 +102,15 @@ A rolling update with `maxUnavailable: 25%` on a 4-replica service briefly remov
 
 Volume-mounted ConfigMaps update eventually; env-var config does not update at all without a restart. If the app does not watch for changes, a config update silently does nothing. Trigger a rollout via a checksum annotation, or use immutable ConfigMaps that force a new object and a referential change.
 
-### Putting Rotating Credentials In A Raw Kubernetes Secret
+### Putting Rotating Credentials In A Raw Kubernetes Secret and hPA Without A Node Autoscaler
 
 A Secret mounted from a literal value requires a pod restart to rotate and stores the value in etcd. For credentials that change, use an external secrets operator that syncs from a manager and can rotate independently of the pod lifecycle.
 
-### HPA Without A Node Autoscaler
-
 HPA scales the pod count, but if no node can run the new pods, they stay Pending and users see no improvement. HPA must be paired with cluster autoscaler or Karpenter, and the scale-up delay of node provisioning must be factored into how early HPA triggers.
 
-### Default-Deny Missing, So Namespaces Are Not Actually Isolated
+### Default-Deny Missing, So Namespaces Are Not Actually Isolated and referencing `latest` So Rollout History Is Meaningless
 
 A namespace with quotas and RBAC but no network policy still allows any pod to reach any pod. Segmentation requires a default-deny network policy plus explicit allows; without it, the namespace boundary is administrative, not network.
-
-### Referencing `latest` So Rollout History Is Meaningless
 
 A Deployment tagged `latest` cannot be rolled back meaningfully, because the previous ReplicaSet points at the same moving tag. Pin images to a digest or version tag so rollout undo returns to a known-good artifact.
 

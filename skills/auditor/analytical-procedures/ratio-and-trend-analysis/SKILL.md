@@ -115,8 +115,7 @@ Match the rigour to the purpose; a risk-assessment-quality analysis used as subs
 - **Dismissing significant differences** with plausible-sounding explanations, providing false comfort.
 - **Analysing only at the consolidated level**, allowing aggregation to mask material movements in components.
 - **Using trend analysis as the sole substantive evidence** for a material assertion, where it can only direct further work.
-- **Building trends on inconsistent data** (policy changes, scope changes, non-comparable benchmarks), distorting the signal.
-- **Using risk-assessment-quality analysis as substantive evidence**, substituting a looser standard where a tighter one is required.
+- **Building trends on inconsistent data** (policy changes, scope changes, non-comparable benchmarks), distorting the signal; **Using risk-assessment-quality analysis as substantive evidence**, substituting a looser standard where a tighter one is required
 
 ## Self-Check
 

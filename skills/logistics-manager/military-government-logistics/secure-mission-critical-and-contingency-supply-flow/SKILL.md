@@ -57,13 +57,11 @@ Monitor how quickly supplies are used by unit, site, function, or population ser
 
 Static allocation becomes wrong during extended response. Consumption visibility is critical.
 
-### Prevent duplicate requests and shadow stockpiles
+### Prevent duplicate requests and shadow stockpiles and plan demobilization and residual stock
 
 During emergencies, multiple teams may request the same supplies through different channels or build informal reserves. Use request IDs, site balances, issue records, and approval paths to reduce duplicate demand.
 
 Shadow stockpiles distort allocation and make scarce supply appear unavailable when it is merely hidden.
-
-### Plan demobilization and residual stock
 
 After the mission, decide what happens to unused stock, damaged goods, rented assets, sensitive items, disposal, returns, and financial reconciliation. Document transfers and close emergency accounts.
 
@@ -76,12 +74,9 @@ Contingency logistics must close cleanly. Residual stock without ownership becom
 - Assuming backup suppliers and routes are independent when they share the same disruption exposure.
 - Allocating scarce supplies informally without rationale and records.
 - Communicating ETAs as facts when they are estimates under unstable conditions.
-- Making scarcity and allocation decisions that cannot be explained to oversight, community, or audit stakeholders.
-- Delivering to temporary sites without unloading, security, inventory, power, and staff readiness.
-- Replenishing based on initial requests rather than burn rate and changing risk.
-- Allowing duplicate requests and informal stockpiles to distort scarcity and allocation.
-- Letting agencies, sites, or teams hoard supplies because status is unclear.
-- Ending the response without residual stock, return, disposal, and reconciliation controls.
+- Making scarcity and allocation decisions that cannot be explained to oversight, community, or audit stakeholders; delivering to temporary sites without unloading, security, inventory, power, and staff readiness
+- Replenishing based on initial requests rather than burn rate and changing risk; allowing duplicate requests and informal stockpiles to distort scarcity and allocation
+- Letting agencies, sites, or teams hoard supplies because status is unclear; ending the response without residual stock, return, disposal, and reconciliation controls
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Contingency logistics must close cleanly. Residual stock without ownership becom
 - Are allocation criteria, denied requests, delivery records, transfers, and residual-stock decisions documented for accountability?
 - Are receiving and distribution points ready for access, unloading, staging, counts, security, weather, power, and staff?
 - Is consumption tracked by site, unit, function, or population so replenishment can adapt?
-- Are request IDs, issue records, site balances, and approval paths used to prevent duplicate demand and hidden stockpiles?
-- Is demobilization planned for residual stock, damaged goods, rentals, sensitive items, disposal, transfers, and reconciliation?
+- Are request IDs, issue records, site balances, and approval paths used to prevent duplicate demand and hidden stockpiles?; is demobilization planned for residual stock, damaged goods, rentals, sensitive items, disposal, transfers, and reconciliation?

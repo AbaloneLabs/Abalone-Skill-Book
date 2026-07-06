@@ -136,6 +136,10 @@ Inventory and release reporting are threshold-based and independently enforceabl
 
 Containment that cannot hold the largest container plus precipitation fails its purpose.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is generator status determined accurately based on monthly generation and accumulation quantity, with episodic events and status changes accounted for?

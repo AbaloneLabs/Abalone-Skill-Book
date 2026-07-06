@@ -39,6 +39,10 @@ Trip materials should avoid language that positions travelers as rescuers. Use r
 
 Impact claims should be modest and evidence-based. "You will help build community resilience" may be too broad if the traveler is present for three days. State what the traveler will actually do and what the local partner is responsible for over time.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Assuming good intentions make a trip ethical. Harm can come from poorly designed helping.

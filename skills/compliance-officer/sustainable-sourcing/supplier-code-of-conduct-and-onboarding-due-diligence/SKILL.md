@@ -37,6 +37,10 @@ Onboarding approval is a point-in-time decision. It does not certify that a supp
 
 Regulators, customers, and internal auditors increasingly ask not just whether a supplier was screened but how the decision was made. Retain the completed questionnaire, the risk-tiering rationale, the contract with the incorporated code, the sanctions and adverse-media screening results, and the approval sign-off. Retention periods should align with the applicable legal hold and records-management rules.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating the Questionnaire as the Diligence
@@ -58,6 +62,10 @@ Commercial pressure to launch quickly often pushes teams to fast-track onboardin
 ### Confusing Certification With Compliance
 
 An ISO or SA8000 certification is a useful signal but not proof of ongoing compliance. Certifications can lapse, be scoped narrowly, or be obtained through auditors with limited rigor. Use certifications as one input into the tiering and monitoring design, not as a substitute for the company's own diligence.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

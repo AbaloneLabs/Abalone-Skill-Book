@@ -109,11 +109,9 @@ Line and branch coverage are cheap to collect and weak as signals. Mutation cove
 
 Adding tests to getters, data classes, and one-line delegations to satisfy a coverage target produces tautological tests ("getName returns the name that was set"). These tests cost runtime and maintenance and catch no bugs. Let trivial code be covered indirectly by the tests of its consumers.
 
-### Treating Edge Cases As Rare
+### Treating Edge Cases As Rare and assuming The Test That Covers A Branch Also Checks It
 
 Edge cases feel rare because each one is unlikely in isolation. In aggregate, across many users and much time, they are not rare — they are the source of most production incidents. Treating them as not worth testing is treating production incidents as not worth preventing.
-
-### Assuming The Test That Covers A Branch Also Checks It
 
 A branch can be taken by a test that never asserts on the outcome of taking it. The branch is "covered" but its behavior is unchecked. For each non-trivial branch, confirm a test asserts what should happen when that branch is taken, not merely that a test caused it to be taken.
 

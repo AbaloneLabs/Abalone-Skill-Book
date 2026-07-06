@@ -61,6 +61,10 @@ A therapist may treat test results as a fixed picture of the client, applying th
 
 A therapist may receive the report, integrate it into the treatment plan, and fail to explain the results to the client in terms they can understand and use, when the client has a right to understand their assessment and the explanation supports engagement. The mechanism of harm is that the client is excluded from their own assessment, the findings remain mysterious, and the client cannot use them in their life, school, or work decisions. The harm is that the client loses the benefit of understanding themselves, the engagement suffers, and the assessment becomes something done to them rather than with them. Explaining results in plain, usable terms, with honesty about limitations, is a clinical responsibility.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I read the full report, including the data, validity indicators, and caveats, not only the summary?

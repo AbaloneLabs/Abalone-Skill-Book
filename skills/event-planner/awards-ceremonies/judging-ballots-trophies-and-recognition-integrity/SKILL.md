@@ -70,12 +70,9 @@ Confidential records protect against disputes, but they also contain sensitive e
 - Letting conflicted judges score friends, clients, sponsors, or colleagues.
 - Using fragile spreadsheets with no audit trail.
 - Deciding tie or eligibility rules only after results are known.
-- Having no formal route for correcting scoring, eligibility, conflict, or name errors before public announcement.
-- Producing trophies before names and titles are verified.
-- Forgetting trophy shipping, damage checks, storage, and category order.
-- Allowing sponsors to appear to buy outcomes.
-- Sharing judge comments or scores without policy.
-- Keeping no record to defend results if challenged.
+- Having no formal route for correcting scoring, eligibility, conflict, or name errors before public announcement; producing trophies before names and titles are verified
+- Forgetting trophy shipping, damage checks, storage, and category order; allowing sponsors to appear to buy outcomes
+- Sharing judge comments or scores without policy; keeping no record to defend results if challenged
 
 ## Self-Check
 

@@ -76,3 +76,4 @@ Denying an accommodation involving a serious medical condition, a potential dire
 - Is my documentation thorough and contemporaneous — request, information, process, alternatives, analysis, decision — prepared as if for review?
 - Have I communicated the denial respectfully and transparently, acknowledging the employee's needs and discussing next steps?
 - Have I engaged legal counsel for high-risk denials before the decision?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

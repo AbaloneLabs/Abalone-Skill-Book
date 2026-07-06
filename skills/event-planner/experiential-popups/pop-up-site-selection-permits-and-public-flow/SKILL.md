@@ -70,12 +70,9 @@ Document measurements and assumptions. Site selection is not complete until oper
 - Missing load-in, power, water, trash, restroom, storage, and overnight security needs.
 - Not having permits, certificates, site plans, and inspection documents available to field leads onsite.
 - Blocking sidewalks, ramps, storefronts, transit, bike lanes, or emergency routes.
-- Designing queues without cutoff, weather, accessibility, and staff control.
-- Ignoring neighbor complaints, noise, generators, and trash.
-- Leaving weather pause or close decisions to field staff without criteria.
-- Underestimating security needs for product, cash, devices, influencers, or crowds.
-- Selecting a site from photos without a daypart-specific walkthrough.
-- Failing to document measurements, utilities, and permit assumptions for production.
+- Designing queues without cutoff, weather, accessibility, and staff control; ignoring neighbor complaints, noise, generators, and trash
+- Leaving weather pause or close decisions to field staff without criteria; underestimating security needs for product, cash, devices, influencers, or crowds
+- Selecting a site from photos without a daypart-specific walkthrough; failing to document measurements, utilities, and permit assumptions for production
 
 ## Self-Check
 

@@ -94,27 +94,21 @@ Rendering the default theme on the server and flipping on the client, so every l
 
 Custom UI is dark but native dropdowns, scrollbars, and form controls are light, because `color-scheme` was not set. Set `color-scheme` to match the active theme so the browser chrome and native controls follow.
 
-### Editing Generated Platform Files By Hand
+### Editing Generated Platform Files By Hand and a Component API That Accepts Arbitrary Values
 
 Manually editing the Android colors file or iOS constants that a pipeline generated, so that platform drifts from the source of truth and the next regeneration overwrites the edit (or, worse, the edit survives and silently diverges). Edit only the source token files; regenerate everything else.
 
-### A Component API That Accepts Arbitrary Values
-
 A `Button` with a `color` prop, inviting consumers to pass off-system hex values that bypass tokens entirely. Expose variant props that resolve to tokens; do not accept raw values across the component boundary.
 
-### Overriding Third-Party Component Styles With `!important`
+### Overriding Third-Party Component Styles With `!important` and one-Off Values That Fragment The Scale
 
 Fighting a library's styles with escalating specificity and `!important`, which breaks on every library upgrade. Prefer libraries that consume CSS variables and map them to your tokens; treat non-tokenable libraries as a maintenance liability.
 
-### One-Off Values That Fragment The Scale
-
 Adding `padding: 13px` because the spacing scale (which has 12 and 16) did not have what was needed. Each one-off makes the next person's decision harder and makes the system look optional. Extend the scale deliberately instead.
 
-### Token Proliferation Without Governance
+### Token Proliferation Without Governance and assuming `prefers-color-scheme` Is Enough When Users Expect A Toggle
 
 Adding `--color-primary`, `--color-primary-2`, `--brand-blue`, and `--link-color` all meaning roughly the same thing, because there was no review of additions. Treat token creation as an architecture decision; deduplicate and keep one name per concept.
-
-### Assuming `prefers-color-scheme` Is Enough When Users Expect A Toggle
 
 Relying only on the OS media query when the product needs an explicit light/dark/brand toggle. `prefers-color-scheme` follows the system; an explicit user choice needs a `[data-theme]`/class scope that can override it. Decide which is authoritative and compose them deliberately.
 

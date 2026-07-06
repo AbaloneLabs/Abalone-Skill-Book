@@ -57,13 +57,11 @@ Temporary workers should receive PPE, breaks, restroom access, heat/cold protect
 
 Temporary status does not reduce safety obligations or dignity. Poor treatment damages retention and legal risk.
 
-### Review cost and productivity together
+### Review cost and productivity together and create a path for proven workers
 
 Compare hourly rates, agency fees, overtime, training time, supervision load, errors, rework, injuries, and output. A lower bill rate may be more expensive if productivity and quality are poor.
 
 Temporary labor value should be measured by effective capacity, not only rate.
-
-### Create a path for proven workers
 
 When temporary workers perform well, define whether they can be invited back, moved to higher-skill roles, converted to permanent employment, or given preferred scheduling. Coordinate with HR, agencies, and supervisors so the process is fair and compliant.
 
@@ -76,12 +74,9 @@ Retaining proven workers reduces training burden and improves quality. Ignoring 
 - Skipping onboarding because the work seems simple.
 - Applying steady-state productivity standards to first-day workers.
 - Placing temporary workers in high-error tasks without scan, audit, and supervisor controls.
-- Ignoring agency no-shows, early departures, and excessive worker churn.
-- Keeping agencies in use despite poor fill rate, safety, quality, productivity, and invoice performance.
-- Measuring temp labor by hourly rate while ignoring rework, injuries, training, and supervision.
-- Allowing poor treatment or unclear reporting because workers are not permanent employees.
-- Failing to identify high-performing temporary workers for repeat assignment.
-- Losing proven temporary workers because there is no repeat, skill, or conversion pathway.
+- Ignoring agency no-shows, early departures, and excessive worker churn; keeping agencies in use despite poor fill rate, safety, quality, productivity, and invoice performance
+- Measuring temp labor by hourly rate while ignoring rework, injuries, training, and supervision; allowing poor treatment or unclear reporting because workers are not permanent employees
+- Failing to identify high-performing temporary workers for repeat assignment; losing proven temporary workers because there is no repeat, skill, or conversion pathway
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Retaining proven workers reduces training burden and improves quality. Ignoring 
 - Are agencies scorecarded for fill, show, retention, safety, quality, productivity, communication, and invoice accuracy?
 - Are PPE, breaks, climate protection, incident reporting, harassment protection, and respectful supervision ensured?
 - Is cost measured against effective output, rework, quality, supervision, overtime, and injuries?
-- Are high-performing temporary workers identified for repeat assignment, skill progression, or conversion where appropriate?
-- Can temporary labor add capacity without degrading safety, quality, or culture?
+- Are high-performing temporary workers identified for repeat assignment, skill progression, or conversion where appropriate?; can temporary labor add capacity without degrading safety, quality, or culture?

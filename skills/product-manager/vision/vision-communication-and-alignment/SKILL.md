@@ -84,3 +84,4 @@ Assuming communication succeeded because the message was sent. The trap is a vis
 - [ ] The core vision is consistent across audiences while context is adapted to what each cares about.
 - [ ] Feedback mechanisms exist to test whether teams understand and use the vision.
 - [ ] Confusion and dissent are treated as signal about the vision or its communication, not as resistance to suppress.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

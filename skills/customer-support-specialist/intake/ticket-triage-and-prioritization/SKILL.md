@@ -1,171 +1,82 @@
 ---
-name: ticket_triage_and_prioritization.md
-description: Use when the agent is triaging customer support tickets, prioritizing incoming issues, deciding severity, routing cases, checking entitlement, identifying risk, or determining what information is needed before responding or escalating.
+name: ticket-triage-and-prioritization.md
+description: Use when the agent is triaging customer support tickets, assigning priority, identifying severity, deciding response order, routing urgent issues, separating routine requests from incidents or sensitive cases, or reviewing whether customer impact and risk have been classified correctly.
 ---
 
 # Ticket Triage And Prioritization
 
-Support triage is the point where scattered customer language becomes actionable work. A customer may describe frustration, confusion, urgency, a bug, a billing concern, a security worry, or a misunderstanding in the same message. The support specialist must identify the real issue, protect the customer, set the right priority, route the case correctly, and avoid exposing private information or making unsupported promises.
-
-Use this skill before answering broad questions such as "how should support tickets be triaged", "what should be checked before responding to a customer issue", "how should priority be assigned", or "when should a case be escalated". The goal is to prevent the agent from treating all tickets as ordinary messages.
+Ticket triage is the first risk-control point in customer support. The visible customer request may be a simple question, but it can also hide account compromise, billing harm, legal risk, safety concern, incident impact, VIP exposure, or a product defect affecting many users. This skill helps the agent prioritize by actual customer and business risk rather than arrival order, emotion, or convenience.
 
 ## Core Rules
 
-### Identify The Customer, Product, And Entitlement
+### Classify impact before composing the answer
 
-Before diagnosing, confirm the support context. The same issue can require different handling depending on customer type, account status, product tier, contract, region, channel, and permission.
+Before writing the response, decide what kind of case this is: question, how-to, bug, outage, account access, billing, refund, complaint, abuse, privacy, safety, legal, order, subscription, feedback, or enterprise escalation. The initial classification determines what evidence is needed, what policies apply, who can act, and what should not be promised.
 
-Check:
+If the classification is uncertain, label it and gather only the minimum safe information needed to route correctly. Do not answer normally while ignoring signs of sensitive routing.
 
-- customer identity and account;
-- whether the requester is authorized for the account;
-- product, plan, feature, or service involved;
-- subscription, warranty, service level, or support entitlement;
-- region, language, and regulatory context where relevant;
-- whether the issue concerns another user, tenant, organization, or child account.
+### Prioritize by consequence, not noise
 
-Do not disclose account details merely because someone asks. When identity or authorization is unclear, use the approved verification path.
+Priority should reflect harm, urgency, scale, reversibility, safety, security, compliance, financial exposure, customer commitment, and time sensitivity. A calm customer may have a severe issue; an angry customer may have a routine issue. Tone is evidence of experience, not by itself the priority rule.
 
-### Classify The Issue Type
+Define the difference between high emotion, high impact, and high urgency. They can overlap, but they are not the same.
 
-Classifying the ticket helps route and prioritize it. A single message may contain several issue types.
+### Detect hidden severity signals
 
-Common types:
+Look for phrases and facts that suggest escalation: "charged twice," "locked out," "cannot access account," "data exposed," "fraud," "legal," "medical," "unsafe," "harassment," "all users," "production down," "VIP," "deadline today," "refund promised," or "I already contacted support." These signals may require different handling even if the customer chose the wrong category.
 
-- how-to or usage question;
-- account access issue;
-- bug or defect;
-- outage or performance degradation;
-- billing, refund, invoice, or payment issue;
-- data loss or data correction;
-- security, privacy, or abuse concern;
-- complaint or escalation;
-- feature request;
-- cancellation or retention;
-- legal, compliance, or policy-sensitive request.
+Also check account tier, open incidents, recent releases, prior tickets, and known issues before assuming the case is isolated.
 
-Do not force every ticket into "question" or "bug". Sensitive categories need special handling.
+### Protect customers from queue unfairness
 
-### Determine Severity By Impact And Urgency
+Triage rules should not reward only customers who use the loudest channel, mention executives, or repeatedly contact support. Repeat contact can signal unresolved harm, but it can also distort queues. Use evidence, not pressure, to adjust priority.
 
-Priority should reflect customer impact, time sensitivity, business risk, safety, privacy, and contractual obligations. It should not be based only on message tone.
+If priority is changed because of business commitment or account tier, record the reason and any service tradeoff.
 
-Consider:
+### Route to the right owner with enough context
 
-- number of affected users;
-- whether work is blocked;
-- revenue, safety, privacy, or compliance impact;
-- whether data is lost, exposed, or corrupted;
-- whether a workaround exists;
-- deadline or time sensitivity;
-- customer tier or service commitment;
-- repeat contacts or escalation history;
-- public visibility or reputational risk.
+A triage handoff should include issue type, impact, priority, customer expectation, evidence gathered, missing information, risk flags, prior commitments, and next action needed. Routing without context forces the next owner to rediscover the case and may make the customer repeat themselves.
 
-An angry low-impact message may need empathy but not top severity. A calm report of data exposure may be critical.
+Do not over-collect sensitive information before routing. Gather what is necessary and safe.
 
-### Capture Reproduction And Evidence
+### Keep triage reversible when facts are weak
 
-For technical or product issues, triage should gather enough evidence for resolution or escalation.
+Early classification is often provisional. Make it easy to reclassify when new evidence appears. Avoid closing or downgrading a case solely because the first category was wrong, a screenshot was missing, or the customer used imprecise language.
 
-Collect where appropriate:
+Where possible, choose a conservative temporary priority for safety, security, privacy, or financial harm until the risk is disproven.
 
-- exact steps taken;
-- expected result;
-- actual result;
-- timestamp and timezone;
-- account, workspace, order, device, browser, app version, or environment;
-- error messages and screenshots;
-- logs or request ids if available;
-- whether issue repeats;
-- affected users;
-- workaround tried.
+### Separate incidents from individual cases
 
-Do not ask for sensitive data unless necessary. Avoid requesting passwords, full payment details, secrets, government ids, or private documents over unsafe channels.
+If multiple customers report similar failures, if the issue affects a shared system, or if internal status already shows degradation, treat the ticket as possible incident signal. Link it to incident workflows, known issue tracking, and customer communication rules.
 
-### Route To The Right Owner
+Do not resolve individual tickets with ad hoc explanations while the broader incident picture is unclear.
 
-Routing is part of triage. A ticket should move to the team that can act, with enough context to prevent rework.
+### Update triage metadata as the case evolves
 
-Possible routes:
+Priority, reason, product area, contact reason, escalation flag, sentiment, and incident link should stay current. Bad metadata weakens reporting, routing, staffing, product feedback, and future customer history.
 
-- frontline support;
-- billing or finance;
-- technical support;
-- product or engineering;
-- trust and safety;
-- security or privacy;
-- legal or compliance;
-- account management;
-- customer success;
-- operations or fulfillment.
-
-When routing, include summary, customer impact, evidence, urgency, prior actions, and requested decision. Do not forward raw frustration without framing the issue.
-
-### Detect Patterns
-
-Triage should not only solve one ticket. Repeated tickets may indicate a product defect, unclear documentation, broken onboarding, billing confusion, abuse pattern, or outage.
-
-Watch for:
-
-- multiple customers reporting the same symptom;
-- spike in a category;
-- repeated confusion around the same feature;
-- many contacts after a release;
-- recurring billing disputes;
-- similar security or fraud reports;
-- unresolved tickets reopening.
-
-Pattern detection turns support from reactive answering into product and operations intelligence.
-
-### Set Initial Expectations Carefully
-
-The first response should often acknowledge, classify, and set expectations. Do not promise a fix date, refund, exception, or engineering outcome before the owner confirms.
-
-Set:
-
-- what support understands so far;
-- what information is needed;
-- whether the issue is being investigated;
-- expected next update time where possible;
-- safe workaround if known;
-- escalation path if severe.
+If the initial triage was wrong, correct it rather than hiding the mistake.
 
 ## Common Traps
 
-### Prioritizing By Emotion Alone
-
-Customer emotion matters for communication tone, but priority should be tied to impact and risk.
-
-### Missing Account Authorization
-
-Support can accidentally expose sensitive information when responding to someone who is not authorized for the account.
-
-### Asking For Unsafe Evidence
-
-Screenshots and logs can contain personal data, tokens, payment details, or confidential business information. Ask narrowly and provide safe redaction guidance.
-
-### Treating Bugs As One-Off Questions
-
-If several customers report the same confusion or failure, it may need product, documentation, or incident handling.
-
-### Routing Without Context
-
-Escalated tickets without summary, impact, evidence, and request waste specialist time and delay the customer.
-
-### Ignoring Service Commitments
-
-Some customers have service levels, contracts, warranties, or regulatory timelines. Triage must surface them.
+- Prioritizing the angriest or most senior-sounding customer instead of the highest-risk issue.
+- Treating the customer's selected category as reliable.
+- Answering a sensitive case as routine before checking billing, access, security, privacy, legal, safety, or abuse signals.
+- Downgrading quiet customers with severe harm because their tone is calm.
+- Routing a case without impact, evidence, missing information, and decision needed.
+- Collecting excessive sensitive information during triage.
+- Leaving priority unchanged after new evidence changes impact; treating repeat contact as either always urgent or always nuisance
+- Handling possible incident reports as isolated tickets; keeping wrong contact reason or metadata because it is administratively convenient
 
 ## Self-Check
 
-- [ ] Customer identity, account, authorization, product, plan, and entitlement were checked where relevant.
-- [ ] The issue type is classified, including sensitive categories such as security, privacy, billing, legal, abuse, or data loss.
-- [ ] Severity reflects impact, urgency, affected users, data risk, workaround, service commitments, and customer consequence.
-- [ ] Technical issues include steps, expected result, actual result, timestamps, environment, errors, affected users, and workaround attempts where appropriate.
-- [ ] Sensitive information is not requested or exposed unnecessarily.
-- [ ] Routing includes summary, evidence, impact, urgency, prior actions, and the specific decision or help needed.
-- [ ] Repeated patterns, spikes, reopenings, and post-release clusters were considered.
-- [ ] Initial expectations avoid unsupported promises about fixes, refunds, exceptions, or timelines.
-- [ ] The triage outcome is useful to the next owner, not just the current responder.
-- [ ] The customer receives an acknowledgment or next-step expectation appropriate to severity.
+- Is the case type classified before response drafting?
+- Are impact, urgency, scale, reversibility, safety, security, compliance, financial exposure, customer commitment, and time sensitivity considered?
+- Are emotional intensity, business impact, and urgency separated?
+- Were hidden severity signals checked in customer wording, account context, prior tickets, known issues, and incidents?
+- Are sensitive routes such as billing, access, security, privacy, legal, safety, and abuse identified before normal handling?
+- Is priority based on evidence rather than channel pressure, executive mention, or repeated contact alone?
+- If the case is routed, does the handoff include issue type, impact, priority, evidence, missing information, risk flags, commitments, and requested action?
+- Is any sensitive information collection limited to what is necessary and safe?
+- Can the triage be reclassified if new facts emerge?
+- Are incident signals linked to incident or known-issue workflows instead of handled only as isolated tickets?

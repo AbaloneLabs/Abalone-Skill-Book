@@ -93,8 +93,7 @@ For some populations, sampling is unnecessary: examine 100% of items above a thr
 - **Choosing the approach without considering the conclusion needed**, leading to a method that cannot support the intended opinion.
 - **Failing to document the approach, selection method, sample size rationale, and evaluation**, leaving the conclusion indefensible.
 - **Overusing statistical sampling where targeted key-item testing would be more efficient**, adding design cost without proportional benefit.
-- **Assuming statistical sampling is always stronger** — its strength is quantification, not coverage; a well-targeted nonstatistical sample can provide equivalent or better evidence for certain populations.
-- **Forgetting that 100% examination of key items removes sampling risk** for those items, allowing a smaller, focused sample for the remainder.
+- **Assuming statistical sampling is always stronger** — its strength is quantification, not coverage; a well-targeted nonstatistical sample can provide equivalent or better evidence for certain populations; **Forgetting that 100% examination of key items removes sampling risk** for those items, allowing a smaller, focused sample for the remainder
 
 ## Self-Check
 

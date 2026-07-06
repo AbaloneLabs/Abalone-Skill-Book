@@ -88,6 +88,10 @@ When a client describes symptoms with a plausible medical cause, fatigue, weight
 
 When the therapist refers a client for specialty evaluation and does not maintain contact, the client may experience the referral as being passed off, especially if the specialist has a long wait, the client has to repeat their story, or the two providers do not communicate. The client may not follow through on the referral, may drop out of care entirely, or may return to the therapist only after a crisis. The harm is a gap in care during a vulnerable period and the erosion of the alliance. A warm referral includes explaining why the evaluation helps, what to expect, maintaining the therapy relationship during the wait, obtaining consent to coordinate with the specialist, and integrating the findings, so the client experiences continuity rather than handoff.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I screen broadly at intake for common and high-stakes comorbidities, not only for the presenting complaint?

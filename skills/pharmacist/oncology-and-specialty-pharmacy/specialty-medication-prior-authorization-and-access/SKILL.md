@@ -29,6 +29,10 @@ Specialty medication continuity is threatened by coverage changes (the annual pl
 
 Many specialty medications are distributed through limited distribution networks (LDN, the designated pharmacies that stock the agent) and are subject to Risk Evaluation and Mitigation Strategies (REMS, the FDA-required programs that manage specific risks). The pharmacist must comply with the LDN requirements (the patient enrolled in the designated pharmacy, the agent ordered through the network, the handling and shipping per the agent's requirements) and with the REMS requirements (the prescriber and pharmacy enrollment, the patient counseling and acknowledgment, the baseline and ongoing labs, the pregnancy prevention for teratogenic agents, the reporting of specific adverse events). The pharmacist must recognize that the REMS is a legal requirement (not a guideline), that non-compliance voids the dispensing and exposes the patient and the pharmacy to risk, and that the REMS elements (the enrollment, the labs, the counseling) must be completed and documented before each dispensing. The pharmacist must coordinate the REMS across the care team (the prescriber, the pharmacy, the patient, the labs), because the REMS is a shared program and the pharmacy is often the operational hub.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Submitting a Prior Authorization With a Generic Justification Instead of the Specific Criteria
@@ -51,6 +55,10 @@ The PA has an expiration (commonly 6 or 12 months), and the pharmacist who does 
 
 The REMS and the limited distribution requirements are the conditions under which the specialty medication may be dispensed, and the pharmacist who dispenses without completing the REMS (the enrollment, the labs, the counseling) or outside the distribution network violates the restriction and exposes the patient to the risk the REMS was designed to manage. The trap is that the REMS and the distribution feel like administrative burdens, so they are deferred or bypassed, and the dispensing proceeds without the compliance. The harm is the unmanaged risk (the teratogenicity, the infusion reaction, the severe lab abnormality) that the REMS was designed to prevent, and the legal exposure of dispensing without the required program. The fix is to verify the REMS and distribution status before each dispensing, to complete and document the required elements, and to refuse the dispensing if the compliance is incomplete, treating the REMS as a patient-safety program rather than a paperwork burden.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For each prior authorization, did I read the specific coverage criteria, gather the evidence that addresses each criterion (diagnosis, treatment history, labs, guideline support), and present it in the structure the payer expects?
@@ -60,3 +68,4 @@ The REMS and the limited distribution requirements are the conditions under whic
 - At a coverage change or transition, did I identify the new plan's formulary status and PA requirements, initiate the PA in advance, and ensure the medication follows the patient?
 - For REMS and limited distribution agents, did I verify the prescriber and pharmacy enrollment, complete the baseline and ongoing labs, provide and document the patient counseling, and confirm the distribution through the authorized network before dispensing?
 - Did I treat the access work as clinical continuity work — preventing the treatment interruptions that cause flares, progression, immunogenicity, or hospitalization — rather than as administrative paperwork?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

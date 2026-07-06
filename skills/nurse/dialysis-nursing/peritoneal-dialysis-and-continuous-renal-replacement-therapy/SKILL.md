@@ -1,6 +1,6 @@
 ---
 name: peritoneal-dialysis-and-continuous-renal-replacement-therapy.md
-description: Use when the nurse is managing peritoneal dialysis exchanges and catheter care, performing continuous renal replacement therapy in critically ill patients, troubleshooting CRRT circuit clotting and pressure alarms, or preventing peritonitis and CRRT-related complications at the bedside.
+description: Use when the agent is managing peritoneal dialysis exchanges and catheter care, performing continuous renal replacement therapy in critically ill patients, troubleshooting CRRT circuit clotting and pressure alarms, or preventing peritonitis and CRRT-related complications at the bedside.
 ---
 
 # Peritoneal Dialysis and Continuous Renal Replacement Therapy

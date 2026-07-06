@@ -66,8 +66,7 @@ Good omnichannel metrics show whether the flow is profitable and reliable, not o
 - Using warehouse packaging standards without checking whether stores have materials, space, training, and scan discipline.
 - Issuing refunds before return condition, fraud risk, serial number, or disposition path is clear.
 - Optimizing for customer promise speed while hiding cancellation, rework, split-shipment, and labor costs.
-- Measuring omnichannel success only by sales conversion or pickup count.
-- Forgetting accessibility, language, parking, and customer communication requirements for pickup experience.
+- Measuring omnichannel success only by sales conversion or pickup count; forgetting accessibility, language, parking, and customer communication requirements for pickup experience
 
 ## Self-Check
 

@@ -71,10 +71,8 @@ Track root cause by retailer, DC, SKU, vendor, carrier, and shipment type.
 - Assuming ASN transmission means ASN accuracy without checking pack hierarchy, carton count, and labels.
 - Using generic pallet or carton standards that violate retailer-specific automation, floor-ready, or handling rules.
 - Choosing freight cost savings that create OTIF penalties, chargebacks, or retailer relationship damage.
-- Trying to dispute deductions without appointment, tender, ASN, photo, seal, and delivery evidence.
-- Fixing one shipment manually without correcting master data, EDI mapping, or label generation.
-- Ignoring seasonal routing-guide changes and retailer blackout periods.
-- Leaving routing-guide updates, portal changes, label rules, and deduction ownership spread across teams with no accountable owner.
+- Trying to dispute deductions without appointment, tender, ASN, photo, seal, and delivery evidence; fixing one shipment manually without correcting master data, EDI mapping, or label generation
+- Ignoring seasonal routing-guide changes and retailer blackout periods; leaving routing-guide updates, portal changes, label rules, and deduction ownership spread across teams with no accountable owner
 
 ## Self-Check
 

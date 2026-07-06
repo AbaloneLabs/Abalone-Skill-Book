@@ -70,12 +70,9 @@ Use a simple update channel rather than forcing FOH to infer changes from stage 
 - Opening doors before security, bar, merch, accessibility, or box office is ready.
 - Providing no resolution path for missing will-call names.
 - Communicating prohibited items only at the door.
-- Letting screening lines build unsafely outside.
-- Selling ADA or accessible tickets without entry, seating, and restroom support.
-- Placing merch or bar lines across exits and accessible paths.
-- Letting comps and holds exceed capacity discipline.
-- Leaving ushers, box office, and guest services unaware of set time changes, reentry decisions, and incident instructions.
-- Ignoring post-show egress, lost items, disputes, and FOH lessons learned.
+- Letting screening lines build unsafely outside; selling ADA or accessible tickets without entry, seating, and restroom support
+- Placing merch or bar lines across exits and accessible paths; letting comps and holds exceed capacity discipline
+- Leaving ushers, box office, and guest services unaware of set time changes, reentry decisions, and incident instructions; ignoring post-show egress, lost items, disputes, and FOH lessons learned
 
 ## Self-Check
 

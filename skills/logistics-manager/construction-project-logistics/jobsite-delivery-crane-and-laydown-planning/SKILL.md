@@ -71,10 +71,8 @@ Construction sites run on current information. Old instructions create blocked r
 - Treating laydown space as infinite or first-come-first-served.
 - Allowing materials to sit exposed to weather, theft, impact, mud, or UV damage.
 - Failing to document condition and custody at jobsite receipt.
-- Letting subcontractors compete for gates, cranes, and hoists without a shared calendar.
-- Overusing just-in-time without realistic supplier, permit, traffic, and weather risk.
-- Having no plan for missed lift windows, late trucks, or unready trades.
-- Communicating site changes through scattered calls instead of a daily logistics plan.
+- Letting subcontractors compete for gates, cranes, and hoists without a shared calendar; overusing just-in-time without realistic supplier, permit, traffic, and weather risk
+- Having no plan for missed lift windows, late trucks, or unready trades; communicating site changes through scattered calls instead of a daily logistics plan
 
 ## Self-Check
 

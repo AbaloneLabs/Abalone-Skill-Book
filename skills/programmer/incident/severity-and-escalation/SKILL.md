@@ -55,6 +55,10 @@ On-call is the human substrate of escalation. If it burns people out, the escala
 - **Page for actionable symptoms only.** Every non-actionable page (the "FYI" alert, the symptom that resolves itself) trains responders to ignore pages and erodes the signal needed for real incidents.
 - **Make handoffs explicit.** A shift change during an active incident must transfer the current picture, the actions tried, and the next steps, not just the pager.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Severity Anchored On Responder Familiarity

@@ -61,6 +61,10 @@ A therapist may receive the testing report, file it in the chart, and continue t
 
 A therapist may accept test scores at face value without considering factors that affect validity, effort, cultural and linguistic fit, acute state, or context, when these factors can substantially affect the meaning of the scores. The mechanism of harm is that scores obtained under compromised conditions are treated as accurate, and the conclusions, and the treatment based on them, are wrong. The harm is that the client receives a diagnosis or plan based on invalid data, the actual issues are missed, and the care is misdirected. Considering validity factors, raising them with the evaluator, and integrating them into the interpretation protects against this error.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I identify the specific clinical question that testing should answer, rather than referring generically?

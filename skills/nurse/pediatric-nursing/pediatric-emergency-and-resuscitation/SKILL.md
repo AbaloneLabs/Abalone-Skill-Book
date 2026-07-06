@@ -59,6 +59,10 @@ The trap is that adult equipment is what is immediately available, and the nurse
 
 The trap is that the resuscitation is all-consuming, and the family — waiting outside, frightened, knowing nothing — becomes an afterthought. The harm is that the family experiences the worst moment of their lives in isolation, without information or support, and if the outcome is poor, they have no understanding of what happened. Assign a family liaison at the start of every pediatric resuscitation. Offer presence. Provide updates. And after the event, whether the child survived or not, sit with the family, explain what happened in terms they can understand, and offer support. This is not optional — it is part of the care.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I applied the length-based tape and is the color-coded information visible to the whole team?

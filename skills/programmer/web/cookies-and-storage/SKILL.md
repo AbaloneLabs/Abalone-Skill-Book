@@ -105,19 +105,15 @@ Storing the user's only copy of offline work in IndexedDB with no server sync, t
 
 Stuffing megabytes of JSON into `localStorage`, blocking the main thread on every synchronous read/write and hitting quota errors. Large or structured data belongs in IndexedDB (asynchronous, transactional, higher capacity); `localStorage` is for small client-only preferences.
 
-### Changing Stored Data Shape Without Migration
+### Changing Stored Data Shape Without Migration and leaving One User's Data For The Next On A Shared Device
 
 Renaming a field in the code without versioning the stored data, so existing users read old-shape records and break. IndexedDB migrations belong in `onupgradeneeded`; `localStorage` needs a stored version and transform-on-read. Assume old data exists.
 
-### Leaving One User's Data For The Next On A Shared Device
-
 Not clearing storage on logout, so user B sees user A's cached data or session remnants. Clear auth/session data and any per-user cached state on logout and on sign-in of a different user.
 
-### Planting A Durable Tracking Identifier Without Considering Privacy
+### Planting A Durable Tracking Identifier Without Considering Privacy and assuming Quota Writes Always Succeed
 
 Writing a permanent unique ID to `localStorage` for analytics, creating a tracking vector that survives cookie clears and may require consent under privacy law. Prefer session-scoped or server-held identifiers, and honor consent before writing non-essential storage.
-
-### Assuming Quota Writes Always Succeed
 
 Calling `localStorage.setItem` or an IndexedDB put without handling the quota-exceeded error, so the feature fails silently when storage is full. Catch quota errors, surface them, and clean up stale data.
 
@@ -130,3 +126,4 @@ Calling `localStorage.setItem` or an IndexedDB put without handling the quota-ex
 - [ ] Stored data has a versioning and migration strategy — IndexedDB schema changes go through `onupgradeneeded` with incrementing versions and migration logic, `localStorage` carries a version and transforms on read — so existing users' old-shape data does not break new code.
 - [ ] Auth, session, and per-user cached data are cleared on logout and on sign-in of a different user, so one user's data is not served to another on a shared device.
 - [ ] Privacy and tracking implications are addressed: no new dependence on deprecated third-party cookies, durable cross-session identifiers are avoided or consent-gated where required, and a real "clear my data" path exists and honors consent choices.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

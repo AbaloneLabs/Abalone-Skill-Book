@@ -54,8 +54,7 @@ For high-risk or politically sensitive travel, recommend specialist advice, curr
 - Treating religious dietary, prayer, sabbath, dress, or worship needs as optional preferences.
 - Sending travelers to sacred or heritage sites without etiquette, access, guide, or emotional context.
 - Advising travelers to hide or display identity without respecting their agency.
-- Relying only on official advisories when community-specific sources are also needed, or only on anecdotes when official rules matter.
-- Underplanning support for harassment, discrimination, or border questioning.
+- Relying only on official advisories when community-specific sources are also needed, or only on anecdotes when official rules matter; underplanning support for harassment, discrimination, or border questioning
 
 ## Self-Check
 

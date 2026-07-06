@@ -57,13 +57,11 @@ Retention reviews should lead to actions such as supervisor coaching, shift chan
 
 Knowing why people leave is not enough. The operation needs interventions before the next wave of attrition damages capability.
 
-### Link labor planning to continuous improvement
+### Link labor planning to continuous improvement and create a weekly labor governance rhythm
 
 Use productivity, quality, travel time, congestion, slotting, equipment availability, and process waste to improve labor efficiency. Do not solve every workload issue by adding people.
 
 Labor planning and process improvement should reinforce each other. Poor process design consumes labor unnecessarily.
-
-### Create a weekly labor governance rhythm
 
 Review forecast volume, planned labor, actual attendance, overtime, backlog, productivity, safety, quality, training progress, open roles, and upcoming events in one recurring forum. Include operations, HR, finance, planning, and transportation where relevant.
 
@@ -76,12 +74,9 @@ Labor planning changes quickly. A governance rhythm prevents each function from 
 - Treating scheduled headcount as available productive capacity.
 - Cutting training time during peak and then paying for errors and injuries later.
 - Moving workers into roles they are not trained or certified to perform.
-- Understaffing supervisors, leads, inventory control, and maintenance support.
-- Ignoring absenteeism, turnover, overtime fatigue, and commute friction until service fails.
-- Treating retention as HR's issue rather than an operating constraint.
-- Collecting retention signals without assigning interventions, owners, and dates.
-- Adding labor instead of fixing slotting, congestion, equipment, and process waste.
-- Letting operations, HR, finance, and planning use different assumptions for labor needs and capacity.
+- Understaffing supervisors, leads, inventory control, and maintenance support; ignoring absenteeism, turnover, overtime fatigue, and commute friction until service fails
+- Treating retention as HR's issue rather than an operating constraint; collecting retention signals without assigning interventions, owners, and dates
+- Adding labor instead of fixing slotting, congestion, equipment, and process waste; letting operations, HR, finance, and planning use different assumptions for labor needs and capacity
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Labor planning changes quickly. A governance rhythm prevents each function from 
 - Are retention signals such as turnover, absence, overtime, safety, fairness, commute, pay, and supervisor quality monitored?
 - Do retention risks lead to concrete interventions such as coaching, shift fixes, onboarding, pay review, transport, safety, or career paths?
 - Are productivity issues linked to slotting, equipment, congestion, quality, travel, and process improvement?
-- Is a weekly labor review using shared assumptions for volume, attendance, overtime, backlog, productivity, safety, and hiring?
-- Can the labor plan support service reliably without relying on constant overtime and churn?
+- Is a weekly labor review using shared assumptions for volume, attendance, overtime, backlog, productivity, safety, and hiring?; can the labor plan support service reliably without relying on constant overtime and churn?

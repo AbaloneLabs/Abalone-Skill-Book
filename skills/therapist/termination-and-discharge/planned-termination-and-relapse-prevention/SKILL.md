@@ -61,6 +61,10 @@ A therapist may conduct termination logistically, reviewing goals and building a
 
 A client may request termination before the treatment goals are met, often during a period of improvement, a desire to avoid difficult material, or external pressures, and the therapist may comply without exploring the clinical implications. The mechanism is that the client has the right to end therapy, and the therapist, respecting autonomy, complies, without exploring whether the timing is clinically sound or whether the request reflects avoidance. The harm is that the client leaves with goals unmet and patterns unchanged, may relapse, and may not return, having concluded that therapy does not work. Exploring the request, sharing the clinical perspective, building a relapse plan even for a premature ending, and leaving the door open for return, is what serves the client who wants to end prematurely.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the termination based on goals met and clinical readiness, not time or external pressure alone?

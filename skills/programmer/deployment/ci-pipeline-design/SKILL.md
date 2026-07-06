@@ -104,11 +104,9 @@ A Dockerfile that copies the full source tree before installing dependencies, so
 
 Retrying a flaky test until it passes and merging, because investigating the root cause is slower than the retry. Each accepted flake erodes trust in the red signal and guarantees the flakiness will spread. Quarantine and fix flaky tests; never silently retry past them.
 
-### A Gate That Maintainers Can Override Under Pressure
+### A Gate That Maintainers Can Override Under Pressure and monorepo Pipelines That Rebuild And Retest Everything
 
 Required checks that can be bypassed with admin privileges, used routinely when the pipeline is slow or flaky. The override becomes the path of least resistance, and the gate exists only on paper. Fix the slowness and flakiness rather than weakening enforcement, and reserve overrides for genuine emergencies with an audit trail.
-
-### Monorepo Pipelines That Rebuild And Retest Everything
 
 Running the entire build and test matrix on every change regardless of which package changed, because per-package scoping was never set up. As the monorepo grows, runtime grows with it until the pipeline is unusable. Use a dependency graph to scope work to affected packages.
 

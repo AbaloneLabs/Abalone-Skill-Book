@@ -70,12 +70,9 @@ Online backup can reduce stockout anger, but it can also weaken onsite scarcity 
 - Creating too many SKUs, sizes, or variants for the available staff and space.
 - Forgetting storage, restock paths, docks, carts, elevators, and weather cover.
 - Placing merchandise lines where they block guest flow or emergency routes.
-- Creating limited drops without purchase limits or communication rules.
-- Overlooking logo, royalty, sponsor, artist, tax, or revenue-share obligations.
-- Under-briefing staff on products, sizes, refunds, payment issues, and sold-out scripts.
-- Failing to protect stock from theft, damage, or unauthorized access.
-- Ending without accurate counts, settlement, unsold-stock decisions, and reports.
-- Adding online or post-event sales without fulfillment ownership and customer-service capacity.
+- Creating limited drops without purchase limits or communication rules; overlooking logo, royalty, sponsor, artist, tax, or revenue-share obligations
+- Under-briefing staff on products, sizes, refunds, payment issues, and sold-out scripts; failing to protect stock from theft, damage, or unauthorized access
+- Ending without accurate counts, settlement, unsold-stock decisions, and reports; adding online or post-event sales without fulfillment ownership and customer-service capacity
 
 ## Self-Check
 

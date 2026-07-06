@@ -71,8 +71,7 @@ Regulators periodically publish examination priorities, thematic reviews, and en
 - **Over-relying on self-reported data.** Using management's compliance logs or exception reports as the test population without verifying completeness or integrity of those logs.
 - **Conflating compliance with control effectiveness.** A control may operate effectively yet still fail to prevent a specific regulatory breach if the control's design did not address that requirement.
 - **Ignoring extraterritorial reach.** Assuming only domestic regulations apply when cross-border operations, data flows, or customers trigger foreign regulatory regimes.
-- **Silent threshold changes.** Failing to detect that a regulatory threshold, filing deadline, or exemption limit changed partway through the period under audit.
-- **Treating regulator non-enforcement as compliance.** The absence of regulatory action does not evidence compliance; it may reflect inspection backlog or undetected breaches.
+- **Silent threshold changes.** Failing to detect that a regulatory threshold, filing deadline, or exemption limit changed partway through the period under audit; **Treating regulator non-enforcement as compliance.** The absence of regulatory action does not evidence compliance; it may reflect inspection backlog or undetected breaches
 
 ## Self-Check
 

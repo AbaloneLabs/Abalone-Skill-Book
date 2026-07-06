@@ -65,10 +65,8 @@ The final travel document should make inclusions visible so travelers do not ove
 - Accepting "sleeps four" without checking bed size, bathroom count, and adult comfort.
 - Treating all-inclusive as all expenses included.
 - Ignoring daily gratuities, resort fees, port charges, service fees, and premium dining.
-- Assuming online accessibility filters equal verified accessibility.
-- Forgetting final payment, penalty dates, and package-specific cancellation rules.
-- Overvaluing resort credits or drink packages the traveler will not actually use.
-- Failing to document inclusions and special requests in the final handover.
+- Assuming online accessibility filters equal verified accessibility; forgetting final payment, penalty dates, and package-specific cancellation rules
+- Overvaluing resort credits or drink packages the traveler will not actually use; failing to document inclusions and special requests in the final handover
 
 ## Self-Check
 

@@ -51,25 +51,21 @@ Apps, maps, QR codes, push notifications, emails, and screens should match physi
 
 Physical signs remain necessary at critical decision points even for app-based events.
 
-### Test routes with unfamiliar users
+### Test routes with unfamiliar users and plan installation, maintenance, and removal
 
 Walk the route as a first-time attendee, not as the planner who already knows the venue. Test from parking, rideshare, transit, accessible drop-off, hotel connector, and main entrance to the highest-priority rooms and services. If possible, have someone unfamiliar with the plan follow only the signs and map.
 
 Record every hesitation point. A route that works in an empty walkthrough may fail once lines, sponsor booths, security barriers, or catering stations block sightlines.
 
-### Plan installation, maintenance, and removal
-
 Signage needs print deadlines, proofing, mounting method, venue approval, fire code compliance, weather resistance, weights, easels, tape rules, installation labor, spare signs, daily checks, and strike. Outdoor signs need wind and rain planning.
 
 Assign someone to walk the route before doors open. Signs placed by installers may not match the actual guest path.
 
-### Staff the hardest navigation moments
+### Staff the hardest navigation moments and plan for changing conditions and contingency signage
 
 Some points need humans: first arrival, confusing elevators, large session changes, post-keynote lunch flow, shuttle departure, emergency reroutes, and accessibility support. Staff should know the route, not only point at signs.
 
 Wayfinding is a system of signs, maps, messages, and people. Use all four when complexity is high.
-
-### Plan for changing conditions and contingency signage
 
 Signage must adapt to last-minute changes: relocated sessions, cancelled rooms, weather moves, capacity overflows, and VIP detours. Build a process for printing and posting replacement signs quickly, and keep a backup supply of blank directional signs, arrows, and room labels. Identify who has authority to approve and place changes, and brief floor staff so they redirect attendees consistently rather than improvising conflicting directions.
 
@@ -81,14 +77,10 @@ Digital signage, when available, reduces reprinting but introduces failure modes
 - Placing signs at destinations rather than before turns.
 - Using inconsistent room names between app, agenda, venue, and signs.
 - Choosing low-contrast or small text for visual style.
-- Forgetting accessible route signage and step-free entrances.
-- Having no clean method for room changes, closed entrances, shuttle moves, weather reroutes, or capacity changes.
-- Sending guests to locked doors, staff-only areas, or dead ends.
-- Depending entirely on an event app for navigation.
-- Printing signs before room names and agenda are stable.
-- Assuming the planner's venue knowledge reflects what a first-time attendee will understand.
-- Failing to check signs after installation.
-- Understaffing the confusing points where signs are not enough.
+- Forgetting accessible route signage and step-free entrances; having no clean method for room changes, closed entrances, shuttle moves, weather reroutes, or capacity changes
+- Sending guests to locked doors, staff-only areas, or dead ends; depending entirely on an event app for navigation
+- Printing signs before room names and agenda are stable; assuming the planner's venue knowledge reflects what a first-time attendee will understand
+- Failing to check signs after installation; understaffing the confusing points where signs are not enough
 
 ## Self-Check
 

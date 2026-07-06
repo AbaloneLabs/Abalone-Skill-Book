@@ -70,12 +70,9 @@ Message variants should not become separate realities. If one audience is promis
 - Promising transformation, exclusivity, or access without evidence.
 - Ignoring realistic alternatives the audience may prefer.
 - Letting marketing promise a guest experience the event design cannot deliver.
-- Listing features instead of explaining why they matter to the attendee.
-- Making every asset carry the full message hierarchy.
-- Using exclusivity language for events that need inclusion and community trust.
-- Avoiding practical objections such as cost, travel, childcare, safety, or accessibility.
-- Creating stakeholder-specific messages that contradict each other or overpromise different experiences.
-- Measuring positioning only by clicks instead of conversion quality and attendee fit.
+- Listing features instead of explaining why they matter to the attendee; making every asset carry the full message hierarchy
+- Using exclusivity language for events that need inclusion and community trust; avoiding practical objections such as cost, travel, childcare, safety, or accessibility
+- Creating stakeholder-specific messages that contradict each other or overpromise different experiences; measuring positioning only by clicks instead of conversion quality and attendee fit
 
 ## Self-Check
 

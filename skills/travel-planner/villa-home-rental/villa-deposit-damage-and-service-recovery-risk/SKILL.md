@@ -70,12 +70,9 @@ For medical, safety, or security emergencies, immediate safety comes first. Docu
 - Ignoring owner cancellation, property substitution, permit failure, and maintenance relocation rules.
 - Skipping arrival condition photos because the property looks fine.
 - Reporting damage only after checkout.
-- Ignoring group rules for pets, children, parties, smoking, towels, and vendors.
-- Having no escalation path for AC, water, Wi-Fi, pests, access, or cleanliness failures.
-- Using only informal messages and missing platform claim deadlines.
-- Checking out without documenting meter readings, keys, trash, and walkthrough.
-- Waiting passively for deposit return after a claimed deduction.
-- Leaving a bad property without preserving evidence or following claim process when safe to do so.
+- Ignoring group rules for pets, children, parties, smoking, towels, and vendors; having no escalation path for AC, water, Wi-Fi, pests, access, or cleanliness failures
+- Using only informal messages and missing platform claim deadlines; checking out without documenting meter readings, keys, trash, and walkthrough
+- Waiting passively for deposit return after a claimed deduction; leaving a bad property without preserving evidence or following claim process when safe to do so
 
 ## Self-Check
 

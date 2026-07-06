@@ -59,6 +59,10 @@ The trap is that honesty ("this will hurt") feels like it will reduce cooperatio
 
 The trap is that an injury with a plausible explanation (a fall down stairs, a sibling fight) is accepted at face value, especially when the caregiver is articulate and the nurse wants to believe the best. The harm is that abused children are often brought in repeatedly with escalating injuries, and each missed opportunity allows the abuse to continue. The pattern matters more than any single injury: bruising in a non-mobile infant, injuries at different healing stages, injuries inconsistent with the mechanism described, and a history that changes over time. Document objectively, share your concern with the provider, and report per law. You are not accusing anyone — you are activating a system designed to investigate and protect.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Am I using age-specific vital sign ranges, or am I applying adult norms to this child?

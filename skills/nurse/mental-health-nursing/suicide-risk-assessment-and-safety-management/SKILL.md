@@ -49,6 +49,8 @@ Nurses assess and manage risk; psychiatry and the treatment team direct the over
 
 **Failing to escalate when the assigned plan feels unsafe.** The nurse at the bedside judges that q15-minute observation is inadequate for a patient with active intent, but the order stands and the nurse does not escalate, rationalizing that "the doctor ordered it." The mechanism of harm is that the bedside nurse has the most direct information about the patient's current state, and failing to escalate a known concern allows an unsafe plan to continue. The harm is a preventable suicide attempt or completion. Escalate respectfully and persistently; if the response is inadequate, use the chain of command. Patient safety overrides deference to an order you judge unsafe.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I assess suicide risk comprehensively (ideation, intent, plan, means, prior attempts, stressors, protective factors), not just with a screening tool?

@@ -52,8 +52,7 @@ Customs records may need to be retained and defended later. The final file shoul
 - Mixing Incoterms, freight payment terms, and customs responsibility as if they were the same thing.
 - Focusing only on export paperwork while ignoring import admissibility, permits, product standards, or local taxes.
 - Creating multiple invoice versions and sending different ones to carrier, broker, customer, and finance.
-- Treating a carrier tracking event as proof of clearance. A shipment can be in transit, under customs control, or released with conditions.
-- Failing to capture border-hold causes for future master data and process correction.
+- Treating a carrier tracking event as proof of clearance. A shipment can be in transit, under customs control, or released with conditions; failing to capture border-hold causes for future master data and process correction
 
 ## Self-Check
 

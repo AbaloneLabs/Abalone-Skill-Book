@@ -181,5 +181,4 @@ Placing reliance without documenting the function-level and work-level evaluatio
 - Is every scope reduction justified by the quality of internal audit's work and documented with the supporting basis?
 - Has the external auditor performed reperformance or independent testing of a portion of internal audit's work to corroborate reliability?
 - Is the reliance decision, including the function-level and work-level evaluations, the extent of reliance, and scope adjustments, fully documented?
-- Is there a documented trigger to reassess reliance when internal audit's work shows deficiencies, independence is impaired, or new risks emerge?
-- Does reliance preserve, rather than compromise, the sufficiency and appropriateness of audit evidence and the external auditor's independent judgment?
+- Is there a documented trigger to reassess reliance when internal audit's work shows deficiencies, independence is impaired, or new risks emerge?; does reliance preserve, rather than compromise, the sufficiency and appropriateness of audit evidence and the external auditor's independent judgment?

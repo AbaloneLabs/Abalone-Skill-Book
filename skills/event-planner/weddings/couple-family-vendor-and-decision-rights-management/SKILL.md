@@ -39,6 +39,10 @@ Wedding planning has many small choices. A decision log prevents re-litigation a
 
 Escalation should be calm and structured. When conflict appears, restate the decision needed, the constraints, the options, the impact, and who must choose. The planner's role is not to win the family argument; it is to keep the event executable and aligned with authorized priorities.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Assuming the couple alone controls all decisions when another party pays or hosts.

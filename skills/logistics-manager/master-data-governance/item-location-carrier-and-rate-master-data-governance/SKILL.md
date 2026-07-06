@@ -71,10 +71,8 @@ Master data improves when health is visible. Ad hoc cleanup after outages is les
 - Using inaccurate geocodes, time zones, dock rules, contacts, and facility roles.
 - Allowing duplicate carriers, expired rates, inactive services, and wrong fuel tables to remain selectable.
 - Treating calendars, holidays, transit times, and cutoffs as informal planner knowledge.
-- Cleaning blank fields while ignoring exception patterns that reveal high-impact bad data.
-- Deleting obsolete records instead of deactivating them with history preserved.
-- Waiting for outages before reviewing duplicates, blanks, failed syncs, expiring rates, and invalid addresses.
-- Failing to test downstream impacts after master-data updates.
+- Cleaning blank fields while ignoring exception patterns that reveal high-impact bad data; deleting obsolete records instead of deactivating them with history preserved
+- Waiting for outages before reviewing duplicates, blanks, failed syncs, expiring rates, and invalid addresses; failing to test downstream impacts after master-data updates
 
 ## Self-Check
 

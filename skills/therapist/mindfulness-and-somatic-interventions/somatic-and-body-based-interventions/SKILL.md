@@ -61,6 +61,10 @@ A therapist may apply specialized somatic approaches, somatic experiencing, sens
 
 A therapist may use somatic interventions without considering the client's medical and physiological context, when cardiac, respiratory, neurological, and other medical conditions affect what somatic practices are safe and appropriate. The mechanism of harm is that the medical context is ignored, and a practice, breath holding, intense breathing, arousal work, that is contraindicated for the client's condition is applied. The harm is that the client's medical condition is worsened, or the practice produces adverse effects that were preventable. Considering the medical context, coordinating with medical providers, and modifying practices for medical conditions protects the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I use somatic interventions within my competence and framework, and refer for specialized approaches?

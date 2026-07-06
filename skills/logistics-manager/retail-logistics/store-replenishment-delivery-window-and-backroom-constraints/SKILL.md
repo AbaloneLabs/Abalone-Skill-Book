@@ -71,10 +71,8 @@ Recurring store exceptions are signals that network design and demand rules need
 - Delivering promotion freight too early or too late because transportation planning is disconnected from merchandising.
 - Assuming store labor is available whenever the truck arrives.
 - Sending mixed, poorly labeled freight that saves DC time but creates store rework and errors.
-- Forgetting to pick up totes, pallets, fixtures, recalls, damaged goods, and returns on replenishment routes.
-- Evaluating routes only by cost per mile or truck utilization rather than shelf outcomes and store workload.
-- Treating all stores in a chain as operationally identical.
-- Ignoring special store formats where a standard trailer, pallet, or delivery time creates unsafe or impossible receiving.
+- Forgetting to pick up totes, pallets, fixtures, recalls, damaged goods, and returns on replenishment routes; evaluating routes only by cost per mile or truck utilization rather than shelf outcomes and store workload
+- Treating all stores in a chain as operationally identical; ignoring special store formats where a standard trailer, pallet, or delivery time creates unsafe or impossible receiving
 
 ## Self-Check
 

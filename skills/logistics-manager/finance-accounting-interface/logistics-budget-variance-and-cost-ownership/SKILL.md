@@ -71,10 +71,8 @@ Budget reviews should create ownership and follow-through, not just explain the 
 - Burying accessorials, demurrage, failed delivery, and expedite cost in broad freight accounts.
 - Keeping budget assumptions unchanged after promotions, sourcing changes, launches, or service changes.
 - Treating forecast assumptions as anonymous when volume, mix, fuel, returns, wages, or network changes drive variance.
-- Using cost-to-serve to blame customers without examining fixable policies and order patterns.
-- Calling avoided, delayed, or one-time cost reductions permanent savings.
-- Ignoring variance that comes from data coding and cost allocation errors.
-- Ending reviews with explanations but no owner, action, and follow-up date.
+- Using cost-to-serve to blame customers without examining fixable policies and order patterns; calling avoided, delayed, or one-time cost reductions permanent savings
+- Ignoring variance that comes from data coding and cost allocation errors; ending reviews with explanations but no owner, action, and follow-up date
 
 ## Self-Check
 

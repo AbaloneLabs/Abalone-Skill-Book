@@ -100,6 +100,10 @@ When daylighting design focuses on the perimeter zone and ignores the interior, 
 
 When daylight-responsive lighting controls are specified but not commissioned after installation, the controls fail to respond correctly to available daylight, either dimming too aggressively and leaving spaces dark, or failing to dim and wasting the energy savings. The trap is that the controls are specified and installed, so the team believes the daylighting system is complete, while the uncalibrated sensors and programming deliver none of the intended performance. The harm is a building whose daylighting appears to be integrated with electric lighting but whose controls malfunction, frustrating occupants and negating savings, often leading the owner to override or disable them. Daylight controls must be commissioned, with sensors positioned and calibrated to the actual conditions, because an uncalibrated control is a control that does not work.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is daylighting designed as a coordinated system of apertures, glazing, shading, geometry, reflectances, and electric lighting controls?

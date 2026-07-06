@@ -65,10 +65,8 @@ Travelers should test account login, mobile wallet, battery plan, and data acces
 - Planning venue arrival without gate, security, will-call, ID, or accessible route details.
 - Forgetting bag restrictions when travelers carry luggage, cameras, laptops, or sightseeing gear.
 - Assuming normal taxis, rideshares, parking, or trains after a major event.
-- Missing late-night safety and cell-network congestion.
-- Treating outdoor weather as comfort only, not a postponement and refund issue.
-- Scheduling same-day arrival for a once-in-a-lifetime event without explicit risk acceptance.
-- Providing ticket details without app login, battery, data, and backup instructions.
+- Missing late-night safety and cell-network congestion; treating outdoor weather as comfort only, not a postponement and refund issue
+- Scheduling same-day arrival for a once-in-a-lifetime event without explicit risk acceptance; providing ticket details without app login, battery, data, and backup instructions
 
 ## Self-Check
 

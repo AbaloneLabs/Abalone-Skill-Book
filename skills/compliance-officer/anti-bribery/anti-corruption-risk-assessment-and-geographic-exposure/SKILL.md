@@ -103,11 +103,9 @@ Corruption often follows pressure: aggressive growth targets, entry into new mar
 
 The company's own history is a leading indicator. Prior investigations, hotline reports, audit findings, terminated intermediaries, and disciplinary actions point to where risk has materialized. External enforcement against peers in the same sector and geography indicates where regulators are focused. Weight both heavily, and treat a pattern of incidents in a business unit or geography as a mandate for enhanced controls.
 
-### Drive The Program From The Assessment
+### Drive The Program From The Assessment and reassess On Triggers, Not Only On A Calendar
 
 A risk assessment that does not change the program is paperwork. Each high-risk finding should drive a specific control response: enhanced diligence, deeper monitoring, targeted training, approval authority changes, or audit focus. Document the link between the risk finding and the control response so that the program can be defended as risk-based.
-
-### Reassess On Triggers, Not Only On A Calendar
 
 Risk changes. New markets, new products, acquisitions, new intermediaries, regulatory shifts, and incidents all change the profile. Reassess on defined triggers in addition to a periodic cycle, and keep a record of the trigger, the reassessment, and the resulting changes.
 

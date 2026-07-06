@@ -172,9 +172,6 @@ Disposing of some records while retaining others, without a defensible schedule,
 - Does every disposal confirm expiry, absence of holds, secure method, and a retained disposal log?
 - Have cross-border jurisdictional requirements and data-protection duties been analyzed and documented?
 - Are terminated or withdrawn engagements retained and documented with the reasons for termination?
-- Is the retention decision, period, basis, and responsible person documented for each engagement?
-- Are disposal actions performed only under a uniform, defensible schedule, never selectively?
-- Are third-party storage providers held to the firm's security and confidentiality standards?
-- Could the firm, years later, demonstrate both what was retained and what was disposed of, and why?
-- Are retained records stored in durable formats and migrated to avoid media and format obsolescence?
-- Is the retention decision, applicable period, and responsible person documented for each engagement?
+- Is the retention decision, period, basis, and responsible person documented for each engagement?; are disposal actions performed only under a uniform, defensible schedule, never selectively?
+- Are third-party storage providers held to the firm's security and confidentiality standards?; could the firm, years later, demonstrate both what was retained and what was disposed of, and why?
+- Are retained records stored in durable formats and migrated to avoid media and format obsolescence?; is the retention decision, applicable period, and responsible person documented for each engagement?

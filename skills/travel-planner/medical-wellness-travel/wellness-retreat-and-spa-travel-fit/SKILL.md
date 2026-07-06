@@ -54,8 +54,7 @@ For wildlife, nature, volunteer, or local community elements, apply responsible 
 - Ignoring accessibility, body comfort, gendered spaces, language, and dietary needs.
 - Missing package exclusions, mandatory waivers, cancellation penalties, gratuities, and extra treatment costs.
 - Scheduling treatments too close to arrival, departure, alcohol, strenuous tours, or sun exposure.
-- Treating culturally rooted practices as generic luxury products without ethical review.
-- Calling a trip restorative when the schedule is rigid and exhausting.
+- Treating culturally rooted practices as generic luxury products without ethical review; calling a trip restorative when the schedule is rigid and exhausting
 
 ## Self-Check
 

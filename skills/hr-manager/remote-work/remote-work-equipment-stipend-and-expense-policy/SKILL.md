@@ -76,3 +76,4 @@ IT writes the equipment policy alone, focusing on security, and mandates company
 - Am I managing the equipment lifecycle — deployment, maintenance, upgrade, and return — with asset records and offboarding recovery?
 - Am I addressing workspace safety and workers' compensation for remote employees through guidance, documentation, and careful claim handling?
 - Have I coordinated across IT, finance, HR, and legal for coherent policy design and periodic review?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

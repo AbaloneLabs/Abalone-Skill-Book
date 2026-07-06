@@ -71,10 +71,8 @@ Warehouse integration is a living system. Uncoordinated changes are a common cau
 - Designing exceptions only after robots start failing tasks in production.
 - Optimizing robot travel while missing cutoffs, carrier departures, and customer priorities.
 - Testing only happy-path transactions instead of shorts, cancels, downtime, bad data, and recovery.
-- Creating manual recovery that breaks inventory integrity.
-- Ignoring dimensions, weights, barcodes, tote fit, and item handling restrictions.
-- Letting error queues grow without owners and thresholds.
-- Changing WMS, item master, layout, or robot software without integration retesting.
+- Creating manual recovery that breaks inventory integrity; ignoring dimensions, weights, barcodes, tote fit, and item handling restrictions
+- Letting error queues grow without owners and thresholds; changing WMS, item master, layout, or robot software without integration retesting
 
 ## Self-Check
 

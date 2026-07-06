@@ -65,10 +65,8 @@ Encourage slow, cautious operation. Preventing one avoidable scrape is worth mor
 - Forgetting where the RV parks during sightseeing.
 - Booking sites that technically fit but are hard to access with trees, slope, or back-in layout.
 - Ignoring hookup amperage, sewer availability, dump stations, and generator rules.
-- Underestimating wind, braking distance, mountain grades, and driver fatigue.
-- Sending RVs into old city centers, parking garages, drive-throughs, or low-clearance lots.
-- Failing to explain damage, roadside assistance, and insurance protocol.
-- Treating setup, leveling, and teardown as instant.
+- Underestimating wind, braking distance, mountain grades, and driver fatigue; sending RVs into old city centers, parking garages, drive-throughs, or low-clearance lots
+- Failing to explain damage, roadside assistance, and insurance protocol; treating setup, leveling, and teardown as instant
 
 ## Self-Check
 

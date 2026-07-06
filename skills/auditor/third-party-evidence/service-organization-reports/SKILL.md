@@ -111,10 +111,8 @@ This documentation is what makes the reliance defensible. A conclusion that reli
 - **Treating a report with exceptions as fully usable** without evaluating the exceptions' effect on the specific controls and risks relevant to the user entity.
 - **Concluding reliance on a report that does not cover a control objective the user entity needs**, leaving a risk unaddressed.
 - **Failing to design user entity procedures where the report is insufficient**, leaving the assurance gap unfilled.
-- **Ignoring subservice organisations** under the carve-out method, missing a material link in the service chain.
-- **Using a type I report (design only) to support operating effectiveness across a period**, which it cannot do.
-- **Treating the report as a substitute for the risk assessment**, rather than as an input that must be translated into scope and approach.
-- **Failing to document the scope, period, complementary controls, exceptions, gaps, and additional procedures**, leaving the reliance indefensible.
+- **Ignoring subservice organisations** under the carve-out method, missing a material link in the service chain; **Using a type I report (design only) to support operating effectiveness across a period**, which it cannot do
+- **Treating the report as a substitute for the risk assessment**, rather than as an input that must be translated into scope and approach; **Failing to document the scope, period, complementary controls, exceptions, gaps, and additional procedures**, leaving the reliance indefensible
 
 ## Self-Check
 

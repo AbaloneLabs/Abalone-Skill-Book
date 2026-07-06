@@ -97,11 +97,9 @@ A timeout that gives up on a task but leaves the underlying request running, con
 
 A spawned task that continues after its parent has been cancelled or returned, doing work whose result is no longer needed (a task leak). Use structured concurrency to tie child lifetimes to parents.
 
-### CPU-Bound Work Starving The Runtime
+### CPU-Bound Work Starving The Runtime and choosing Async For Syntax Rather Than Workload
 
 A long computation on the async runtime that never yields, starving all other tasks on the thread. Offload CPU-bound work or yield periodically.
-
-### Choosing Async For Syntax Rather Than Workload
 
 Using async because the keywords look modern, for a workload that is not I/O-bound and concurrent, adding the disciplines' complexity without the resource benefit. Choose async for many concurrent I/O-bound tasks; use threads for few CPU-bound tasks.
 

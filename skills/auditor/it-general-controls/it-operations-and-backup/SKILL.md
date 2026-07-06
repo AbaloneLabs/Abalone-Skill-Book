@@ -104,8 +104,7 @@ Record each significant operations weakness and its effect on the audit plan, ra
 - **Missing direct database update paths** that bypass application validations and can corrupt data without trace.
 - **Treating incident logs as IT records only**, without assessing whether incidents affected financial data and whether finance was involved.
 - **Testing every system to the same depth**, wasting effort on immaterial jobs while under-testing the interfaces that move material data.
-- **Letting operations weaknesses sit as IT findings** without reflecting them in expanded substantive testing and reduced reliance on system data.
-- **Forgetting end-user computing files** (critical spreadsheets) whose backup, version control, and integrity are often weakest and most material.
+- **Letting operations weaknesses sit as IT findings** without reflecting them in expanded substantive testing and reduced reliance on system data; **Forgetting end-user computing files** (critical spreadsheets) whose backup, version control, and integrity are often weakest and most material
 
 ## Self-Check
 

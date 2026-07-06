@@ -39,6 +39,10 @@ Pilgrimage can be emotionally powerful and physically draining. Travelers may cr
 
 Group separation plans are essential. Use meeting points outside dense bottlenecks, printed hotel cards, local SIM or roaming plans, buddy systems, leader phone numbers, and instructions for what to do if someone loses the group. Some travelers may not be able to navigate local language or transit under stress.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Treating holy sites as attractions and compressing rituals into sightseeing timing.

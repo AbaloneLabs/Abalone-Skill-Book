@@ -132,19 +132,15 @@ Setting every entry to the same TTL, so after a cache restart or a quiet period 
 
 Relying on the browser cache to reflect the latest version of an asset or response. The client controls its cache and may serve stale content indefinitely. Use content-hashed keys for assets (so new versions are new keys) and never depend on client-side freshness for correctness.
 
-### Negative Caching Without A Bound
+### Negative Caching Without A Bound and cache That Cannot Be Inspected Or Flushed
 
 Caching "not found" or error results to avoid re-querying, but with too long a TTL, so a resource that is created shortly after is reported missing until the cache expires. Negative caching is useful but its TTL must be short, and errors must not be cached as if they were stable "not found" answers.
 
-### Cache That Cannot Be Inspected Or Flushed
-
 A cache with no visibility into its contents and no way to clear it, so a stale-data report becomes an untraceable mystery. Make the cache observable (hit/miss/eviction metrics, key inspection) and flushable for recovery.
 
-### Unbounded Cache Treated As Free Memory
+### Unbounded Cache Treated As Free Memory and invalidation That Does Not Cover All Write Paths
 
 A process-local cache with no size limit or eviction policy, growing until the process runs out of memory and crashes. Every cache needs a bound and an eviction policy; an unbounded cache is a memory leak.
-
-### Invalidation That Does Not Cover All Write Paths
 
 Designing invalidation for the main update path but missing a second path (a background job, an admin tool, a database trigger, a replication lag window) that changes the source without evicting the cache. Invalidation must cover every path that mutates the source, or the cache drifts. Enumerate the write paths before trusting the invalidation.
 

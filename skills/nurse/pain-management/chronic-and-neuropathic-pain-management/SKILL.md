@@ -49,6 +49,8 @@ Cancer pain and end-of-life pain are managed more aggressively, with opioids as 
 
 **Abruptly stopping or holding long-term opioids.** When a chronic pain patient is admitted for an unrelated issue, or when a dose is questioned, the opioids may be held or stopped abruptly. The mechanism of harm is that physical dependence develops within weeks of continuous use, and abrupt cessation causes severe withdrawal (pain crisis, agitation, tachycardia, hypertension, diarrhea, insomnia) that can destabilize the patient and complicate the admission. The harm is acute suffering and sometimes cardiovascular instability. Continue the home opioid regimen (verified and reconciled) during admission, adjust for acute needs, and coordinate any taper with the prescriber rather than stopping abruptly.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I set and track functional goals (sleep, mobility, mood, role participation) rather than chasing a pain score of zero?

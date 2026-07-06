@@ -70,12 +70,9 @@ Donor trust can be damaged by sloppy handling even if the event raises money.
 - Choosing mobile bidding without Wi-Fi, support, and fallback.
 - Letting paddle raise spotters record pledges inconsistently.
 - Confusing pledged revenue with collected revenue.
-- Creating long checkout lines and item pickup chaos.
-- Letting untrained volunteers adjust payments, refunds, donor names, restrictions, or receipt language.
-- Promising restricted gift use that finance or program teams cannot honor.
-- Failing to reconcile failed charges, unpaid pledges, and refunds quickly.
-- Issuing receipts with wrong donor names, values, or tax language.
-- Leaving donor and payment data accessible to unnecessary volunteers.
+- Creating long checkout lines and item pickup chaos; letting untrained volunteers adjust payments, refunds, donor names, restrictions, or receipt language
+- Promising restricted gift use that finance or program teams cannot honor; failing to reconcile failed charges, unpaid pledges, and refunds quickly
+- Issuing receipts with wrong donor names, values, or tax language; leaving donor and payment data accessible to unnecessary volunteers
 
 ## Self-Check
 

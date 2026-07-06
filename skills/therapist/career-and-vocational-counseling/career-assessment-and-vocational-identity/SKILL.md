@@ -61,6 +61,10 @@ A therapist may ignore the identity and meaning dimensions of work, focusing on 
 
 A therapist may fail to recognize and address the anxiety, avoidance, or depression that is driving a client's career indecision, treating the indecision as a vocational problem when it is maintained by clinical forces that vocational exploration alone will not resolve. The mechanism of harm is that the underlying drivers are not treated, the client engages in endless career exploration that never converges on a choice, and the stuckness is attributed to insufficient information or clarity rather than to the emotional forces that foreclose commitment. The harm is that the client remains stuck, the therapy is frustrating for both parties, and the clinical issues progress untreated. Assessing for and addressing the drivers of indecision prevents this harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess the vocational question within the client's full clinical, developmental, and life context?

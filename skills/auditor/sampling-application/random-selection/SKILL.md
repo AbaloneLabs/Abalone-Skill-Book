@@ -111,8 +111,7 @@ This post-selection reconciliation catches errors in the selection process (a ra
 - **Using random selection where targeted or 100% examination would be more efficient**, adding cost without benefit.
 - **Assuming random selection alone makes a sample statistical** — it is necessary but not sufficient; sizing and evaluation must also be statistical.
 - **Not reconciling selected items to the population after selection**, missing mapping errors or duplicates.
-- **Choosing record-based vs monetary-unit sampling without considering the risk structure**, using an inappropriate form for the assertion.
-- **Treating reproducibility as optional**, when it is essential to verifiability and defence.
+- **Choosing record-based vs monetary-unit sampling without considering the risk structure**, using an inappropriate form for the assertion; **Treating reproducibility as optional**, when it is essential to verifiability and defence
 
 ## Self-Check
 

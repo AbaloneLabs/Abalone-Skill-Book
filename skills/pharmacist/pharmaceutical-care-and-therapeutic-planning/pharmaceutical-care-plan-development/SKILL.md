@@ -29,6 +29,10 @@ The care plan is not complete without the follow-up — the plan to reassess the
 
 The pharmaceutical care plan is one component of the patient's overall care, and it must be integrated with the prescriber's plan, the other providers' plans (the nurse, the specialist, the care manager), and the patient's self-management. The pharmacist must communicate the care plan to the prescriber (the identified problems, the goals, the recommendations, the follow-up), must coordinate with the other providers (the overlapping monitoring, the shared goals, the handoffs), and must align the care plan with the patient's overall goals (the patient who prioritizes staying independent, the patient who prioritizes avoiding hospitalization, the patient who prioritizes symptom relief). The pharmacist must recognize the scope boundary (the care plan addresses the drug therapy; the diagnosis and the overall plan are the prescriber's domain) and must operate within it, escalating to the prescriber when the problem exceeds the scope. The integration prevents the fragmented care (the pharmacist's recommendation that conflicts with the specialist's plan, the duplicate monitoring, the uncoordinated goals) that undermines the care plan and confuses the patient.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Identifying Only the Problem That Prompted the Encounter
@@ -51,6 +55,10 @@ The care plan built from the guidelines (the optimal therapy, the aggressive goa
 
 The care plan is documented in the pharmacy record (the problems, the goals, the interventions, the follow-up), but it is not communicated to the prescriber (who may order a conflicting change) or to the patient (who may not know the plan or their role in it). The trap is that the documentation feels like the completion (the plan is recorded), so the communication is skipped, and the plan exists in the pharmacy's record but not in the patient's care. The harm is the fragmented care — the prescriber's change conflicts with the pharmacist's plan, the patient does not implement the plan because they were not told, and the follow-up does not happen because no one but the pharmacist knows it is expected. The fix is to communicate the care plan to the prescriber (the recommendations, the follow-up, the coordination) and to the patient (the goals, the interventions, the self-management, the follow-up), treating the communication as the implementation of the plan rather than an optional notification.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I perform the comprehensive drug-therapy problem assessment across all seven categories (need for additional therapy, unnecessary therapy, wrong drug, dose too low, dose too high, adverse reaction, non-adherence), identifying every problem rather than only the prompted issue?
@@ -60,3 +68,4 @@ The care plan is documented in the pharmacy record (the problems, the goals, the
 - Did I establish the follow-up (the interval, the method, the outcome evaluation) for each intervention, so the care plan loop is closed with the outcome assessment rather than left open at the intervention?
 - Did I build the care plan in collaboration with the patient (their goals, preferences, and constraints) and with the prescriber (alignment with the overall plan and the scope), so the plan is realistic and adopted rather than ideal and unimplemented?
 - Did I communicate the care plan to the prescriber and the patient, and did I document it so the team and the next encounter can continue it?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

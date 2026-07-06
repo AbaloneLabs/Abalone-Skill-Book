@@ -71,6 +71,10 @@ A client who is getting worse in treatment may be assessed as "still working thr
 
 A therapist strongly identified with a modality may continue it in the face of non-response, because abandoning it feels like betraying the model or admitting its limits. The mechanism is that professional identity is tied to the modality, so revising away from it feels like a personal and theoretical failure. The harm is that the client's outcome is subordinated to the therapist's allegiance, and an effective alternative is not pursued. The corrective is to remember that the goal is the client's improvement, not the vindication of the modality, and that switching when the evidence warrants it is clinical competence, not betrayal.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I measuring progress routinely with validated instruments or concrete behavioral indicators, not impression alone?

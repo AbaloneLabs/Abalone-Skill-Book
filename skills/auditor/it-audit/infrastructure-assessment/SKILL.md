@@ -116,10 +116,8 @@ Identify where the entity has made these trade-offs deliberately and where they 
 - **Untested recovery.** Treating documented backup and DR plans as evidence of recoverability without restore and failover testing.
 - **Cloud-as-on-premises.** Applying on-premises assessment lenses to cloud, missing shared responsibility, cost management, and architectural differences.
 - **Capacity point-in-time.** Reporting current utilization without assessing the capacity management process or projected demand.
-- **CMDB-as-truth.** Assuming the configuration database reflects reality without verifying against the live environment.
-- **Technology-only assessment.** Evaluating hardware and software while ignoring staffing, runbooks, vendor management, and knowledge concentration risk.
-- **Flat-network blindness.** Overlooking network segmentation and single points of failure because the network "works."
-- **Trade-off invisibility.** Reporting a configuration as deficient without recognizing it may be a deliberate, documented trade-off against cost or other objectives.
+- **CMDB-as-truth.** Assuming the configuration database reflects reality without verifying against the live environment; **Technology-only assessment.** Evaluating hardware and software while ignoring staffing, runbooks, vendor management, and knowledge concentration risk
+- **Flat-network blindness.** Overlooking network segmentation and single points of failure because the network "works."; **Trade-off invisibility.** Reporting a configuration as deficient without recognizing it may be a deliberate, documented trade-off against cost or other objectives
 
 ## Self-Check
 

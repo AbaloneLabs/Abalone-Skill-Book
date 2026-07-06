@@ -114,3 +114,4 @@ Storing full background reports indefinitely in personnel files, creating ongoin
 - [ ] Are candidates provided a copy of the report and dispute rights before adverse action?
 - [ ] Is background check data minimized, secured, and retained only as long as necessary, with limited access?
 - [ ] Are screening criteria reviewed for disparate impact and applied consistently, with individualized assessment for criminal history?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

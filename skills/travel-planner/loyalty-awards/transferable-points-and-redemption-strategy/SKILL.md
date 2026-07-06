@@ -65,10 +65,8 @@ For complex redemptions, final instructions should include both airline record l
 - Assuming partner award space matches what the operating airline sells.
 - Booking separate positioning flights with no misconnect buffer.
 - Ignoring family seat availability when multiple award seats are needed.
-- Using old award charts or blog examples after programs have changed.
-- Treating partner award tickets as equally easy to service during disruption.
-- Moving points speculatively without a near-term use.
-- Failing to document ticketing carrier, operating carrier, and cancellation path.
+- Using old award charts or blog examples after programs have changed; treating partner award tickets as equally easy to service during disruption
+- Moving points speculatively without a near-term use; failing to document ticketing carrier, operating carrier, and cancellation path
 
 ## Self-Check
 

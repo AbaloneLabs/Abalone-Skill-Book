@@ -33,6 +33,10 @@ The depth of chain-of-custody evidence should scale with the risk and with what 
 
 Responsible sourcing is not only about exclusion. When a risk is identified, the process should define whether the response is remediation, suspension, or disengagement, and on what timeline. For smallholders or deeply integrated suppliers, immediate disengagement can harm vulnerable workers without improving conditions, while for severe or repeated forced-labor findings, continued engagement may create legal and reputational exposure. The decision logic should be defined before a finding occurs, not improvised under pressure.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating Any Certification as Proof of Compliance
@@ -54,6 +58,10 @@ Many deforestation regimes turn on whether the land was deforested before or aft
 ### Accepting Supplier-Provided Documents Without Independent Verification
 
 Invoices, transport documents, and certificates provided by the supplier can be forged, recycled, or mismatched to the actual shipment. For higher-risk commodities, cross-check documents against the certification body's registry, the smelter list, or independent traceability platforms.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

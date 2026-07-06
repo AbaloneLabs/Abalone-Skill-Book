@@ -83,10 +83,8 @@ Entities often operate under interrelated agreements: master services agreements
 - **Confusing permissions with obligations.** Reporting non-performance of a clause that granted a discretionary right rather than imposing a duty.
 - **Overlooking cure periods.** Reporting a breach where the contract allowed a cure period that was properly used.
 - **Clause-by-clause tunnel vision.** Testing each obligation in isolation without recognizing that breach of one clause triggers remedies under another.
-- **Stale contract versions.** Testing obligations against a version that was superseded partway through the audit period.
-- **Vague-term interpretation drift.** Applying a convenient interpretation to an ambiguous obligation without documenting the basis, leading to inconsistent or indefensible conclusions.
-- **Ignoring conditions precedent.** Assuming obligations are in force when a condition precedent never occurred, rendering the obligations unenforceable.
-- **Missing informal modifications.** Relying only on formal amendments when the parties' actual conduct or correspondence established a de facto variation.
+- **Stale contract versions.** Testing obligations against a version that was superseded partway through the audit period; **Vague-term interpretation drift.** Applying a convenient interpretation to an ambiguous obligation without documenting the basis, leading to inconsistent or indefensible conclusions
+- **Ignoring conditions precedent.** Assuming obligations are in force when a condition precedent never occurred, rendering the obligations unenforceable; **Missing informal modifications.** Relying only on formal amendments when the parties' actual conduct or correspondence established a de facto variation
 
 ## Self-Check
 

@@ -57,6 +57,10 @@ Deployers of high-risk AI carry their own obligations, including human oversight
 
 Classification is tied to intended use. When the use, scope, or decision integration changes, the classification must be revisited. Static classification files that are never updated are a common source of drift into non-compliance.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I base the classification on a precise statement of the intended use, including the decision produced, the user, the affected population, and the consequences, rather than on the technology?
@@ -66,3 +70,4 @@ Classification is tied to intended use. When the use, scope, or decision integra
 - Did I build change-control that triggers re-classification when the use case, user base, or decision integration changes?
 - Did I identify the company's role, provider, deployer, importer, or distributor, for each system and map the role-specific obligations?
 - Did I confirm the current text of the applicable regime, recognizing that prohibited-practice lists and classification rules change, and consult specialist counsel for borderline or high-stakes classifications?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -65,10 +65,8 @@ When assumptions change, reapprove the parts affected. A change in attendee coun
 - Sharing qualification or passport data too broadly.
 - Letting guest and extension exceptions accumulate without policy or approval.
 - Ignoring procurement thresholds, contracting review, and cancellation exposure.
-- Designing luxury experiences that conflict with company optics or participant inclusion.
-- Forgetting that customers, partners, and employees may trigger different compliance rules.
-- Failing to log approvals and changes after initial sign-off.
-- Assuming a prior year's incentive rules apply unchanged.
+- Designing luxury experiences that conflict with company optics or participant inclusion; forgetting that customers, partners, and employees may trigger different compliance rules
+- Failing to log approvals and changes after initial sign-off; assuming a prior year's incentive rules apply unchanged
 
 ## Self-Check
 

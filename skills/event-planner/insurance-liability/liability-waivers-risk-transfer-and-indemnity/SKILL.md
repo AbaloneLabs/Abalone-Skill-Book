@@ -39,6 +39,10 @@ Waivers, releases, indemnity, hold harmless clauses, and limitation of liability
 
 When counsel review is needed, provide a concise brief: event type, jurisdiction, participant population, activities, vendors, contracts, insurance, desired risk allocation, consent method, and timing. This helps legal review focus on the real exposure rather than generic wording.
 
+### State Uncertainty and Confidence Honestly
+
+Distinguish what is known, what is inferred, and what is assumed. A conclusion presented without its uncertainty hides the risk that the decision-maker carries unknowingly. State the confidence level, name the assumptions that would change the outcome if wrong, and flag the conditions under which the conclusion should be revisited. Honest uncertainty is not weakness; it is the precondition for sound judgment, because it lets the recipient weigh the risk rather than act on a false certainty.
+
 ## Common Traps
 
 - Saying a waiver prevents lawsuits. It may support a defense, but it cannot stop someone from filing a claim.

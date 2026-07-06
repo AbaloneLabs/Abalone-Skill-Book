@@ -57,6 +57,10 @@ Forced-labor risk frequently enters through labor recruiters and recruitment fee
 
 Abrupt disengagement from a supplier with labor violations can leave vulnerable workers unemployed and indebted without improving conditions. Where remediation is feasible and the supplier is willing, a structured improvement path may be the more responsible outcome. Reserve disengagement for severe, repeated, or unresponsive cases.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I set audit scope and frequency based on risk tier, materiality, history, and external signals rather than a fixed annual calendar for all suppliers?

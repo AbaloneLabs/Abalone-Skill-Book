@@ -79,6 +79,10 @@ Defer by:
 
 The architect who attempts civil engineering produces exposure for the firm and risk for the owner. The line between coordination and engineering is a licensure boundary.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Grading Deferred Until Civil Engineering Begins
@@ -100,6 +104,10 @@ Setting finished floor elevations to suit interior ceiling heights or a desired 
 ### Assuming Accessibility Can Be Solved With A Ramp
 
 Treating accessible routes as a code checkbox solved by adding a ramp after the grading is set ignores that ramps consume length, require landings, and can dominate an entry or consume usable site area. The trap is that a ramp appears on the accessibility plan, so the route seems provided, when in reality the ramp is so long, steep, or prominently placed that it degrades the entry for everyone and singles out users who need it. Worse, cross slopes on walks and parking, which ramps do not address, are frequently violated and caught only at inspection. Designing the accessible route as the primary path — integrated into the grading concept from the start, with running and cross slopes controlled throughout — is what makes a site genuinely accessible rather than nominally compliant.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

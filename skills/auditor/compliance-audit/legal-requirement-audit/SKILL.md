@@ -90,10 +90,8 @@ Entities operating across borders face overlapping and sometimes conflicting leg
 - **Outdated legal authority.** Citing repealed statutes, pre-amendment thresholds, or overruled case law without verifying currency.
 - **Auditor-as-lawyer overreach.** Rendering definitive legal interpretations on ambiguous duties instead of escalating to counsel.
 - **Financial materiality myopia.** Dismissing legally severe but financially small breaches as immaterial.
-- **Ignoring strict-liability exposure.** Failing to test strict-liability duties because there was no intent or negligence, when the law imposes liability regardless.
-- **Retroactive case-law blindness.** Applying a judicial interpretation decided after the audit period without considering whether it has retroactive effect.
-- **Static legal register.** Relying on a legal obligations register that has not been updated for recent legislative change.
-- **Enforcement-backlog false comfort.** Inferring compliance from the absence of regulatory action, which may reflect detection lag rather than conformity.
+- **Ignoring strict-liability exposure.** Failing to test strict-liability duties because there was no intent or negligence, when the law imposes liability regardless; **Retroactive case-law blindness.** Applying a judicial interpretation decided after the audit period without considering whether it has retroactive effect
+- **Static legal register.** Relying on a legal obligations register that has not been updated for recent legislative change; **Enforcement-backlog false comfort.** Inferring compliance from the absence of regulatory action, which may reflect detection lag rather than conformity
 
 ## Self-Check
 

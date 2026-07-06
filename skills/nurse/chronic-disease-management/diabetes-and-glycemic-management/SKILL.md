@@ -49,6 +49,8 @@ Most diabetes care happens at home. Teach (and verify with teach-back) glucose m
 
 **Missing pump failure or dislodgement in a type 1 patient.** A type 1 patient on an insulin pump has the infusion site dislodge or the pump occlude, and within hours develops hyperglycemia and ketones, progressing to DKA. The mechanism of harm is that a pump delivers only rapid-acting insulin with no subcutaneous basal reservoir, so interruption of pump delivery causes insulin deficiency within hours (unlike long-acting injected basal insulin, which has a 24-hour tail). The harm is DKA that develops faster than the team expects. Assess pump site and function at each shift, monitor glucose and ketones, and escalate hyperglycemia with ketones immediately.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I verify the insulin type, concentration, and dose against the order and give it at the right time relative to meals?

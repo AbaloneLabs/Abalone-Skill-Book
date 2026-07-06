@@ -123,19 +123,15 @@ Calling `close` at the end of a function but not in the exception path, or retur
 
 A static field or singleton that accumulates state — a map, a list, a cache — lives for the process lifetime and is never collected. Code that "just adds to this list" is leaking into an immortal container. Treat mutable static state as a bounded, synchronized, lifecycle-managed resource, not a convenient global.
 
-### Relying On Finalizers / Destructors For Cleanup
+### Relying On Finalizers / Destructors For Cleanup and circular Strong References Under Reference Counting
 
 Finalizers (Java `finalize`, C# finalizers, `__del__`) run non-deterministically, may never run, and are deprecated or restricted in modern runtimes. They cannot be relied on to release file descriptors, sockets, or locks. Use explicit close / dispose / RAII; treat finalizers as a last-resort safety net, never as the primary cleanup path.
 
-### Circular Strong References Under Reference Counting
-
 In ARC or shared-pointer systems, two objects holding strong references to each other never reach zero count and leak forever. The fix is a weak reference on one side. Symmetric strong ownership across two objects is almost always wrong; decide which side owns the lifecycle.
 
-### Holding A Large Object's Reference In A Long-Lived Scope
+### Holding A Large Object's Reference In A Long-Lived Scope and diagnosing A Leak Without A Profile
 
 Keeping a full request body, document, or image alive for the whole handler when it was only needed for parsing. The peak memory under concurrency is the sum of all such over-long lifetimes. Drop references as soon as the big data is no longer needed; stream where possible.
-
-### Diagnosing A Leak Without A Profile
 
 Changing code based on "memory feels high" or a single rising graph. Without a heap dump or allocation profile, you cannot know what is retained or why. Always profile the live set before editing; the leak is usually not where intuition points.
 

@@ -53,10 +53,8 @@ If the event has multiple fields or courts, assign zone leads who can make fast 
 - Assuming officials will self-manage without hospitality, security, payment, or communication support.
 - Using informal scoring or timing backups for events where results have standings, awards, or eligibility consequences.
 - Leaving protest decisions to ad hoc onsite negotiation.
-- Treating medical coverage as a permit checkbox rather than sport-specific risk control.
-- Delaying weather decisions because postponement is inconvenient.
-- Skipping the pre-competition briefing, leaving officials, medical, scoring, and venue teams with different assumptions.
-- Running multi-field events without zone leads, causing every minor field issue to bottleneck at central command.
+- Treating medical coverage as a permit checkbox rather than sport-specific risk control; delaying weather decisions because postponement is inconvenient
+- Skipping the pre-competition briefing, leaving officials, medical, scoring, and venue teams with different assumptions; running multi-field events without zone leads, causing every minor field issue to bottleneck at central command
 
 ## Self-Check
 

@@ -29,6 +29,10 @@ Deprescribing fails when it is imposed. The patient who has taken a drug for yea
 
 Deprescribing one drug at a time, in a planned sequence, with monitoring, is far more successful than attempting to stop multiple drugs at once. The pharmacist must prioritize the highest-burden, lowest-benefit drugs first, must sequence the changes so that the effect of each can be observed before the next is made (stopping two drugs at once makes it impossible to attribute a subsequent symptom), and must establish a monitoring plan for each deprescribing event: what parameter or symptom to watch, over what timeframe, and what action to take if the drug was actually needed (restart, alternative, or accept the symptom). The deprescribing plan must be documented and communicated to the patient, the prescriber, and the pharmacy, so that the plan is sustained across refills and care transitions rather than reversed by a refill that assumes continuation.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Accretion Default
@@ -51,6 +55,10 @@ The pharmacist identifies a deprescribing candidate but does not raise it becaus
 
 The pharmacist proposes deprescribing and the patient expresses fear of stopping a long-term drug, so the pharmacist abandons the proposal. The mechanism is that the patient's fear feels like informed refusal. The false signal is that the patient declined, so the decision is theirs to make. The harm is that the patient's fear is often based on a misunderstanding (they believe the drug is essential, they fear the condition will return catastrophically) that accurate information and a slow taper would address, and abandoning the proposal leaves the burden in place. The pharmacist should explore the fear, provide the rationale and the monitoring plan, and propose a cautious trial of tapering — often, a patient who would not accept outright discontinuation will accept a trial reduction with the option to restart.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I review each drug against the patient's current conditions to identify those with no active indication, with an exceeded benefit horizon (especially preventive drugs in limited life expectancy), or with a resolved original rationale?
@@ -59,3 +67,5 @@ The pharmacist proposes deprescribing and the patient expresses fear of stopping
 - Did I engage the patient and the prescriber as partners, framing the rationale positively and coordinating the order changes, rather than imposing or remaining silent out of deference?
 - Did I prioritize, sequence (one drug at a time), and monitor each deprescribing event, with a defined parameter or symptom to watch and an action if the drug was needed?
 - Did I document and communicate the deprescribing plan so it is sustained across refills and care transitions, rather than reversed by a refill that assumes continuation?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

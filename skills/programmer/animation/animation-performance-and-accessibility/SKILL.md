@@ -139,19 +139,15 @@ A progress bar that fills to 90% quickly and then creeps or stalls, because the 
 
 A toggle or panel whose animation must complete before the next interaction registers, so a user who clicks twice rapidly sees the animation play out fully twice, or worse, ends in the wrong state. Read the current state on each input and redirect the animation; never queue user intent behind motion.
 
-### Decorative Parallax Or Autoplay Motion With No Reduced-Motion Path
+### Decorative Parallax Or Autoplay Motion With No Reduced-Motion Path and motion As The Only Signal
 
 A hero with scroll-tied parallax and ambient floating elements, shipped without a `prefers-reduced-motion` alternative. For motion-sensitive users this is not a minor annoyance — it can trigger vestibular discomfort or nausea. Build the reduced-motion path as part of the feature, not as a bug fix after complaints.
 
-### Motion As The Only Signal
-
 An error indicated only by a shake animation, or a "saved" state shown only by a brief glow. Users with reduced motion, screen readers, or who simply weren't looking miss the signal entirely. Pair every motion-conveyed state with text, an icon, or an announcement.
 
-### Flashing Or High-Contrast Motion Near The Seizure Threshold
+### Flashing Or High-Contrast Motion Near The Seizure Threshold and skeleton Screens That Don't Match The Final Layout
 
 A loading animation, error indicator, or video overlay that flashes rapidly or alternates high-contrast colors more than three times per second. This is a hard accessibility failure (WCAG 2.3.1) and a real seizure trigger, not a style preference. Keep any flashing well below the threshold, and avoid large-area high-contrast flashing entirely.
-
-### Skeleton Screens That Don't Match The Final Layout
 
 A skeleton placeholder whose shape differs from the real content, so when the content arrives the layout jumps (layout shift) and the skeleton-to-content transition is jarring. A skeleton should reserve the real layout's dimensions; otherwise it creates the very jank it was meant to prevent.
 

@@ -128,19 +128,15 @@ Reporting a model's score without comparing to a trivial, simple, or incumbent b
 
 Selecting hyperparameters and features against the validation set over many iterations, slowly leaking validation information until the validation score is optimistic. Reserve a once-used test set and confirm with online measurement.
 
-### Random Split For Time-Series Or Grouped Data
+### Random Split For Time-Series Or Grouped Data and resampling The Evaluation Set Along With Training
 
 Shuffling rows for a temporal or grouped problem, so the model trains on the future or on the same entities it will be tested on. Use chronological splits for time and group-aware splits for related entities.
 
-### Resampling The Evaluation Set Along With Training
-
 Oversampling or undersampling before splitting, or evaluating on a rebalanced distribution, so the reported metric does not reflect the real deployment distribution. Resample for training; evaluate on the original distribution.
 
-### Default 0.5 Threshold On An Imbalanced Classifier
+### Default 0.5 Threshold On An Imbalanced Classifier and treating Offline Metrics As Proof Of Production Worthiness
 
 Using the default probability threshold, which rarely matches the business's precision/recall requirement on imbalanced data. Tune the threshold on validation data to the required operating point and report performance there.
-
-### Treating Offline Metrics As Proof Of Production Worthiness
 
 Deploying on offline scores alone, assuming held-out historical performance guarantees real-world impact, then discovering distribution shift, user-behavior change, or proxy-true divergence in production. Validate online with A/B testing and monitor for degradation.
 

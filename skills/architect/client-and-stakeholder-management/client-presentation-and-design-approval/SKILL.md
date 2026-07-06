@@ -104,6 +104,10 @@ Multiple client representatives give contradictory direction, the architect pick
 
 The client nods in the meeting, says "looks good, proceed," and the architect advances the design, only to find weeks later that the client has a different recollection or has changed their mind. The trap is that verbal approval feels sufficient in the moment, so no one documents it, and the approval evaporates when conditions change. The false signal is the warm meeting and the clear next steps, which create confidence that obscures the absence of a record. The harm is that the architect cannot defend the work already done, may absorb the cost of the reversal, and loses leverage in a scope dispute, all because the approval was never captured in a form that could be referenced.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Does the presentation state the specific decision being sought, and is the decision authority present?
@@ -113,3 +117,4 @@ The client nods in the meeting, says "looks good, proceed," and the architect ad
 - [ ] Is the approval documented in writing with any conditions, scope changes, or fee implications recorded?
 - [ ] Are cost and risk implications understood by the client so the approval can hold under pressure?
 - [ ] Is a decision log maintained so the sequence of approvals and their conditions is traceable?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -70,3 +70,4 @@ Learning that records are in unsanctioned tools, search is broken, or metadata i
 - Did I match electronic-signature types to the record's legal and evidentiary requirements and preserve the validation evidence and workflow history?
 - Did I design the system for litigation and regulatory production, including searchability, legal-hold integration, metadata-preserving export, and chain-of-custody demonstration?
 - Did I confirm the applicable recordkeeping, evidentiary, and admissibility standards with counsel for systems holding records likely to be litigated or examined?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

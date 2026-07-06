@@ -54,8 +54,7 @@ For day trips, check final return trains, museum hours, local transport, and whe
 - Forgetting required reservations, oversized luggage rules, pass exclusions, and private operators.
 - Comparing train time to flight time without airport transfers, security, baggage, and city access.
 - Planning too many one-night rail stops with heavy luggage.
-- Depending on last trains after important events or long day trips.
-- Leaving station names ambiguous in the final itinerary.
+- Depending on last trains after important events or long day trips; leaving station names ambiguous in the final itinerary
 
 ## Self-Check
 

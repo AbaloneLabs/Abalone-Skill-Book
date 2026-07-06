@@ -61,6 +61,10 @@ When working with minors, the therapist may err in either direction: disclosing 
 
 In social or professional settings, the therapist may be asked whether someone is a client, by a friend, a family member, or another professional, and the reflexive response, confirming or denying, breaches confidentiality even in the denial. The mechanism is that the question seems innocuous and the response seems harmless, but confirming that someone is a client discloses their status, and even a denial, "no, I'm not seeing them," can disclose by implication when the therapist would otherwise not comment. The harm is that the client's status, which they expected to be confidential, is disclosed without their consent. The standard response is to not confirm or deny, stating that confidentiality prevents comment on whether anyone is or is not a client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I explain confidentiality and its limits at the outset, in plain language, and document the explanation?

@@ -70,12 +70,9 @@ Responsible planning should be realistic. It should improve decisions without pr
 - Recommending unlicensed short-term rentals in housing-stressed areas.
 - Giving generic respect advice instead of concrete behavior guidance.
 - Treating local people as scenery for photos or content.
-- Assuming locally themed experiences are locally owned or beneficial.
-- Recommending community visits without checking host consent, visitor capacity, toilets, waste, and payment.
-- Overstating low-impact claims without changing major trip choices.
-- Ignoring water scarcity, waste, trail erosion, and resident noise issues.
-- Encouraging access to restricted, sacred, or private places for better views.
-- Moralizing without offering workable alternatives.
+- Assuming locally themed experiences are locally owned or beneficial; recommending community visits without checking host consent, visitor capacity, toilets, waste, and payment
+- Overstating low-impact claims without changing major trip choices; ignoring water scarcity, waste, trail erosion, and resident noise issues
+- Encouraging access to restricted, sacred, or private places for better views; moralizing without offering workable alternatives
 
 ## Self-Check
 

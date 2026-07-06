@@ -71,10 +71,8 @@ Agricultural logistics repeats annually, but memories fade. A good season closeo
 - Optimizing freight cost while losing product value through delay.
 - Sending equipment that cannot access fields, gates, roads, bridges, or loading points.
 - Dispatching trucks without confirming field labor, loaders, bins, scales, and release authority.
-- Forgetting receiver labor, cooler, dryer, grading, and appointment capacity.
-- Relying on drivers to find rural sites without precise directions and backup contacts.
-- Treating harvest execution as a weekly plan instead of live exception management.
-- Failing to document detention, spoilage, rejected equipment, and bottlenecks for next season.
+- Forgetting receiver labor, cooler, dryer, grading, and appointment capacity; relying on drivers to find rural sites without precise directions and backup contacts
+- Treating harvest execution as a weekly plan instead of live exception management; failing to document detention, spoilage, rejected equipment, and bottlenecks for next season
 
 ## Self-Check
 

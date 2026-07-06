@@ -140,3 +140,4 @@ Cutting risk after a decline and calling it "tactical de-risking" is often fear,
 - [ ] The signal's regime, half-life, and alignment with other signals were considered.
 - [ ] Entry, exit, and reversion-to-policy rules are defined in advance.
 - [ ] The recommendation acknowledges that tactical value added is uncertain, that most tactical activity underperforms after costs, and that investor-specific goals, tax context, and professional advice matter for real decisions.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

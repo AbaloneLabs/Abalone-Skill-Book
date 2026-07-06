@@ -53,10 +53,8 @@ Operational launch should include sales, customer service, legal, sustainability
 - Using corporate ESG scores instead of lane-level or site-level operational evidence.
 - Claiming carbon neutral, zero waste, plastic free, or sustainable without substantiation and review.
 - Forgetting subcontractors and regions not covered by the supplier's claim.
-- Failing to monitor claims after procurement award.
-- Celebrating a sustainable service while emergency reships, damage, or returns erase the benefit.
-- Letting marketing use supplier sustainability language without contract evidence, refresh cadence, and approval rights.
-- Launching a green service before customer service and sales know eligibility, exceptions, and tradeoffs.
+- Failing to monitor claims after procurement award; celebrating a sustainable service while emergency reships, damage, or returns erase the benefit
+- Letting marketing use supplier sustainability language without contract evidence, refresh cadence, and approval rights; launching a green service before customer service and sales know eligibility, exceptions, and tradeoffs
 
 ## Self-Check
 

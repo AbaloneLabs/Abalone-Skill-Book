@@ -60,12 +60,9 @@ Remote tracks can be fragile. Avoid creating bypass tracks, cutting switchbacks,
 - Carrying all water in one container.
 - Treating permits as optional because the route is remote.
 - Depending on one navigation app or online maps.
-- Carrying a satellite device without check-in rules or monitored contacts.
-- Pressing on in deteriorating weather because the itinerary says so.
-- Splitting convoys without communication, recovery, and rendezvous rules.
-- Continuing past a commitment point without checking fuel, water, weather, daylight, vehicle, permits, and communications.
-- Treating local authority warnings as obstacles rather than current route intelligence.
-- Leaving environmental damage from recovery, bypass tracks, spills, or abandoned materials.
+- Carrying a satellite device without check-in rules or monitored contacts; pressing on in deteriorating weather because the itinerary says so
+- Splitting convoys without communication, recovery, and rendezvous rules; continuing past a commitment point without checking fuel, water, weather, daylight, vehicle, permits, and communications
+- Treating local authority warnings as obstacles rather than current route intelligence; leaving environmental damage from recovery, bypass tracks, spills, or abandoned materials
 
 ## Self-Check
 - Have I calculated fuel range using worst-case terrain, load, detours, idling, and fuel quality with a clear reserve?

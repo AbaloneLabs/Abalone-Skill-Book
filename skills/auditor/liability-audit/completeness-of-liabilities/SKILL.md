@@ -176,5 +176,4 @@ Some commitments and contingencies require disclosure even when they do not meet
 - Were vendor confirmations and statements used to corroborate completeness, including for zero-balance and low-activity vendors?
 - Were related-party payables identified and scrutinized for omission, understatement, and non-market terms?
 - Were immediately reversing accruals investigated for their nature and support?
-- Did the subsequent events review identify liabilities existing at year-end?
-- Is each completeness workpaper labeled with the assertion and direction tested?
+- Did the subsequent events review identify liabilities existing at year-end?; is each completeness workpaper labeled with the assertion and direction tested?

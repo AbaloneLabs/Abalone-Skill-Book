@@ -59,6 +59,10 @@ HSA eligibility requires enrollment in an HDHP and the absence of disqualifying 
 
 Open enrollment is the single most consequential annual transaction in benefits administration — every employee's coverage for the entire year is determined in a window of weeks — and treating it as a routine recurring task produces systemic errors: incorrect rates, missed dependents, wrong plans, failed system loads. The trap is that these errors are not discovered at enrollment but months later, when a claim is denied or a dependent is found uninsured, and the correction is far more difficult and costly than getting it right the first time. Treat open enrollment as a project with a timeline, dedicated owners, system testing, election confirmation, and a post-enrollment audit, because the cost of an enrollment error is borne across an entire plan year.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I designed the cafeteria plan and each component (FSA, HSA, HRA, dependent care, commuter) deliberately, documented in written plans?
@@ -68,3 +72,4 @@ Open enrollment is the single most consequential annual transaction in benefits 
 - Am I managing HSA-specific considerations — HDHP eligibility, no disqualifying coverage, contribution limits across sources, long-term savings communication?
 - Am I ensuring tax reporting (W-2 coding, custodian reporting) and annual cafeteria plan nondiscrimination testing?
 - Am I coordinating annual open enrollment as a project with timeline, owners, system testing, and election confirmation?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

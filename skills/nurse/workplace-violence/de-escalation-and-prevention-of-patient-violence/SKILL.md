@@ -59,6 +59,10 @@ The trap is that the nurse tries to manage the escalating patient alone, hoping 
 
 The trap is that the nurse experiences verbal abuse, a threat, or even a physical assault, and does not report it because workplace violence is normalized as part of nursing, or because reporting feels futile. The mechanism of harm is that underreporting hides the true prevalence of violence, prevents the institution from identifying patterns and high-risk situations, and denies the nurse access to support and follow-up. The harm is a culture that tolerates violence, recurring incidents that could have been prevented, and unaddressed psychological impact on the nurse. Report every incident through the event system, seek support from employee health and counseling, and treat workplace violence as unacceptable, not as part of the job.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For any patient showing early warning signs (pacing, clenched fists, verbal threats, agitation), did I recognize the behavioral trajectory and initiate a planned response rather than ignore it?

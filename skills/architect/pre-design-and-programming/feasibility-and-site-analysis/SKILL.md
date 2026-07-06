@@ -105,6 +105,10 @@ Geotechnical and environmental conditions are the feasibility factors most often
 
 Easements for utilities, access, drainage, or neighboring properties, and restrictive covenants running with the land, can render portions of the site unbuildable or prohibit the intended use entirely. The trap is that these burdens do not appear on a visual site visit and are often not reviewed until permitting, because the team assumes the title is clean. When an easement is discovered bisecting the building footprint, or a covenant prohibits the use, the design must be reworked or the project abandoned at a stage where the sunk cost is substantial. A current survey and title review must be completed and read during feasibility, with every easement and restriction plotted on the site plan, so the buildable area reflects the legal reality rather than the apparent one.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the buildable envelope been established from verified zoning, including setbacks, height, FAR, coverage, and all overlay districts?

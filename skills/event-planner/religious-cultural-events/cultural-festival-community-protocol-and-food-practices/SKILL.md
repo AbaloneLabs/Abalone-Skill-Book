@@ -57,10 +57,8 @@ Sponsors, media, and vendors may want the most visually striking cultural elemen
 - Asking cultural contributors to work for exposure while others are paid.
 - Excluding community food vendors through late or unsupported permit and insurance requirements.
 - Using cultural dress, symbols, artifacts, or language decoratively without permission.
-- Designing the festival for tourists while making it expensive or inconvenient for the represented community.
-- Collecting no feedback, then repeating the same mistakes next year.
-- Giving community vendors and performers the same paperwork burden as large commercial suppliers without support.
-- Letting sponsors or media use sacred or culturally specific imagery as promotional decoration without review.
+- Designing the festival for tourists while making it expensive or inconvenient for the represented community; collecting no feedback, then repeating the same mistakes next year
+- Giving community vendors and performers the same paperwork burden as large commercial suppliers without support; letting sponsors or media use sacred or culturally specific imagery as promotional decoration without review
 
 ## Self-Check
 

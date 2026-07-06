@@ -53,10 +53,8 @@ Contractors, visitors, sanitation crews, maintenance vendors, and temporary agen
 - Ignoring dock safety, trailer restraint, and fall exposure because they are routine tasks.
 - Letting damaged racks, pallets, guards, ladders, or cords remain "temporary" hazards.
 - Using PPE as the main solution when engineering or process controls are available.
-- Assuming temporary workers understand hazards after a rushed orientation.
-- Closing inspection items in a spreadsheet without verifying the physical fix.
-- Preparing for audits by temporary cleanup while everyday supervision allows blocked exits, damaged equipment, or undocumented fixes.
-- Forgetting contractors, visitors, cleaners, and maintenance crews in hazard communication and site rules.
+- Assuming temporary workers understand hazards after a rushed orientation; closing inspection items in a spreadsheet without verifying the physical fix
+- Preparing for audits by temporary cleanup while everyday supervision allows blocked exits, damaged equipment, or undocumented fixes; forgetting contractors, visitors, cleaners, and maintenance crews in hazard communication and site rules
 
 ## Self-Check
 

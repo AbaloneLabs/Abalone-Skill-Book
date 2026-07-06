@@ -84,3 +84,4 @@ Goals decomposing through many layers until connection to strategy is lost. The 
 - [ ] Proposed key results are reviewed for real stretch rather than pre-achieved safe bets.
 - [ ] Cross-team goal conflicts are surfaced and resolved before the cycle begins.
 - [ ] The cascade is kept shallow enough to preserve coherence and avoid performance-management bureaucracy.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

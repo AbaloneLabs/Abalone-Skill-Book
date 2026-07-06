@@ -154,11 +154,9 @@ Deficiencies affecting the same area can aggregate into a material weakness. Eva
 
 Material weakness determination is qualitative as well as quantitative. Restatements, fraud, and ineffective oversight are presumptive indicators regardless of dollar size.
 
-### Accepting Remediation Without Testing
+### Accepting Remediation Without Testing and ignoring Period Coverage In Operating Testing
 
 A remediated deficiency must be supported by tested evidence of design and operating effectiveness. Accepting management's assertion that it is fixed is not sufficient.
-
-### Ignoring Period Coverage In Operating Testing
 
 Testing a control only at year-end, or in a narrow window, does not support effectiveness throughout the period of reliance. Period coverage must match the period over which the conclusion is drawn.
 

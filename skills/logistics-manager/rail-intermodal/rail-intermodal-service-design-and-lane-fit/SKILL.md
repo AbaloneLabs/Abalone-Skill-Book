@@ -57,13 +57,11 @@ Intermodal may reduce emissions, but claims should use lane-specific assumptions
 
 Sustainability can support the decision, but it should not hide service, damage, inventory, or cost risk. The lane still needs to work operationally before emissions benefits are useful.
 
-### Plan visibility and exception management
+### Plan visibility and exception management and pilot before broad conversion
 
 Intermodal visibility may be less precise than truck. Define milestones, ETA update rules, exception ownership, customer communication, and when to recover by truck.
 
 Service design should include how the team will respond when the lane does not run to plan.
-
-### Pilot before broad conversion
 
 Test representative shipments, seasons, products, cutoffs, ramps, and customers. Compare planned cost, actual cost, transit, damage, customer impact, and operational workload.
 
@@ -76,12 +74,9 @@ Pilot results should validate assumptions before procurement or sales commits to
 - Choosing the nearest ramp while ignoring congestion, chassis, cutoffs, and reliability.
 - Ignoring product damage, security, temperature, hazmat, and securement requirements.
 - Missing rail cutoffs because warehouse release rhythm stays designed for truck.
-- Underestimating demurrage, per diem, chassis, transload, storage, and recovery costs.
-- Selling an intermodal lane with truck-like appointment precision, visibility, or recovery speed.
-- Making broad sustainability claims without accounting for dray miles, empty moves, recovery freight, or lane-specific factors.
-- Promising truck-like visibility and flexibility on an intermodal service.
-- Scaling conversion before pilot results confirm service, cost, and workload assumptions.
-- Treating intermodal as a transport mode change instead of a network design change.
+- Underestimating demurrage, per diem, chassis, transload, storage, and recovery costs; selling an intermodal lane with truck-like appointment precision, visibility, or recovery speed
+- Making broad sustainability claims without accounting for dray miles, empty moves, recovery freight, or lane-specific factors; promising truck-like visibility and flexibility on an intermodal service
+- Scaling conversion before pilot results confirm service, cost, and workload assumptions; treating intermodal as a transport mode change instead of a network design change
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Pilot results should validate assumptions before procurement or sales commits to
 - Are commercial promises, customer expectations, accessorial responsibility, and recovery authority aligned with actual intermodal behavior?
 - Are emissions or sustainability benefits based on lane-specific assumptions rather than generic rail averages?
 - Are visibility milestones, ETA updates, exception ownership, and truck recovery triggers defined?
-- Has a pilot tested representative products, seasons, ramps, customers, and cutoffs?
-- Is intermodal conversion supported by operating changes, not only a rate comparison?
+- Has a pilot tested representative products, seasons, ramps, customers, and cutoffs?; is intermodal conversion supported by operating changes, not only a rate comparison?

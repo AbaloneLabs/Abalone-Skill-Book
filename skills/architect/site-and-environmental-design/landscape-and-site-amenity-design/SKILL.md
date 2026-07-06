@@ -109,6 +109,10 @@ Locating benches, shade structures, or water features on axis or for visual bala
 
 A landscape design delivered without an establishment period or maintenance plan looks complete on paper but degrades rapidly after handover, as planting receives no watering, pruning, or replacement in its vulnerable first years. The trap is that the installation looks good at substantial completion, so the design appears successful, while the absence of a maintenance commitment guarantees decline — irrigation fails and is not repaired, shrubs grow leggy, trees die and are not replaced. Within a few years the landscape bears no resemblance to its intent, and the owner blames the design. Specifying an establishment period, delivering a maintenance plan, and matching the palette to the owner's maintenance capacity are what allow landscape to mature toward its design intent rather than decay from neglect.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Was meaningful area reserved for planting during site planning, with soil volume and root room adequate for the intended mature landscape?

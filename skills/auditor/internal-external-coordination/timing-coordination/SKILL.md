@@ -176,5 +176,4 @@ Timing decisions, interim versus year-end, roll-forward, reliance sequencing, di
 - Is the roll-forward between interim testing and year-end designed, performed, and documented, with cutoff and late adjustments tested separately?
 - Is contingency built into the schedule for late information, deficient relied-upon work, and key-person unavailability?
 - Are significant risk and high-judgment procedures timed early enough to allow for findings and expansion before the deadline?
-- Is the timing plan revisited at each coordination milestone and adjusted as conditions change?
-- Does the timing plan preserve, rather than compromise, the sufficiency and appropriateness of evidence across the full period?
+- Is the timing plan revisited at each coordination milestone and adjusted as conditions change?; does the timing plan preserve, rather than compromise, the sufficiency and appropriateness of evidence across the full period?

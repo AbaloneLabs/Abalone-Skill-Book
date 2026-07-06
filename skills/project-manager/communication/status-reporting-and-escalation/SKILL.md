@@ -171,5 +171,4 @@ Exact dates look authoritative, but they can mislead when confidence is low. A s
 - [ ] The message is tailored to audience needs rather than copied unchanged to everyone.
 - [ ] Risks, issues, blockers, and dependencies are specific enough to act on.
 - [ ] Scope, date, risk, and decision changes are recorded for future reference.
-- [ ] Completed work is framed by its effect on delivery confidence, not as activity theater.
-- [ ] Every action item has an owner and due date.
+- [ ] Completed work is framed by its effect on delivery confidence, not as activity theater; [ ] Every action item has an owner and due date

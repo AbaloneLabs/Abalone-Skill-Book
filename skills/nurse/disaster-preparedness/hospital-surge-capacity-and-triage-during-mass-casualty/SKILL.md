@@ -63,6 +63,10 @@ The trap is that the surge creates intense pressure for beds, so patients are di
 
 The trap is that the pace and chaos of the surge make documentation feel impossible, so the nurse charts minimally or not at all, planning to reconstruct later. The mechanism of harm is that contemporaneous documentation is essential for patient safety (knowing what was given, what was done), for continuity across handoffs, and for the after-action review and any legal scrutiny. The harm is errors from poor information transfer, missed care, and an inability to reconstruct what happened. Document contemporaneously, even briefly (use disaster documentation tools if available, including triage tags and abbreviated records), and complete the documentation as soon as feasible.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - During a mass casualty event, am I applying disaster triage principles (START or equivalent) that maximize total survivors, rather than routine triage?

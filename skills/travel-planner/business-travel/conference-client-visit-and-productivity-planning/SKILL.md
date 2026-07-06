@@ -54,8 +54,7 @@ Keep key details offline: itinerary, addresses, meeting contacts, confirmation n
 - Choosing lodging by nightly rate rather than proximity, sleep quality, workspace, Wi-Fi, and schedule control.
 - Checking critical materials, formal attire, samples, or demo equipment without backup.
 - Forgetting badge pickup, rehearsal, booth setup, visitor registration, PPE, or security forms.
-- Scheduling meetings too tightly across large venues or traffic-heavy cities.
-- Leaving disruption decisions to the traveler while they are in client-facing work.
+- Scheduling meetings too tightly across large venues or traffic-heavy cities; leaving disruption decisions to the traveler while they are in client-facing work
 
 ## Self-Check
 

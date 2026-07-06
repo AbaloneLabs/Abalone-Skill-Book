@@ -43,6 +43,10 @@ For installation deliveries, coordinate labor, equipment, climate acclimation, f
 
 If packaging must be removed by a specialist, state that in the delivery notes and receiving instructions. Untrained unpacking can damage surfaces, cut cables, void warranties, or destroy evidence needed for a claim.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Believing "fragile" labels protect goods in networks not designed for delicate handling.

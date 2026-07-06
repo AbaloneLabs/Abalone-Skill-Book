@@ -152,6 +152,10 @@ Changes without restatement create artificial trends and undermine target tracki
 
 An inventory that does not drive targets and capital allocation is not a management tool.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are organizational and operational boundaries set defensibly with a consistent equity or control approach, financial alignment, treatment of leased and joint venture assets, and documented changes?

@@ -61,6 +61,10 @@ A therapist, wanting to help a family secure services, may take on the role of a
 
 A therapist may write a letter stating that a child "must have" a particular placement or service, framing a clinical recommendation as a legal or educational mandate, when the therapist has no authority to mandate educational decisions and the school is the legal decision-maker for eligibility and placement. The mechanism of harm is that the overstatement misleads the family about what the letter accomplishes, creates conflict with the school, and can undermine the credibility of the clinical input. The harm is that the family relies on a document that does not deliver what it promises, the school dismisses the input as overreaching, and the child's needs go unmet. Framing input clearly as clinical recommendation, describing functional impact and helpful supports, and respecting the school's decision-making authority is both more accurate and more effective.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I understand and explain to the family the difference between clinical diagnosis and educational eligibility, and between an IEP and a 504 plan?

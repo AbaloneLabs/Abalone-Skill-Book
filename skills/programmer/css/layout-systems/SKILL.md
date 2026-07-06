@@ -70,13 +70,11 @@ Many responsive needs are better served by intrinsic sizing than by breakpoints.
 
 The principle: a layout that adapts intrinsically needs no breakpoint and cannot desync from the viewport. Breakpoints are for *structural* changes (stack vs row, sidebar hidden, navigation restructured), not for nudging a single property. If you find yourself writing a media query to change one padding value, you are probably missing an intrinsic-sizing solution.
 
-### Choose Container Queries When A Component Must Respond To Its Container, Not The Viewport
+### Choose Container Queries When A Component Must Respond To Its Container, Not The Viewport and debug Layout With The Right Mental Model: Margins, Overflow, Stacking, Containing Block
 
 Container queries (`@container`) let a component adapt to the size of its nearest container, not the viewport. This is the correct tool for reusable components (cards, widgets) dropped into different layouts — a card in a sidebar should stack vertically when the sidebar is narrow, regardless of the viewport width. With media queries, the same card responds to the viewport and behaves identically in a narrow sidebar and a wide main column, which is wrong.
 
 The mechanics: declare a containment context with `container-type: inline-size` (usually) on the parent, then query it with `@container (min-width: ...)`. The discipline: name containers with `container-name` when nested, because the nearest container is queried by default and that may not be the one you intend. Container queries do not replace media queries — use media queries for page-level/viewport-driven changes (overall layout, navigation) and container queries for component-level adaptation. Mixing them deliberately is normal.
-
-### Debug Layout With The Right Mental Model: Margins, Overflow, Stacking, Containing Block
 
 Most "my layout is broken" bugs fall into four categories, and the debugging approach differs for each:
 
@@ -85,13 +83,11 @@ Most "my layout is broken" bugs fall into four categories, and the debugging app
 - **Stacking contexts and `z-index`.** `z-index` only works on positioned (or flex/grid/flex-item) elements, and only relative to siblings *within the same stacking context*. A child with `z-index: 9999` will not appear above a sibling of its parent that creates a stacking context with a higher z-index — because stacking contexts are nested. Properties that create stacking contexts (`position` with z-index, `opacity < 1`, `transform`, `filter`, `will-change`, `contain: layout`) are the reason "I set z-index to a million and it's still behind." Diagnose by walking up the tree looking for stacking-context creators, not by raising the number.
 - **Containing block traps.** Absolutely positioned elements size and position relative to their nearest *positioned* ancestor, not their DOM parent. A `position: absolute` element with no positioned ancestor positions relative to the initial containing block (the viewport-ish), which is why it "jumps to the page." Fixed elements position relative to the viewport *unless* an ancestor has a `transform`, `filter`, or `perspective`, which becomes the containing block and breaks "fixed" behavior. Know which ancestor is the containing block before debugging position.
 
-### Use Feature Queries And Fallbacks For Layout, And Accept Progressive Enhancement
+### Use Feature Queries And Fallbacks For Layout, And Accept Progressive Enhancement and keep Layout Performant: Avoid Layout-Triggering Properties In Hot Paths
 
 Layout features vary in support (subgrid historically, container queries recently, `gap` in flexbox in older browsers). Use `@supports` to provide a baseline layout and enhance where supported, rather than assuming universal support or abandoning a feature outright. The pattern: write the fallback (often a simpler flex or block layout), then `@supports (property: value) { /* enhanced layout */ }`.
 
 For subgrid specifically: it is the correct tool for aligning a child grid's tracks to its parent grid's tracks, but historically had uneven support. Decide deliberately whether to use it (with a `@supports` fallback) or to achieve the alignment another way (e.g., flattening the structure, or using the parent grid directly). Do not silently depend on it without a fallback if the layout must work everywhere.
-
-### Keep Layout Performant: Avoid Layout-Triggering Properties In Hot Paths
 
 Layout performance is covered broadly in `css-architecture-and-specificity`; the layout-specific point is which properties trigger which work. Animating or repeatedly changing `width`, `height`, `top`, `left`, `margin`, or `padding` triggers layout recalculation across the affected subtree (and sometimes the whole document), which is far costlier than compositing-only changes (`transform`, `opacity`). For movement and resize effects, animate `transform` (translate, scale) rather than the layout properties; for visibility, animate `opacity` rather than `display`/`visibility` toggles in a hot path. Also avoid reading layout properties (`offsetWidth`, `getBoundingClientRect`) interleaved with layout writes in a loop — that forces synchronous reflow. Batch reads before writes.
 
@@ -117,27 +113,21 @@ A flex item cannot shrink below its content's min size by default, so `text-over
 
 Setting `z-index: 99999` when the real issue is that an ancestor created a stacking context. The number cannot beat a parent's stacking context. Walk up the tree to find the context creator; fix the structure (often by not creating an unnecessary context, or by restructuring), not the number.
 
-### Absolute Positioning To "Just Put It There"
+### Absolute Positioning To "Just Put It There" and assuming `position: fixed` Is Always Relative To The Viewport
 
 Using `position: absolute` with pixel offsets to place something that normal flow, flex, or grid would handle. It removes the element from flow, so it no longer adapts to content or siblings, and breaks on the next viewport. Reserve absolute positioning for genuine overlays (tooltips, badges) relative to a positioned ancestor.
 
-### Assuming `position: fixed` Is Always Relative To The Viewport
-
 A `transform`, `filter`, or `perspective` on an ancestor becomes the containing block for a fixed element, so "fixed" suddenly scrolls with that ancestor. If a fixed header is stuck inside a transformed modal, an ancestor's transform is why.
 
-### Margin Collapse Misdiagnosed As A Spacing Bug
+### Margin Collapse Misdiagnosed As A Spacing Bug and media Queries For Single-Property Tweaks Instead Of Intrinsic Sizing
 
 Adding more margin to fix spacing that is smaller than expected, when the real cause is margin collapse between adjacent blocks or between parent and child. Use `display: flow-root`, padding, or a flex/grid container (where margins do not collapse) rather than inflating values.
 
-### Media Queries For Single-Property Tweaks Instead Of Intrinsic Sizing
-
 Writing a breakpoint to change one `padding` or `font-size` when `clamp()` or `min()`/`max()` would adapt fluidly. Intrinsic sizing cannot desync from the viewport; per-property breakpoints accumulate into an unmaintainable matrix.
 
-### Using Container Queries For Viewport-Level Layout
+### Using Container Queries For Viewport-Level Layout and silently Depending On Subgrid Or Container Queries Without A Fallback
 
 Querying the container for page-shell or navigation changes that depend on the viewport. Container queries are for component adaptation; page-level responsive behavior belongs in media queries. Mixing them without intent produces components that behave differently depending on where they are placed, which is sometimes a bug, not a feature.
-
-### Silently Depending On Subgrid Or Container Queries Without A Fallback
 
 Using a recent feature as if it were universal, so the layout collapses in unsupported browsers. Wrap in `@supports` with a baseline layout, or choose a universally-supported approach when the feature is not load-bearing.
 
@@ -152,5 +142,4 @@ Using a recent feature as if it were universal, so the layout collapses in unsup
 - [ ] Fluid dimensions use `clamp`/`min`/`max` and intrinsic sizing where the structure allows, and media queries are reserved for genuine structural changes (stack vs row, sidebar visibility), not single-property nudges.
 - [ ] Container queries are used for component-level adaptation to the component's container, with containers named where nested, and media queries retained for viewport-level page changes — the two are not confused.
 - [ ] Layout bugs were diagnosed with the right model: margin collapse (use `flow-root`/padding/flex), overflow (fix the sizing constraint, not `overflow: hidden` as a patch), stacking contexts (walked up the tree rather than raising `z-index`), and containing block (the nearest positioned ancestor for absolute; transformed ancestors breaking `fixed`).
-- [ ] Movement and resize effects animate `transform`/`opacity` rather than `width`/`height`/`top`/`left`, and layout reads are batched before writes to avoid forced reflow.
-- [ ] Layout features with uneven support (subgrid, container queries) are wrapped in `@supports` with a baseline fallback, or a universally-supported approach was chosen when the feature is load-bearing.
+- [ ] Movement and resize effects animate `transform`/`opacity` rather than `width`/`height`/`top`/`left`, and layout reads are batched before writes to avoid forced reflow; [ ] Layout features with uneven support (subgrid, container queries) are wrapped in `@supports` with a baseline fallback, or a universally-supported approach was chosen when the feature is load-bearing

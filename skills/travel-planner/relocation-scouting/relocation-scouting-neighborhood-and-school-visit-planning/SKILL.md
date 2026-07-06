@@ -39,6 +39,10 @@ Relocation decisions become confusing when every area is remembered impressionis
 
 The final recommendation should distinguish observed facts from impressions and third-party claims. "The grocery store is a 12-minute walk from the apartment" is different from "the area feels convenient." Both may matter, but they should not be merged.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Designing the trip like sightseeing. Relocation scouting requires repeated life tests, not maximum attraction coverage.

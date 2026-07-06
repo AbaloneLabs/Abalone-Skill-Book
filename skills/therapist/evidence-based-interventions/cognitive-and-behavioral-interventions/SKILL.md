@@ -68,6 +68,10 @@ A therapist who, in the name of cognitive restructuring, argues the client out o
 
 A therapist who insists on the structured CBT format with a client who cannot use it, trauma survivors who need stabilization, clients with cognitive limitations, or clients whose problems are primarily relational, produces dropout while attributing the failure to the client's resistance. The mechanism is that the format is validated, so adhering to it feels like evidence-based practice, when rigid adherence to a format that does not fit the client is the opposite. The harm is that clients who could benefit from a adapted approach leave treatment, and CBT is experienced as unhelpful rather than as misapplied. Adapting the format while preserving the active ingredients is what makes CBT accessible to clients who struggle with the standard structure.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I ground each technique in the formulation of this client's problem, rather than applying by diagnosis?

@@ -55,6 +55,10 @@ Respecting autonomy is a core value, but it can be misused as a rationale for in
 
 Unsheltered clients are vulnerable to system shocks — encampment sweeps, property confiscation, arrest, hospitalization, weather events — that disrupt their location, their documents, their medication, and their connection to the worker. The trap is failing to anticipate these shocks and losing the client when they occur. The harm is that weeks of relationship-building are erased, the client's stability is set back, and re-engagement starts from zero. The corrective is to know the local enforcement calendar, to help the client prepare (document storage, medication continuity, alternate meeting points), to track the client through system contacts (jail, hospital), and to re-engage immediately after a shock.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I treat the relationship as the intervention, or did I push services before trust existed?

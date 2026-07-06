@@ -65,10 +65,8 @@ Set expected revision path and decision deadlines. Availability and prices chang
 - Accepting a budget that cannot support the requested season, destination, lodging, or risk tolerance.
 - Designing a full itinerary when the client only approved brainstorming or a shortlist.
 - Forgetting excluded costs such as meals, transfers, resort fees, bags, tips, visas, and insurance.
-- Assuming the traveler wants maximum activities rather than success against their purpose.
-- Ignoring risk tolerance until proposing nonrefundable or fragile components.
-- Calling a plan complete while key documents, availability, accessibility, or local rules are unverified.
-- Failing to define revision limits and decision deadlines before availability changes.
+- Assuming the traveler wants maximum activities rather than success against their purpose; ignoring risk tolerance until proposing nonrefundable or fragile components
+- Calling a plan complete while key documents, availability, accessibility, or local rules are unverified; failing to define revision limits and decision deadlines before availability changes
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ A clear escalation path prevents public scenes and protects staff from being pul
 - Ignoring divorce, estrangement, custody, grief, illness, or cultural protocol until onsite.
 - Seating people by convenience instead of relationship sensitivity.
 - Letting speeches run without order, limits, or topic boundaries.
-- Adding memorial gestures without asking whether the family wants them.
-- Forgetting quiet support, supervision, transport, and meal timing for children and elders.
-- Sharing sensitive family details too broadly with vendors or staff.
-- Leaving ushers, MCs, or photographers to improvise family hierarchy.
-- Allowing photo and video requests to force unwanted groupings or expose private moments.
-- Having no neutral escalation person for disputes or intoxicated guests.
+- Adding memorial gestures without asking whether the family wants them; forgetting quiet support, supervision, transport, and meal timing for children and elders
+- Sharing sensitive family details too broadly with vendors or staff; leaving ushers, MCs, or photographers to improvise family hierarchy
+- Allowing photo and video requests to force unwanted groupings or expose private moments; having no neutral escalation person for disputes or intoxicated guests
 
 ## Self-Check
 

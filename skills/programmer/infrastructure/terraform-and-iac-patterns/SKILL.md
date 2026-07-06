@@ -102,19 +102,15 @@ A resource is renamed or moved between modules, the plan shows "will destroy old
 
 `state rm` detaches a resource from state but leaves it running in the cloud (it becomes unmanaged and orphaned). `destroy` deletes it from the cloud. Confusing them either orphans a resource you meant to delete or deletes a resource you meant to keep. Know which you intend; the `removed` block with `destroy = false` makes the intent explicit in code.
 
-### Variables Typed As `any` Reaching Apply Before Anyone Notices They Are Wrong
+### Variables Typed As `any` Reaching Apply Before Anyone Notices They Are Wrong and treating `sensitive = true` As A Secrecy Guarantee
 
 `any` skips validation, so a malformed value passes plan and fails at apply — or worse, succeeds with the wrong value and creates a misconfigured resource. Type every variable and add `validation` for invariants. The cost is a few lines; the benefit is failures at plan time instead of in production.
 
-### Treating `sensitive = true` As A Secrecy Guarantee
-
 Marking a variable sensitive hides it from plan output but the value still lands in state, which is readable by anyone with state access. Sensitivity is display hygiene, not access control. Combine it with a restricted, encrypted state backend and prefer referencing secrets from a manager rather than passing them through Terraform at all.
 
-### Forgetting `replace_triggered_by` On Resources That Depend On A Hash
+### Forgetting `replace_triggered_by` On Resources That Depend On A Hash and auto-Applying In CI Without A Reviewed Plan For Production
 
 A launch template, init script, or config map changes, but the instances it configures are not recreated because Terraform sees no reference change. The deploy "succeeds" and nothing actually rolls. Wire `replace_triggered_by` or a `triggers` hash so the dependency is data-driven and the replacement happens automatically.
-
-### Auto-Applying In CI Without A Reviewed Plan For Production
 
 CI is wired to apply on merge, the plan is not posted or reviewed, and a destructive change ships unchallenged. For production, the plan must be a reviewed artifact (posted as a PR comment, approved) and destructive actions must be confirmed. Auto-apply belongs to non-production or no-destructive-component changes only.
 

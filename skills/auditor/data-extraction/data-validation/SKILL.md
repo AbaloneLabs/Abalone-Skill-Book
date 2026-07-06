@@ -156,11 +156,9 @@ A spreadsheet preview shows the first rows, which are often short enough to esca
 
 An exception log that accumulates open items is evidence that validation was performed but not completed. Every exception must be resolved, and the resolution must be reflected in the dataset and the sign-off, not left as an open note.
 
-### Signing Off Based On Trust Rather Than Evidence
+### Signing Off Based On Trust Rather Than Evidence and validating Once And Assuming It Stays Valid
 
 A sign-off that says "data reviewed and acceptable" without the underlying reconciliations and exception log is not a validation; it is an assertion. The sign-off must reference the specific evidence that supports it.
-
-### Validating Once And Assuming It Stays Valid
 
 Data does not stay valid just because it was valid once. A colleague may re-sort, a refresh may overwrite, or a filter may be reapplied, each of which can reintroduce the very errors the first validation caught. Treat the validated file as a controlled artifact and re-validate after any change.
 
@@ -174,7 +172,5 @@ Data does not stay valid just because it was valid once. A colleague may re-sort
 - Are null, blank, and zero values counted and classified separately for each critical field?
 - Is there an exception log with a unique id, rule violated, resolution, and approver for every finding?
 - Does the sign-off state which procedures the data is reliable enough to support, with caveats?
-- Has the full validation suite been re-run after any refresh, rollover, or correction to the dataset?
-- Are the validation evidence and sign-off retained as part of the workpaper, not just held in memory?
-- Would an independent auditor be able to reproduce the validation from the documentation alone?
-- Is the validated file treated as a controlled artifact, with re-validation triggered after any refresh or edit?
+- Has the full validation suite been re-run after any refresh, rollover, or correction to the dataset?; are the validation evidence and sign-off retained as part of the workpaper, not just held in memory?
+- Would an independent auditor be able to reproduce the validation from the documentation alone?; is the validated file treated as a controlled artifact, with re-validation triggered after any refresh or edit?

@@ -55,6 +55,10 @@ Retention analytics often stops at "here is the problem" without quantifying the
 
 "When people leave, they say pay." Pay is often the reason that is safe to cite, but the root cause may be manager quality, lack of growth, burnout, or a toxic team dynamic. Pay is frequently the exit reason but rarely the sole root cause. Dig deeper.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I decomposed the turnover rate into voluntary/involuntary, regrettable/non-regrettable, and by function, tenure, performance, and criticality?

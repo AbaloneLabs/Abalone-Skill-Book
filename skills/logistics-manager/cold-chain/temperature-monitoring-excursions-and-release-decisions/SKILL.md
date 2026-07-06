@@ -54,8 +54,7 @@ Track repeated excursions by lane, carrier, product, season, facility, and packo
 - Discarding packaging, loggers, seals, or damaged goods before claims and quality review.
 - Interpreting sensor data without lane timeline, set point, door openings, packout record, and product stability.
 - Assuming a reefer download proves product temperature.
-- Communicating safety, release, or claim conclusions before authorized review.
-- Closing the case after replacement shipment without correcting the root cause.
+- Communicating safety, release, or claim conclusions before authorized review; closing the case after replacement shipment without correcting the root cause
 
 ## Self-Check
 

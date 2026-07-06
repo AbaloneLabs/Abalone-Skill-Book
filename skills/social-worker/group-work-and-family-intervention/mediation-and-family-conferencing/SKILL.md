@@ -41,11 +41,9 @@ Family conflicts are saturated with history, and family members will want to rel
 
 When the interests are clear, move to generating options for resolution before evaluating any option. Brainstorming and evaluating simultaneously kills creativity and entrenches positions; separating the two phases allows a wider range of possible solutions to emerge, including solutions no one had considered. Encourage participants to propose options, propose some yourself as possibilities (not recommendations), and defer evaluation until a range of options is on the table. Then evaluate options against the interests identified, looking for solutions that meet as many interests as possible. Document the options generated and the evaluation.
 
-### Ensure the Agreement Is Family-Owned and Realistic
+### Ensure the Agreement Is Family-Owned and Realistic and know the Limits of Mediation and Refer Appropriately
 
 The goal is an arrangement the family develops, owns, and will actually follow — not an arrangement the facilitator imposes. Agreements that are the facilitator's solution, accepted to please the worker or end the meeting, do not survive contact with reality. Test the agreement for realism: can each participant actually do what they are agreeing to, what happens when it breaks down, is it specific enough to be actionable, is it flexible enough to accommodate change. Write the agreement in the family's own language, confirm each participant agrees, and build in a review. A vague or imposed agreement fails; a specific, family-owned agreement with a review has a chance. Document the agreement and the review plan.
-
-### Know the Limits of Mediation and Refer Appropriately
 
 Mediation is one tool, not a universal solution. Some conflicts require legal adjudication (where rights must be determined, where there is a safeguarding concern, where a binding decision is needed), some require therapy (where the issue is historical or relational rather than practical), some require case management (where the issue is resources rather than conflict), and some are not resolvable at this time. Be honest about when mediation has reached its limits, do not force an agreement that is not there, and refer to the appropriate process. A forced agreement is worse than an honest impasse. Document the limits reached and the referral.
 

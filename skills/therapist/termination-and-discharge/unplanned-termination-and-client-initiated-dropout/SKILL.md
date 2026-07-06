@@ -57,6 +57,10 @@ A therapist may close a dropped-out case without providing referrals or completi
 
 A therapist may take client dropout as a personal failure or rejection, responding with self-blame, defensiveness, or hurt, which can distort the clinical response and the therapist's well-being. The mechanism is that therapists invest in their clients and care about the work, and a client's ending can feel like a judgment on the therapist or the therapy, when dropout is often driven by factors unrelated to the therapist. The harm is that the therapist's self-blame or defensiveness may lead to over-pursuit of the client, withdrawal from other clients, or burnout, and the dropout is not used as constructive data. Using dropout as data, seeking consultation, and recognizing that dropout is often not about the therapist, is what supports a healthy clinical response.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I reach out appropriately, once or twice, before accepting dropout?

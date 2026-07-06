@@ -101,11 +101,9 @@ The model generating a claim not in the context but attaching a real citation, l
 
 A citation pointing to a chunk that does not actually contain the evidence, because claim-citation alignment was never validated. Validate citations against source chunks.
 
-### Answering From Parametric Memory When Context Is Empty
+### Answering From Parametric Memory When Context Is Empty and unversioned Corpus And Stale Chunks
 
 When retrieval returns nothing relevant, the model answering from its training memory and fabricating citations, instead of refusing. Handle the empty-context case explicitly.
-
-### Unversioned Corpus And Stale Chunks
 
 Accumulating outdated chunks when source documents change, because re-embedding and replacement is not defined. Version documents and chunks; re-embed on change.
 

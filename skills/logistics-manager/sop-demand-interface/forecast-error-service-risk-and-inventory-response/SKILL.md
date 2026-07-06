@@ -71,10 +71,8 @@ Temporary actions become hidden operating models when nobody closes them. That m
 - Protecting the first escalated order while starving higher-priority commitments.
 - Transferring product into a warehouse that lacks labor, space, appointment capacity, or processing throughput.
 - Overreacting to short-term noise and creating inventory oscillation across nodes.
-- Reporting service risk without clear dates, quantities, options, cost, decision owners, and confidence level.
-- Failing to show the premium logistics cost caused by forecast bias or late demand signals.
-- Letting emergency expediting, manual allocation, or temporary labor continue after the immediate service risk has passed.
-- Treating the response as complete after shipment movement rather than after customer service risk is resolved.
+- Reporting service risk without clear dates, quantities, options, cost, decision owners, and confidence level; failing to show the premium logistics cost caused by forecast bias or late demand signals
+- Letting emergency expediting, manual allocation, or temporary labor continue after the immediate service risk has passed; treating the response as complete after shipment movement rather than after customer service risk is resolved
 
 ## Self-Check
 

@@ -66,6 +66,10 @@ Casing and sorting are not universal properties of text; they depend on the lang
 
 Use the platform's locale-aware collation and casing APIs rather than hand-rolling them, and pass the locale explicitly when the user's locale is known. For identifiers and internal keys where locale does not apply, use Unicode default collation or case folding rather than ASCII lowercasing. The cost of getting this right is small; the cost of getting it wrong is silent data mismatches that are hard to reproduce and debug.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Truncating Or Splitting By Byte Or Code Point

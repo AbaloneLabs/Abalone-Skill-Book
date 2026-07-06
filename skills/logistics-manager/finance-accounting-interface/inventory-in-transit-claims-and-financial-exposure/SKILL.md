@@ -71,10 +71,8 @@ Old in-transit balances can hide lost inventory, duplicate replacement shipments
 - Promising full recovery when carrier liability or insurance coverage is limited.
 - Filing claims without telling finance about reserves, write-offs, and uncertain recovery.
 - Admitting liability or promising credits before contract and evidence review.
-- Disposing of damaged goods before claim, insurance, quality, or customer requirements are met.
-- Treating replacement shipment as closure while claim recovery remains unresolved.
-- Allowing aged in-transit balances, unresolved custody, and claim receivables to remain unowned.
-- Failing to reconcile customer credits, supplier recovery, insurance receivable, and carrier settlement.
+- Disposing of damaged goods before claim, insurance, quality, or customer requirements are met; treating replacement shipment as closure while claim recovery remains unresolved
+- Allowing aged in-transit balances, unresolved custody, and claim receivables to remain unowned; failing to reconcile customer credits, supplier recovery, insurance receivable, and carrier settlement
 
 ## Self-Check
 

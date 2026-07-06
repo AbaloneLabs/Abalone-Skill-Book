@@ -97,7 +97,7 @@ A secret baked into an image is a security incident: the image is replicated, pu
 
 If a secret was ever baked in (via `ARG`, `ENV`, a copied file, even one later removed), treat it as compromised and rotate it — it is in the layer history and recoverable. `container-image-design` states the philosophy; the operational discipline is that production secrets live only in runtime-injected stores.
 
-### Add Runtime Threat Detection For Behavior You Cannot Predict At Build
+### Add Runtime Threat Detection For Behavior You Cannot Predict At Build and map Controls To The Compliance Frameworks That Apply To You
 
 Static controls (scanning, signing, hardening) catch what you can enumerate at build time. Runtime detection catches what you cannot — the process that suddenly opens a reverse shell, reads `/etc/shadow`, makes an unexpected outbound connection, or spawns a tool not in the image. Tools like Falco (rules-based on syscalls and container events), eBPF-based detection, and cloud runtime security products watch the running container for behavior that deviates from the expected:
 
@@ -106,8 +106,6 @@ Static controls (scanning, signing, hardening) catch what you can enumerate at b
 - **Correlate with the image identity** so a runtime finding points back to the specific image, version, and SBOM, closing the loop between detection and the build that produced it.
 
 Runtime detection is the layer that catches the zero-day and the compromised insider that static controls cannot. It is not a replacement for them; it is the assumption that static controls will, eventually, be bypassed.
-
-### Map Controls To The Compliance Frameworks That Apply To You
 
 For regulated environments, image security is also an evidence problem: an auditor asks "show me you scan, you patch, you restrict access, you can trace what ran." Map your controls to the framework's requirements so the program produces evidence as a byproduct:
 
@@ -147,11 +145,9 @@ Switching to a non-root user and considering runtime hardening done, leaving a w
 
 Passing a token through `ARG` to clone private deps, believing it is safe because it is not in the final stage. The token is in the image history and recoverable. Use BuildKit secret mounts for build-time secrets, and rotate anything that was ever passed as an `ARG`.
 
-### SBOMs Generated But Never Queryable
+### SBOMs Generated But Never Queryable and runtime Detection That Only Alerts Into A Void
 
 Producing SBOMs to check a compliance box but storing them where no one can query them, so when a new CVE drops you still cannot answer "which images are affected." Store SBOMs in a queryable system (an SBOM registry/service) and rehearse the query before you need it under pressure.
-
-### Runtime Detection That Only Alerts Into A Void
 
 Standing up Falco with default rules, wiring it to a noisy alert channel, and letting it be ignored. Tune rules to your environment, route high-confidence detections to a watched channel, and (for high-value services) automate isolation. An alert no one acts on is worse than nothing because it implies coverage that does not exist.
 

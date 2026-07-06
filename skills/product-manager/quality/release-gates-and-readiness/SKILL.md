@@ -117,11 +117,9 @@ Monitoring is an afterthought, added when a problem appears, by which point the 
 
 The team ships and immediately moves on, so problems surfacing in the first hours go undetected. Treat the post-release monitoring window as part of the release, with the team available to respond.
 
-### Relabeling high-risk changes as low-risk to bypass gates
+### Relabeling high-risk changes as low-risk to bypass gates and accepted issues without rationale or plan
 
 To move faster, a change is classified as low-risk to avoid strict gates, when it actually carries high risk. This is the exact failure the gates exist to prevent. Classify risk honestly.
-
-### Accepted issues without rationale or plan
 
 Known issues are "accepted" to make the date, without documented rationale or a plan to address them. These accumulate into a quality deficit. Accept issues only with explicit rationale and ownership.
 

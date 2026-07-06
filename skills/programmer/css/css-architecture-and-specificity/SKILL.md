@@ -104,19 +104,15 @@ Building desktop-first, then sprinkling `max-width` media queries to "fix mobile
 
 Animating `left`, `top`, `width`, or `height`, which triggers layout recalculation on every frame and produces jank. Animate `transform` and `opacity`, which the compositor handles without layout.
 
-### Layout Thrashing From Interleaved Reads And Writes
+### Layout Thrashing From Interleaved Reads And Writes and a Bloated Global Stylesheet Nobody Dares Edit
 
 Reading `offsetHeight` then writing a style then reading again in a loop, forcing a reflow each iteration. Batch all layout reads before any writes in hot paths.
 
-### A Bloated Global Stylesheet Nobody Dares Edit
-
 Rules accumulated over years, none removed because no one knows what is unused, so the file grows and first-paint slows. Choose an architecture where dead styles are pruned automatically (scoped/atomic), or audit and remove dead CSS periodically.
 
-### Copying A Rule And Tweaking It Instead Of Using A Token
+### Copying A Rule And Tweaking It Instead Of Using A Token and an Unknown Reset Causing Mystery Baselines
 
 Duplicating a style block and changing one value, producing five near-identical blocks that drift. Extract the shared value into a token or a utility/component class so there is one source.
-
-### An Unknown Reset Causing Mystery Baselines
 
 Including a reset/normalize without understanding it, then being unable to explain why margins differ from expectations. Know what your reset does and apply it consistently at the top of the cascade.
 
@@ -129,3 +125,4 @@ Including a reset/normalize without understanding it, then being unable to expla
 - [ ] CSS performance was considered only where it matters: render-blocking CSS is inlined/deferred and unused CSS is not shipped, animations use `transform`/`opacity` rather than layout properties, and layout-thrashing read/write interleaving is avoided in hot paths — optimization was profile-driven, not blanket.
 - [ ] Styles are scoped/isolated so a component's styles cannot leak to or be affected by unrelated rules; global CSS is not used at a scale where the global cascade causes collisions.
 - [ ] The CSS lifecycle is managed: dead CSS is pruned (automatically via scoped/atomic styles, or by periodic audit), a reset/normalize is applied once at the top with its effects understood, and source order is principled and documented (reset → tokens → base → components → utilities) so "last wins" is predictable.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

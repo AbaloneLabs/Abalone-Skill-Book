@@ -130,19 +130,15 @@ Hardcoding keys, committing them to source, or relying on environment variables 
 
 Generating one key and using it forever. A single compromise then exposes all data ever encrypted under it, and rotation may be a compliance requirement. Plan rotation: version keys, re-encrypt data under new keys, and retire old keys on a schedule.
 
-### Inventing A Custom Scheme Or Random Generator
+### Inventing A Custom Scheme Or Random Generator and confusing TLS With At-Rest Protection
 
 Combining primitives by hand, designing a "clever" protocol, or using a general-purpose RNG for keys/nonces. Custom crypto fails in ways testing cannot catch, and biased or predictable randomness silently destroys security. Use audited libraries and CSPRNGs only.
 
-### Confusing TLS With At-Rest Protection
-
 Assuming that because traffic uses HTTPS, stored data is protected. TLS protects data in transit between endpoints; once decrypted and stored, it is unprotected at rest unless separately encrypted. These are independent layers.
 
-### Assuming "Encrypted" Means "Tamper-Proof"
+### Assuming "Encrypted" Means "Tamper-Proof" and brute-Forceable Hashes Of Low-Entropy Values
 
 Believing that because data is encrypted, an attacker cannot alter it. Without authenticated encryption or a MAC, ciphertext can be modified to produce predictable plaintext changes. Confidentiality and integrity are separate properties; confirm you have both where tampering matters.
-
-### Brute-Forceable Hashes Of Low-Entropy Values
 
 Hashing a boolean, a small status enum, or a short ID and treating the hash as confidential. Because the input space is tiny, an attacker hashes every possible input and matches. Where the attacker can test guesses, use a keyed hash (HMAC) or add a secret pepper so they cannot run the comparison.
 

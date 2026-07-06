@@ -59,6 +59,10 @@ The trap is that opioids are perceived as pain medications, so they are not cons
 
 The trap is that palliative care is introduced only when the patient is actively dying, or not at all, because the team or the patient perceives it as "giving up" on disease-directed treatment. The harm is that the patient misses months of symptom relief, psychosocial support, and care coordination that would have improved quality of life — and, in some cases, extended it. Refer palliative care early, at diagnosis of advanced disease, concurrent with oncology treatment. Explain clearly that palliative care is an added layer of support focused on quality of life, not a withdrawal of treatment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I assessed pain at every encounter, characterized it by type, and treated it to a tolerable level — or am I accepting pain as expected?

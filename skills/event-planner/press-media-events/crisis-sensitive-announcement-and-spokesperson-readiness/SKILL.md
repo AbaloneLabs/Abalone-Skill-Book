@@ -60,12 +60,9 @@ If a reporter asks about a rumor, leaked document, casualty figure, legal claim,
 - Letting spokespeople speculate because they fear saying "we do not know."
 - Choosing a high-ranking spokesperson who lacks credibility or preparation.
 - Using branded or celebratory staging for painful news.
-- Failing to coordinate with investigators, regulators, HR, safety, legal, and insurers.
-- Allowing affected people to be exposed to cameras without support or consent.
-- Making promises in the briefing that no one tracks afterward.
-- Letting employees, families, regulators, or support teams learn crisis facts from media coverage.
-- Accidentally exposing private information in slides, b-roll, handouts, or background visuals.
-- Preparing statements but not rumor, leak, casualty, or allegation response rules.
+- Failing to coordinate with investigators, regulators, HR, safety, legal, and insurers; allowing affected people to be exposed to cameras without support or consent
+- Making promises in the briefing that no one tracks afterward; letting employees, families, regulators, or support teams learn crisis facts from media coverage
+- Accidentally exposing private information in slides, b-roll, handouts, or background visuals; preparing statements but not rumor, leak, casualty, or allegation response rules
 
 ## Self-Check
 
@@ -78,5 +75,4 @@ If a reporter asks about a rumor, leaked document, casualty figure, legal claim,
 - Are affected people, employees, translators, accessibility, counselors, and private spaces protected if present?
 - Are hotlines, FAQs, websites, internal updates, media follow-ups, corrections, and next briefing commitments assigned and tracked?
 - Is the release sequence clear for employees, families, regulators, customers, partners, officials, and frontline teams?
-- Have visuals, handouts, screens, b-roll, and room setup been checked for private or sensitive information?
-- Do spokespeople have escalation rules for rumors, leaks, casualty figures, legal claims, and alleged misconduct?
+- Have visuals, handouts, screens, b-roll, and room setup been checked for private or sensitive information?; do spokespeople have escalation rules for rumors, leaks, casualty figures, legal claims, and alleged misconduct?

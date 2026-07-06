@@ -39,6 +39,10 @@ Port disruptions often lead to charge disputes and performance debates. Preserve
 
 After the incident, evaluate whether the network needs changed free-time terms, earlier document cutoff, alternative routing, broker performance improvement, carrier allocation, transload strategy, or customer communication rules. Treat repeated port exceptions as design feedback, not only unavoidable bad luck.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Calling every delay "congestion." Without a delay category, the wrong party is pushed and the right action is missed.

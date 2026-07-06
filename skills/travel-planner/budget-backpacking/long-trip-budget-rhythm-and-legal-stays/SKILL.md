@@ -65,10 +65,8 @@ Document control is part of budget control. Losing access to banking or visa evi
 - Suggesting work exchanges or informal jobs without checking legal permission and safety.
 - Moving cities too often, which raises transport cost and fatigue.
 - Keeping the itinerary fully flexible through festivals, holidays, islands, treks, or high season when advance booking matters.
-- Ignoring insurance duration, activity exclusions, and medical evacuation needs.
-- Treating long travel as continuous vacation with no rest, admin, laundry, or quiet days.
-- Depending on one phone, card, or email account for all documents and payments.
-- Continuing the original route after budget, health, or legal assumptions have changed.
+- Ignoring insurance duration, activity exclusions, and medical evacuation needs; treating long travel as continuous vacation with no rest, admin, laundry, or quiet days
+- Depending on one phone, card, or email account for all documents and payments; continuing the original route after budget, health, or legal assumptions have changed
 
 ## Self-Check
 

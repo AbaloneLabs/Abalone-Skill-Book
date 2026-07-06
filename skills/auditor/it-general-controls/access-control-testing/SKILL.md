@@ -96,8 +96,7 @@ Access at year-end may be clean while access during the year was not (a temporar
 - **Allowing privileged users to hold business roles**, creating circumvention conflicts that silently defeat application controls.
 - **Overlooking shared, generic, or service accounts** that destroy individual accountability.
 - **Treating access findings as IT observations only**, without connecting them to the reliability of automated controls, system-generated data, and the need for targeted substantive procedures.
-- **Testing every system to the same depth**, wasting effort on immaterial systems while under-testing the core financial applications.
-- **Forgetting end-user computing** (critical spreadsheets) where access and version control are often weakest and most material.
+- **Testing every system to the same depth**, wasting effort on immaterial systems while under-testing the core financial applications; **Forgetting end-user computing** (critical spreadsheets) where access and version control are often weakest and most material
 
 ## Self-Check
 

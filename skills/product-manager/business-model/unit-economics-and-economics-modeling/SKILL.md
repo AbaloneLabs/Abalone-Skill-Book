@@ -84,3 +84,4 @@ Raising acquisition spend to grow without checking the economics of marginal cus
 - [ ] Acquisition cost is fully loaded and attributed to channel and segment.
 - [ ] The model accounts for how unit economics evolve with scale, not only the current snapshot.
 - [ ] Growth is judged by marginal unit economics, distinguishing value-creating from value-destroying customer acquisition.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

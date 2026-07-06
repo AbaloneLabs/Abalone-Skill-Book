@@ -59,6 +59,10 @@ The trap is that the electronic health record fails, and the nurse continues to 
 
 The trap is that, during a fire, the nurse shuts off the zone oxygen valve to contain the fire, without checking for oxygen-dependent patients on the unit. The mechanism of harm is that shutting off oxygen abruptly endangers patients who depend on it (COPD on supplemental oxygen, ventilated patients on blended oxygen), and the fire-containment benefit may be outweighed by the immediate patient harm if patients are not first transitioned to portable oxygen. The harm is hypoxic injury or death of oxygen-dependent patients. Follow the protocol (which may require checking for dependent patients, transitioning to portable tanks, and notifying staff before shutoff), and coordinate the oxygen shutoff rather than acting unilaterally.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Do I know the emergency codes, the evacuation plan, the evacuation routes, and my role in each, before an event occurs?

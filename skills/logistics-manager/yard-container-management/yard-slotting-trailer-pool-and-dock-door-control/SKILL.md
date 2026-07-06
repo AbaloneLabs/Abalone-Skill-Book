@@ -71,10 +71,8 @@ Yard and dock metrics must be read together. Improving one can make the other wo
 - Letting informal yard move requests override planned priorities and create rehandles.
 - Calling outbound trailers ready before seals, paperwork, release, carrier access, and departure position are confirmed.
 - Ignoring empty equipment until too many block the yard or too few stop loading.
-- Allowing rush requests, door swaps, and late appointment changes without approval, displacement visibility, or safety review.
-- Running normal slotting rules during peak volume, weather disruption, or system outage.
-- Measuring dock utilization while ignoring yard dwell, jockey waits, rehandles, and carrier delay.
-- Treating yard safety as separate from slotting density and move volume.
+- Allowing rush requests, door swaps, and late appointment changes without approval, displacement visibility, or safety review; running normal slotting rules during peak volume, weather disruption, or system outage
+- Measuring dock utilization while ignoring yard dwell, jockey waits, rehandles, and carrier delay; treating yard safety as separate from slotting density and move volume
 
 ## Self-Check
 

@@ -59,6 +59,10 @@ The trap is that the patient reports chills or mild itching, the nurse interpret
 
 The trap is that the transfusion was started, then interrupted by a procedure, transport, or slow flow, and the unit has been hanging near the four-hour limit, so the nurse increases the rate to finish it in time. The mechanism of harm is that bacteria can proliferate in a unit of red cells that has been at room temperature for more than four hours, and infusing a contaminated unit causes septic transfusion reaction, septic shock, and death. The harm is a fatal bacteremia from a unit that should have been discarded. If a unit cannot be completed within the time limit, discontinue it and discard it per protocol; never increase the rate to beat the clock.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I confirm the indication is appropriate, the conservative threshold is respected, and informed consent is documented before starting?

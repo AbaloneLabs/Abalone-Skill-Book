@@ -55,6 +55,10 @@ Monitoring responsibility is often ambiguous at transition — the sending provi
 
 Transfers are routinely delayed — waiting for transport, waiting for bed assignment, waiting for intake — and during these delays, time-sensitive medications are missed. The trap is not planning for medication administration during the gap, assuming the transfer will be quick. The harm is clinical deterioration — rigidity from missed Parkinsonian doses, breakthrough seizures from missed anticonvulsants, pain crises from missed analgesics, rejection risk from missed immunosuppressants — that occurs during the transfer and is attributed to the patient's condition rather than to the missed dose. The corrective is to send time-sensitive medications with the patient, to communicate the dosing schedule, and to verify that the receiving facility administers on time.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I reconcile medications at every transition — not just admission and discharge, but ICU to ward, hospital to SNF, SNF to home, ED to admission?

@@ -98,19 +98,15 @@ Using a pie chart to compare many categories, where the eye cannot compare angle
 
 Connecting discrete categories with a line, implying a false continuum and trend. Use a bar chart for unordered categories; reserve lines for ordered continuous variables (time).
 
-### Cherry-Picked Time Window
+### Cherry-Picked Time Window and omitting Uncertainty
 
 Choosing a start or end date that manufactures the desired trend, hiding the longer context that contradicts it. Show the window that represents the phenomenon, with longer context where relevant.
 
-### Omitting Uncertainty
-
 Drawing a precise line or bar with no confidence interval or error bar, overstating the certainty of an estimate. Show uncertainty where it exists.
 
-### Area Scaling By Radius Instead Of Area
+### Area Scaling By Radius Instead Of Area and dashboard As Metric Dump
 
 Bubble or area charts where the radius (not area) scales with the quantity, making large values look disproportionately huge. Scale area to the quantity.
-
-### Dashboard As Metric Dump
 
 A dashboard with dozens of equally-sized charts and no hierarchy, overwhelming the viewer so nothing is read. Lead with the primary question; limit density; group by theme.
 

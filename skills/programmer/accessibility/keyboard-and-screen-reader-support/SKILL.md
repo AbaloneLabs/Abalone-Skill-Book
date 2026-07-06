@@ -111,11 +111,9 @@ A menu or tablist where every item is `tabindex="0"`, forcing the keyboard user 
 
 An element hidden with `opacity: 0` or a visibility trick that remains in the tab order, so a keyboard user Tabs into invisible space. If it is focusable it must be visible; if it is hidden, remove it from the tab order.
 
-### Assuming The Markup Is Enough Without Testing
+### Assuming The Markup Is Enough Without Testing and no Skip Link On A Nav-Heavy Page
 
 Writing correct `aria-live`, `tabindex`, and focus management and concluding it works, without running a screen reader. Live-region timing, focus behavior, and announcement differ across screen-reader/browser combinations. Verify with at least one real screen reader through the real workflow.
-
-### No Skip Link On A Nav-Heavy Page
 
 A site with a large global navigation and no skip link, forcing keyboard users to Tab through dozens of links on every page to reach content. Add a skip link as the first focusable element targeting the main content.
 

@@ -89,6 +89,10 @@ Account for:
 
 The highest applicable standard governs in each jurisdiction. A classification valid in one state may fail in another.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Treating A Contract Label As Dispositive
@@ -111,6 +115,10 @@ Deductions that undermine the salary basis can destroy exempt status for the ind
 
 A contractor engagement that drifts into permanent integration, or an exempt role whose duties shift to routine production, silently becomes noncompliant.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Has the correct classification test been identified for each applicable regime including FLSA, IRS, state wage law, and any ABC test jurisdiction?
@@ -120,3 +128,4 @@ A contractor engagement that drifts into permanent integration, or an exempt rol
 - Is the classification basis documented and periodically reviewed as the relationship evolves?
 - Are state-specific strictures including ABC tests, higher salary thresholds, and joint employer rules applied in each jurisdiction?
 - Where exposure exists, has the matter been escalated to qualified employment counsel before a conclusion is finalized, recognizing that this guidance is not jurisdiction-specific legal advice?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -71,10 +71,8 @@ Dwell management must be routine. Waiting for month-end detention bills is too l
 - Letting loaded, empty, rejected, damaged, held, and paperwork-pending equipment share one vague status.
 - Discovering detention, demurrage, per diem, or last-free-day exposure only after charges appear.
 - Losing seal, temperature, reefer fuel, or security control while equipment sits in the yard.
-- Creating repeated rehandles because slotting does not match dock sequence and outbound priority.
-- Escalating aged equipment without offering the decision needed to release it from the yard.
-- Treating empty returns and carrier no-shows as low priority until the yard fills.
-- Closing the shipment while equipment still occupies yard capacity or carries cost exposure.
+- Creating repeated rehandles because slotting does not match dock sequence and outbound priority; escalating aged equipment without offering the decision needed to release it from the yard
+- Treating empty returns and carrier no-shows as low priority until the yard fills; closing the shipment while equipment still occupies yard capacity or carries cost exposure
 
 ## Self-Check
 

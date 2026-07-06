@@ -53,6 +53,8 @@ Use a validated recovery score (e.g., Aldrete for PACU, PADSS for day surgery) a
 
 **Missing compartment syndrome after extremity surgery.** After orthopedic or vascular extremity surgery, the nurse attributes increasing pain to the surgery itself and gives more opioid, while the real problem is compartment syndrome — rising pressure in a fascial compartment compromising perfusion. The mechanism of harm is that compartment syndrome presents as pain out of proportion to the surgery, pain with passive stretch, and progressive CMS deficits, and attributing it to routine postoperative pain delays the diagnosis. The harm is irreversible muscle and nerve ischemia leading to permanent disability or amputation. Assess CMS frequently, recognize pain disproportionate to the procedure as a red flag, and escalate immediately.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I assess at the required frequency and trend vitals, pain, sedation, and output rather than treating single values?

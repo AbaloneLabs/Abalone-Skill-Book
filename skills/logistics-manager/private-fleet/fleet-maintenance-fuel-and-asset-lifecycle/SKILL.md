@@ -57,13 +57,11 @@ Internal shops, dealers, mobile mechanics, tire vendors, body shops, and refrige
 
 Maintenance capacity is part of fleet capacity. Vendor delays should be visible in planning.
 
-### Prioritize maintenance backlog by risk
+### Prioritize maintenance backlog by risk and link lifecycle data to routing and utilization
 
 Backlog should be ranked by safety, legal compliance, service criticality, failure probability, route exposure, customer impact, and asset replacement plan. Separate cosmetic or convenience work from defects that should block dispatch.
 
 If all work orders are treated the same, urgent defects wait too long and low-risk work consumes scarce shop time.
-
-### Link lifecycle data to routing and utilization
 
 Use telematics, maintenance history, utilization, downtime, fuel, and route severity to assign assets and plan replacements. High-severity routes may age vehicles faster than mileage alone suggests.
 
@@ -76,12 +74,9 @@ Asset lifecycle decisions should reflect how vehicles are actually used.
 - Letting registrations, inspections, permits, emissions, insurance, leases, and certifications expire unnoticed.
 - Collecting DVIRs and telematics alerts without work-order closure.
 - Treating fuel or charging as a finance topic rather than an availability constraint.
-- Ignoring tires, brakes, batteries, liftgates, refrigeration units, and wear items until failure.
-- Keeping old assets because they are paid off while downtime and repair cost rise.
-- Depending on maintenance vendors without SLA, parts, warranty, and repeat-repair tracking.
-- Managing maintenance backlog by age only instead of safety, compliance, service, and failure risk.
-- Replacing assets by age alone without duty cycle and route severity.
-- Separating maintenance data from dispatch, route planning, and capital planning.
+- Ignoring tires, brakes, batteries, liftgates, refrigeration units, and wear items until failure; keeping old assets because they are paid off while downtime and repair cost rise
+- Depending on maintenance vendors without SLA, parts, warranty, and repeat-repair tracking; managing maintenance backlog by age only instead of safety, compliance, service, and failure risk
+- Replacing assets by age alone without duty cycle and route severity; separating maintenance data from dispatch, route planning, and capital planning
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Asset lifecycle decisions should reflect how vehicles are actually used.
 - Are repair-versus-replace decisions based on cost, downtime, reliability, resale, emissions, safety, and capital?
 - Are vendors managed for SLA, parts, authorization, warranty, emergency response, turnaround, and repeat repairs?
 - Is maintenance backlog prioritized by safety, compliance, service criticality, failure probability, route exposure, and customer impact?
-- Are telematics, utilization, downtime, fuel, maintenance, and route severity used in lifecycle planning?
-- Can the fleet meet service commitments without hiding maintenance and asset risk?
+- Are telematics, utilization, downtime, fuel, maintenance, and route severity used in lifecycle planning?; can the fleet meet service commitments without hiding maintenance and asset risk?

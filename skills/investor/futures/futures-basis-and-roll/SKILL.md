@@ -111,3 +111,4 @@ Futures are leveraged; adverse moves trigger margin calls that can force liquida
 - [ ] Roll mechanics (timing, frequency, slippage, index methodology) and their impact on realized returns are understood.
 - [ ] Contract specifications, liquidity (especially deferred months), position limits, and margin/leverage implications are assessed.
 - [ ] The conclusion references the specific term structure and its roll-yield implication, not just the spot forecast, and includes appropriate risk disclosure regarding leverage and the need for futures-trading experience.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

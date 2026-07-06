@@ -58,8 +58,7 @@ Make denial paths as disciplined as approval paths. If a claim is denied, the re
 - Letting customer service promise remedies that warehouse, inventory, or finance cannot support.
 - Using internal status jargon in customer messages.
 - Ignoring delivered-not-received fraud signals or repeated claim patterns.
-- Resolving the customer ticket without fixing the operational root cause.
-- Failing to document decisions, evidence, and approvals.
+- Resolving the customer ticket without fixing the operational root cause; failing to document decisions, evidence, and approvals
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Make denial paths as disciplined as approval paths. If a claim is denied, the re
 - Is customer communication clear about action, needed information, timing, and next update?
 - Are emotional impacts acknowledged without unauthorized promises?
 - Are decisions, evidence, approvals, and customer commitments logged?
-- Are escalation patterns reviewed for operational corrective action?
-- Are fraud or abuse controls applied with evidence without blocking legitimate service recovery?
+- Are escalation patterns reviewed for operational corrective action?; are fraud or abuse controls applied with evidence without blocking legitimate service recovery?

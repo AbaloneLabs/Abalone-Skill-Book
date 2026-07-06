@@ -59,6 +59,10 @@ The trap is that the nurse waits until the patient is visibly wasted or has lost
 
 The trap is that the team focuses on total calories (or even just "the patient is eating") and ignores the protein, vitamin, and mineral adequacy of the intake. The mechanism of harm is that wound healing, immune function, and muscle preservation depend on adequate protein (often 1.2 to 2 g per kg per day in stressed patients) and specific micronutrients (vitamin C, zinc for wounds; thiamine, folate, B12 in refeeding; iron, vitamin D in chronic deficiency), and a calorie-adequate but protein-poor intake fails to meet these needs. The harm is poor wound healing, infections, and ongoing deficiency despite "adequate" intake. Assess and address the full nutrient profile, not just the calories.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I screen every patient for malnutrition risk on admission using a validated tool, and reassess after a week of poor intake or a new complication?

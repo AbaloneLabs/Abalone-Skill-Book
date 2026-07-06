@@ -107,3 +107,4 @@ Writing a custom allocator when a mature library (jemalloc, tcmalloc, mimalloc, 
 - [ ] Real-time or latency-sensitive paths avoid allocation (pre-allocated into an arena or pool) or use bounded deterministic allocators, and the path is verified allocation-free by measurement (including hidden allocations in library calls, closures, boxing, strings).
 - [ ] The custom allocator is justified by measured benefit, an existing vetted allocator (library or tunable system allocator) was considered first, and the custom allocator integrates debugging support (poisoning, guard pages, leak tracking) so its bugs are diagnosable.
 - [ ] The allocator strategy is re-evaluated when the workload changes, since a strategy tuned for one pattern may hurt under another.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

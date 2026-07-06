@@ -105,6 +105,10 @@ A door in a rated wall has a rated leaf but a non-rated frame, or hardware that 
 
 A building contains multiple occupancy groups requiring separation, but the required occupancy or fire area separation is omitted because the mixed-use condition was not analyzed, and the building is non-compliant. The trap is that mixed occupancies are common and the separation requirement depends on the specific combination and whether a sprinkler is provided, so it is easy to overlook. The harm is a fundamental code violation that can prevent occupancy, require costly retrofit of rated construction, or expose occupants to fire spread between uses. The false signal is that the building is designed and the uses are accommodated, masking the missing separation. Analyzing occupancy groups and fire areas systematically, identifying required separations and their ratings, and documenting the basis is what prevents the omission of a separation the code requires.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are all required fire and smoke separations identified, including occupancy separations, fire areas, exit and shaft enclosures, and smoke barriers, with their ratings documented by code section?
@@ -113,3 +117,5 @@ A building contains multiple occupancy groups requiring separation, but the requ
 - [ ] Is the continuity of every rated assembly maintained across its full extent, including intersections with structure, floor, roof, and exterior walls?
 - [ ] Are all opening protectives, doors, frames, hardware, glazing, and dampers, specified with ratings matching their assembly and location, including self-closing and latching where required?
 - [ ] Has the applicable code been confirmed, the AHJ engaged on ambiguous conditions, and a fire protection engineer consulted for complex or alternative assemblies?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

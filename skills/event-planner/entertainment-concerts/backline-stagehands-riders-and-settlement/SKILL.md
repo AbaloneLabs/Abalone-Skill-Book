@@ -70,12 +70,9 @@ Equipment accountability protects future supplier relationships and prevents sur
 - Discovering local rental gaps at soundcheck.
 - Understaffing load-in and load-out because the show seems simple.
 - Letting backline substitutions change inputs, monitors, power, or stage layout without updating production documents.
-- Forgetting labor minimums, meal breaks, overtime, and union rules.
-- Sending runners without budget, receipts, parking, or authority limits.
-- Misunderstanding deal terms and settlement deductions.
-- Placing merch where it blocks exits, bars, or crowd flow.
-- Skipping merch count-in, count-out, and payment reconciliation.
-- Not inspecting rented equipment and dressing rooms before closeout.
+- Forgetting labor minimums, meal breaks, overtime, and union rules; sending runners without budget, receipts, parking, or authority limits
+- Misunderstanding deal terms and settlement deductions; placing merch where it blocks exits, bars, or crowd flow
+- Skipping merch count-in, count-out, and payment reconciliation; not inspecting rented equipment and dressing rooms before closeout
 
 ## Self-Check
 

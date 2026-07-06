@@ -65,10 +65,8 @@ Do not evaluate only whether the model was numerically accurate. Evaluate whethe
 - Reporting average accuracy while hiding high-impact errors on critical lanes or peak days.
 - Treating model output as a promise rather than a planning input with uncertainty.
 - Allowing human overrides without evidence, recording, or post-review.
-- Blocking human overrides when teams know about events not present in the data.
-- Skipping stress tests for demand spikes, capacity losses, and operational disruptions.
-- Letting downstream teams misuse forecasts for decisions outside the model's scope.
-- Failing to compare forecast output to service, cost, labor, and customer outcomes.
+- Blocking human overrides when teams know about events not present in the data; skipping stress tests for demand spikes, capacity losses, and operational disruptions
+- Letting downstream teams misuse forecasts for decisions outside the model's scope; failing to compare forecast output to service, cost, labor, and customer outcomes
 
 ## Self-Check
 

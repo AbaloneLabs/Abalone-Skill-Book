@@ -70,12 +70,9 @@ Document what was used, what was photographed, and what deliverables remain. Gla
 - Staggering no one and overcrowding backstage.
 - Ignoring model privacy, allergies, modesty, and consent.
 - Promising sponsor product use or visibility that does not happen.
-- Allowing sponsors, creators, photographers, and guests backstage without timing, access, and custody rules.
-- Treating hygiene and tool sanitation as informal.
-- Letting hats, collars, jewelry, and quick changes ruin finished hair or makeup.
-- Allowing content teams to block artists and models during prep.
-- Forgetting disclosure rules for sponsored beauty content.
-- Leaving product returns, waste, and closeout undocumented.
+- Allowing sponsors, creators, photographers, and guests backstage without timing, access, and custody rules; treating hygiene and tool sanitation as informal
+- Letting hats, collars, jewelry, and quick changes ruin finished hair or makeup; allowing content teams to block artists and models during prep
+- Forgetting disclosure rules for sponsored beauty content; leaving product returns, waste, and closeout undocumented
 
 ## Self-Check
 

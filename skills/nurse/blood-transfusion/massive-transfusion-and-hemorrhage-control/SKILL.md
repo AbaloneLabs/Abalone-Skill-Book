@@ -59,6 +59,10 @@ The trap is that the team gives unit after unit of blood (each containing citrat
 
 The trap is that the team keeps delivering products round after round without recognizing that ongoing need signals ongoing hemorrhage requiring source control. The mechanism of harm is that MTP buys time but does not stop the bleeding, and a patient who keeps needing product is bleeding faster than the team is resuscitating, with mortality rising sharply. The harm is death from exsanguination while the team resuscitates instead of controlling the source. Escalate aggressively for definitive control (surgery, interventional radiology, endoscopy, obstetric intervention) the moment it is clear the bleeding is not controlled, and continue MTP as a bridge to that control.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I activate the massive transfusion protocol on clinical grounds without waiting for lab confirmation?

@@ -111,19 +111,15 @@ A CSP that includes `unsafe-inline` in `script-src`, which disables the policy's
 
 `script-src *` or a long list of CDNs and `*.google.com`, any of whose compromise becomes script execution on your site. Minimize the list to specific, reviewed hosts plus `'self'`.
 
-### Report-Only Policy Never Switched To Enforcement
+### Report-Only Policy Never Switched To Enforcement and nonce Combined With unsafe-inline
 
 A CSP deployed in `Content-Security-Policy-Report-Only` that stays report-only indefinitely, providing monitoring but no blocking. Triage reports, then enforce.
 
-### Nonce Combined With unsafe-inline
-
 Including both `'nonce-...'` and `'unsafe-inline'`, which causes browsers to ignore the nonce (the policy degrades to allowing inline). When using nonces, remove `unsafe-inline` entirely.
 
-### Static Or Predictable Nonce
+### Static Or Predictable Nonce and trusting A CDN Domain That Hosts User-Uploaded Content
 
 A nonce that is hardcoded or reused across requests, defeating the per-request uniqueness that makes nonces secure. Generate a fresh CSPRNG nonce per response.
-
-### Trusting A CDN Domain That Hosts User-Uploaded Content
 
 Allowing a storage/CDN domain in `script-src` that also serves user-uploaded files, so an attacker uploads a script and it executes under the allowed source. Separate user content origins from script-allowed origins.
 

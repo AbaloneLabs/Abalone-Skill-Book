@@ -57,6 +57,10 @@ Trust in a dependency is not permanent; maintainers change, packages are abandon
 - **Track and respond to advisories.** Subscribe to vulnerability advisories for the dependencies in use and respond when one affects you (see the vulnerability-triage skill).
 - **Prefer fewer dependencies.** Every dependency is trust debt; the fewer you have, the smaller the surface and the less there is to audit.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Adopting On Popularity Or Name Without Verification
@@ -95,3 +99,5 @@ Registry and scope policies applied in CI but not locally (or vice versa), leavi
 - [ ] Registry and scope policies are configured defensively (private scopes resolve only to private registries, allowed registries restricted, internal proxy/vetting where feasible) and applied consistently across all environments.
 - [ ] The dependency set is audited periodically (maintainers still reputable, packages not abandoned/transferred, licenses/behaviors unchanged), unused dependencies are removed, advisories are tracked and responded to, and fewer dependencies are preferred to reduce the surface.
 - [ ] The highest-risk cases were verified — a typosquat caught by name verification, a dependency-confusion attempt blocked by scoped registry configuration, a pinned version with integrity verification preventing a swapped artifact, and a periodic audit catching an abandoned-and-transferred package — not only the clean install-works path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

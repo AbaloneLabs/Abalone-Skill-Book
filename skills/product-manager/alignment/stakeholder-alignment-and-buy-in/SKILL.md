@@ -82,5 +82,4 @@ Believing strongly in the decision is not the same as having secured others' sup
 - [ ] The decision was confirmed in writing immediately, with owner, alternatives, and revisit triggers recorded.
 - [ ] Quiet or non-responsive stakeholders were followed up with individually rather than treated as consenting.
 - [ ] The alignment was re-confirmed at major phase transitions rather than assumed permanent from kickoff.
-- [ ] Dissenting stakeholders who are not blockers were documented rather than ignored, so their concerns are tracked.
-- [ ] Personal conviction in the decision was not mistaken for actual stakeholder buy-in.
+- [ ] Dissenting stakeholders who are not blockers were documented rather than ignored, so their concerns are tracked; [ ] Personal conviction in the decision was not mistaken for actual stakeholder buy-in

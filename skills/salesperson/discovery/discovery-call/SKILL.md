@@ -1,187 +1,96 @@
 ---
-name: discovery_call.md
-description: Use when the agent is preparing for or reviewing a sales discovery call, customer conversation, needs assessment, consultative sales meeting, or early buyer conversation where the salesperson must understand pain, context, stakeholders, and fit.
+name: discovery-call.md
+description: Use when the agent is preparing for, conducting, reviewing, or summarizing sales discovery calls, including problem validation, buyer context, decision process, stakeholder mapping, qualification, next steps, and whether the opportunity should advance.
 ---
 
 # Discovery Call
 
-A discovery call is not a demo waiting room. It is a structured conversation to understand the customer's situation, problem, stakes, current process, decision context, and whether further sales work is useful. Good discovery creates clarity for both sides. Poor discovery rushes into features, misses the real buying reason, and produces proposals that do not match the customer's world.
-
-Use this skill before preparing questions, reviewing call notes, summarizing a prospect conversation, deciding whether to demo, or planning follow-up. The goal is to prevent the agent from turning discovery into a pitch.
+A discovery call is not a polite interview before a pitch. It is where the seller tests whether there is a real business problem, whether the buyer can act, and whether the seller can responsibly help. Weak discovery collects surface facts while missing impact, authority, urgency, decision process, and fit risk. This skill helps the agent run discovery as evidence gathering and buyer enablement.
 
 ## Core Rules
 
-### Prepare A Hypothesis, Not A Script
+### Start with the buyer's reason for talking
 
-Before the call, form a hypothesis about the prospect's likely situation, but do not cling to it.
+Clarify why the buyer agreed to the conversation, what changed, and what they hope to learn. Do not assume the seller's hypothesis is correct. The buyer may be researching, comparing, solving an urgent issue, satisfying a boss, or simply curious.
 
-Prepare:
+The call should adapt to the buyer's actual reason, not force a preset script.
 
-- known account context;
-- likely business or personal pressure;
-- relevant trigger event;
-- possible current alternatives;
-- stakeholders who may care;
-- expected objections;
-- what must be learned before recommending next steps.
+### Explore current state before solution talk
 
-Questions should guide learning, not force the prospect into the seller's preferred story.
+Understand the process today, tools involved, people affected, volume, failure points, workarounds, and what has already been tried. Without current state, the seller cannot connect value to reality.
 
-### Open With Purpose And Agenda
+Avoid jumping to features before the workflow is clear.
 
-The prospect should know why the call is happening and what they will get from it.
+### Quantify impact carefully
 
-Set:
+Ask about time, cost, revenue, risk, errors, customer impact, compliance exposure, employee effort, missed opportunities, or strategic goals. If numbers are unavailable, capture directional impact and what would prove it.
 
-- time available;
-- purpose;
-- expected flow;
-- permission to ask questions;
-- room for their priorities;
-- outcome of the call.
+Do not invent ROI from vague pain.
 
-Example structure: "I'd like to understand what prompted the conversation, how you handle this today, what matters in a decision, and then we can decide whether it makes sense to look at options."
+### Identify decision and authority path
 
-### Explore Current State Before Future State
+Ask who is involved, who owns budget, who uses the product, who approves technical or legal review, and who can stop the project. Map the process without making the buyer feel interrogated.
 
-Do not jump to the desired solution before understanding how things work now.
+Discovery is incomplete if the seller only knows the first contact.
 
-Ask:
+### Test urgency and cost of inaction
 
-- what process exists today;
-- who is involved;
-- where friction appears;
-- what tools or vendors are used;
-- what workarounds exist;
-- how often the issue occurs;
-- what has already been tried;
-- why prior attempts did not solve it.
+Understand why the buyer would act now rather than later. Look for deadlines, renewals, incidents, growth, leadership goals, audit pressure, budget cycle, or operational pain. If no urgency exists, nurture may be better than pressure.
 
-The current state often reveals hidden constraints and political reality.
+Seller enthusiasm is not buyer urgency.
 
-### Quantify Impact Carefully
+### Check fit and disqualifying signals
 
-Impact gives weight to the problem, but it should be grounded in the prospect's reality.
+Ask enough to uncover unsupported requirements, unrealistic expectations, missing resources, budget mismatch, integration constraints, security needs, or implementation risk. Do not hide fit concerns to keep momentum.
 
-Explore:
+Good discovery protects both sides.
 
-- time lost;
-- money lost;
-- revenue delayed;
-- error rates;
-- customer complaints;
-- compliance risk;
-- employee frustration;
-- missed opportunities;
-- strategic initiatives affected.
+### Earn permission for next steps
 
-Do not invent ROI for the prospect. Help them estimate impact with transparent assumptions.
+Next steps should be based on buyer-confirmed value: deeper discovery, demo, technical validation, business case, stakeholder meeting, proposal, or disqualification. Confirm what the buyer will do, not only what the seller will send.
 
-### Understand Decision Context
+Progress requires mutual action.
 
-A discovery call should reveal whether the prospect can act and how.
+### Record evidence, not impressions and use call time for what cannot be inferred
 
-Ask:
+After the call, capture direct buyer language, facts, assumptions, gaps, next steps, stakeholder map, decision criteria, risks, and follow-up owner. Avoid vague notes like "great call."
 
-- why they are exploring now;
-- what happens if they do nothing;
-- how decisions like this are made;
-- who else needs input;
-- what criteria matter;
-- what risks they need to reduce;
-- budget or approval path;
-- timing and next milestone.
+CRM should support the next seller or team.
 
-Do not wait until the end of the sales process to discover procurement, legal, budget, or executive approval.
+Do not spend live discovery asking questions that could be answered from public research or CRM history unless confirmation matters. Use the buyer's time for nuance: why now, what has failed, who is affected, how decisions are made, and what risks they see.
 
-### Listen For Language And Emotion
+Preparation quality determines whether discovery feels valuable or extractive.
 
-The exact words a prospect uses matter. They reveal urgency, skepticism, politics, and value. Capture phrases, not only categories.
+### Balance structure with listening and confirm the problem summary before closing
 
-Notice:
+A discovery framework is useful, but the seller should follow important buyer signals. If the buyer reveals a high-risk blocker, stakeholder conflict, failed prior project, or unexpected success criterion, explore it rather than forcing the next scripted question.
 
-- repeated pain language;
-- hesitation;
-- strong emotional words;
-- contradictions;
-- names of stakeholders;
-- words used to describe success;
-- concerns about risk or trust.
+The goal is judgment, not completing a questionnaire.
 
-Use their language in follow-up. It shows understanding and prevents generic selling.
+Before ending, summarize what you heard: problem, impact, stakeholders, timing, open questions, and proposed next step. Give the buyer a chance to correct it.
 
-### Earn The Right To Recommend
-
-Only recommend a demo, proposal, pilot, or next step after confirming the problem and fit. If discovery shows weak fit, say so professionally.
-
-A good next step should match what was learned:
-
-- deeper technical discovery;
-- stakeholder meeting;
-- demo focused on specific use cases;
-- business case review;
-- mutual action plan;
-- no next step if fit is poor.
-
-### Document What Was Learned Immediately
-
-Discovery loses value when notes are vague or delayed. Capture the conversation while the details are still fresh. The notes should be useful to the seller, manager, solution consultant, implementation team, and future customer success owner.
-
-Record:
-
-- stated problem;
-- business impact;
-- current process;
-- stakeholders mentioned;
-- decision criteria;
-- timeline driver;
-- objections or worries;
-- exact language the prospect used;
-- promised follow-up;
-- unknowns to test next.
-
-Avoid notes that only say "good call" or "interested". Good notes make the next conversation sharper and prevent the team from asking the prospect to repeat basic context.
+This prevents the seller from building the next stage on a misunderstood discovery call.
 
 ## Common Traps
 
-### Pitching Too Early
-
-Once the salesperson starts explaining features, discovery quality often drops. Learn first, then connect.
-
-### Asking Interrogation Questions
-
-Discovery should feel like a useful conversation, not a form. Explain why questions matter and reflect back what you hear.
-
-### Ignoring Negative Signals
-
-If there is no urgency, no owner, no consequence, or no fit, the call should not be forced into a next step.
-
-### Accepting Surface Pain
-
-"We need better reporting" is not enough. Better reporting for what decision, by whom, when, and with what cost if wrong?
-
-### Talking Only To Champions
-
-A champion's enthusiasm is valuable, but discovery should identify other stakeholders and possible blockers.
-
-### Skipping Recap
-
-Without a recap, misunderstandings persist. Summarize problem, impact, constraints, decision process, and next step.
-
-### Treating Notes As CRM Chores
-
-Discovery notes are not administrative leftovers. They are the memory of the opportunity. Weak notes create weak proposals, bad handoffs, and confused forecasts.
+- Treating discovery as a checklist before a demo.
+- Asking many questions without understanding why the buyer took the call.
+- Pitching before current process and pain are clear.
+- Accepting vague impact without evidence or follow-up; ignoring decision process because the buyer is friendly
+- Creating urgency from the seller's timeline rather than the buyer's; avoiding fit-risk questions to keep the opportunity alive
+- Ending with seller actions only and no buyer commitment; recording impressions instead of evidence
+- Advancing the deal because the call felt positive; wasting live call time on facts that research already showed while missing buyer nuance
+- Following a discovery script so rigidly that important buyer signals are ignored; ending without confirming the seller's understanding of the problem and next step
 
 ## Self-Check
 
-- [ ] The call has a preparation hypothesis but does not force the prospect into it.
-- [ ] Purpose, agenda, timing, and expected outcome are clear at the start.
-- [ ] Current state, workflow, tools, stakeholders, workarounds, and prior attempts are understood before pitching.
-- [ ] Problem impact is quantified or at least described in concrete business, personal, operational, or risk terms.
-- [ ] Decision process, criteria, authority, budget path, timing, and risks are explored.
-- [ ] The prospect's exact language, emotions, objections, and success definitions are captured.
-- [ ] The seller confirms understanding before recommending a next step.
-- [ ] Negative fit signals are acknowledged rather than ignored.
-- [ ] Follow-up summarizes problem, impact, constraints, decision process, and agreed next action.
-- [ ] Notes capture exact customer language, stakeholders, objections, unknowns, and promised follow-up.
-- [ ] The call creates mutual clarity, not just seller momentum.
+- Is the buyer's reason for talking clear?
+- Is current state mapped across process, tools, people, volume, failure points, and workarounds?
+- Is impact quantified or evidence gaps identified?
+- Are decision makers, users, budget owners, technical reviewers, legal, procurement, and blockers mapped?
+- Is urgency tied to a buyer-owned reason?
+- Are unsupported requirements and implementation risks surfaced?
+- Is the next step based on confirmed value and mutual action?
+- Are direct buyer statements and assumptions separated?; are CRM notes sufficient for another owner to continue?
+- Does advancement depend on evidence rather than a positive feeling?; was live call time used for nuance and validation rather than basic research?
+- Did the seller follow important buyer signals while still covering core discovery?; was the problem summary confirmed with the buyer before close?

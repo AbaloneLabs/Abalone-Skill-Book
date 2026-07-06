@@ -54,8 +54,7 @@ After the disruption, review what worked. Did safety stock cover the risk? Were 
 - Letting sales promise one recovery plan while logistics, procurement, and finance make different assumptions.
 - Ignoring duties, licenses, customs, hazmat, temperature, or insurance changes when rerouting internationally.
 - Tracking premium freight cost but not the root cause, decision owner, or avoided business impact.
-- Treating the disruption as over when the delayed shipment delivers, without fixing the resilience gap.
-- Communicating only best-case ETAs during uncertainty.
+- Treating the disruption as over when the delayed shipment delivers, without fixing the resilience gap; communicating only best-case ETAs during uncertainty
 
 ## Self-Check
 

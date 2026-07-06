@@ -1,144 +1,82 @@
 ---
-name: customer_response_quality.md
-description: Use when the agent is writing or reviewing a customer support response, handling a complaint, explaining a policy, giving troubleshooting steps, apologizing, refusing a request, or communicating resolution clearly and safely.
+name: customer-response-quality.md
+description: Use when the agent is writing, editing, or reviewing a customer support response for clarity, completeness, tone, accuracy, next steps, customer effort, privacy, policy fit, macro adaptation, or whether the message actually resolves the support conversation.
 ---
 
 # Customer Response Quality
 
-A support response must be accurate, useful, respectful, and safe. It should help the customer understand what happened, what they can do, what support will do, and what remains uncertain. A friendly response that is inaccurate can create more harm than a blunt one. A technically correct response that ignores the customer's situation can feel dismissive and lead to escalation.
-
-Use this skill before writing replies to customer tickets, complaints, billing questions, product confusion, bug reports, policy exceptions, cancellations, or sensitive account issues. The goal is to prevent the agent from producing generic empathy, unsupported promises, or unsafe disclosure.
+A support response is not good because it is polite or long. It is good when the customer can understand what happened, what support can do, what they need to do, and what will happen next without rereading the thread or guessing intent. Agents often optimize for speed, friendliness, or template compliance and miss accuracy, ownership, risk, and customer effort. This skill helps the agent judge the response as an operational artifact, not just a message.
 
 ## Core Rules
 
-### Answer The Actual Customer Concern
+### Answer the actual customer need
 
-Start by identifying what the customer is asking, what they are feeling, and what outcome they need. Customers often include several issues in one message; do not answer only the easiest part.
+Start from the customer's job, not the internal category. Identify the question, requested action, described harm, and implicit need. A customer asking "why was I charged?" may need charge explanation, refund eligibility, cancellation confirmation, prevention of future charges, and reassurance that account access is safe.
 
-Check:
+Do not answer only the easiest visible sentence. If the customer raised several issues, acknowledge each one or state which part is being handled first and why.
 
-- question asked;
-- problem described;
-- desired outcome;
-- urgency;
-- emotion;
-- account or product context;
-- prior history;
-- hidden concern such as trust, money, access, data, or time pressure.
+### Make facts, limits, and next steps explicit
 
-The response should make the customer feel understood because it reflects their specific situation, not because it opens with a canned apology.
+A high-quality response separates confirmed facts, policy limits, pending investigation, and customer action. The customer should know which statements are certain and which are conditional. If the answer depends on verification, logs, carrier data, payment processor review, engineering confirmation, or another team, say that plainly.
 
-### Be Accurate Before Being Reassuring
+Avoid vague phrases such as "should be fine," "soon," "handled," or "we are looking into it" when a more precise process statement is available.
 
-Do not reassure beyond the facts. If the cause is unknown, say what is known, what is being checked, and when the customer can expect an update.
+### Reduce customer effort
 
-Avoid:
+Before sending the response, remove unnecessary work from the customer. Check whether support can already see the order, invoice, device, plan, version, prior tickets, attachments, or screenshots. Ask only for information that is needed and safe to share.
 
-- "This will definitely be fixed today" without confirmation;
-- "Your data is safe" before verification;
-- "No one else is affected" without evidence;
-- "You will receive a refund" before eligibility check;
-- "This is a known issue" if it is not confirmed.
+When the customer must act, make the action sequence clear and short. Put the most important action first. Explain why the action is needed if it may feel repetitive or burdensome.
 
-Trust grows when support distinguishes facts, assumptions, actions, and next updates.
+### Adapt macros instead of reciting them
 
-### Use Plain, Specific Language
+Macros are starting points, not the final message. Adapt names, dates, product details, policy reason, customer impact, and prior context. Remove irrelevant template lines. Add a case-specific explanation where the macro would otherwise sound evasive.
 
-Customers should not need internal vocabulary to understand the answer. Translate system, policy, or technical details into customer-relevant language.
+If the macro conflicts with the actual case, do not use it. Escalate or draft a custom response that fits the approved policy.
 
-Good responses:
+### Keep tone proportional to impact
 
-- name the issue plainly;
-- explain what happened if known;
-- provide steps in order;
-- mention what result to expect;
-- describe what to do if the step fails;
-- avoid internal acronyms;
-- avoid blaming the customer.
+Tone should fit the customer state and severity. Routine how-to cases can be concise and friendly. Billing harm, account lockout, safety concern, repeated failure, broken promise, or public complaint needs more ownership and care. Empathy should acknowledge the customer's situation without creating false admissions, overpromising, or sounding scripted.
 
-If the answer is long, use headings or short numbered steps.
+Avoid cheerful language when the customer is harmed. Avoid cold policy language when the issue affects money, access, work, safety, or trust.
 
-### Give Actionable Next Steps
+### Preserve privacy, security, and authority
 
-A response should leave the customer knowing what happens next.
+Do not expose private account details, internal notes, fraud signals, security procedures, employee names that should remain internal, or another customer's information. Do not request passwords, full payment numbers, secrets, private keys, or unnecessary identity documents.
 
-Possible next steps:
+Also check authority. A response should not promise refunds, credits, replacements, restoration, legal interpretations, engineering timelines, or special handling unless the agent has permission and evidence.
 
-- customer action;
-- support investigation;
-- escalation;
-- refund review;
-- account verification;
-- workaround;
-- update time;
-- closure condition.
+### Make the message scannable
 
-When asking for information, ask only for what is needed and explain why. Provide safe ways to share it and tell the customer what not to send when relevant.
+Customers often read support responses under stress or on mobile. Use short paragraphs, direct sentences, and clear ordering. If there are several steps, number them. If the answer includes both resolution and explanation, lead with what matters most to the customer.
 
-### Communicate Policy With Reason And Respect
+Scannability is not decoration. It prevents missed steps, repeated contacts, and misinterpretation.
 
-Policy responses are often emotionally charged. A customer may hear policy as rejection. Explain the relevant rule, why it exists where appropriate, what options remain, and whether any escalation or exception path exists.
+### Close the loop or define the open loop
 
-Do not hide behind "policy says". Also do not invent exceptions. If the answer is no, say no clearly and respectfully.
+Every response should either resolve the issue, move it forward, or explain why it cannot be moved forward now. If the case remains open, state the next owner, next condition, expected update path, or customer action. If it is resolved, state the outcome and any prevention or follow-up information the customer needs.
 
-### Protect Privacy And Security
-
-Do not reveal account information, internal notes, other users' data, fraud signals, security details, or private operational reasoning unless the customer is authorized and the information is appropriate to share.
-
-Be careful with:
-
-- account ownership disputes;
-- password or login issues;
-- payment details;
-- data export or deletion;
-- security reports;
-- abuse investigations;
-- third-party requests;
-- screenshots and logs.
-
-When in doubt, verify identity or route to the appropriate privacy, security, or legal path.
-
-### Close The Loop
-
-When resolving a ticket, state what was done, what the customer should see, whether any action remains, and how to reopen or continue if the issue persists.
-
-A strong closure prevents repeat contacts and shows ownership.
+Do not leave the customer wondering whether support is waiting on them or they are waiting on support.
 
 ## Common Traps
 
-### Empty Empathy
-
-"We understand your frustration" is not enough if the response ignores the actual problem. Specific acknowledgment is better.
-
-### Over-Apologizing Without Action
-
-Apologies matter when the company caused harm or confusion. But repeated apology without solution, explanation, or next step can feel evasive.
-
-### Answering With Internal Process
-
-Customers usually do not need to know every internal queue or team. They need to know what will happen and when.
-
-### Blaming The User
-
-Even when the customer made a mistake, use neutral language. "The file format is not supported" is better than "You uploaded the wrong file."
-
-### Closing Too Early
-
-If the customer must confirm a fix, or if the issue is still under investigation, do not mark the conversation as resolved without a clear reason.
-
-### Copying Templates Without Adaptation
-
-Templates create consistency but can miss context. Adjust them to the customer's issue, history, and tone.
+- Polishing tone while failing to answer the actual issue.
+- Using a macro that ignores customer-specific facts, impact, or prior history.
+- Asking for information already visible in the ticket, account, attachment, or logs.
+- Mixing confirmed facts with guesses, assumptions, or hoped-for outcomes.
+- Saying "resolved" when the customer still needs a next step, confirmation, or prevention guidance; overusing apology language that implies fault before evidence is established
+- Giving policy explanations without what the customer can do next; exposing private details or internal reasoning to sound transparent
+- Making the response long but not more actionable; treating a high-impact issue like a routine informational request
+- Forgetting to state who is waiting on whom; closing with a friendly sentence that masks an unresolved operational gap
 
 ## Self-Check
 
-- [ ] The response addresses every material customer concern, not only the easiest question.
-- [ ] Facts, assumptions, next actions, and unknowns are separated.
-- [ ] The response avoids unsupported reassurance, fix dates, refunds, safety claims, or policy exceptions.
-- [ ] Language is plain, specific, and free of unnecessary internal jargon.
-- [ ] Troubleshooting or action steps are ordered and explain expected results.
-- [ ] Requests for customer information are necessary, narrow, and safe.
-- [ ] Privacy, security, authorization, account ownership, and third-party data boundaries are protected.
-- [ ] Policy explanations are clear, respectful, and include available options or escalation paths.
-- [ ] The customer knows what happens next, who owns it, and when to expect an update where possible.
-- [ ] Closure explains what changed and what to do if the issue continues.
+- Does the response answer the customer's actual question, requested action, harm, and implicit need?
+- Are all material issues in the customer's message acknowledged or intentionally sequenced?
+- Are confirmed facts, policy limits, unknowns, and pending investigation separated?
+- Were available account, order, invoice, product, ticket, attachment, and log details checked before asking the customer for more?
+- Are customer actions necessary, safe, ordered, and explained?
+- Has any macro been adapted to the specific case, with irrelevant or misleading lines removed?
+- Is the tone proportional to severity, emotion, financial harm, account access, safety, repeated failure, and broken promises?
+- Does the response avoid unauthorized commitments about refunds, credits, replacements, access, timelines, fixes, legal outcomes, and exceptions?
+- Are privacy and security protected, including sensitive data requests and account details?
+- Is the message easy to scan on mobile and clear enough that the customer can act without rereading the thread?; does the response either close the issue or define the next owner, customer action, condition, or update path?

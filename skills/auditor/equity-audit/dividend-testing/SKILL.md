@@ -176,5 +176,4 @@ A reinvestment plan issues shares and reduces the cash dividend actually paid. T
 - Were cumulative preferred dividends in arrears computed and disclosed, with liability recognition assessed?
 - Were debt covenants, preference terms, and regulatory restrictions on dividends reviewed for compliance?
 - Are proposed but undeclared dividends disclosed rather than accrued?
-- Is the dividend reconciliation supported from declaration through payment, and consistent with the cash flow and equity statements?
-- Are dividends per share, restrictions, and dividends in arrears adequately disclosed?
+- Is the dividend reconciliation supported from declaration through payment, and consistent with the cash flow and equity statements?; are dividends per share, restrictions, and dividends in arrears adequately disclosed?

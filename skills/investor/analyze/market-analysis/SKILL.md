@@ -1,6 +1,6 @@
 ---
 name: market_analysis.md
-description: Use when the agent needs to analyze a market, market regime, asset-class backdrop, macro environment, sector cycle, or broad investment context before forming a view on risk, opportunity, timing, valuation pressure, liquidity, or portfolio exposure.
+description: Use when the agent is analyzing a market, market regime, asset-class backdrop, macro environment, sector cycle, or broad investment context before forming a view on risk, opportunity, timing, valuation pressure, liquidity, or portfolio exposure.
 ---
 
 # Market Analysis
@@ -110,6 +110,10 @@ Check at least several of these:
 - Geopolitics: sanctions, conflict, trade policy, supply chain risk
 
 The goal is not to mention every category. The goal is to prevent a single attractive story from dominating the analysis.
+
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
 
 ## Common Traps
 

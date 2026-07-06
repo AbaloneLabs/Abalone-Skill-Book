@@ -97,8 +97,7 @@ Where monitoring is absent or ineffective, controls cannot be assumed to have op
 - **Treating repeat findings as routine rather than as a signal of systemic monitoring failure.**
 - **Leveraging monitoring output as primary audit evidence without testing the monitoring control's design and operation.**
 - **Missing the granularity mismatch** — frequent but shallow review, or deep but rare review, neither of which matches the risk.
-- **Assuming analytics-based monitoring is strong without testing the data integrity and ITGCs that underpin it.** A monitoring dashboard fed by corruptible data is itself corruptible.
-- **Letting a generally strong monitoring narrative mask a specific gap** (e.g., no monitoring of a new acquisition's controls) that still requires direct testing.
+- **Assuming analytics-based monitoring is strong without testing the data integrity and ITGCs that underpin it.** A monitoring dashboard fed by corruptible data is itself corruptible; **Letting a generally strong monitoring narrative mask a specific gap** (e.g., no monitoring of a new acquisition's controls) that still requires direct testing
 
 ## Self-Check
 

@@ -53,10 +53,8 @@ Build sustainability checkpoints into creative review, procurement, menu plannin
 - Letting vendors bring incompatible packaging that ruins waste sorting.
 - Measuring only front-of-house waste and ignoring back-of-house production and catering waste.
 - Accepting sponsor giveaways or builds that contradict the event's sustainability claims.
-- Reporting estimated impact as if it were measured.
-- Treating sustainability as one person's task instead of a requirement for venue, catering, production, sponsors, and vendors.
-- Giving sustainability goals no decision owner when they conflict with convenience, budget, or sponsor requests.
-- Reviewing environmental impact only after creative, catering, production, and sponsor materials are already approved.
+- Reporting estimated impact as if it were measured; treating sustainability as one person's task instead of a requirement for venue, catering, production, sponsors, and vendors
+- Giving sustainability goals no decision owner when they conflict with convenience, budget, or sponsor requests; reviewing environmental impact only after creative, catering, production, and sponsor materials are already approved
 
 ## Self-Check
 

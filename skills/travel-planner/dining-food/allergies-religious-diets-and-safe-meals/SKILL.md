@@ -54,8 +54,7 @@ Emergency readiness matters. For severe allergy travel, include local emergency 
 - Recommending food tours or cooking classes to high-risk travelers without operator-specific verification.
 - Using machine translation for severe allergies without local terminology or traveler review.
 - Over-sharing private medical or religious details with group members or vendors who do not need them.
-- Planning a remote itinerary with no safe food backup or emergency access.
-- Assuming a traveler follows a diet in the same way every other traveler with the same label does.
+- Planning a remote itinerary with no safe food backup or emergency access; assuming a traveler follows a diet in the same way every other traveler with the same label does
 
 ## Self-Check
 

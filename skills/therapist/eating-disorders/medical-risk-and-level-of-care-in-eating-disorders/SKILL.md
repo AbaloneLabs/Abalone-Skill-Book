@@ -61,6 +61,10 @@ A therapist may underestimate how aggressively an eating disorder will sabotage 
 
 A therapist may treat an eating disorder with therapy alone, referring to a medical provider or dietitian only nominally or not at all, when the condition requires an integrated team and the therapist alone cannot manage the medical and nutritional dimensions. The mechanism of harm is that the therapist practices below the standard of care, the medical and nutritional dimensions go unaddressed, and the client's risk is not monitored by the people qualified to monitor it. The harm is that the client receives incomplete care, medical instability goes undetected, and the treatment fails for reasons that were preventable. Establishing and actively coordinating a full team is a prerequisite for treating eating disorders.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess medical risk continuously, tracking weight trends, vitals, purging, labs, and signs of cardiovascular compromise, not only at intake?

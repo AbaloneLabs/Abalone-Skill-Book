@@ -112,3 +112,4 @@ Early sale often realizes a loss. The note must be held to autocall or maturity.
 - [ ] Issuer credit risk, default correlation with market declines, and secondary-market illiquidity are evaluated.
 - [ ] The autocallable is compared to direct equity, bond, and option strategies (covered call, put-selling), and the embedded fees and opacity are recognized.
 - [ ] The conclusion avoids presenting the headline coupon as safe yield, references the barrier, path dependence, issuer risk, and capped upside, and notes the investor-specific suitability and the need for structured-products experience.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

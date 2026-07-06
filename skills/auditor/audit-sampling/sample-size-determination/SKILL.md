@@ -81,8 +81,7 @@ The ultimate test of sample size is whether it can support the conclusion drawn.
 - **Inflating sample size for large populations** under the false belief that bigger populations always need bigger samples.
 - **Justifying judgemental sizes without reference to the driving factors**, making them indefensible.
 - **Failing to stratify**, sampling homogeneously across a population with a few very large items, which both wastes effort and under-covers the large items.
-- **Clinging to the original sample size when actual errors exceed expected**, instead of extending the sample or changing approach.
-- **Choosing a size that cannot realistically detect a material misstatement**, leaving the conclusion exposed if challenged.
+- **Clinging to the original sample size when actual errors exceed expected**, instead of extending the sample or changing approach; **Choosing a size that cannot realistically detect a material misstatement**, leaving the conclusion exposed if challenged
 
 ## Self-Check
 

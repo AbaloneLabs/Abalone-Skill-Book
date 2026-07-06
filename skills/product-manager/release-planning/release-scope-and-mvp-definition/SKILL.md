@@ -84,3 +84,4 @@ Adding and cutting scope without naming costs. The trap is accidental bloat or e
 - [ ] Reversibility and risk are considered, with hard-to-reverse decisions scoped carefully and risky work separated from certain value.
 - [ ] Scope tradeoffs are made visible, with each addition and cut naming its cost or benefit.
 - [ ] The release delivers real value and generates real learning, not merely minimal output.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

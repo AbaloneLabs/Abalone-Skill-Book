@@ -39,6 +39,10 @@ Insurance recovery can be lost by late notice, unauthorized settlement, poor doc
 
 The agent should not adjust claims or provide legal conclusions. The correct role is to identify potential claim surfaces, prevent avoidable documentation gaps, and direct stakeholders to the broker, insurer, counsel, or risk manager. Communications should distinguish operational decisions from coverage determinations.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Assuming event cancellation insurance covers low ticket sales, sponsor withdrawal, poor planning, or ordinary business risk. Many policies exclude commercial underperformance.

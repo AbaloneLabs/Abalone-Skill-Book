@@ -77,8 +77,7 @@ Higher-frequency controls, tested across many instances, support statistical or 
 - **Failing to test each quarter for quarterly controls**, or each instance for one-time controls, leaving gaps in period-wide coverage.
 - **Ignoring period-end operation** for controls that support period-end assertions, leaving a timing gap.
 - **Not adjusting testing when frequency changed mid-period**, either over- or under-testing one segment.
-- **Applying population-level sampling logic to one-time or low-frequency controls** where a few instances cannot support a statistical conclusion, instead of deepening the per-instance testing.
-- **Concentrating samples on a single operator or location** for a manual control, missing variability that defines manual control risk.
+- **Applying population-level sampling logic to one-time or low-frequency controls** where a few instances cannot support a statistical conclusion, instead of deepening the per-instance testing; **Concentrating samples on a single operator or location** for a manual control, missing variability that defines manual control risk
 
 ## Self-Check
 

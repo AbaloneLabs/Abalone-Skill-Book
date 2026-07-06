@@ -59,6 +59,10 @@ The trap is that the transfusion is stopped, the patient is stabilized, and the 
 
 The trap is that the patient has had many transfusions without reaction, so the nurse is less vigilant, treating the transfusion as routine. The mechanism of harm is that transfusion reactions can occur at any time, including after many uneventful transfusions, because antibody formation, product factors, and patient status change over time. The harm is a missed early reaction in a patient assumed to be "safe." Apply the same vigilance and the same first-fifteen-minute monitoring to every transfusion, regardless of the patient's history.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For any new symptom during a transfusion, did I stop the transfusion, maintain IV access with new normal saline tubing, assess the patient, and notify the provider and blood bank?

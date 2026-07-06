@@ -29,6 +29,10 @@ Chemotherapy requires an independent double-verification (two qualified persons 
 
 Oral chemotherapy (capecitabine, temozolomide, the oral tyrosine kinase inhibitors, the newer oral agents) carries the same toxicity and the same narrow therapeutic window as intravenous chemotherapy, but it is dispensed and self-administered like a routine oral medication, and the verification and the adherence discipline are often lower. The pharmacist must apply the same verification to oral chemotherapy as to intravenous (the regimen against the protocol, the dose calculation, the labs and the toxicity assessment, the double-verification), must provide the patient education that the toxicity requires (the handling, the administration schedule, the missed-dose instructions, the toxicity self-monitoring and reporting, the drug and food interactions), and must support the adherence that the regimen requires (the oral chemotherapy that is not taken or is taken incorrectly produces treatment failure or toxicity equivalent to an intravenous error). The pharmacist must recognize that oral chemotherapy shifts the responsibility for safe administration from the clinical team to the patient, and the shift requires the pharmacist's education and follow-up to ensure the patient can manage it. The pharmacist must monitor the oral chemotherapy patient for the toxicity (the labs, the symptoms, the adherence) and must communicate with the oncology team, because the oral route does not reduce the need for oversight.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Verifying the Current Cycle Without Comparing to the Treatment Plan or Prior Cycles
@@ -51,6 +55,10 @@ Chemotherapy includes look-alike and sound-alike agents (vincristine and vinblas
 
 Oral chemotherapy is dispensed and self-administered, which makes it feel like a routine oral prescription, but the toxicity and the narrow therapeutic window are the same as intravenous chemotherapy, and the routine dispensing (without the regimen verification, the labs check, the patient education, the adherence support) produces harm equivalent to an intravenous error. The trap is that the oral route feels safer and simpler, so the verification and the education are reduced, and the patient receives the oral chemotherapy without the oversight the toxicity requires. The harm is the treatment failure (the patient does not take it correctly), the toxicity (the patient does not recognize or report the adverse effects), or the interaction (the patient takes an interacting medication or food). The fix is to apply the full chemotherapy verification and education to oral agents, to provide the handling and the self-monitoring education, and to follow the patient's adherence and toxicity with the same discipline as intravenous.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I verify the current cycle against the treatment plan, the current protocol version, and the prior cycles, and did I resolve any deviation (added or omitted drug, changed dose, altered schedule) with the prescriber?
@@ -60,3 +68,4 @@ Oral chemotherapy is dispensed and self-administered, which makes it feel like a
 - Did I specifically verify the agent and formulation for look-alike/sound-alike risk (vincristine vs. vinblastine, liposomal vs. conventional), and did I apply the high-risk confusion controls (vincristine intrathecal prevention)?
 - For oral chemotherapy, did I apply the same regimen verification, labs check, and patient education as for intravenous, including handling, administration schedule, missed-dose instructions, toxicity self-monitoring, interactions, and adherence support?
 - Did I document the verification (the plan comparison, the independent calculation, the labs and modifications, the double-verification) so the record demonstrates the review that justified the preparation?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

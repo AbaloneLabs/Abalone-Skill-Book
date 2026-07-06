@@ -92,5 +92,4 @@ An offensive anchor can end talks. Anchor ambitiously but credibly, on objective
 - For multi-party settings, are all parties, coalitions, spoilers, and process design mapped?
 - Are cultural communication styles, time, hierarchy, and relationship norms researched and adapted to?
 - Are legal system differences in interpretation, dispute resolution, and enforceability accounted for?
-- Are issues sequenced and anchors set deliberately on objective criteria, ambitiously but credibly?
-- Does the output flag that representation in formal negotiations and binding commitments requires authorized counsel?
+- Are issues sequenced and anchors set deliberately on objective criteria, ambitiously but credibly?; does the output flag that representation in formal negotiations and binding commitments requires authorized counsel?

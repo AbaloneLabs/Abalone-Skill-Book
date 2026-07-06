@@ -57,13 +57,11 @@ After deployment, watch error queues, rejected labels, rating failures, inventor
 
 Change control should include post-change verification, not only pre-change approval.
 
-### Keep emergency paths controlled
+### Keep emergency paths controlled and review access and segregation of duties
 
 Urgent changes may be needed during outages, launches, recalls, compliance blocks, or customer escalations. Define fast-path approval, documentation after the fact, and post-change review.
 
 Emergency access should solve urgent problems without becoming the normal way to bypass governance.
-
-### Review access and segregation of duties
 
 Limit who can create, edit, approve, and release critical logistics data. Separate request, approval, entry, and audit where practical, especially for rates, carrier accounts, compliance flags, payment terms, and customer addresses.
 
@@ -76,12 +74,9 @@ Too many editors create uncontrolled change; too few create bottlenecks and shad
 - Applying the same lightweight review to compliance, safety, rate, and routing changes.
 - Making changes during active waves, open shipments, billing periods, or carrier cutovers without control.
 - Allowing nonurgent data changes during peak, inventory, launch, go-live, upgrade, or regulatory windows.
-- Testing only the field value and not downstream workflows and integrations.
-- Forgetting rollback and old-value records when a change fails.
-- Not telling warehouse, transport, finance, compliance, service, suppliers, or carriers what changed.
-- Closing the ticket before monitoring post-change exceptions.
-- Letting emergency changes bypass review permanently.
-- Allowing broad edit access to rates, compliance flags, carrier records, locations, and customer data without review.
+- Testing only the field value and not downstream workflows and integrations; forgetting rollback and old-value records when a change fails
+- Not telling warehouse, transport, finance, compliance, service, suppliers, or carriers what changed; closing the ticket before monitoring post-change exceptions
+- Letting emergency changes bypass review permanently; allowing broad edit access to rates, compliance flags, carrier records, locations, and customer data without review
 
 ## Self-Check
 
@@ -94,5 +89,4 @@ Too many editors create uncontrolled change; too few create bottlenecks and shad
 - Are affected users and partners told what changed, when, why, and what behavior should change?
 - Are error queues, labels, rating, inventory, ASN, customs, invoices, delays, and tickets monitored after change?
 - Are emergency changes documented and reviewed after urgent use?
-- Are create, edit, approve, release, and audit rights limited and reviewed for critical logistics data?
-- Can the organization trace a logistics failure back to data changes quickly?
+- Are create, edit, approve, release, and audit rights limited and reviewed for critical logistics data?; can the organization trace a logistics failure back to data changes quickly?

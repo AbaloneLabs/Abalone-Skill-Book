@@ -58,8 +58,7 @@ Senior travel plans can become less accessible as details firm up. A hotel room 
 - Packing medication or medical devices in checked luggage.
 - Ignoring hearing, vision, bathroom access, seating, and readable instructions.
 - Planning remote or strenuous travel without discussing medical access and evacuation limits.
-- Overriding the traveler's autonomy in the name of safety.
-- Depending entirely on smartphone apps for instructions and support.
+- Overriding the traveler's autonomy in the name of safety; depending entirely on smartphone apps for instructions and support
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Senior travel plans can become less accessible as details firm up. A hotel room 
 - Are transport choices paced for connection time, airport walking, assistance, luggage, and recovery?
 - Are heat, cold, crowds, noise, lighting, and sensory load addressed?
 - Is support defined by what the traveler wants help with?
-- Are communication backups available without violating privacy?
-- Are mobility and comfort assumptions rechecked after flight, lodging, tour, and transfer details are confirmed?
+- Are communication backups available without violating privacy?; are mobility and comfort assumptions rechecked after flight, lodging, tour, and transfer details are confirmed?

@@ -61,6 +61,10 @@ A therapist trained in acceptance-based methods may apply them to a client whose
 
 A therapist may use standard mindfulness practices with a client who has severe trauma or dissociation, and the practice, particularly eyes-closed, internal-focused practice, may trigger flooding, dissociation, or destabilization. The mechanism is that mindfulness directs attention inward, and for a client whose inner world contains traumatic material or dissociative defenses, this can overwhelm the capacity to stay present. The harm is that the client is destabilized, sometimes significantly, by a practice that was intended to help. Assessing for trauma and dissociation, adapting practices to keep the client grounded, using external-focused or brief practices, and monitoring the client's response, is what prevents mindfulness from harming a vulnerable client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess whether experiential avoidance is the core problem before using acceptance-based methods?

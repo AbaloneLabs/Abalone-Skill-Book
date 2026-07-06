@@ -72,3 +72,4 @@ When a client does not meet the agency's criteria, the temptation is to refer an
 - Did I obtain and document consent before gathering collateral, and share only the minimum necessary?
 - Did I pace the intake to the client's capacity, use a neutral interpreter rather than a family member, and confirm understanding by summarizing back?
 - Does my contemporaneous documentation capture who was present, what was screened, what was disclosed in the client's words, what was decided, and what the next step is?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

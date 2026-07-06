@@ -152,11 +152,9 @@ Widening tolerable error once the result is known undermines the entire test. Th
 
 A zero-error sample still carries an upper limit. Stating that the population is correct, rather than that errors are unlikely to exceed the tolerable rate, overstates what the sample supports.
 
-### Forgetting To Reconcile Evaluation To Plan
+### Forgetting To Reconcile Evaluation To Plan and stopping At The Number Without An Audit Response
 
 An evaluation that drifts from the plan, in population, method, or error definition, is not the same test that was designed. Reconcile the evaluation back to the plan every time.
-
-### Stopping At The Number Without An Audit Response
 
 Computing a result and recording it is not the end of the test. A conclusion that exceeds tolerable error, or that reveals a cluster of errors in one segment, demands additional procedures or a revised risk assessment. Leaving the evaluation as a standalone figure leaves the test incomplete.
 
@@ -166,15 +164,9 @@ Computing a result and recording it is not the end of the test. A conclusion tha
 - Is the deviation rate or projected misstatement computed on the correct base and sampling unit?
 - Is precision or the upper limit applied and included in the comparison to tolerable error?
 - Is the decision rule comparing the upper limit, not the observed error, to tolerable error?
-- Are anomalous errors distinguished from projected errors with documented reasoning?
-- Is a zero-error conclusion stated in statistical terms rather than as certainty?
-- Are all errors evaluated against the documented error definition, with none discarded to fit?
-- Has the tolerable error been kept as fixed in the plan, without post-hoc relaxation?
-- Does the documentation allow a reviewer to recompute the result from inputs to conclusion?
-- Is the evaluation reconciled to the sampling plan in population, method, and decision rule?
-- Is the conclusion's effect on the audit clearly stated and signed off?
-- Does the evaluation translate into a documented audit response, including any additional procedures where the upper limit exceeds tolerable error?
-- Are stratified results evaluated within and across strata, and reconciled to the overall conclusion?
-- Is the basis for classifying each error as anomalous or representative documented and supportable?
-- Are partial errors measured and weighted consistently with the documented error definition?
-- Is the evaluation tool's output independently checked rather than accepted at face value?
+- Are anomalous errors distinguished from projected errors with documented reasoning?; is a zero-error conclusion stated in statistical terms rather than as certainty?
+- Are all errors evaluated against the documented error definition, with none discarded to fit?; has the tolerable error been kept as fixed in the plan, without post-hoc relaxation?
+- Does the documentation allow a reviewer to recompute the result from inputs to conclusion?; is the evaluation reconciled to the sampling plan in population, method, and decision rule?
+- Is the conclusion's effect on the audit clearly stated and signed off?; does the evaluation translate into a documented audit response, including any additional procedures where the upper limit exceeds tolerable error?
+- Are stratified results evaluated within and across strata, and reconciled to the overall conclusion?; is the basis for classifying each error as anomalous or representative documented and supportable?
+- Are partial errors measured and weighted consistently with the documented error definition?; is the evaluation tool's output independently checked rather than accepted at face value?

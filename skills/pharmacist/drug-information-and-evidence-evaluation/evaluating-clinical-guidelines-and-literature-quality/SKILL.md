@@ -29,6 +29,10 @@ A study reports that a drug reduces mortality by 25 percent. The pharmacist must
 
 Clinical guidelines synthesize evidence into recommendations, but they are population-level documents that may not fit the individual patient. The pharmacist must read the guideline's scope (which population, which setting, which timeframe it covers), the strength of each recommendation (strong or weak), and the quality of the evidence behind it (high, moderate, low, very low). A strong recommendation based on high-quality evidence in a patient who matches the guideline population should generally be followed. A weak recommendation based on low-quality evidence, or a strong recommendation in a patient who does not match the population, requires individualized judgment. The pharmacist must also check the guideline's date and whether it has been superseded, because guidelines become outdated as new evidence emerges, and an outdated guideline may recommend a drug or dose that current evidence no longer supports.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Industry-Funded Trial Read as If It Were Independent
@@ -47,6 +51,14 @@ A study reports that a new diabetes drug reduces HbA1c by 0.5 percent more than 
 
 A meta-analysis reports that a drug reduces mortality by 20 percent (HR 0.80, 95 percent CI 0.60 to 1.05). The pharmacist reads the 20 percent reduction and recommends the drug. The mechanism of the trap is that the confidence interval crosses 1.0 — the result is not statistically significant, and the plausible range includes both a 40 percent benefit and a 5 percent harm. The harm is that the patient receives a drug whose benefit is unproven, potentially at significant cost and side-effect burden, based on a finding that the statistics do not support. The false signal is that a point estimate in the favorable direction is evidence of benefit, when in fact the interval reveals that the data are consistent with no effect or with harm, and the result should be reported as inconclusive, not as a 20 percent reduction.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I identify the funding source and the authors' conflicts before interpreting the findings, and did I weight independent evidence more heavily?
@@ -55,3 +67,5 @@ A meta-analysis reports that a drug reduces mortality by 20 percent (HR 0.80, 95
 - Did I read the confidence interval and determine whether it supports the conclusion, or did I read only the point estimate and the p-value?
 - For a guideline recommendation, did I check the strength of the recommendation, the quality of the evidence, the scope, and the date, or did I apply the recommendation as universally authoritative?
 - Did I examine whether the reported outcome was the primary outcome the study was designed to measure, or a secondary or post-hoc outcome selected after the primary outcome was negative?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

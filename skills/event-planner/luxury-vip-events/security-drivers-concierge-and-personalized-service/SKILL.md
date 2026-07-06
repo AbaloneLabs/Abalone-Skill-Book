@@ -65,10 +65,8 @@ Future service improves when teams remember patterns, but privacy suffers when e
 - Assuming private routes are unlocked, accessible, dignified, and free of public traffic.
 - Letting concierge requests expand without scope, approval, or boundaries.
 - Sharing personal numbers, room references, and movement timing too widely.
-- Broadcasting VIP names or private requests on open radio channels.
-- Allowing hospitality promises to conflict with security rules.
-- Leaving exception decisions to front-line staff with no authority.
-- Retaining sensitive guest details after the event without a legitimate reason.
+- Broadcasting VIP names or private requests on open radio channels; allowing hospitality promises to conflict with security rules
+- Leaving exception decisions to front-line staff with no authority; retaining sensitive guest details after the event without a legitimate reason
 
 ## Self-Check
 

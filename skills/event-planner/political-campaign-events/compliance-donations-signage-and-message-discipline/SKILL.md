@@ -70,12 +70,9 @@ The response should be calm and documented, not a public argument among staff.
 - Confusing ticket payments, contributions, suggested donations, and free public access.
 - Letting volunteers collect money, checks, QR donations, or pledge information without controls.
 - Printing signs, screens, or flyers before disclaimer language is approved.
-- Using venue, nonprofit, or government space in ways that conflict with political rules.
-- Ignoring employer, school, nonprofit, union, worship, or government restrictions on political activity.
-- Allowing surrogates, endorsers, or volunteers to make unapproved promises.
-- Collecting voter, donor, or volunteer data without consent and security controls.
-- Letting off-message signs, props, or chants become the visible event story.
-- Having no process to correct, remove, and document compliance mistakes quickly.
+- Using venue, nonprofit, or government space in ways that conflict with political rules; ignoring employer, school, nonprofit, union, worship, or government restrictions on political activity
+- Allowing surrogates, endorsers, or volunteers to make unapproved promises; collecting voter, donor, or volunteer data without consent and security controls
+- Letting off-message signs, props, or chants become the visible event story; having no process to correct, remove, and document compliance mistakes quickly
 
 ## Self-Check
 

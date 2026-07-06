@@ -79,6 +79,10 @@ Insight and judgment are among the most frequently over-rated MSE domains, becau
 
 In ongoing therapy with a stable client, the therapist may stop observing and documenting mental status because "nothing changes," only to miss a gradual decline that, tracked across sessions, would have been visible early. A client who is slowly relapsing into depression, developing a medication-induced change, or beginning to misuse substances will show it in the MSE before they report it in words. The trap is that stability breeds inattention, and the therapist who no longer observes systematically is the last to notice the change. A focused, brief MSE in every session, even when nothing seems different, is what catches decline early.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I observe and note MSE elements during the session in real time, rather than reconstructing from memory or template afterward?

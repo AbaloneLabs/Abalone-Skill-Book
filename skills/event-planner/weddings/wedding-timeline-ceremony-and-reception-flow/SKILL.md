@@ -39,6 +39,10 @@ The couple needs moments to breathe, eat, use restroom, touch up, and be alone. 
 
 Also protect guests. Long gaps, unclear transitions, bar bottlenecks, late meals, and speeches during hunger can damage the experience. Flow should feel hosted, not merely scheduled.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Copying a generic wedding timeline without checking venue access, sunset, culture, meal style, transportation, and family structure.

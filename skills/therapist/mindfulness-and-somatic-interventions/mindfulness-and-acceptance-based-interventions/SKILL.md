@@ -61,6 +61,10 @@ A therapist may use the language of mindfulness and acceptance, "just notice," "
 
 A therapist may set unrealistic expectations, suggesting that mindfulness will quickly reduce symptoms or that the client should meditate for long periods daily, when mindfulness is a skill built gradually and its benefits accrue over time with consistent practice. The mechanism of harm is that the unrealistic expectations set the client up to fail, and the client, unable to meet them, concludes they cannot do mindfulness or that it does not work. The harm is that the client abandons a beneficial practice because the expectations were wrong. Setting realistic expectations, building practice gradually, and framing benefits honestly supports sustained engagement.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I use mindfulness within its evidence-based framework, with fidelity to the model?

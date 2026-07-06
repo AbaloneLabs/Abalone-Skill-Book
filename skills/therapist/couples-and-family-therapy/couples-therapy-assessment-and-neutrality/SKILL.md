@@ -61,6 +61,10 @@ A therapist may proceed with couples therapy despite the presence of ongoing dom
 
 A therapist may treat couples therapy as individual therapy for both partners, addressing each partner's individual issues in turn, rather than the relationship system, which does not address the couple's actual difficulties. The mechanism is that individual issues are visible and familiar, and the therapist, comfortable with individual work, addresses them, when the couple's difficulties are in the system. The harm is that the relationship patterns are not addressed, the couple does not improve, and they may conclude that therapy does not work. Maintaining the focus on the system, and using the relationship patterns as the material, is what makes couples therapy effective.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I assessing the relationship system, its patterns, cycles, and history, not only the individuals?

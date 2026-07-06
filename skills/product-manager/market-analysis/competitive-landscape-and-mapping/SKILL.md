@@ -84,3 +84,4 @@ Summing up a comparison to name the best product overall. The trap is that compe
 - [ ] Share, momentum, and structural dynamics are tracked, not only a static feature snapshot.
 - [ ] The analysis concludes with a clear view of where the product can win durably and where it cannot.
 - [ ] Competitive responses address the actual source of rival advantage rather than copying surface features.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

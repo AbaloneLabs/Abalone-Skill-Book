@@ -54,8 +54,7 @@ For cancellation or postponement, include refund, ticket, reschedule, travel, ve
 - Ignoring staff and vendor exposure during setup, show hours, and strike.
 - Assuming tents, stages, and temporary structures are safe in wind without professional limits.
 - Sending cancellation updates through one channel only.
-- Forgetting parking, shuttles, rideshare, mud, darkness, and road conditions.
-- Waiting until attendees are onsite to announce foreseeable weather changes.
+- Forgetting parking, shuttles, rideshare, mud, darkness, and road conditions; waiting until attendees are onsite to announce foreseeable weather changes
 
 ## Self-Check
 

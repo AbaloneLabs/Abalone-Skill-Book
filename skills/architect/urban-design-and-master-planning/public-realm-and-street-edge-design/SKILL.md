@@ -71,6 +71,10 @@ Coordinate by:
 - integrating the landscape architect's streetscape design with the building's ground floor and the project's stormwater strategy;
 - recognizing that public-realm work often requires easements, maintenance agreements, or public-private partnerships that must be negotiated.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Blank Or Inactive Ground Floor
@@ -92,6 +96,10 @@ Setting the building back behind parking, turning the active face away from the 
 ### Uncoordinated Agency Requirements Discovered Late
 
 When the streetscape is designed without early identification of the agencies that govern the right-of-way and their standards, the requirements — curb cut restrictions, sight lines, utility clearances, lighting standards, stormwater rules — surface late and force redesign. The trap is that the streetscape drawing looks complete and approved internally, so the design appears coordinated, while in reality it has not been tested against the transportation authority, public works, or utility owners, whose requirements conflict with the design only when permits are sought. The harm is redesign, schedule slip, and scope cuts that diminish the public realm. Identifying governing agencies early, coordinating curb cuts and utilities with the relevant authorities, and integrating civil and traffic engineering from the start are what prevent late and costly conflicts.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

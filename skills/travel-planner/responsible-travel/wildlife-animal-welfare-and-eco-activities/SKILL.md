@@ -70,12 +70,9 @@ Do not shame the traveler; redirect the desire for connection into safer and mor
 - Recommending riding, petting, feeding, or performance-based animal activities.
 - Choosing operators that chase wildlife or ignore distance rules.
 - Missing baiting, feeding, playback calls, spotlighting, drones, flash, or nest disturbance because there is no direct touching.
-- Promising sightings that depend on season, weather, and animal behavior.
-- Ignoring traveler safety for boats, heat, water, insects, terrain, and remote access.
-- Treating reef, nesting, or trail rules as minor etiquette.
-- Encouraging geotagging or off-trail access to fragile sites.
-- Forgetting local community benefit and permit systems.
-- Dismissing ethical concerns because an activity is popular.
+- Promising sightings that depend on season, weather, and animal behavior; ignoring traveler safety for boats, heat, water, insects, terrain, and remote access
+- Treating reef, nesting, or trail rules as minor etiquette; encouraging geotagging or off-trail access to fragile sites
+- Forgetting local community benefit and permit systems; dismissing ethical concerns because an activity is popular
 
 ## Self-Check
 

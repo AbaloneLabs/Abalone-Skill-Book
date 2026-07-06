@@ -74,10 +74,8 @@ Many modern performance audit frameworks extend the 3Es with equity (fairness of
 - **Criteria sourced from aspiration.** Using the entity's own unverified targets as criteria without external benchmark or validation.
 - **Data-availability bias.** Over-reporting economy (easy data) and under-reporting effectiveness (hard data), skewing the conclusion.
 - **Ignoring trade-offs.** Reporting a dimension as a failure without acknowledging it was an accepted cost of success elsewhere.
-- **Indicator-category errors.** Using an input or output measure to assess a dimension it does not represent.
-- **External-factor blindness.** Attributing outcome changes wholly to the program without considering confounding external causes.
-- **Static snapshot.** Assessing a single year without trend, hiding whether performance is improving or deteriorating.
-- **Equity and sustainability omission.** Ignoring distributional or environmental effects that materially affect the program's overall performance story.
+- **Indicator-category errors.** Using an input or output measure to assess a dimension it does not represent; **External-factor blindness.** Attributing outcome changes wholly to the program without considering confounding external causes
+- **Static snapshot.** Assessing a single year without trend, hiding whether performance is improving or deteriorating; **Equity and sustainability omission.** Ignoring distributional or environmental effects that materially affect the program's overall performance story
 
 ## Self-Check
 

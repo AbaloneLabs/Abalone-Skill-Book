@@ -101,6 +101,10 @@ When benchmarks are drawn only from successful, published projects, they describ
 
 When a post-occupancy evaluation is commissioned, produced, and filed without being connected to design decisions, the exercise consumes resources and produces no improvement. The trap is that the report's existence satisfies the procedural requirement to evaluate, so the team believes learning has occurred, while the findings have had zero effect on practice. The harm is that the same problems recur in the next project because the lessons were never translated into design action, and the investment in evaluation is wasted. The corrective is to require that every significant POE finding be stated as a design implication tied to a decision type, to revisit the lessons at reviews of subsequent projects, and to maintain a living knowledge base that survives the individuals who produced it.
 
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - [ ] Did the precedent research begin from a defined design question and selection criteria, rather than from image browsing?

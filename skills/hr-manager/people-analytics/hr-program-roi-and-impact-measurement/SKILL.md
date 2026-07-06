@@ -59,6 +59,10 @@ If you measure outcomes only among employees who completed the program and exclu
 
 It is easy to measure attendance, satisfaction, and completion. It is hard to measure behavior change and business outcomes. Programs end up evaluated on the easy metrics because the hard ones require planning and resources. Design the measurement plan before launching the program, build data collection into the program flow, and commit to the metrics that answer the causal question even when they are inconvenient.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I defined the causal question — would outcomes have changed without the program — rather than just documenting change?

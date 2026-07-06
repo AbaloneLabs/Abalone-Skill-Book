@@ -54,8 +54,7 @@ Staff briefings should include plain instructions: where AEDs are, how to call e
 - Planning evacuation without accessible egress. A plan that only works for fast-moving adults is incomplete.
 - Forgetting emergency vehicle access during load-in and strike. Incidents can happen before or after guest hours.
 - Letting severe weather decisions drift because the show is expensive or emotionally important. The threshold should be known before weather arrives.
-- Giving frontline staff vague instructions such as "handle emergencies calmly." They need concrete escalation steps and location references.
-- Failing to document incidents. Without records, post-event learning, claims handling, and duty-of-care review become weaker.
+- Giving frontline staff vague instructions such as "handle emergencies calmly." They need concrete escalation steps and location references; failing to document incidents. Without records, post-event learning, claims handling, and duty-of-care review become weaker
 
 ## Self-Check
 

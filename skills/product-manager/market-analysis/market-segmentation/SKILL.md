@@ -84,3 +84,4 @@ Defining attractive segments that existing channels and sales motion cannot acce
 - [ ] The number of primary segments is small enough that each receives distinct treatment rather than diluting focus.
 - [ ] Segmentation is treated as a revisable model, with triggers for when it should be re-examined.
 - [ ] Targeting decisions reflect a portfolio view, not a default toward the largest or loudest segment.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

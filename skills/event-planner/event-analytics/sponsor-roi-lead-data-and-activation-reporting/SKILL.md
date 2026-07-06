@@ -70,12 +70,9 @@ Where possible, distinguish activity metrics from business outcomes the event ca
 - Promising attendee lists or lead data without consent and privacy rules.
 - Treating badge scans as qualified leads without context.
 - Delivering lead files without agreed definitions, consent basis, secure transfer, deduplication, and quality context.
-- Forgetting to capture proof of signage, stage mentions, digital assets, and activations.
-- Reporting impressions without audience fit.
-- Hiding missed deliverables instead of proposing makegoods.
-- Overclaiming sales impact the event cannot verify.
-- Sending raw data without explanation, caveats, or next steps.
-- Waiting until after the event to decide what sponsor evidence is needed.
+- Forgetting to capture proof of signage, stage mentions, digital assets, and activations; reporting impressions without audience fit
+- Hiding missed deliverables instead of proposing makegoods; overclaiming sales impact the event cannot verify
+- Sending raw data without explanation, caveats, or next steps; waiting until after the event to decide what sponsor evidence is needed
 
 ## Self-Check
 

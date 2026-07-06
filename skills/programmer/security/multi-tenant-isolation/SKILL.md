@@ -122,3 +122,4 @@ Relying on data isolation alone, so one tenant's runaway query or export exhaust
 - [ ] Per-tenant rate limits, quotas, timeouts, and bulk-operation isolation prevent one tenant's load from degrading service for others (noisy-neighbor defense).
 - [ ] Negative isolation tests exist for every tenant-scoped endpoint: cross-tenant id access, cross-tenant listing, cross-tenant mutation, cross-tenant joins/relations, and cross-tenant cache/search — proving absence of other tenants' data, not just presence of the caller's.
 - [ ] Internal and admin endpoints that bypass tenant filters are confirmed unreachable from product, integration, or multi-tenant contexts where the caller's tenant matters.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

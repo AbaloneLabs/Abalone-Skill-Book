@@ -61,6 +61,10 @@ A therapist may treat both conditions but not recognize how they maintain each o
 
 A therapist may push change in a condition the client is not ready to address, insisting on abstinence when the client is precontemplative about their use, or pushing trauma work when the client is not stable, which activates resistance and disengagement. The mechanism is that the therapist wants to address the condition, and the client's readiness is not assessed or respected, when pushing change before readiness fails. The harm is that the client resists, the alliance ruptures, and the client may drop out. Assessing and respecting the stage of change for each condition, and matching the intervention, is what supports engagement and progress.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I treating both conditions and their interactions, not just one?

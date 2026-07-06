@@ -29,6 +29,10 @@ The pharmacist must sort identified problems into two categories: those within s
 
 A CMR that is not documented did not happen, from both a clinical and a billing standpoint. The pharmacist must produce a personal medication record (the reconciled list with indication for each drug), a medication action plan (the prioritized list of problems and recommended actions, in patient-friendly language), and a record of the recommendations communicated to each prescriber. The documentation must also specify the follow-up: what will be checked, by whom, and when. A CMR without a defined follow-up is an event, not a service; the chronic-disease medications the review is meant to optimize require ongoing monitoring, and the value of the review is realized only when the follow-up confirms the recommended changes were made and achieved their goal.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Record-Equals-Reality Trap
@@ -51,6 +55,10 @@ The pharmacist identifies a problem and documents the recommendation in the phar
 
 The refill record shows the patient picking up medications on schedule, and the pharmacist concludes the patient is adherent. The mechanism is that refill timing is the easiest adherence proxy and it usually correlates with taking behavior. The false signal is that timely refills equal actual ingestion. The harm is that many patients refill faithfully and do not take the medication — they stockpile it, they take it inconsistently, they take it wrong (crushing an extended-release tablet, taking two when they miss a dose). The CMR must ask the patient directly how they take each medication, because the refill record cannot distinguish a full bottle in the cabinet from a drug that is controlling the disease.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I build the medication list from the patient's actual bottles and a structured interview, or did I rely on the dispensing record and assume it was complete?
@@ -59,3 +67,5 @@ The refill record shows the patient picking up medications on schedule, and the 
 - Did I separate problems I can resolve within scope from those requiring prescriber action, and did I transmit the latter to the prescriber with a specific, evidence-based recommendation and a request for response?
 - Did I produce a personal medication record, a patient-friendly medication action plan, and a documented follow-up plan specifying what is checked, by whom, and when?
 - For every chronic drug on the list, did I ask whether the indication still exists and whether the dose still matches the patient's current organ function and clinical state?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?
+- Has the edge case or exception been considered, not only the typical or textbook scenario?

@@ -29,6 +29,10 @@ Reversal agents and antidotes (naloxone for opioid overdose, flumazenil for benz
 
 The emergency response must be documented, both for the patient's continuity (the drugs given, the doses, the times, the response) and for the quality review (the code review, the medication safety review, the root cause analysis if an error or a near-miss occurred). The pharmacist must document the drugs prepared and verified (the drug, the concentration, the dose, the time), the calculations performed (the weight, the dose per kilogram, the total), the verifications (the double-check, the reference used), and any deviations or concerns. The documentation must be completed as soon as feasible after the event (not deferred, because the details degrade), and must be accurate (the actual drugs and doses, not the intended ones). The pharmacist must participate in the post-event review (the code debrief, the medication safety review) and must use the review to improve the systems (the crash cart contents, the ADC configuration, the dosing references, the protocols). The documentation and the review are the mechanisms by which the emergency response improves, because each event reveals the gaps that the next event will exploit if they are not closed.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Restocking the Crash Cart From Memory After a Use Rather Than From the Checklist
@@ -51,6 +55,10 @@ The reversal agent (naloxone for opioid overdose, flumazenil, digoxin immune fab
 
 The post-code review (the code debrief, the medication safety review) is the mechanism by which the emergency response improves, but the pharmacist who treats the code as complete when the patient is stabilized may not participate in the review, and the lessons (the missing drug, the dosing reference gap, the protocol ambiguity) are not captured. The trap is that the emergency is over, so the pharmacist returns to routine work, and the review happens without the pharmacy perspective, so the gaps that the pharmacist would have identified persist. The harm is that the same gap (the missing drug, the outdated reference, the unclear protocol) is rediscovered in the next code, and the next patient bears the cost. The fix is to participate in the post-code review, to bring the pharmacy perspective (the drug preparation, the dosing, the verification, the system gaps), and to follow through on the improvements (the restocking, the reference update, the protocol clarification).
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are the emergency systems (crash carts, ADCs, references, protocols) maintained proactively — stocked to the standard contents, sealed and checked at the defined interval, restocked from the checklist after each use, updated when protocols change?
@@ -59,3 +67,5 @@ The post-code review (the code debrief, the medication safety review) is the mec
 - Was I vigilant for the high-error-risk points — the ten-fold decimal error, the unit confusion (mg vs. mcg), the concentration confusion (epinephrine cardiac vs. anaphylaxis concentration)?
 - For reversal agents and antidotes, did I provide the agent promptly with verification done in parallel (not sequentially before the reversal), and did I support the dosing, route, and repeat administration?
 - Did I document the emergency response (drugs, doses, times, calculations, verifications, deviations) as soon as feasible after the event, and did I participate in the post-code review to identify and close the system gaps?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -54,8 +54,7 @@ Run drills or tabletop scenarios: compromised dispatcher email, fake carrier at 
 - Missing scam signals because transportation, warehouse, finance, and IT each see only part of the pattern.
 - Deleting suspicious emails or changing accounts without preserving evidence.
 - Letting urgent cutoff pressure override verification.
-- Failing to alert facilities when a fraudulent carrier or pickup may occur.
-- Adding controls that work in office hours but fail after hours or during peak season.
+- Failing to alert facilities when a fraudulent carrier or pickup may occur; adding controls that work in office hours but fail after hours or during peak season
 
 ## Self-Check
 

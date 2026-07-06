@@ -141,6 +141,10 @@ Selling because risk-reward changed is not the same as predicting the next month
 
 Full exit, partial trim, staged sale, covered risk reduction, or simply no new buying are different choices. Match the action to the reason.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] The original thesis and current forward-looking thesis were restated.

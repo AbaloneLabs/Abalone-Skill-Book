@@ -65,10 +65,8 @@ Communicate uncertainty before departure. Heritage access is often probabilistic
 - Ignoring border changes, old place names, alternate spellings, and religious record systems.
 - Treating cemeteries as quick stops without maps, caretaker help, or emotional time.
 - Encouraging travelers to approach private homes without consent.
-- Confusing informal translation with certified legal translation.
-- Photographing records without source references, page numbers, or permission.
-- Failing to plan alternatives when access is denied or records are unavailable.
-- Reporting translated or interpreted material without noting uncertainty.
+- Confusing informal translation with certified legal translation; photographing records without source references, page numbers, or permission
+- Failing to plan alternatives when access is denied or records are unavailable; reporting translated or interpreted material without noting uncertainty
 
 ## Self-Check
 

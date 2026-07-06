@@ -58,8 +58,7 @@ Dispatchers and supervisors will sometimes override routing output for a VIP cus
 - Treating route optimizer output as final without dispatcher and driver reality checks.
 - Adding late stops without understanding capacity and time-window consequences.
 - Loading vehicles in a way that conflicts with route sequence.
-- Ignoring driver safety, breaks, lifting limits, and weather exposure.
-- Failing to use failed-delivery and driver-feedback data to improve routing assumptions.
+- Ignoring driver safety, breaks, lifting limits, and weather exposure; failing to use failed-delivery and driver-feedback data to improve routing assumptions
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ Dispatchers and supervisors will sometimes override routing output for a VIP cus
 - Does warehouse loading sequence support the planned route?
 - Are late additions governed by override rules and tradeoff awareness?
 - Are planned versus actual route metrics reviewed by cause?
-- Does the routing plan improve both cost and customer reliability rather than one at the other's hidden expense?
-- Are route optimization overrides recorded with reason, approver, and accepted tradeoff?
+- Does the routing plan improve both cost and customer reliability rather than one at the other's hidden expense?; are route optimization overrides recorded with reason, approver, and accepted tradeoff?

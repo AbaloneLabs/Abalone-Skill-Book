@@ -139,6 +139,10 @@ Applying no-fault attendance policies to protected absences is interference and 
 
 Restoration to a lesser role, shift, or schedule is not equivalent restoration.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Has every potentially triggered leave regime been identified including federal and state family and medical leave, paid sick leave, pregnancy accommodation, disability accommodation, military leave, and civic leave?

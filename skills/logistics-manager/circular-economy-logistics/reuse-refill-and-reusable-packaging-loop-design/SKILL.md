@@ -57,13 +57,11 @@ Return rules should be easy to understand: where to return, when, how to clean o
 
 Complex return rules reduce loop performance. Simplicity improves recovery and adoption.
 
-### Review loop performance regularly
+### Review loop performance regularly and govern partner exceptions and disputes
 
 Track cycle time, loss, damage, cleaning yield, contamination, asset utilization, customer compliance, emergency buys, and net cost. Use the data to adjust deposit levels, pickup routes, asset float, instructions, and partner accountability.
 
 A reusable loop is a managed operating system, not a one-time packaging change.
-
-### Govern partner exceptions and disputes
 
 Reusable loops often fail through unresolved exceptions: disputed balances, damaged assets, late returns, unscanned pickups, mixed ownership, missing deposits, and customers who keep assets for operational convenience. Define dispute windows, evidence, adjustment authority, and escalation.
 
@@ -76,12 +74,9 @@ If exceptions are not resolved quickly, pool records lose credibility and teams 
 - Recirculating assets without cleaning, inspection, repair, and readiness standards.
 - Ignoring contamination, allergens, odor, pests, chemicals, and unauthorized reuse.
 - Over-tracking cheap assets or under-tracking expensive, scarce, or regulated assets.
-- Claiming sustainability benefits without actual cycle count, loss, transport, and washing data.
-- Forgetting that empty returnables need inventory planning, repositioning, and peak buffers.
-- Making customer return instructions too complex to follow.
-- Letting damaged or lost assets remain invisible until shortages occur.
-- Allowing disputed balances, missing scans, deposits, and partner exceptions to age without resolution.
-- Treating loop performance as a sustainability report rather than an operations metric.
+- Claiming sustainability benefits without actual cycle count, loss, transport, and washing data; forgetting that empty returnables need inventory planning, repositioning, and peak buffers
+- Making customer return instructions too complex to follow; letting damaged or lost assets remain invisible until shortages occur
+- Allowing disputed balances, missing scans, deposits, and partner exceptions to age without resolution; treating loop performance as a sustainability report rather than an operations metric
 
 ## Self-Check
 

@@ -65,10 +65,8 @@ Do not let private preferences become uncontrolled permanent records. Retain onl
 - Using visible VIP labels or public radio chatter that exposes status.
 - Assigning hospitality to a team instead of a named owner with backup.
 - Over-serving guests who prefer privacy and quiet autonomy.
-- Under-briefing staff on titles, pronunciation, protocol, and cultural expectations.
-- Creating awkward access denials because credential rules were not decided.
-- Leaving VIPs waiting in corridors, queues, or unresolved uncertainty.
-- Treating post-event follow-up as optional after the guest has left.
+- Under-briefing staff on titles, pronunciation, protocol, and cultural expectations; creating awkward access denials because credential rules were not decided
+- Leaving VIPs waiting in corridors, queues, or unresolved uncertainty; treating post-event follow-up as optional after the guest has left
 
 ## Self-Check
 

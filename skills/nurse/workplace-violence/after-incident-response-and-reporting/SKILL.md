@@ -1,6 +1,6 @@
 ---
 name: after-incident-response-and-reporting.md
-description: Use when the agent has experienced or witnessed workplace violence, performing immediate medical and psychological response after an assault, filing incident reports and workers compensation claims, preserving evidence, accessing employee assistance and peer support, or participating in root cause analysis and follow-up after a violent event.
+description: Use when the agent is responding after experiencing or witnessing workplace violence, performing immediate medical and psychological response after an assault, filing incident reports and workers compensation claims, preserving evidence, accessing employee assistance and peer support, or participating in root cause analysis and follow-up after a violent event.
 ---
 
 # After-Incident Response and Reporting
@@ -58,6 +58,10 @@ The trap is that the nurse feels they should be able to "handle it," views psych
 ### Accepting "Policy Revision" as the Outcome of the Investigation Without Concrete Change
 
 The trap is that the institutional investigation concludes with a revised policy or a reminder memo, and the nurse accepts this as the outcome, even though the underlying systemic issues (staffing, environment, security, training) remain unchanged. The mechanism of harm is that policy revision without implementation does not prevent recurrence, and the same factors that contributed to the incident persist, putting the next nurse at risk. The harm is a recurring incident that the investigation was supposed to prevent. Advocate for concrete, implemented changes (staffing adjustments, environmental redesign, security presence, training), follow up on the recommendations, and escalate if the changes are not made.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Many POS problems are training problems disguised as technology problems. A dril
 - Starting sales without opening inventory counts by SKU and location.
 - Creating POS item names that staff cannot distinguish quickly.
 - Using shared logins that hide refunds, discounts, voids, and errors.
-- Having no plan for network, power, device, or processor failure.
-- Allowing admin rights or refund authority to too many people.
-- Reconciling only gross sales while ignoring inventory, taxes, fees, comps, and revenue shares.
-- Discovering after the event that the needed report was not captured.
-- Leaving devices, cash, stock, or report access unsecured during breaks and load-out.
-- Skipping opening and closing drills with the actual staff who will use the POS.
+- Having no plan for network, power, device, or processor failure; allowing admin rights or refund authority to too many people
+- Reconciling only gross sales while ignoring inventory, taxes, fees, comps, and revenue shares; discovering after the event that the needed report was not captured
+- Leaving devices, cash, stock, or report access unsecured during breaks and load-out; skipping opening and closing drills with the actual staff who will use the POS
 
 ## Self-Check
 

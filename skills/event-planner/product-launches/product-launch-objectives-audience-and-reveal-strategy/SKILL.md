@@ -53,10 +53,8 @@ Readiness should include support capacity, documentation, pricing approval, cust
 - Letting reveal energy replace demo, evidence, and conversion path.
 - Launching before website, sales, support, partners, and customer communications are ready.
 - Leaking embargoed information through vendors, signage, rehearsals, or staging.
-- Designing a room that looks impressive but lacks demo, meeting, press, or signup flow.
-- Measuring only attendance and applause instead of pipeline, conversion, coverage, adoption, or customer action.
-- Skipping launch readiness review and discovering product, support, pricing, legal, or operations gaps on event day.
-- Treating beta, roadmap, region-limited, and generally available promises as interchangeable.
+- Designing a room that looks impressive but lacks demo, meeting, press, or signup flow; measuring only attendance and applause instead of pipeline, conversion, coverage, adoption, or customer action
+- Skipping launch readiness review and discovering product, support, pricing, legal, or operations gaps on event day; treating beta, roadmap, region-limited, and generally available promises as interchangeable
 
 ## Self-Check
 

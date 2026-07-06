@@ -162,11 +162,7 @@ Before treating source work as complete, verify:
 - The source's access to knowledge was tested with "how do you know" questions.
 - Important claims from interviews were corroborated through documents, data, observation, or independent sources when possible.
 - Vulnerable sources were told the realistic publication consequences and were not pressured for unnecessary private details.
-- Subjects of criticism received a meaningful chance to respond to the substance of the claims.
-- Expert sources were matched to the precise topic and checked for conflicts or limits.
-- Quotes preserve meaning, context, language, and uncertainty.
-- Translation choices are faithful and noted when relevant.
-- Notes record interview date, setting, status, and verification follow-ups.
-- Source motives were considered without dismissing evidence solely because the source has a motive.
-- The story does not rely on access, friendship, outrage, or sympathy in place of verification.
-- No promises were made that the journalist cannot keep.
+- Subjects of criticism received a meaningful chance to respond to the substance of the claims; expert sources were matched to the precise topic and checked for conflicts or limits
+- Quotes preserve meaning, context, language, and uncertainty; translation choices are faithful and noted when relevant
+- Notes record interview date, setting, status, and verification follow-ups; source motives were considered without dismissing evidence solely because the source has a motive
+- The story does not rely on access, friendship, outrage, or sympathy in place of verification; no promises were made that the journalist cannot keep

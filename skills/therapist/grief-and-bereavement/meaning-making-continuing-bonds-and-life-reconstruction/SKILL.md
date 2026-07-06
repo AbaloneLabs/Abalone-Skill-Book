@@ -61,6 +61,10 @@ A therapist may focus on the pain of the loss, processing the emotions, and negl
 
 A therapist may impose their own cultural, spiritual, or religious frame on the client's grief, offering meanings, rituals, or practices that fit the therapist's worldview but not the client's, when grief is shaped by the client's own frame and imposing another is a form of disenfranchisement. The mechanism of harm is that the imposition overrides the client's own meaning system, and the client, offered a frame that is not theirs, feels unseen and may disengage. The harm is that the therapy misses the client's actual grief, the client's own frame is devalued, and the work does not fit the person. Asking about and working within the client's frame, whatever it is, respects the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I support life reconstruction, including roles, relationships, identity, and purpose, as central to the grief work?

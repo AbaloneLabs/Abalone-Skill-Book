@@ -91,6 +91,10 @@ When a prior provider, a referral source, or the client themselves offers a diag
 
 Intake is often treated as a discrete first session after which the history is "done," but reliable history emerges over the first several sessions as trust builds and as the client's state fluctuates. A client who minimized substance use at session one because they were ashamed may disclose it at session four; a client who was guarded about family may reveal abuse once they trust the therapist. The trap is that the intake note, written once, becomes the authoritative record, and later material is never integrated into the formulation. The harm is a treatment plan that stays frozen around an incomplete picture. Treat intake as a process across the first several sessions, and update the formulation and plan as new history emerges.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I screen for acute suicide risk, violence risk, psychosis, medical red flags, intoxication or withdrawal, and active abuse before proceeding with the full history?

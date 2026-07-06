@@ -29,6 +29,10 @@ The cardiovascular patient rarely has a single condition, and the regimen must b
 
 Cardiovascular regimens are often large, lifelong, and asymptomatic in their target condition — exactly the profile that drives non-adherence. The pharmacist must address adherence and burden proactively: simplify the regimen with once-daily formulations and combination products where clinically equivalent; synchronize refills so the patient picks up all medications together; address cost with generic substitution and formulary alternatives; and counsel the patient on the importance of continuation even when they feel well, because the drugs are preventing events (stroke, heart attack, heart failure hospitalization) that have not happened yet and that the patient cannot feel being prevented. A cardiovascular regimen that the patient does not take provides no benefit, and the pharmacist who optimizes the pharmacology without addressing the adherence optimizes a regimen that does not reach the patient.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Numbers on Target Without Foundational Classes
@@ -51,6 +55,10 @@ A patient on an ACE inhibitor or ARB has a rise in creatinine, and the drug is s
 
 The pharmacist builds the ideal pharmacologic regimen — five drugs, twice-daily dosing, multiple pick-ups — and the patient cannot sustain it. The mechanism is that the pharmacologic optimization feels complete and correct. The false signal is that the regimen is evidence-based, so it must be the right regimen. The harm is that a regimen the patient cannot adhere to provides no benefit, and the patient's uncontrolled blood pressure or heart failure is attributed to drug failure when it was regimen-burden failure. The pharmacist must optimize the regimen for the patient's capacity (once-daily, combination products, synchronized refills, affordable) as well as for the pharmacology, or the optimization fails in the real world.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I verify the regimen is built on the evidence-based foundational classes for the patient's specific cardiovascular conditions, not just on drugs that produce acceptable numbers?
@@ -59,3 +67,5 @@ The pharmacist builds the ideal pharmacologic regimen — five drugs, twice-dail
 - Did I evaluate each drug decision against the patient's full comorbidity set, ensuring the regimen that is optimal for each condition does not interact to produce harm when combined?
 - Did I address adherence, cost, and regimen burden proactively (once-daily formulations, combinations, synchronized refills, generic alternatives) so that the optimized regimen reaches the patient?
 - For a creatinine change on an ACE inhibitor or ARB, did I distinguish the expected stable rise (up to 30 percent) from a progressive or excessive rise, rather than reflexively stopping a renal-protective drug?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

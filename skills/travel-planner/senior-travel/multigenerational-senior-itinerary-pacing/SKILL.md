@@ -58,8 +58,7 @@ When a senior traveler needs to rest, slow down, or skip an activity, the commun
 - Assuming one family member will provide all senior support without agreement.
 - Letting payment dynamics silently control decisions.
 - Scheduling late dinners, early tours, and long walks on consecutive days.
-- Making opt-out options feel like second-class experiences.
-- Relying on one tech-savvy person for all communication and navigation.
+- Making opt-out options feel like second-class experiences; relying on one tech-savvy person for all communication and navigation
 
 ## Self-Check
 
@@ -72,5 +71,4 @@ When a senior traveler needs to rest, slow down, or skip an activity, the commun
 - Does lodging work as an accessible, comfortable family base?
 - Are rooming, privacy, sleep, medical devices, and caregiver proximity considered?
 - Are payment and decision-rights tensions surfaced enough to avoid hidden conflict?
-- Is there a contingency if a senior traveler needs to rest, skip, or seek care?
-- Are lower-energy choices framed as normal itinerary options rather than personal failures?
+- Is there a contingency if a senior traveler needs to rest, skip, or seek care?; are lower-energy choices framed as normal itinerary options rather than personal failures?

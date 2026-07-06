@@ -98,8 +98,7 @@ Do not project a judgement-targeted sample to the population. The whole point of
 - **Mixing projection bases** (count rate projected as monetary amount, or vice versa), producing a meaningless number.
 - **Mechanically projecting and concluding without interpreting the pattern of misstatement**, missing systematic or pervasive error.
 - **Evaluating projected misstatement in isolation**, without aggregating with uncorrected misstatement from other sources.
-- **Excluding anomalous errors from projection without a defensible rationale**, understating the projection.
-- **Documenting only the projected number**, without method, inputs, and the comparison to tolerable misstatement.
+- **Excluding anomalous errors from projection without a defensible rationale**, understating the projection; **Documenting only the projected number**, without method, inputs, and the comparison to tolerable misstatement
 
 ## Self-Check
 

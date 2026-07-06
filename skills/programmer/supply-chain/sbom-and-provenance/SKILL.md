@@ -50,6 +50,10 @@ A reproducible build is one where the same sources and build environment produce
 
 The value of SBOM and provenance is realized when they are queried and enforced operationally — when a new vulnerability triggers an SBOM query to find exposed artifacts, when a promotion gate blocks an unprovenanced build, when a reproducible-build check catches a tampered artifact. Treat them as operational tools, and the compliance follows; treat them as compliance, and the operation never benefits.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### SBOM Missing Transitive Dependencies
@@ -88,3 +92,5 @@ Build processes that are trusted without reproducibility, so there is no way to 
 - [ ] Reproducible builds are pursued where feasible: sources of non-determinism are eliminated, and independent rebuilders verify that the same sources produce bit-identical artifacts, eliminating the need to trust the build platform.
 - [ ] SBOM and provenance are treated as operational tools (queried on new vulnerabilities, enforced at gates, verified by rebuilds) rather than compliance paperwork, so their value is realized in practice.
 - [ ] The highest-risk cases were verified — an SBOM query that found an exposed transitive dependency, a gate that blocked an unprovenanced artifact, a signature that detected tampering, and a reproducible-build check that confirmed source-to-artifact correspondence — not only the clean generation step.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

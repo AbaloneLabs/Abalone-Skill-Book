@@ -84,3 +84,4 @@ Refusing to re-sequence when assumptions change. The trap is an order that no lo
 - [ ] Parallel and sequential work are balanced against capacity and managed around bottlenecks.
 - [ ] Sequencing is revisited on a cadence tied to the rate of learning.
 - [ ] The team is never blocked by missing prerequisites that could have been sequenced earlier.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

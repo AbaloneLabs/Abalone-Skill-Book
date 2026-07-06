@@ -70,12 +70,9 @@ Enforcement should be fair and documented. A tournament without conduct rules ca
 - Failing to define disconnect, pause, crash, and hardware failure outcomes.
 - Using opaque manual seeding without documentation.
 - Mixing divisions or prize eligibility rules until disputes appear after winners are known.
-- Understaffing admins relative to match load.
-- Letting late players, missing captains, or unclear check-in delay rounds.
-- Prioritizing broadcast matches in ways that feel unfair to competitors.
-- Ignoring eligibility, cheating, smurfing, and account-sharing controls.
-- Handling disputes verbally with no record.
-- Scheduling finals after the venue, players, or audience have run out of capacity.
+- Understaffing admins relative to match load; letting late players, missing captains, or unclear check-in delay rounds
+- Prioritizing broadcast matches in ways that feel unfair to competitors; ignoring eligibility, cheating, smurfing, and account-sharing controls
+- Handling disputes verbally with no record; scheduling finals after the venue, players, or audience have run out of capacity
 
 ## Self-Check
 

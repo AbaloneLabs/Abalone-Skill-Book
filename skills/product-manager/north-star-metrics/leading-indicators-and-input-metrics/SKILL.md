@@ -84,3 +84,4 @@ Each team pursuing its metric without understanding the connection. The trap is 
 - [ ] Causal links are validated through experiments or historical analysis, and untested links are marked as hypotheses.
 - [ ] The number of optimization-target metrics is kept lean to preserve focus.
 - [ ] Every team can locate its work on the tree and explain how it contributes to the North Star.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

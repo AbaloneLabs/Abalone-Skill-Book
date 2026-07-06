@@ -160,11 +160,9 @@ Boilerplate cautionary statements that do not address the specific risks of the 
 
 Social media posts, conference remarks, and website content that bypass disclosure review are a leading source of selective disclosure and consistency issues.
 
-### Inconsistent Compensation Disclosure
+### Inconsistent Compensation Disclosure and treating Website And Social Media As Outside Disclosure
 
 Executive compensation tables, narratives, and notes that do not reconcile to the underlying arrangements draw comments and undermine credibility.
-
-### Treating Website And Social Media As Outside Disclosure
 
 Company websites, executive social media, and conference webcasts are disclosure channels. Assuming they are outside the disclosure regime leads to unreviewed material statements and Reg FD exposure.
 

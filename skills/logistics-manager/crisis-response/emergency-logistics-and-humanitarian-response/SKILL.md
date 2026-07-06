@@ -57,10 +57,8 @@ For donated goods, set acceptance criteria, packaging rules, labeling, expiratio
 - Sending supplies that are expired, culturally inappropriate, wrong voltage, wrong language, or hard to use.
 - Treating warehouse delivery as mission complete.
 - Forgetting security, crowd management, accessibility, and gender-sensitive distribution.
-- Over-documenting urgent relief until documentation delays lifesaving action.
-- Using crisis deliveries for promotional content without consent and dignity.
-- Treating old access or demand information as still reliable after conditions change.
-- Accepting donations without intake criteria, creating sorting, storage, disposal, and transport burdens.
+- Over-documenting urgent relief until documentation delays lifesaving action; using crisis deliveries for promotional content without consent and dignity
+- Treating old access or demand information as still reliable after conditions change; accepting donations without intake criteria, creating sorting, storage, disposal, and transport burdens
 
 ## Self-Check
 

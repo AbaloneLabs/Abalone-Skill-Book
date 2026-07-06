@@ -61,6 +61,10 @@ A therapist who is uncomfortable with conflict may avoid addressing disengagemen
 
 When a client threatens to quit or indicates they want to leave, the therapist, invested in the work and concerned about the client, may pressure them to stay, framing leaving as resistance or as a symptom. The mechanism is that the therapist's investment and caring drive a retention effort that may serve the therapist's needs as much as the client's. The harm is that the client's autonomy is overridden, the client stays out of guilt or pressure rather than engagement, and the therapy continues without genuine buy-in. Respecting the client's right to leave, exploring the wish honestly, and offering a respectful termination that leaves the door open are what serve the client.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I treat the client's disengagement as information to investigate, rather than as a verdict on the client?

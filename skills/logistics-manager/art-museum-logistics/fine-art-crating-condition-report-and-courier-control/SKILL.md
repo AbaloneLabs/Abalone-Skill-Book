@@ -71,10 +71,8 @@ Do not repair, clean, reframe, or discard packing before the responsible owner d
 - Letting unauthorized staff open crates, move objects, or adjust packing.
 - Booking a courier without giving them access, time, or authority to supervise.
 - Failing to track seals, custody, driver identity, secure storage, and route confidentiality.
-- Taking or sharing condition, crate, value, and route photos without access controls.
-- Opening objects before receiving conditions, acclimatization, and trained handlers are ready.
-- Ignoring old damage until it becomes a dispute after transit.
-- Repairing or discarding evidence after damage before lender, insurer, or conservator review.
+- Taking or sharing condition, crate, value, and route photos without access controls; opening objects before receiving conditions, acclimatization, and trained handlers are ready
+- Ignoring old damage until it becomes a dispute after transit; repairing or discarding evidence after damage before lender, insurer, or conservator review
 
 ## Self-Check
 

@@ -54,6 +54,10 @@ Anomaly detection flags that something deviates from expected; it does not expla
 - **Correlate with changes.** An anomaly that coincides with a deploy, a config change, or a dependency event is far more actionable than one in a vacuum; surface recent changes alongside the anomaly.
 - **Accept that some anomalies are benign.** A traffic spike from a marketing push is anomalous but not a problem; the detector flags it, the responder contextualizes it.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Static Thresholds Ignoring Seasonality And Trend
@@ -93,3 +97,4 @@ Flagging benign anomalies (a marketing-driven traffic spike, a planned load test
 - [ ] Anomaly detection is treated as detection, not diagnosis: alerts carry context (metric, expected vs. observed, window, magnitude), correlate with recent changes (deploys, configs, dependency events), and accept that some anomalies are benign.
 - [ ] False-positive and missed-anomaly rates are reviewed periodically, and the detector is retrained/re-tuned rather than enabled once and forgotten.
 - [ ] The highest-risk cases were verified — a seasonal baseline that did not flag predictable peaks, a contaminated training window excluded, a threshold tuned to a tolerable false-positive rate, and an anomaly correlated with a deploy to become actionable — not only the clean stationary-metric path.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

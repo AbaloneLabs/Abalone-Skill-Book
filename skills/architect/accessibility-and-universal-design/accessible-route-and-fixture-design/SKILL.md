@@ -107,6 +107,10 @@ Each fixture, the water closet, the lavatory, the grab bars, is selected and loc
 
 A fixture, door, or hardware item specified to comply is substituted during procurement with a product that does not meet the standard, and the substitution is approved for cost or availability without accessibility review. The trap mechanism is that substitutions are governed by cost and schedule, not accessibility, so a compliant design is silently degraded. The false signal is the approved submittal, which appears controlled while bypassing the accessibility check. The harm is a building designed to comply and built to violate, with the non-compliance installed through a process that no one checked for accessibility, and a barrier created in construction that did not exist in the documents, discovered only when someone cannot use what was specified to be usable.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the accessible route mapped continuously from public way to all required destinations, with width, slope, surface, clearance, and transitions verified?
@@ -116,3 +120,4 @@ A fixture, door, or hardware item specified to comply is substituted during proc
 - [ ] Are doors coordinated for clear width, maneuvering clearance, hardware, opening force, and thresholds?
 - [ ] Is compliance verified in plan, section, and construction, with submittals reviewed for accessibility?
 - [ ] Are observed deficiencies documented and required to be corrected during construction observation?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

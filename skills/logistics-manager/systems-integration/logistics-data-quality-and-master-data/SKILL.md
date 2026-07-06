@@ -54,8 +54,7 @@ Retire obsolete data. Old carrier services, closed facilities, inactive customer
 - Allowing product, procurement, warehouse, transportation, trade, and finance teams to change related fields without ownership rules.
 - Validating street addresses but ignoring delivery windows, dock constraints, appointment rules, liftgate needs, and contacts.
 - Fixing shipment exceptions manually without correcting the master data that caused them.
-- Letting obsolete service codes, locations, SKUs, and routing rules remain selectable.
-- Migrating data into a new system without cleansing and field definition alignment.
+- Letting obsolete service codes, locations, SKUs, and routing rules remain selectable; migrating data into a new system without cleansing and field definition alignment
 
 ## Self-Check
 

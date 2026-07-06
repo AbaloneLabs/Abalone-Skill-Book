@@ -98,7 +98,7 @@ A dependency that is secure and well-maintained can still be unusable because of
 - **Watch for "source-available" or non-commercial licenses.** These are not open source and may restrict commercial use or redistribution. A license that forbids commercial use cannot be used in a commercial product, however good the code is.
 - **Resolve incompatibilities deliberately.** Replace, obtain a commercial license, or isolate — but do not ship and hope no one notices.
 
-### Decide An Update Strategy Deliberately
+### Decide An Update Strategy Deliberately and decide Whether To Depend, Vendor, Fork, Or Rewrite
 
 Dependencies need updates: for security patches, for compatibility, and to avoid the cliff where an ancient version can no longer be upgraded at all. But updates also carry risk (regressions, breaking changes, new transitive dependencies, occasionally malicious updates). The strategy is a deliberate balance, not a default.
 
@@ -106,8 +106,6 @@ Dependencies need updates: for security patches, for compatibility, and to avoid
 - **Group and schedule non-security updates.** Regular, bounded update windows (weekly/monthly) with test gates avoid both stale dependencies and update-driven churn.
 - **Beware auto-apply without gates.** Tools that auto-merge dependency updates are convenient and are also how malicious upstream updates flow straight into production. Auto-update is acceptable for low-risk paths with strong tests and pinning; it is dangerous for security-sensitive or lightly-tested paths.
 - **Avoid the "never update" cliff.** A dependency left un-updated for years eventually cannot be upgraded at all (breaking changes accumulate, transitive conflicts), forcing a rewrite. Gradual, continuous updates prevent this.
-
-### Decide Whether To Depend, Vendor, Fork, Or Rewrite
 
 Not every need should be met with a dependency, and not every dependency should stay external. The options, in rough order of commitment:
 
@@ -144,19 +142,15 @@ Installing a near-miss package name, or letting a resolver pull an internal name
 
 Enabling auto-merge on dependency PRs for convenience, so a malicious or breaking upstream update lands in production without review. Auto-update is acceptable only with strong tests, pinning, and on low-risk paths; security-sensitive paths need human review.
 
-### The Never-Update Cliff
+### The Never-Update Cliff and shipping A License Incompatibility
 
 Leaving dependencies un-updated for years to "avoid breakage," until the gap is so large that upgrading is a major project or impossible. Continuous, bounded updates prevent the cliff; deferred updates create it.
 
-### Shipping A License Incompatibility
-
 Including a GPL/AGPL or non-commercial-licensed dependency without realizing it imposes obligations on your product, then discovering it during an audit or customer review. Enumerate licenses (including transitive) and resolve incompatibilities before shipping.
 
-### Giving Build Tools Unneeded Credentials
+### Giving Build Tools Unneeded Credentials and abandoned Dependency Left In Place
 
 Running build tools, install scripts, or CI actions with broad access to secrets, source, or production, so a compromised dependency can exfiltrate everything. Scope and isolate tooling to least privilege; a build step should not hold production credentials.
-
-### Abandoned Dependency Left In Place
 
 A dependency whose maintainer has gone silent, with open security issues and no releases, kept because "it still works." It is accumulating unpatched risk. Plan a replacement, fork, or vendor before a CVE forces it under deadline.
 

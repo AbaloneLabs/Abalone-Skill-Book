@@ -29,6 +29,10 @@ Verification reliability degrades sharply under interruptions, multitasking, tim
 
 Not every prescription requires the same depth of verification, and the workflow can apply more verification resources to higher-risk prescriptions without compromising throughput on lower-risk ones. The pharmacist should risk-stratify the verification: high-alert medications (insulin, anticoagulants, opioids, chemotherapy, concentrated electrolytes), narrow-therapeutic-index drugs, pediatric and weight-based doses, and first fills of new drugs warrant enhanced verification (an independent double check by a second pharmacist, a slower and more deliberate comparison, additional clinical review). Routine refills of stable maintenance medications at standard doses warrant a complete but more efficient verification. The risk stratification must not become an excuse to skip verification on "low-risk" prescriptions (every prescription is verified), but it allows the application of additional resources where the consequence of an error is greatest. The stratification must be defined and followed, not improvised under pressure.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Visual Glance Verification
@@ -51,6 +55,10 @@ The pharmacist is verifying a prescription, is interrupted by a phone call or a 
 
 The queue is long, patients are waiting, and the pharmacist speeds verification to clear the queue, reducing each check to a glance. The mechanism is that the pressure is visible and the verification depth is the adjustable variable. The false signal is that the prescriptions are being verified, so the obligation is met. The harm is that verification under throughput pressure is exactly when errors are most likely (high cognitive load, fatigue, rushing) and least likely to be caught (reduced verification depth), and the errors that pass through reach patients. The pharmacist must resist throughput pressure on verification depth and must escalate the staffing or process issue that created the backlog, rather than degrading the verification to mask the problem.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the dispensing workflow designed with multiple genuinely independent checks (different person, different technology, different process), so that an error not caught at one step is caught at the next?
@@ -59,3 +67,5 @@ The queue is long, patients are waiting, and the pharmacist speeds verification 
 - Do I protect verification from interruptions, multitasking, and throughput pressure, restarting interrupted verifications and resisting the pressure to speed verification to clear the queue?
 - Do I risk-stratify verification, applying enhanced verification (independent double check, additional clinical review) to high-alert, narrow-therapeutic-index, pediatric, and new prescriptions, while still verifying every prescription?
 - Do I escalate the staffing, workflow, or technology issues that create backlogs, rather than degrading verification depth to mask the throughput problem?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

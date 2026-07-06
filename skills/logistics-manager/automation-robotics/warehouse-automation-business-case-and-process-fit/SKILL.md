@@ -57,13 +57,11 @@ Evaluate warranty terms, uptime guarantees, software licensing, support hours, s
 
 Automation investments can outlive vendor priorities. Commercial terms should protect operations after the sales team leaves.
 
-### Pilot assumptions before commitment where possible
+### Pilot assumptions before commitment where possible and define nonfinancial success metrics
 
 Use simulations, process mining, sample testing, item conveyability tests, proof-of-concept cells, reference visits, and shadow operations. Validate with actual orders, items, totes, cartons, and labor rules.
 
 Vendor demos are useful, but they usually show controlled conditions. Test the messy parts of your operation.
-
-### Define nonfinancial success metrics
 
 Track safety, ergonomics, quality, service, employee retention, scalability, space use, resiliency, sustainability, and customer experience. Some benefits justify automation even when simple payback is not the only measure.
 
@@ -76,12 +74,9 @@ Make these metrics explicit so they are not forgotten when finance reviews the c
 - Underestimating facility changes, construction downtime, power, fire, network, and maintenance access.
 - Building ROI on labor savings while excluding integration, support, spare parts, training, and downtime.
 - Modeling steady volume when the business has peaks, launches, returns, and SKU churn.
-- Choosing specialized automation that cannot adapt to future channel or product changes.
-- Forgetting technician skill, maintenance ownership, and vendor response dependency.
-- Ignoring warranty, support hours, software licensing, spare-parts availability, roadmap, and exit risk.
-- Trusting demos without testing actual items, orders, cartons, and constraints.
-- Ignoring safety, ergonomics, quality, service, and resiliency as business-case outcomes.
-- Treating automation as a substitute for process discipline and data quality.
+- Choosing specialized automation that cannot adapt to future channel or product changes; forgetting technician skill, maintenance ownership, and vendor response dependency
+- Ignoring warranty, support hours, software licensing, spare-parts availability, roadmap, and exit risk; trusting demos without testing actual items, orders, cartons, and constraints
+- Ignoring safety, ergonomics, quality, service, and resiliency as business-case outcomes; treating automation as a substitute for process discipline and data quality
 
 ## Self-Check
 

@@ -65,10 +65,8 @@ State the recommendation as a tradeoff: savings and convenience on one side, ser
 - Treating vouchers as equivalent to direct confirmations without verifying supplier receipt.
 - Ignoring local fees that remain payable despite "included" package language.
 - Booking a package for a high-stakes event trip without recovery plans for flight disruption.
-- Overvaluing a suspicious price gap that may be an error or noncomparable inventory.
-- Assuming special requests pass correctly through bedbanks or tour operators.
-- Forgetting that package provider support hours may not match trip-day emergencies.
-- Failing to explain partial cancellation and unused-component rules.
+- Overvaluing a suspicious price gap that may be an error or noncomparable inventory; assuming special requests pass correctly through bedbanks or tour operators
+- Forgetting that package provider support hours may not match trip-day emergencies; failing to explain partial cancellation and unused-component rules
 
 ## Self-Check
 

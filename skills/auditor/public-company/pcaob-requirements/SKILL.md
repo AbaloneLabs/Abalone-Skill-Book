@@ -162,11 +162,9 @@ Misidentifying the engagement partner, omitting participating firms, or filing l
 
 A going concern conclusion in the auditor's report that does not match the financial statement disclosures creates confusion and a reporting deficiency.
 
-### Audit Committee Communications As A Checklist
+### Audit Committee Communications As A Checklist and ignoring The Inspection Cycle
 
 Going through required communications without substantive content, or without documentation, fails the communication standard and is an inspection focus.
-
-### Ignoring The Inspection Cycle
 
 PCAOB inspections focus on recurring deficiency areas (revenue, estimates, ICFR, CAMs, going concern). Designing the audit without awareness of inspection focus areas invites findings that could have been anticipated.
 

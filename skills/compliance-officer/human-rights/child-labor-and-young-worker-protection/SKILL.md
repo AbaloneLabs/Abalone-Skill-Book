@@ -135,6 +135,10 @@ Removing a child without support can push the child into worse conditions.
 
 The highest child labor risk sits in agriculture and artisanal mining at tiers with weak oversight.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the correct minimum age standard applied, taking the stricter of national law, international standards, and buyer requirements, with a higher threshold for hazardous work?

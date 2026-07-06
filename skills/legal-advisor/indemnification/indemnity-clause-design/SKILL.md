@@ -100,10 +100,8 @@ Indemnity does not operate in isolation. Confirm:
 - **Forgetting that a duty to defend can exceed ultimate liability.** Defense costs can be incurred even where no liability is found, and they can exhaust a cap before any indemnity is owed. Decide whether defense costs are inside or outside the cap.
 - **Ignoring anti-indemnity statutes.** In construction and certain regulated industries, indemnity for the indemnitee's own sole negligence is void. Drafting it anyway wastes the clause and may void the entire indemnity under some statutes.
 - **Setting a basket that swallows recovery.** A high tipping basket that must be exceeded before any recovery can make the indemnity illusory for the realistic claim size. Model the economics against expected loss.
-- **Mismatched survival and limitations.** A long survival paired with a short contractual limitations period, or vice versa, creates internal inconsistency. Reconcile them.
-- **Assuming "hold harmless" adds anything.** In many jurisdictions it is redundant with "indemnify." Relying on it to expand scope is risky; use explicit scope language instead.
-- **Ignoring the indemnitor's right to control vs. the indemnitee's conflict concerns.** Granting the indemnitor sole control of a defense that may involve admitting the indemnitee's fault creates a conflict. Reserve consent rights over settlements and admissions.
-- **Overlooking consequential damages.** Indemnity often covers losses that a consequential damages exclusion in the contract would otherwise bar. Confirm the indemnity expressly survives any general exclusion of consequential or indirect loss if that is intended.
+- **Mismatched survival and limitations.** A long survival paired with a short contractual limitations period, or vice versa, creates internal inconsistency. Reconcile them; **Assuming "hold harmless" adds anything.** In many jurisdictions it is redundant with "indemnify." Relying on it to expand scope is risky; use explicit scope language instead
+- **Ignoring the indemnitor's right to control vs. the indemnitee's conflict concerns.** Granting the indemnitor sole control of a defense that may involve admitting the indemnitee's fault creates a conflict. Reserve consent rights over settlements and admissions; **Overlooking consequential damages.** Indemnity often covers losses that a consequential damages exclusion in the contract would otherwise bar. Confirm the indemnity expressly survives any general exclusion of consequential or indirect loss if that is intended
 
 ## Self-Check
 

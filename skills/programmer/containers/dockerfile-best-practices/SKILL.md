@@ -137,7 +137,7 @@ A Dockerfile that builds "the same" image today and next month is one where the 
 
 Perfect byte-reproducibility is not always achievable, but you should know how reproducible your build is and pin what you can. `container-image-design` covers the reproducibility philosophy; the instruction-level work is the pinning above.
 
-### Wire ENTRYPOINT And CMD For Signal Forwarding And Composability
+### Wire ENTRYPOINT And CMD For Signal Forwarding And Composability and add A HEALTHCHECK Only When The Orchestrator Needs It And The App Can Answer
 
 `ENTRYPOINT` and `CMD` interact, and the form you choose decides whether the process is PID 1, whether it receives signals, and whether the image is composable with extra args.
 
@@ -147,8 +147,6 @@ Perfect byte-reproducibility is not always achievable, but you should know how r
 - **A shell-script entrypoint that ends in `exec "$@"`** forwards signals only if the final `exec` replaces the shell with the real process. A script that runs the process as a child does not.
 
 Bad signal handling is invisible until a deploy, when every replica takes the full grace period to die and drops in-flight requests. Test shutdown: `docker stop` a container and confirm it exits in well under the grace period, not after it.
-
-### Add A HEALTHCHECK Only When The Orchestrator Needs It And The App Can Answer
 
 `HEALTHCHECK` lets Docker (and some orchestrators) mark a container unhealthy based on a command's exit code. It is useful for `docker run`/Compose and for platforms that read it, but it is *not* what Kubernetes uses (k8s uses liveness/readiness probes; see the orchestration skill). Add it when:
 
@@ -187,11 +185,9 @@ The build context balloons, the send is slow, and if a `COPY . .` exists, `.git`
 
 `FROM node:20` is not pinned; upstream moves it across patch releases, so the same Dockerfile builds a different image over time and occasionally breaks. Pin by exact version (`node:20.11.1`) or, for reproducibility, by digest.
 
-### Running As Root Because useradd Was "Complicated"
+### Running As Root Because useradd Was "Complicated" and an ENTRYPOINT Script That Does Not exec The Real Process
 
 Skipping the non-root user because the app "just works" as root ships a container where a compromised process is root over the container filesystem. Create a fixed-UID user, own the write paths, and `USER` into it. The two extra lines are not optional for production.
-
-### An ENTRYPOINT Script That Does Not exec The Real Process
 
 A `entrypoint.sh` that runs `node server.js` as a child (without `exec`) keeps the shell as PID 1; signals go to the shell, not the node process, and shutdown hangs. End entrypoint scripts with `exec "$@"`.
 

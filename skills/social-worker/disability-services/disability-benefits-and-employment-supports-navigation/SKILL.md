@@ -29,6 +29,10 @@ The most common cause of overpayments — which can run into tens of thousands o
 
 For most clients with disabilities, healthcare coverage (Medicaid or Medicare) is more valuable and more fragile than the cash benefit, because the healthcare pays for the medications, therapies, and durable medical equipment that keep the client functional. A change in cash benefits can trigger a change in healthcare: earning too much can terminate SSI and the Medicaid that comes with it; aging out of a parent's coverage may intersect with Medicare waiting periods. The social worker must map the healthcare implications of any benefits change before it happens, and must identify the bridge coverage (Medicaid buy-in programs for working people with disabilities, Marketplace plans with subsidies, continued Medicaid under 1619(b)) that will maintain the client's healthcare through the transition. Losing healthcare is often more devastating than losing the cash benefit, because the client may be unable to afford the medications or therapies that maintain their baseline, leading to a decline that ultimately returns them to the benefits system — but at a lower level of functioning.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Earned-Income Reporting Failure That Produces an Overpayment
@@ -47,6 +51,14 @@ A client on SSDI begins a Trial Work Period. The social worker, thinking in SSI 
 
 A client on SSI and Medicaid begins earning enough that the SSI cash benefit reduces to zero. The mechanism of the trap is that the client and the social worker assume that the end of SSI means the end of Medicaid, and the client loses coverage for the medications and therapies that keep them stable. The harm is that without healthcare, the client's condition deteriorates, the client loses the job that caused the benefits change, and the client returns to the benefits system at a lower level of functioning than before. The false signal is that SSI and Medicaid are a package that ends together, when in fact Section 1619(b) allows the client to continue Medicaid even after the SSI cash benefit ends, provided the client still meets the disability criteria and the earnings are below a threshold. The social worker must identify and secure the 1619(b) continuation before the SSI terminates, so the healthcare survives the transition.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I determine whether the client is on SSI, SSDI, or both, and did I apply the work rules, healthcare implications, and planning strategies appropriate to the specific program?
@@ -55,3 +67,5 @@ A client on SSI and Medicaid begins earning enough that the SSI cash benefit red
 - Did I help the client establish a system for ongoing reporting of changes (earnings, living arrangement, marital status), and did I document every report with confirmation numbers?
 - Did I map the healthcare implications of any benefits change and identify the bridge coverage (1619(b), Medicaid buy-in, Marketplace) that will maintain the client's medications and therapies through the transition?
 - Did I respond to any overpayment notice immediately, exploring waiver and appeal rights within the time limits, rather than allowing the notice to lapse into automatic garnishment?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

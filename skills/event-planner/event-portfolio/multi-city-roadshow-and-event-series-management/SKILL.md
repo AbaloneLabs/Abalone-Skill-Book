@@ -70,12 +70,9 @@ Financial clarity prevents one city from appearing efficient because shared cost
 - Building a brand playbook but no logistics playbook.
 - Shipping the same assets city to city with no buffer or backup.
 - Forgetting asset damage, consumables, customs, and local print needs.
-- Overloading executives and speakers with travel and repeated performances.
-- Letting local teams expand scope without series owner approval.
-- Copying a prior city plan without checking local permit, labor, tax, alcohol, accessibility, privacy, and procurement rules.
-- Capturing different data in every city and losing comparability.
-- Failing to update the next stop from the prior stop's lessons.
-- Hiding shared costs when comparing city performance.
+- Overloading executives and speakers with travel and repeated performances; letting local teams expand scope without series owner approval
+- Copying a prior city plan without checking local permit, labor, tax, alcohol, accessibility, privacy, and procurement rules; capturing different data in every city and losing comparability
+- Failing to update the next stop from the prior stop's lessons; hiding shared costs when comparing city performance
 
 ## Self-Check
 

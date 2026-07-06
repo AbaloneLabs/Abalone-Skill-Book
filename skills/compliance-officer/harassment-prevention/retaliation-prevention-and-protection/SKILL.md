@@ -153,6 +153,10 @@ Unmonitored managers are the primary source of post-complaint retaliation.
 
 Inconsistency is the clearest evidence of pretext.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is the breadth of protected activity recognized including internal complaints, accommodation requests, leave, safety reporting, whistleblowing, opposition, participation, and refusal to participate?

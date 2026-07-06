@@ -53,6 +53,10 @@ Exactly-once is a claim about behavior under failure, and it must be tested unde
 - **Verify the sink's idempotency or transactionality under replay.** Send the same events twice (simulating a replay) and confirm the sink's output is unchanged.
 - **Test at the boundary conditions.** Failures during checkpoint, failures during commit, failures during state restore — these are where exactly-once breaks.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Assuming Framework Exactly-Once Covers The Pipeline
@@ -92,3 +96,4 @@ Exactly-once assumed without failure injection, so duplication or loss on recove
 - [ ] Exactly-once is verified under failure injection: failures during processing, checkpoint failures, sink outages, and failures at checkpoint/commit boundaries and during state restore are injected, and the output is confirmed exactly-once (no duplicates, no loss) after recovery.
 - [ ] The sink's idempotency or transactionality is verified under replay (sending events twice produces unchanged output).
 - [ ] The highest-risk cases were verified — a recovery that did not duplicate because the sink was idempotent, a checkpoint that restored consistently with the output position, a failure at the commit boundary that did not lose output, and state that stayed bounded over a long run — not only the clean steady-state path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

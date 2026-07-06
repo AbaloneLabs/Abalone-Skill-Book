@@ -57,10 +57,8 @@ Programs should indicate when guests may stand, sit, remain silent, respond, sin
 - Offering vague "dietary options" instead of verified halal, kosher, vegetarian, allergy, or fasting support.
 - Putting prayer or quiet rooms in inappropriate, inaccessible, or noisy spaces.
 - Using sacred symbols as decor without consent or understanding.
-- Translating or pronouncing names and prayers casually.
-- Treating interfaith harmony as guaranteed and skipping security or media planning for sensitive contexts.
-- Writing generic unity language that erases real differences, grief, or community-specific harm.
-- Leaving guests unsure whether they are expected to pray, stand, sing, respond, or simply observe.
+- Translating or pronouncing names and prayers casually; treating interfaith harmony as guaranteed and skipping security or media planning for sensitive contexts
+- Writing generic unity language that erases real differences, grief, or community-specific harm; leaving guests unsure whether they are expected to pray, stand, sing, respond, or simply observe
 
 ## Self-Check
 

@@ -97,3 +97,4 @@ Deploying a model without defining who monitors it, what signals are watched, an
 - [ ] Fundamental drift (a feature disappeared, the target changed meaning, a new confounder emerged, the functional form no longer fits) is recognized as a signal for redesign rather than endless retraining of a wrong model.
 - [ ] The model lifecycle is planned at deployment: monitoring, retraining triggers, ownership, and end-of-life criteria are defined then, not discovered when degradation appears.
 - [ ] The highest-risk cases were verified — drift detected by monitoring before a business metric moved, a temporary incident excluded from retraining data, a retrained model verified to beat the incumbent before rollout, and fundamental drift escalated to redesign — not only the clean stable-world path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

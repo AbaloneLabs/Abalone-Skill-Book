@@ -65,15 +65,13 @@ The dual-write problem is fundamental: you want to commit a database change and 
 
 The key correctness points: the write to the outbox must be in the same database transaction as the business write, or you have reintroduced the dual-write problem. The relay must be at-least-once, which means consumers must be idempotent — the same event can be published and consumed more than once after a relay restart or crash. Each outbox row needs a stable unique identifier so consumers can deduplicate, and the relay must track its publishing position durably so it does not skip or replay large ranges on restart. A strong design also bounds outbox growth (archive or delete published rows) and monitors outbox lag, because a stalled relay silently makes the whole system eventually consistent with unbounded delay. Do not assume publishing from a transaction's after-commit hook is equivalent to an outbox — the hook fires after commit and can still be lost on crash.
 
-### Treat Distributed Locks As A Correctness-Hazardous Primitive
+### Treat Distributed Locks As A Correctness-Hazardous Primitive and plan For Coordinator And Participant Recovery Explicitly
 
 A distributed lock coordinates exclusive access across nodes, but it is one of the most frequently misimplemented primitives because the intuitive mental model (a lock guarantees mutual exclusion) breaks under clock skew, lease expiry, and process pauses. Before using one, ask whether you actually need mutual exclusion or whether a simpler idempotent operation, a database constraint, or an optimistic compare-and-set would achieve the same goal more robustly. Locks add a failure mode (the lock service itself) and a correctness surface (expiry, fencing) that is easy to get wrong.
 
 If you do use a distributed lock, you must handle the **stale-lock-holder problem**: a client acquires a lock with a lease, then gets paused (garbage collection, scheduling, slow downstream call) longer than the lease. The lease expires, another client acquires the lock, and now two clients believe they hold it. The fix is **fencing tokens**: every lock acquisition returns a monotonically increasing token, and the protected resource rejects operations that arrive with a stale token. This requires the protected resource to check the token, which is why fencing works cleanly with a resource you control (a database row with a version column) and poorly with a resource you do not (an external API with no token concept). Without fencing, a lock with lease expiry is a probability, not a guarantee, of mutual exclusion.
 
 Know the semantics of the specific lock implementation. Redis-based locks (Redlock and single-node variants) rely on wall-clock expiry and have known correctness arguments against them under pause and clock drift; they are acceptable for low-stakes mutual exclusion (avoiding redundant work) and unsafe for correctness-critical exclusion. etcd and ZooKeeper leases are built on consensus and are far more robust, but still require fencing for the stale-holder case because lease expiry and client action are not atomic. Choose the lock to match the stakes: consensus-backed lease plus fencing for correctness, Redis for efficiency, and never rely on expiry timing alone for a correctness invariant.
-
-### Plan For Coordinator And Participant Recovery Explicitly
 
 Every coordinator-based pattern (2PC, orchestrated saga, TCC coordinator) has a recovery story, and "it will just work" is not one. For each, decide before deployment: where is the coordinator's durable state stored, what happens if the coordinator crashes between phases, how are in-flight transactions discovered on restart, and what is the manual recovery procedure if recovery automation itself fails. Participants must handle duplicate commit/abort/confirm/cancel messages idempotently because the coordinator will retry on timeout.
 
@@ -109,11 +107,9 @@ Applying two-phase commit across services owned by different teams with independ
 
 Allowing concurrent sagas to read uncommitted intermediate values and act on them, producing double-bookings or negative balances. Name the isolation anomalies (dirty read, lost update, phantom) for each step and handle them with semantic locks, optimistic checks, or commutative updates.
 
-### Trusting The Orchestrator To Be Stateless
+### Trusting The Orchestrator To Be Stateless and assuming TCC Confirm Or Cancel Will Always Be Called
 
 Building a saga orchestrator that keeps workflow state in memory and loses it on restart, abandoning in-flight sagas or restarting them from the beginning and re-executing side effects. Make orchestrator state durable and resumable, and make every step idempotent so resume is safe.
-
-### Assuming TCC Confirm Or Cancel Will Always Be Called
 
 Leaking reservations indefinitely when the coordinator crashes between Try and Confirm/Cancel, because there is no reconciliation sweep. Add a timeout-based sweep that cancels dangling Try records, and make Confirm/Cancel idempotent.
 

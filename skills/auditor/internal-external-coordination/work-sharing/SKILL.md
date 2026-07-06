@@ -183,5 +183,4 @@ Work-sharing and reliance decisions that are not documented cannot be defended. 
 - Are the conditions for reliance defined, including review of working papers, corroboration, and consistency with other evidence?
 - Does the arrangement preserve each party's independence and reporting responsibility, with the external auditor forming its opinion alone?
 - Is reliance on shared work supported by documented evaluation and appropriate reperformance or independent testing?
-- Are the arrangement, evaluations, joint plan, and reliance decisions documented to a standard an experienced reviewer can follow?
-- Are significant findings reported by each party through its own reporting lines, without compromise to either party's position?
+- Are the arrangement, evaluations, joint plan, and reliance decisions documented to a standard an experienced reviewer can follow?; are significant findings reported by each party through its own reporting lines, without compromise to either party's position?

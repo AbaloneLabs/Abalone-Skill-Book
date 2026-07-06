@@ -60,8 +60,7 @@ Close the loop with returning volunteers. Tell them what changed based on feedba
 - Providing a generic training deck with no role scenarios or escalation practice.
 - Leaving volunteers without breaks, meals, water, storage, or a supervisor.
 - Over-recruiting volunteers into idle roles that feel pointless.
-- Relying on the same dependable volunteers for the hardest tasks without support.
-- Giving generic thanks that does not acknowledge actual contribution.
+- Relying on the same dependable volunteers for the hardest tasks without support; giving generic thanks that does not acknowledge actual contribution
 
 ## Self-Check
 

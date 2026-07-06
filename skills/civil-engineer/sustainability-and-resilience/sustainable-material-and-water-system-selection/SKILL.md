@@ -72,3 +72,4 @@ The sustainable material or the water system is selected, but the documentation 
 - Is the LID designed for the site's soil (the field-tested infiltration), the drainage area, the pretreatment, and the maintenance?
 - Is the rating credit balanced against the engineering performance, and not pursued at the expense of the structural, the hydraulic, or the energy requirement?
 - Is the selection documented (the EPD, the calculation) and verified (the commissioning), and does the evidence support the rating compliance?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

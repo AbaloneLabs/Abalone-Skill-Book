@@ -49,6 +49,8 @@ If scheduled multimodal therapy plus breakthrough opioids is insufficient, escal
 
 **Failing to convert or adjust opioid doses across agents, routes, and patient factors.** A patient is switched from IV to oral opioid, or from one agent to another, and the ordered dose is not equivalent, or renal/hepatic impairment is not accounted for. The mechanism of harm is that equianalgesic conversion is imperfect and patient-specific — too much causes overdose, too little causes withdrawal and pain crisis. The harm ranges from breakthrough pain to respiratory depression. Always verify conversions, apply cross-tolerance reduction when switching agents, adjust for organ function and age, and double-check high-risk conversions with pharmacy or the provider.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I administer scheduled non-opioid analgesics (acetaminophen, NSAIDs) around the clock as the foundation, reserving opioids for breakthrough?
@@ -60,5 +62,4 @@ If scheduled multimodal therapy plus breakthrough opioids is insufficient, escal
 - Did I adjust opioid doses for renal/hepatic function, age, tolerance, and concurrent sedatives?
 - Did I verify equianalgesic conversions when switching agents or routes, applying cross-tolerance reduction?
 - Did I titrate naloxone to restore respiratory rate (not full alertness) when treating OIRD?
-- Did I escalate to the pain service for persistent severe pain rather than continuing an ineffective plan?
-- Did I plan the opioid taper and identify patients needing addiction-medicine or follow-up support?
+- Did I escalate to the pain service for persistent severe pain rather than continuing an ineffective plan?; did I plan the opioid taper and identify patients needing addiction-medicine or follow-up support?

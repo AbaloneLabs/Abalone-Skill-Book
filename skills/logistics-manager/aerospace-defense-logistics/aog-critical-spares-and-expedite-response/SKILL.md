@@ -57,10 +57,8 @@ After the aircraft or mission recovers, review whether the expedite was preventa
 - Sending status updates without timestamps, timezone, flight, courier, and next action.
 - Forgetting that documents can ground the part even when the physical item arrives.
 - Assuming customs or cargo terminals operate when the flight lands.
-- Delivering to a receiver who lacks authority or access to move the part to maintenance.
-- Letting urgency bypass export controls or dangerous goods rules.
-- Assigning a hand-carry courier without verifying visas, customs, cabin custody, screening, and dangerous goods restrictions.
-- Treating AOG recovery as complete without reviewing why the expedite was needed.
+- Delivering to a receiver who lacks authority or access to move the part to maintenance; letting urgency bypass export controls or dangerous goods rules
+- Assigning a hand-carry courier without verifying visas, customs, cabin custody, screening, and dangerous goods restrictions; treating AOG recovery as complete without reviewing why the expedite was needed
 
 ## Self-Check
 

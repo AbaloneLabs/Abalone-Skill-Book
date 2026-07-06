@@ -54,8 +54,7 @@ Communication needs redundancy. Some older travelers may not use apps comfortabl
 - Giving teens vague independence without curfew, geography, check-in, money, and safety boundaries.
 - Assuming grandparents are either fully independent or fully limited, instead of asking and verifying.
 - Choosing lodging without checking elevators, room separation, noise, bathrooms, breakfast, and return convenience.
-- Ignoring family payment politics until deposits, upgrades, or cancellations create resentment.
-- Relying on one app or group chat for everyone regardless of tech comfort.
+- Ignoring family payment politics until deposits, upgrades, or cancellations create resentment; relying on one app or group chat for everyone regardless of tech comfort
 
 ## Self-Check
 

@@ -76,3 +76,4 @@ Programs without metrics cannot demonstrate value or improve. Track applicant qu
 - Is the program calibrated to the talent pipeline strategy — size, fields, schools aligned to roles to fill, reviewed annually?
 - Am I managing the campus and employer-brand dimension, investing in the experience and gathering content and relationships?
 - Am I measuring program effectiveness — applicant quality, offer/conversion rates, retention, satisfaction, cost — and iterating based on data?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

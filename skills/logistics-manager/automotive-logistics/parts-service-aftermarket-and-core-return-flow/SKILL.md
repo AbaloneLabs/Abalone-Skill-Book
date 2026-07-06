@@ -57,13 +57,11 @@ Airbags, lithium batteries, pyrotechnic devices, fluids, chemicals, tires, and c
 
 Urgency does not remove hazmat obligations. A vehicle-down part can still require compliant handling.
 
-### Track supersession and obsolescence
+### Track supersession and obsolescence and use returns data to improve the network
 
 Service parts change through supersession, engineering changes, supplier changes, recalls, and obsolescence. Update item master data, fitment catalogs, substitute rules, and dealer guidance before old parts create wrong shipments or stranded inventory.
 
 Obsolescence decisions should consider service obligations, warranty tail, legal requirements, and customer support commitments.
-
-### Use returns data to improve the network
 
 Analyze wrong part returns, no-fault-found warranty returns, damaged returns, late core returns, dealer over-ordering, and repeat backorders. Use findings to improve fitment data, packaging, stocking, dealer training, and supplier quality.
 
@@ -77,10 +75,8 @@ Reverse flow is diagnostic data. Treat it as more than cost.
 - Publishing backorder ETAs that are not tied to supplier or recovery evidence.
 - Losing warranty evidence needed for engineering, supplier recovery, or claim defense.
 - Treating cores as low-value returns rather than recoverable assets.
-- Issuing credits or remanufacturing releases without matching physical receipt and inspection evidence.
-- Moving airbags, batteries, fluids, and pyrotechnic parts without compliant handling.
-- Allowing obsolete or superseded parts to remain active without dealer guidance.
-- Ignoring reverse-flow data that explains wrong shipments, quality issues, and network gaps.
+- Issuing credits or remanufacturing releases without matching physical receipt and inspection evidence; moving airbags, batteries, fluids, and pyrotechnic parts without compliant handling
+- Allowing obsolete or superseded parts to remain active without dealer guidance; ignoring reverse-flow data that explains wrong shipments, quality issues, and network gaps
 
 ## Self-Check
 

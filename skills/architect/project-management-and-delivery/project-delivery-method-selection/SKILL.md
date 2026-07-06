@@ -113,6 +113,10 @@ Owners crave a guaranteed maximum price early, and some delivery methods are cho
 
 Fast-tracking, common in CM-at-risk and design-build, overlaps design and construction so that foundations are poured before the envelope is detailed. The trap is that the calendar savings are real and visible, while the quality risk, design decisions made under time pressure with incomplete information, is invisible until the building fails to perform. The false signal is the on-time milestone chart, which rewards speed without measuring the deferred decisions accumulating underneath. The harm is rework, change orders, and performance failures that surface late, often costing more than the time saved, and eroding the design quality the overlap was supposed to serve.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the owner explicitly ranked cost certainty, schedule, design quality, and risk transfer before a method was named?
@@ -122,3 +126,4 @@ Fast-tracking, common in CM-at-risk and design-build, overlaps design and constr
 - [ ] Are design intent, performance criteria, and quality benchmarks embedded in procurement so bidders price to a standard?
 - [ ] Is the decision, its assumptions, and the conditions required for success documented in a memo the owner has signed?
 - [ ] If project conditions changed after the decision, has the delivery method been revisited rather than assumed still correct?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

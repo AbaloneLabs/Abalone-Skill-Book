@@ -49,6 +49,8 @@ Most heart failure readmissions are preventable with self-management. Teach (wit
 
 **Sending the patient home without functional self-management education.** The patient is diuresed to dry weight, feels better, and is discharged with prescriptions but without the knowledge to recognize early decompensation. The mechanism of harm is that heart failure self-management is complex (daily weights, sodium and fluid restriction, flexible diuretics, symptom response), and patients without this knowledge return when symptoms are already severe. The harm is a preventable readmission. Teach daily weights and the weight-gain rule, sodium/fluid restriction, medication adherence, and warning signs, using teach-back, before discharge.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I assess volume status multimodally (daily weight, I&O, edema, JVD, lung sounds, oxygen, blood pressure) and trend the data?

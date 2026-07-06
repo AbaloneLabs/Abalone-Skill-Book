@@ -55,6 +55,10 @@ Timeouts exist at every layer (client request, service RPC, database query, load
 - **Make retries respect the overall budget.** Retries multiply the time spent; ensure retries do not exceed the overall request timeout, or a retry storm extends the hang.
 - **Coordinate with the load balancer's timeouts.** A load balancer that times out before the service leaves the service working and the client failed; align the balancer's timeout with the service's expected behavior.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Missing Or Effectively-Infinite Timeouts
@@ -93,3 +97,5 @@ Retries that multiply time spent beyond the overall request timeout, extending a
 - [ ] Connections are reused efficiently (keep-alive, pooling) to avoid reconnection cost, with stale connections handled (validation or reconnect-and-retry), idle connections evicted beyond a threshold, and idle pool size capped — balanced against reuse benefit.
 - [ ] Timeouts form a coherent layered strategy: lower-layer timeouts are shorter than higher-layer ones (database query < RPC < client request), retries respect the overall timeout budget, and load-balancer timeouts are aligned with the service's expected behavior.
 - [ ] The highest-risk cases were verified — a slow downstream that was bounded by a timeout rather than hanging the caller, a pool that failed fast rather than exhausting, backpressure that shed load at the edge rather than piling up inside, and retries that stayed within the overall budget — not only the clean light-load path.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

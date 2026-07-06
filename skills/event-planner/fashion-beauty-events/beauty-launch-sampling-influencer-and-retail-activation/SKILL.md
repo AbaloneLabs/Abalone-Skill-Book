@@ -70,12 +70,9 @@ Feedback should inform product, retail, education, and future activation design,
 - Using testers without hygiene controls and disposable applicators.
 - Letting staff make unapproved skincare, SPF, medical, or clinical claims.
 - Forgetting allergy, sensitive skin, and adverse reaction handling.
-- Inviting creators without content rights, disclosure, compensation, or talking points.
-- Creating bottlenecks at mirrors, shade stations, and photo areas.
-- Generating excitement without retail stock or purchase path.
-- Failing to reconcile testers, samples, influencer kits, sellable units, damaged goods, and leftovers.
-- Ignoring feedback about shade exclusion, scent, texture, or packaging.
-- Treating creator posts as guaranteed positive coverage.
+- Inviting creators without content rights, disclosure, compensation, or talking points; creating bottlenecks at mirrors, shade stations, and photo areas
+- Generating excitement without retail stock or purchase path; failing to reconcile testers, samples, influencer kits, sellable units, damaged goods, and leftovers
+- Ignoring feedback about shade exclusion, scent, texture, or packaging; treating creator posts as guaranteed positive coverage
 
 ## Self-Check
 

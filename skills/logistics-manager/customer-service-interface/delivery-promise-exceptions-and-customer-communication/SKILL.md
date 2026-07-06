@@ -60,8 +60,7 @@ When a promise changes, update every channel that the customer may see or use. A
 - Offering expedited, replacement, reroute, or credit options without operational or financial approval.
 - Letting sales, customer service, and transportation send conflicting updates.
 - Hiding uncertainty, which creates more anger when the plan changes again.
-- Failing to log promises and approvals.
-- Treating delivery as resolved before confirming customer receipt and satisfaction.
+- Failing to log promises and approvals; treating delivery as resolved before confirming customer receipt and satisfaction
 
 ## Self-Check
 
@@ -74,5 +73,4 @@ When a promise changes, update every channel that the customer may see or use. A
 - Are customer service, sales, transportation, warehouse, and account teams aligned on the same status?
 - Are promises, approvals, and communications logged?
 - Is final delivery or resolution confirmed after the exception?
-- Are repeated communication failures fed back into visibility, promise, or process improvements?
-- Do customer-facing channels use consistent promise language after the exception update?
+- Are repeated communication failures fed back into visibility, promise, or process improvements?; do customer-facing channels use consistent promise language after the exception update?

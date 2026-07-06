@@ -53,6 +53,10 @@ Assume a trauma history. Approach with predictability (explain what you will do 
 
 **Abandoning the patient after a behavioral incident.** After a patient is aggressive, manipulative, or self-harms, the nurse withdraws emotionally or avoids the patient, feeling anger or burnout. The mechanism of harm is that withdrawal confirms the patient's core expectation of abandonment (often the very wound driving the behavior), reinforces the maladaptive pattern, and leaves the patient without support at a moment of acute need. The harm is worsening behavior, deterioration, and a patient who learns that their worst behavior drives away help. Process your reaction (with supervision, debriefing), re-engage as soon as you can do so therapeutically, and hold the limit and the relationship together.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I clarify the purpose and limits of the therapeutic relationship at the outset?

@@ -54,8 +54,7 @@ Practical details matter: opening days, holiday closures, kitchen hours, child p
 - Overvaluing viral or famous restaurants without checking traveler fit and itinerary fit.
 - Scheduling long tasting menus before early departures, after red-eye arrivals, or between tight timed activities.
 - Forgetting group meal constraints such as pre-fixe menus, deposits, split checks, service charges, and dietary collection.
-- Recommending local food experiences without considering hygiene comfort, spice, standing time, language, or accessibility.
-- Hiding total meal cost by mentioning only entree prices or reservation availability.
+- Recommending local food experiences without considering hygiene comfort, spice, standing time, language, or accessibility; hiding total meal cost by mentioning only entree prices or reservation availability
 
 ## Self-Check
 

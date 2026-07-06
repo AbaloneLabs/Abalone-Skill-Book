@@ -76,3 +76,4 @@ Temporary cross-border work activates the same rules as permanent. Handle reques
 - Have I established a compliant arrangement (local employment, employer of record, genuine contractor) rather than an informal one?
 - Am I managing ongoing compliance — filings, immigration, benefits, data privacy — through a calendar with ownership and periodic review?
 - Am I handling temporary cross-border and digital nomad requests through a defined policy, not treating them as exempt from the rules?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -103,10 +103,8 @@ If response rates are low and alternative procedures do not fill the gap, the co
 - **Treating non-response as evidence of correctness**, rather than as a lack of evidence requiring alternative procedures.
 - **Accepting oral or unusual responses without corroboration or authentication**.
 - **Assuming confirmation covers completeness and valuation**, when it primarily covers existence and rights.
-- **Dismissing exceptions as third-party errors** rather than investigating them as potential misstatements.
-- **Low response rates with insufficient alternative procedures**, leaving the assertion unsupported.
-- **Confirming at interim without roll-forward**, leaving a gap to year-end for a period-end assertion.
-- **Sending the confirmation without a statement to respond regardless of agreement**, weakening positive confirmation evidence.
+- **Dismissing exceptions as third-party errors** rather than investigating them as potential misstatements; **Low response rates with insufficient alternative procedures**, leaving the assertion unsupported
+- **Confirming at interim without roll-forward**, leaving a gap to year-end for a period-end assertion; **Sending the confirmation without a statement to respond regardless of agreement**, weakening positive confirmation evidence
 
 ## Self-Check
 

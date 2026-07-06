@@ -61,6 +61,10 @@ A therapist may avoid conflict in the group, smoothing over tension, changing th
 
 A therapist may position themselves as the center of the group, the expert who answers questions, interprets, and conducts the group as a series of leader-member interactions, which deprives the group of its power. The mechanism is that the leader has authority and expertise, and the members look to them, and the leader, flattered or defaulting to expert mode, accepts the central role, when the group's therapeutic power is in member-to-member interaction. The harm is that the group depends on the leader, members do not learn from each other, and the group's potential is wasted. Cultivating member-to-member interaction and using the leader's role to facilitate, not to center, is what harnesses the group.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I working in the here-and-now of the group, illuminating process rather than just reported content?

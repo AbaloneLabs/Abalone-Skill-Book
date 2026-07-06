@@ -61,6 +61,10 @@ A therapist may focus on individual dynamics, the identified patient's symptoms 
 
 A therapist may conduct family therapy despite the presence of abuse, neglect, or unsafe dynamics, failing to recognize the danger or rationalizing the dynamics as treatable, which can endanger vulnerable members. The mechanism is that the unsafe dynamics are not identified, or are minimized as "family conflict," and the therapist, wanting to help, proceeds, when family therapy in the presence of ongoing abuse is contraindicated. The harm is that vulnerable members, especially children, are endangered, the abuse is reinforced or normalized, and the therapy may worsen the danger. Assessing for and addressing abuse and safety before proceeding, and not conducting joint therapy when ongoing abuse is present, is what protects vulnerable members.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I assessing and intervening at the family system level, not only at the identified patient?

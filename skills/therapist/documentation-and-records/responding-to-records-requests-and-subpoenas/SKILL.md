@@ -61,6 +61,10 @@ A therapist may release the entire record in response to a request, without revi
 
 A therapist may attempt to navigate a high-stakes request, a subpoena in a custody dispute, a court order, a request where the client's wishes are unclear, without seeking legal counsel, and make an error with significant consequences. The mechanism is that the therapist wants to handle it themselves, or is concerned about the cost of counsel, when the legal and ethical obligations are complex and the consequences of error, improper release or improper refusal, are significant. The harm is that the therapist breaches confidentiality, violates privilege, or fails to comply with a legitimate legal demand, any of which can produce ethics complaints, liability, or contempt. Seeking consultation or legal counsel for high-stakes requests is what prevents navigating them alone.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I identify the type of request, client access, subpoena, court order, insurer, and its requirements?

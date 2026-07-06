@@ -106,6 +106,10 @@ Proceeding on the assumption that national or state listing is the governing fra
 
 Allowing destructive investigation, demolition, or careless construction to remove or damage historic fabric before significance is assessed and treatment is agreed, destroys the very material the project exists to preserve. The trap is that investigation and early demolition feel like normal project steps, so they proceed without preservation review, while in reality the fabric removed may have been character-defining, and its loss is irreversible. The harm is the permanent destruction of significance, review violations, and in tax-credit projects the loss of certification. Conducting non-destructive investigation, sequencing demolition after treatment agreement, and requiring preservation-aware construction practices are what protect fabric through the process.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Has the property's significance, period of significance, character-defining features, and designation status (national, state, local) been established before design?

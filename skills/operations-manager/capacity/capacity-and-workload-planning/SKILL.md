@@ -1,198 +1,90 @@
 ---
-name: capacity_and_workload_planning.md
-description: Use when the agent is planning operational capacity, staffing, schedules, workload allocation, queue coverage, shift planning, service levels, or whether a team can handle expected demand reliably.
+name: capacity-and-workload-planning.md
+description: Use when the agent is planning operational capacity, staffing levels, workload allocation, service coverage, queue capacity, shift demand, handling time assumptions, productivity, or whether a team can reliably meet expected work volume without hidden backlog, burnout, quality loss, or service failure.
 ---
 
 # Capacity And Workload Planning
 
-Capacity planning is not guessing how many people are needed. It is matching demand, service expectations, skill availability, process efficiency, and variability. Operations fail when plans assume average demand, full availability, perfect handoffs, and no interruptions.
+Capacity planning is not a headcount guess. It is the translation of demand, service promises, process constraints, skill availability, and variability into a realistic operating plan. Agents often calculate average work volume, divide by average handling time, and miss the details that break real operations: peaks, shrinkage, rework, handoffs, escalations, interruptions, training, and the recovery capacity needed when the plan is wrong.
 
-Use this skill before planning staffing, shifts, queue coverage, fulfillment capacity, support coverage, back-office workload, service levels, seasonal operations, or resource allocation. The goal is to prevent the agent from creating a plan that works only on paper.
+Use this skill before recommending staffing levels, queue coverage, weekly schedules, workload allocation, service-level commitments, outsourcing, overtime, or automation as a capacity answer. The agent should produce a plan that can survive actual demand behavior, not only a spreadsheet that balances on average.
 
 ## Core Rules
 
-### Understand Demand Shape
+### Model demand shape, not only demand total
 
-Capacity must match demand patterns, not only total volume.
+Start by separating total volume from arrival pattern. Capacity must cover when work arrives, not only how much work exists over a month. Review hourly, daily, weekly, monthly, seasonal, promotional, release-driven, and event-driven patterns. Include backlog carryover, reopening work, batch arrivals, deadline-driven demand, and work that clusters after upstream teams act.
 
-Analyze:
+Do not hide peaks in averages. A team may be able to complete 1,000 cases per week and still fail if 500 arrive on Monday morning or if specialized cases arrive after the only qualified person leaves for the day. Model at the smallest time bucket that matters for the service promise.
 
-- daily, weekly, monthly, and seasonal patterns;
-- peak periods;
-- event-driven spikes;
-- launch or campaign effects;
-- backlog carryover;
-- urgent versus routine demand;
-- demand by channel, location, product, or customer type;
-- variability and uncertainty.
+### Separate work types by effort and skill
 
-Average volume can hide peak overload. A team may handle 500 requests per week and still fail if 300 arrive on Monday morning.
+Do not treat all units of work as identical. Split work into types that have materially different handling times, complexity, risk, skill requirement, approval need, documentation burden, or customer impact. Include simple transactions, research-heavy cases, exceptions, escalations, quality review, rework, customer communication, data correction, and supervisor approvals.
 
-### Estimate Work Effort By Type
+Use ranges rather than single handling-time numbers when variability is high. Averages can be useful for long-run planning, but staffing decisions need percentiles, outliers, and mix sensitivity. A small increase in complex work can consume more capacity than a large increase in simple work.
 
-Not all work items require the same time or skill. Separate demand by complexity.
+### Convert scheduled hours into productive capacity
 
-Examples:
+Scheduled hours are not available production hours. Account for breaks, meetings, training, coaching, onboarding, planned leave, sick time, holidays, system downtime, tool switching, administrative work, quality review, incident response, and cross-functional commitments. This loss is not waste by default; it is part of operating the team.
 
-- simple transactions;
-- research-heavy cases;
-- escalations;
-- quality review;
-- customer communication;
-- data correction;
-- exception handling;
-- training;
-- administrative updates;
-- rework.
+Be explicit about shrinkage assumptions. If a plan assumes 40 scheduled hours equal 40 queue hours, the plan is already wrong. New hires, temporary staff, and cross-trained backups may also produce less capacity during ramp or when they handle unfamiliar work.
 
-Use realistic handling time ranges, not only best-case duration. Include setup, documentation, handoff, and follow-up.
+### Match capacity to service promises
 
-### Account For Real Availability
+Capacity should be planned against the service promise, not against a vague desire to "keep up." Define response time, resolution time, fulfillment time, error tolerance, escalation time, operating hours, and priority tiers. A same-day promise requires different capacity than a weekly processing target even if total volume is identical.
 
-Scheduled hours are not productive capacity. People have meetings, breaks, training, sick time, holidays, interruptions, context switching, coaching, and non-queue work.
+If the current service promise cannot be met with available capacity, do not bury the conflict. Name the options: reduce promise, add staff, extend hours, defer lower-priority work, simplify process, automate safely, outsource, change intake rules, or accept backlog with customer communication.
 
-Check:
+### Include quality and rework in the plan
 
-- planned leave;
-- shrinkage;
-- training time;
-- team meetings;
-- administrative work;
-- cross-functional responsibilities;
-- on-call duty;
-- time zones;
-- skill limitations;
-- new hire ramp.
+Capacity planning that ignores quality creates false capacity. If staff are overloaded, errors, escalations, and rework often rise. Include time for quality checks, peer review, supervisor review, audit response, defect correction, customer recovery, and root-cause improvement.
 
-Do not plan as if every scheduled hour is fully available for primary work.
+Do not assume that pushing more work through the same team has no quality cost. A plan that clears volume while increasing rework may only move backlog into the future.
 
-### Match Skill To Work
+### Identify bottlenecks and constraints
 
-Capacity is constrained by skill, permission, certification, or experience. A team may have enough people but not enough qualified people for specialized work.
+Capacity is often constrained by something other than total headcount. Check specialized skills, licenses, system permissions, supervisor approvals, language coverage, location coverage, equipment, tools, vendor turnaround, downstream capacity, physical space, or customer availability. The limiting resource should drive the plan.
 
-Identify:
+If one approver, queue, tool, or handoff limits throughput, adding general staff may not improve service. The plan should show where additional capacity actually changes output.
 
-- work requiring senior review;
-- regulated or compliance-sensitive work;
-- language coverage;
-- technical skill;
-- tool access;
-- approval authority;
-- location-specific requirements;
-- cross-trained backup.
+### Plan for variability and recovery
 
-Single points of failure should be visible.
+Every capacity plan needs an answer for variance. Define buffers, overtime rules, overflow support, cross-training, temporary labor, vendor support, backlog burn-down, priority changes, and communication triggers. A plan without recovery logic turns normal variability into crisis management.
 
-### Set Service Levels And Tradeoffs
+Recovery capacity should be real. If the team is already fully utilized, there is no reserve for spikes, absences, incidents, or quality failures. High utilization can look efficient while making the operation brittle.
 
-Service level goals should reflect customer need, cost, risk, and operational reality.
+### Make tradeoffs visible to decision makers
 
-Define:
+Capacity choices trade cost, speed, quality, employee load, customer experience, and risk. Show the consequence of each option. For example, lower staffing may save budget but increase backlog and churn; overtime may protect this week's service but create fatigue; automation may reduce simple work but leave a higher-complexity mix for staff.
 
-- response time;
-- resolution time;
-- fulfillment time;
-- escalation time;
-- quality standard;
-- priority tiers;
-- what happens when demand exceeds capacity.
+Use scenarios rather than one "right" number where uncertainty is material. Leadership should see base, high-demand, low-demand, and disruption cases with the resulting service risk and cost.
 
-If capacity is limited, decide whether to extend time, reduce scope, add staffing, defer low-priority work, automate, or accept backlog. Hidden tradeoffs create surprise.
+### Monitor leading indicators after the plan starts
 
-### Plan For Variability And Recovery
+Capacity planning is not complete when the schedule is published. Track arrivals versus forecast, completions, aging, reopen rate, error rate, backlog mix, utilization, overtime, absenteeism, abandonment, escalations, and customer complaints. Define thresholds that trigger action.
 
-Operations need buffers. Demand spikes, absences, outages, supplier delays, and quality issues happen.
-
-Plan:
-
-- overflow process;
-- overtime rule;
-- backup coverage;
-- temporary staffing;
-- cross-training;
-- backlog recovery plan;
-- surge triage;
-- customer communication;
-- work deferral criteria.
-
-The plan should say what happens when normal capacity fails.
-
-### Review Workload Health Continuously
-
-Capacity planning is ongoing. Monitor indicators before customers or staff suffer.
-
-Watch:
-
-- backlog growth;
-- aging work;
-- missed service levels;
-- overtime;
-- error rate;
-- rework;
-- employee burnout signals;
-- queue abandonment;
-- escalations;
-- customer complaints.
-
-Rising volume with stable completion may still hide quality decline.
-
-### Protect Priority Work From Routine Noise
-
-Operations often mix urgent, important, routine, and low-value work in the same queue. If priority rules are unclear, whoever is loudest may receive attention while time-sensitive or high-risk work ages.
-
-Define:
-
-- priority categories;
-- who can change priority;
-- evidence required for urgent handling;
-- work that can be paused;
-- work that must never be delayed;
-- communication when lower-priority work waits;
-- review rhythm for aging items.
-
-Priority rules should be visible to the team and explainable to stakeholders. They should not depend on private negotiation or personal influence.
+If the plan is failing, revise assumptions quickly. Do not wait until the end of the month to discover that backlog aging, staff fatigue, or quality drift has already harmed customers.
 
 ## Common Traps
 
-### Planning To The Average
-
-Average demand ignores peaks, variability, and timing. Plan to service expectations, not just total volume.
-
-### Ignoring Non-Queue Work
-
-People do not only process tickets or orders. Meetings, training, quality review, documentation, and improvement work consume capacity.
-
-### Treating All Workers As Interchangeable
-
-Skills, permissions, language, geography, and experience matter.
-
-### No Recovery Plan
-
-Backlog does not disappear because the calendar changes. Define recovery capacity.
-
-### Overusing Overtime
-
-Overtime can help temporarily but can reduce quality and burn out teams if treated as normal capacity.
-
-### Measuring Speed Alone
-
-Fast work can hide mistakes, poor customer experience, and rework.
-
-### Letting Backlog Hide In Side Channels
-
-If work arrives through email, chat, spreadsheets, personal messages, and ticket queues at once, capacity planning becomes false. Intake should be visible enough that demand can be counted.
+- Dividing total demand by average handling time and calling the result staffing need.
+- Planning to monthly or weekly volume while ignoring hourly and daily peaks.
+- Treating scheduled hours as productive hours without shrinkage, ramp, meetings, training, and interruptions.
+- Assuming all work items require the same time, skill, approval, and quality control.
+- Adding general headcount when the bottleneck is senior review, permissions, tooling, vendor turnaround, or downstream capacity.
+- Setting service promises before checking whether staffing and recovery capacity can support them.
+- Using overtime as normal capacity until quality falls or staff burn out; ignoring rework, reopenings, escalations, and defect correction in workload estimates
+- Failing to define what will be paused or deprioritized when demand exceeds capacity; reporting capacity as a single confident number when demand and productivity assumptions are uncertain
 
 ## Self-Check
 
-- [ ] Demand is analyzed by timing, channel, customer type, product, urgency, seasonality, and variability.
-- [ ] Work is segmented by complexity and realistic handling time.
-- [ ] Availability accounts for meetings, breaks, training, leave, administrative work, ramp time, and interruptions.
-- [ ] Skill, permission, language, certification, and approval constraints are visible.
-- [ ] Service level goals and priority tiers are explicit.
-- [ ] Capacity tradeoffs are stated when demand exceeds supply.
-- [ ] Surge, overflow, backup, cross-training, overtime, and backlog recovery plans exist.
-- [ ] Monitoring includes backlog, aging, service levels, errors, rework, burnout, and customer impact.
-- [ ] Priority rules protect urgent and high-risk work from routine noise and loudest-requester bias.
-- [ ] Side-channel work is counted or controlled so capacity planning reflects real demand.
-- [ ] The plan does not assume every scheduled hour is productive capacity.
-- [ ] Quality and sustainability are considered alongside speed.
+- Is demand modeled by arrival pattern, channel, work type, location, customer segment, and peak period rather than only total volume?
+- Are handling-time assumptions separated by complexity, skill, approval, documentation, rework, and escalation burden?
+- Are scheduled hours converted into productive capacity after shrinkage, ramp, meetings, breaks, training, leave, interruptions, and non-queue work?
+- Are service promises, priority tiers, operating hours, and response or resolution targets explicit?
+- Does the plan include quality review, defect correction, rework, customer recovery, and improvement work?
+- Are bottlenecks such as senior review, system access, equipment, language, vendor, downstream capacity, or physical space identified?
+- Is there a recovery plan for spikes, absences, incidents, forecast error, and backlog burn-down?
+- Are tradeoffs across cost, service, quality, staff load, overtime, automation, outsourcing, and customer communication visible?
+- Are leading indicators and action thresholds defined after the plan goes live?
+- Can the proposed capacity plan work under realistic variability, not only under average conditions?

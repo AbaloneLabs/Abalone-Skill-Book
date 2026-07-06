@@ -57,6 +57,10 @@ A warning that is discarded with the packaging or hidden in a dense manual does 
 
 Required safety terms often do not translate literally, and a literal translation can change the legal meaning. Draft warnings in each language against the applicable standard and verify the terminology with a qualified local reviewer.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I document a hazard analysis showing that each warning addresses a residual hazard after design and engineering controls, rather than substituting for a higher-tier control?

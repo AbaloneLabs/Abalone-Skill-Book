@@ -29,6 +29,10 @@ Clients with IDD typically interact with multiple disconnected systems: special 
 
 Clients with IDD often live with and rely on aging parents whose capacity to provide care will decline. The social worker must raise the question of long-term planning proactively, not reactively after a caregiver's health crisis forces an emergency placement. The conversation is emotionally charged — the caregiver may have devoted decades to the client and may resist discussing a future they cannot provide for — and the social worker must approach it with respect for that devotion while gently establishing the need for a plan. The plan must address where the client will live, who will provide oversight, how finances and benefits will be managed, and how the client's social connections and routines can be preserved through the transition. Waiting for the crisis means the client loses their home, their caregiver, and their routine simultaneously, in an emergency placement chosen under pressure rather than designed for the client's needs.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Global Incapacity Assumption
@@ -47,6 +51,14 @@ A client with autism hits staff when taken to a noisy, crowded store. The team w
 
 A student with a developmental disability receives comprehensive services through the school system until age 22. The social worker, focused on the school years, does not begin adult-system planning until the final year. The mechanism of the trap is that the school system is an entitlement (services are provided based on need) while the adult system is often means-tested and waitlisted (services are provided based on funding availability, which may not exist). The harm is that the student exits the school system into a void — no day program, no vocational placement, no residential support — and the family, suddenly providing round-the-clock care, reaches crisis within months. The false signal is that the school transition plan will seamlessly connect to adult services, when in fact the adult system's waiting lists may be years long, and the planning must begin early enough to secure a place before the school services end.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Did I assess decision-making capacity for the specific decision, under the best available conditions and with appropriate accommodation, or did I apply a global incapacity assumption based on the diagnosis?
@@ -55,3 +67,5 @@ A student with a developmental disability receives comprehensive services throug
 - Did I coordinate the client's plans across the education, disability, healthcare, and benefits systems, ensuring alignment and closing gaps at transition points?
 - Did I raise the lifespan planning conversation — including the aging caregiver — proactively, or am I waiting for a crisis to force the placement decision?
 - Did I preserve the client's self-determination to the maximum extent consistent with their safety, providing support rather than substitute decision-making wherever possible?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

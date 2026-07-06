@@ -65,10 +65,8 @@ Evidence should be collected before the problem occurs. After cancellation or di
 - Ignoring whether a flight is ticketed, not just reserved.
 - Using app-only documents without offline copies, supplier locators, or backup access.
 - Letting a small discount justify weak support for a cruise, event trip, medical trip, or tight connection.
-- Missing refund flow when payment goes through virtual cards, wallets, vouchers, or third-party merchants.
-- Believing all reviews equally when listing age, review pattern, and host identity are weak.
-- Sharing sensitive traveler data with unnecessary intermediaries.
-- Failing to preserve evidence of terms before purchase.
+- Missing refund flow when payment goes through virtual cards, wallets, vouchers, or third-party merchants; believing all reviews equally when listing age, review pattern, and host identity are weak
+- Sharing sensitive traveler data with unnecessary intermediaries; failing to preserve evidence of terms before purchase
 
 ## Self-Check
 

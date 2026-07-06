@@ -29,6 +29,10 @@ When an error reaches the patient, the pharmacist has an ethical obligation to d
 
 The reporting and analysis are useful only if they result in system change, and the pharmacist must follow the error through to the implementation and verification of the change. The change must address the root system condition identified in the analysis, must be implemented with attention to whether it introduces new risks, and must be verified over time to confirm it is preventing the target error (and not producing unintended consequences). A report that produces no change, or a change that is never verified, leaves the error cycle intact. The pharmacist must advocate for the change, must participate in its implementation, and must monitor its effect, because the value of the reporting culture is realized only in the system improvements it produces.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Blame Frame
@@ -51,6 +55,10 @@ The error is not reported, or is minimized in the report, to avoid consequences 
 
 When an error reaches the patient, the disclosure is partial or evasive to limit legal exposure. The mechanism is that full disclosure feels legally risky. The false signal is that limited disclosure protects the institution. The harm is that partial disclosure is perceived as concealment, destroys the trust that full disclosure preserves, and — counterintuitively — increases rather than decreases the likelihood of legal action. The evidence is consistent: honest, timely, complete disclosure, with an explanation of prevention, is associated with reduced litigation and preserved trust. The disclosure is both an ethical duty and the empirically safer course.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I report every error and near miss through the appropriate system, including those that did not reach the patient and those that seem minor, recognizing that near misses are the richest prevention data?
@@ -59,3 +67,5 @@ When an error reaches the patient, the disclosure is partial or evasive to limit
 - When an error reached the patient, did I disclose it timely, honestly, and completely — explaining what happened, the consequences, the response, and the prevention plan — rather than concealing or minimizing?
 - Did I follow the error through to system change implementation and verify over time that the change is preventing the target error without introducing new risks?
 - Did I contribute to a reporting culture that focuses on system learning rather than individual blame, recognizing that blame suppresses the reporting that enables prevention?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

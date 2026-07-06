@@ -178,5 +178,4 @@ Cross-border data transfer, residency rules, and tool licensing terms can create
 - Does the workpaper document the tool, version, script reference, input reconciliation, logic, output, exceptions, conclusion, and review?
 - Are tool limitations acknowledged and mitigated rather than ignored?
 - Are exceptions found by the analysis investigated and resolved, with follow-up documented?
-- Has access to scripts and data been controlled and use logged?
-- Are analytics periodically re-validated when source systems or tools change?
+- Has access to scripts and data been controlled and use logged?; are analytics periodically re-validated when source systems or tools change?

@@ -61,6 +61,10 @@ A therapist may refer a family to provide meal support without giving them any s
 
 A therapist may accept a client's exercise as healthy and beneficial, when in an eating disorder the exercise is often a driven compensation behavior that maintains the disorder, prevents weight restoration, and carries medical risk. The mechanism of harm is that the exercise is read through a wellness frame rather than an eating disorder frame, and the therapist, reluctant to challenge a "healthy" behavior, allows the compensation to continue. The harm is that the client does not restore weight or interrupt the cycle, the medical risk persists, and the recovery stalls. Assessing exercise as a potential compensation behavior, in collaboration with the team, and adjusting it as clinically indicated, is part of treatment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I treat nutritional rehabilitation as the foundation of recovery, not a side concern?

@@ -39,6 +39,10 @@ Insurance evidence must be collected early enough to fix gaps. Build deadlines i
 
 The agent should not make final legal coverage determinations. Instead, prepare a clean issue list for the broker, risk manager, counsel, venue, or client: requirement, evidence received, gap, consequence, and decision needed. This turns insurance review from document collection into risk management.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 - Treating a COI as a contract amendment. A certificate usually does not change policy terms.

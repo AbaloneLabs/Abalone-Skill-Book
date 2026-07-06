@@ -53,6 +53,8 @@ Document that consent was verified, that the patient demonstrated understanding 
 
 **Failing to verify that the consent matches the procedure, site, and patient.** The consent form is present and signed, and the nurse does not compare it to the scheduled procedure, the marked site, and the patient identity. The mechanism of harm is that upstream errors (wrong procedure, wrong side, wrong patient on the consent) propagate into the procedure, and the nurse's verification is the last chance to catch them. The harm is wrong-site or wrong-procedure surgery — a catastrophic never-event. Verify the consent against the schedule, the marked site, and the patient, every time.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I verify that the patient understands the procedure, risks, alternatives, and consequences of refusal (in their own words), not just that the form is signed?

@@ -55,13 +55,11 @@ Consider alternate lanes, expedite options, dual sourcing, buffer stock, supplie
 
 Some low-cost sources are acceptable only with a clear resilience plan.
 
-### Use post-award performance feedback
+### Use post-award performance feedback and build logistics metrics into supplier scorecards
 
 Track actual landed cost, lead time, damage, shortages, compliance failures, expedite use, and inventory impact. Feed results into supplier scorecards and future sourcing decisions.
 
 Procurement decisions should learn from logistics execution, not reset with each bid event.
-
-### Build logistics metrics into supplier scorecards
 
 Supplier scorecards should include on-time ready date, ASN accuracy, packaging compliance, damage rate, documentation accuracy, carrier compliance, lead-time reliability, expedite frequency, and responsiveness to exceptions. Weight the metrics according to product and lane criticality.
 
@@ -74,12 +72,9 @@ When supplier scorecards measure only price, quality, and fill rate, logistics f
 - Ignoring lead-time variability and its effect on safety stock and working capital.
 - Quoting freight before packaging, palletization, and cube are known.
 - Accepting Incoterms without understanding control, risk, documentation, and visibility tradeoffs.
-- Signing sourcing contracts before logistics clauses for routing, packaging, documents, and liability are reviewed.
-- Qualifying suppliers without checking ASN, labeling, routing, EDI, and export documentation capability.
-- Assuming disruption recovery is cheap or available when a low-cost lane fails.
-- Failing to compare actual landed cost to sourcing assumptions after award.
-- Keeping supplier scorecards focused on price while logistics failures create hidden cost and risk.
-- Leaving logistics out of procurement decisions until the contract is signed.
+- Signing sourcing contracts before logistics clauses for routing, packaging, documents, and liability are reviewed; qualifying suppliers without checking ASN, labeling, routing, EDI, and export documentation capability
+- Assuming disruption recovery is cheap or available when a low-cost lane fails; failing to compare actual landed cost to sourcing assumptions after award
+- Keeping supplier scorecards focused on price while logistics failures create hidden cost and risk; leaving logistics out of procurement decisions until the contract is signed
 
 ## Self-Check
 
@@ -92,5 +87,4 @@ When supplier scorecards measure only price, quality, and fill rate, logistics f
 - Is supplier capability checked for ASN, labeling, routing guide, EDI, export, hazmat, security, and audit records?
 - Are disruption recovery options, dual sourcing, buffers, expediting, and customer impact modeled?
 - Is actual post-award logistics performance fed into supplier scorecards and sourcing decisions?
-- Do supplier scorecards include ready-date, ASN, packaging, damage, document, routing, lead-time, expedite, and response metrics?
-- Can procurement see the tradeoff between purchase price and logistics execution risk?
+- Do supplier scorecards include ready-date, ASN, packaging, damage, document, routing, lead-time, expedite, and response metrics?; can procurement see the tradeoff between purchase price and logistics execution risk?

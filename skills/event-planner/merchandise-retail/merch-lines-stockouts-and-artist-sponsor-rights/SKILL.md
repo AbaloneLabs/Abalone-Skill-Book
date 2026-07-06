@@ -70,12 +70,9 @@ Accurate settlement protects future relationships. Do not rely on register total
 - Waiting too long to tell guests that sizes, colors, or limited items are gone.
 - Allowing staff to speculate about restocks or online availability.
 - Ignoring artist approvals, revenue splits, counterfeit control, and settlement needs.
-- Selling products that conflict with sponsor category exclusivity.
-- Pulling inventory for VIPs, staff, or sponsors without documented allocation rules.
-- Mixing creator, sponsor, and event products in confusing ways.
-- Letting product browsing and size questions clog the same point where payment must happen.
-- Leaving refund and exchange decisions to stressed cashiers.
-- Closing without reconciling inventory, revenue, rights, taxes, and fees.
+- Selling products that conflict with sponsor category exclusivity; pulling inventory for VIPs, staff, or sponsors without documented allocation rules
+- Mixing creator, sponsor, and event products in confusing ways; letting product browsing and size questions clog the same point where payment must happen
+- Leaving refund and exchange decisions to stressed cashiers; closing without reconciling inventory, revenue, rights, taxes, and fees
 
 ## Self-Check
 

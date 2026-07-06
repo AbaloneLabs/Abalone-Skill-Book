@@ -70,3 +70,4 @@ Inconsistent or undocumented responses to government demands undermine defensibi
 - Did I assess cloud and vendor government-access practices, transparency, challenge history, and jurisdictional footprint in due diligence and contracting?
 - Did I establish a lawful, consistent, documented response process for demands, routed to legal review, before any demand arrives?
 - Did I verify the applicable government-access law and consult counsel before responding to any demand, given the multi-jurisdictional consequences?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

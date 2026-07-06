@@ -71,10 +71,8 @@ The next S&OP cycle should improve because actual logistics results are fed back
 - Letting monthly plans hide weekly spikes, holiday cutoffs, appointment scarcity, and carrier tender lead times.
 - Asking operations to absorb capacity gaps without executive visibility into cost, service, and customer tradeoffs.
 - Ignoring supplier and customer receiving constraints that make the internal plan unworkable.
-- Building only a base-case plan when volatility, port risk, weather, or promotion uncertainty is high.
-- Approving a plan without clear freeze windows, change authority, and rules for late demand or supply changes.
-- Measuring S&OP success by plan approval rather than actual service, cost, backlog, and constraint performance.
-- Treating recurring logistics exceptions as local failures instead of broken planning assumptions.
+- Building only a base-case plan when volatility, port risk, weather, or promotion uncertainty is high; approving a plan without clear freeze windows, change authority, and rules for late demand or supply changes
+- Measuring S&OP success by plan approval rather than actual service, cost, backlog, and constraint performance; treating recurring logistics exceptions as local failures instead of broken planning assumptions
 
 ## Self-Check
 

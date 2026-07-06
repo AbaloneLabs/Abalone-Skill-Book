@@ -41,11 +41,9 @@ Every worker brings assumptions and biases — about class, culture, gender, fam
 
 Reflective supervision develops the worker's general capacity, not only their handling of a specific case, by connecting the specific to the general. After reflecting on a specific case, ask: what does this teach about your practice generally, what pattern does this reveal, what principle applies, what skill could you develop, what would you do differently next time. This connection transforms a single supervision session into ongoing professional development, accumulating into a body of learning rather than remaining a series of one-off case discussions. Document the broader learning and developmental goals.
 
-### Use Challenge as Well as Support
+### Use Challenge as Well as Support and follow Through on Actions and Developmental Goals
 
 Reflective supervision is not only supportive; it must also challenge, and a supervisor who only affirms and comforts is not developing the worker. Challenge — naming a concern about practice, questioning a decision, pointing out a pattern, raising a bias — is how the worker grows, and it must be delivered with care and received with openness. The worker who experiences supervision as only affirmation is not being supervised; the worker who experiences it as only criticism is not being developed. Balance support and challenge, and address the worker's response to each. Document the challenge and the response.
-
-### Follow Through on Actions and Developmental Goals
 
 Supervision that produces insights but no follow-through does not change practice. End each session with specific actions and developmental goals, record them, and review them in the next session. Did you do what you agreed, did it work, what did you learn, what is next. This follow-through closes the loop between reflection and practice change, and it makes supervision accountable rather than merely reflective. Document the actions and their review.
 

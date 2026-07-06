@@ -56,12 +56,9 @@ If a statement is misstated, an answer is incomplete, or a fact changes after th
 - Restricting Q&A without explaining the rule, making the event look evasive.
 - Letting spokespeople speculate instead of using unknown-answer discipline.
 - Distributing materials that differ from spoken statements.
-- Using a backdrop or venue that conflicts with the message.
-- Forgetting audio quality, power, mult box, livestream, captions, and interpretation.
-- Failing to track reporter follow-up promises.
-- Allowing different teams to use different fact versions after late changes.
-- Rehearsing remarks but not entrances, handoffs, Q&A close, and speaker exit.
-- Having no correction process when a statement or fact changes after the briefing.
+- Using a backdrop or venue that conflicts with the message; forgetting audio quality, power, mult box, livestream, captions, and interpretation
+- Failing to track reporter follow-up promises; allowing different teams to use different fact versions after late changes
+- Rehearsing remarks but not entrances, handoffs, Q&A close, and speaker exit; having no correction process when a statement or fact changes after the briefing
 
 ## Self-Check
 

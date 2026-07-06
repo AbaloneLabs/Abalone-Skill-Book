@@ -29,6 +29,10 @@ Regimen complexity is one of the most powerful and most addressable drivers of n
 
 Adherence interventions are not one-time events; adherence decays over time, and the patient who is adherent at week two may relapse by month three. The pharmacist must establish a monitoring plan — refill synchronization with adherence checks at each pickup, periodic PDC review, follow-up calls at defined intervals, or laboratory markers for high-stakes drugs — and must respond to early signals of relapse with a renewed conversation rather than waiting for a clinical failure. The follow-up should reinforce the patient's progress, address new barriers as they arise, and adjust the intervention as the patient's circumstances change. An adherence intervention without follow-up produces a temporary improvement that decays back to baseline.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Moralizing Frame
@@ -51,6 +55,10 @@ The pharmacist delivers a thorough adherence intervention at one visit and assum
 
 A patient's blood pressure or A1c is uncontrolled, and the prescriber escalates the regimen — adding a second agent, increasing the dose — without checking whether the patient is taking the first drug. The mechanism is that the lab value reads as drug failure. The false signal is that the disease is progressing, so therapy must intensify. The harm is that the patient is now on a more complex, more expensive, higher-side-effect regimen for a problem that was never drug failure — it was non-adherence — and the intensified regimen is even harder to adhere to, accelerating the cycle. The pharmacist must raise adherence as a possible cause of apparent therapeutic failure before escalation, because adding drugs to a non-adherent patient does not control the disease and does cause harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I measure adherence objectively (PDC, pill count, lab marker) or use validated non-judgmental questioning, rather than relying on the patient's self-report of "yes, I take it"?
@@ -59,3 +67,5 @@ A patient's blood pressure or A1c is uncontrolled, and the prescriber escalates 
 - Did I look for clinically equivalent opportunities to simplify the regimen (once-daily formulations, combinations, synchronized refills, removal of unneeded drugs) in coordination with the prescriber?
 - Did I establish a monitoring plan and a follow-up schedule to catch adherence relapse early, or did I treat the intervention as a one-time event?
 - When a patient's disease appears uncontrolled, did I raise adherence as a possible cause before recommending therapy escalation, to avoid intensifying a regimen for a non-adherence problem?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

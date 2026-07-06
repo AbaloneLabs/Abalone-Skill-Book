@@ -135,6 +135,10 @@ Targets without base years, methodologies, and a plan to achieve them are market
 
 Scope 3 often dominates the footprint; omission where material produces misleading disclosure.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Is disclosure structured across governance, strategy, risk management, and metrics and targets with internal consistency?

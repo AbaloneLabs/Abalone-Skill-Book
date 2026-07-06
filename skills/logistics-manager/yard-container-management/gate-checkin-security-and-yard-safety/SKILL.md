@@ -71,10 +71,8 @@ Gate metrics should show both flow and control quality.
 - Missing broken seals, damage, leaks, placard errors, reefer issues, or equipment defects at arrival.
 - Letting traffic flow, unclear signage, or pedestrian exposure create preventable yard safety risk.
 - Improvising gate exceptions without written authority, escalation, and documentation.
-- Bypassing security controls because a shipment is urgent or a driver is pressuring the gate.
-- Failing to tell dock and yard teams about early/late arrivals, no-shows, priority loads, or rejected equipment.
-- Having no fallback for system outage, queue surge, severe weather, security incident, or emergency access.
-- Measuring the gate only by speed while ignoring security, safety, and data accuracy.
+- Bypassing security controls because a shipment is urgent or a driver is pressuring the gate; failing to tell dock and yard teams about early/late arrivals, no-shows, priority loads, or rejected equipment
+- Having no fallback for system outage, queue surge, severe weather, security incident, or emergency access; measuring the gate only by speed while ignoring security, safety, and data accuracy
 
 ## Self-Check
 

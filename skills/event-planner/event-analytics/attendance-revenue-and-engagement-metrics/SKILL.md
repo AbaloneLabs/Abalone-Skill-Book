@@ -70,12 +70,9 @@ Use charts and tables where helpful, but do not bury decisions. Metrics should l
 - Using gross revenue without fees, refunds, discounts, taxes, and chargebacks.
 - Combining registration, ticketing, scanner, CRM, and finance exports without defining the source of truth.
 - Collecting engagement data without knowing what decision it supports.
-- Treating app clicks or social posts as universal engagement.
-- Ignoring duplicate records, shared badges, scanner failures, and walkups.
-- Comparing events without normalizing date, location, price, audience, and format.
-- Capturing attendee behavior without privacy review.
-- Presenting numbers without interpretation or action.
-- Hiding caveats because the event needs to look successful.
+- Treating app clicks or social posts as universal engagement; ignoring duplicate records, shared badges, scanner failures, and walkups
+- Comparing events without normalizing date, location, price, audience, and format; capturing attendee behavior without privacy review
+- Presenting numbers without interpretation or action; hiding caveats because the event needs to look successful
 
 ## Self-Check
 

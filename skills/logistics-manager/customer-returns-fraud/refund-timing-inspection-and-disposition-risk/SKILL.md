@@ -39,6 +39,10 @@ Refund decisions affect revenue, tax, payment fees, inventory valuation, shrink,
 
 Monitor cycle times and exceptions: label-to-scan, scan-to-receipt, receipt-to-inspection, inspection-to-refund, refund errors, partial refund disputes, denied return appeals, and disposition aging. Long aging often indicates warehouse bottlenecks or unclear rules.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Refunding on label creation for high-risk items. The customer may never ship or may ship the wrong item.

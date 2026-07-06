@@ -65,6 +65,10 @@ A therapist may recognize caregiver burden in principle but fail to assess and a
 
 A therapist may misread anticipatory grief as depression and pursue psychiatric treatment that the client does not want or need, or may misread genuine depression as normal grief and withhold treatment that would relieve suffering, because the two overlap in serious illness. The mechanism of harm is that the conflation leads to the wrong intervention: pathologizing a normal process or neglecting a treatable condition. The harm is that the client either receives unnecessary treatment during a normal grief process or is left to suffer a treatable depression. Distinguishing the wave-like, connection-preserving quality of grief from the pervasive anhedonia and hopelessness of depression guides the right intervention.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I establish my role and the care context, with authorizations for coordination, at the outset?

@@ -51,6 +51,14 @@ A dashboard built on incomplete self-service data entry, inconsistent manager up
 
 Dashboards that auto-generate alerts or color-code metrics without contextual rules produce alert fatigue. A "red" turnover flag in a function that is intentionally restructuring is not a problem. Build in exception logic and human review for contextual flags. The analytics team's value is interpretation, not just computation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - Can I articulate the specific leadership decision each metric on my dashboard is designed to inform?

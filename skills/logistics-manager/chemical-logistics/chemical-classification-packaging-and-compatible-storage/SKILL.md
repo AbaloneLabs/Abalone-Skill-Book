@@ -52,8 +52,7 @@ A classification or packaging answer for domestic truck may not apply to air, oc
 - Ignoring limited quantity details, overpack marking, subsidiary hazards, or mode-specific rules.
 - Treating damaged or leaking packages as a warehouse cleanup task rather than a regulated safety event.
 - Letting sales or customer urgency override dangerous goods review.
-- Giving classification or regulatory conclusions without qualified hazmat, EHS, or compliance review.
-- Reusing a domestic ground setup for air, ocean, rail, export, or parcel moves without mode-specific review.
+- Giving classification or regulatory conclusions without qualified hazmat, EHS, or compliance review; reusing a domestic ground setup for air, ocean, rail, export, or parcel moves without mode-specific review
 
 ## Self-Check
 

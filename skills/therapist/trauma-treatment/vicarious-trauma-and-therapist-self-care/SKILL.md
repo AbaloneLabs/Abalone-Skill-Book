@@ -61,6 +61,10 @@ A therapist may sustain a caseload dominated by high-trauma clients, without bal
 
 A therapist may work in isolation, without regular consultation or peer support, trying to manage the weight of trauma work alone, which increases the risk of vicarious trauma and compromised care. The mechanism is that private practice is isolating, and the therapist, busy and self-reliant, does not build in consultation or peer support, when the isolation allows vicarious trauma to develop unchecked. The harm is that the therapist lacks perspective, processes the material alone, and is more vulnerable to vicarious trauma and burnout. Building consultation and peer support into the practice, as ongoing supports, is what combats the isolation.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Do I recognize vicarious trauma as an occupational hazard, not a personal failing?

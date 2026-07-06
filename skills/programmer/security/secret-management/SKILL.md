@@ -124,3 +124,4 @@ An exception handler that serializes the connection string, the request, or the 
 - [ ] Logs, error messages, traces, crash dumps, and telemetry are configured to redact secrets at the shipping boundary; full request/response bodies and headers are not logged in credential-handling systems; connection strings and config are not interpolated into log lines.
 - [ ] CI/CD secrets are scoped per-job, masked in logs, never passed to untrusted steps or written to caches/artifacts, and deploy credentials are short-lived and OIDC-federated rather than long-lived static keys; secret scanning runs on commits.
 - [ ] Any previously committed or exposed secret has been rotated (not merely removed), and the team treats git history as a permanent exposure surface.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

@@ -118,10 +118,8 @@ This documentation is what makes the procedure defensible and repeatable. An ano
 - **Misapplying Benford's Law** to small, assigned, or range-constrained populations where its conditions do not hold.
 - **Relying on a single detection method** that misses schemes other methods would catch.
 - **Detecting anomalies on unsegmented populations**, producing false positives and false negatives from inappropriate peer groups.
-- **Treating anomaly detection as a technical exercise** disconnected from the fraud risk assessment.
-- **Generating exception lists that are never investigated to resolution**, leaving the procedure incomplete.
-- **Failing to document methods, thresholds, exceptions, and resolutions**, making the procedure indefensible and irreproducible.
-- **Over-interpreting a single statistical signal as proof of fraud**, when many legitimate factors cause deviations.
+- **Treating anomaly detection as a technical exercise** disconnected from the fraud risk assessment; **Generating exception lists that are never investigated to resolution**, leaving the procedure incomplete
+- **Failing to document methods, thresholds, exceptions, and resolutions**, making the procedure indefensible and irreproducible; **Over-interpreting a single statistical signal as proof of fraud**, when many legitimate factors cause deviations
 
 ## Self-Check
 

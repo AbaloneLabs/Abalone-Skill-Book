@@ -128,19 +128,15 @@ Reaching for 2PC or a global transaction across independent services to keep the
 
 Using timestamp-based LWW to resolve conflicts on data where each update carries distinct information, so concurrent edits silently drop one side. LWW is acceptable for ephemeral or overwrite-equivalent data and destructive for anything where lost updates matter.
 
-### Ignoring Read Consistency At The Call Site
+### Ignoring Read Consistency At The Call Site and no Partition Recovery Plan
 
 Reading from a replica or cache and assuming the value is current, then acting on stale data for a decision that required freshness (e.g., checking a balance before a withdrawal against a lagging replica). Make the read's required consistency explicit and route accordingly.
 
-### No Partition Recovery Plan
-
 Designing the system to survive partitions but never defining how divergent state is reconciled when the partition heals, so recovery becomes a manual, error-prone incident. Define conflict resolution, reconciliation jobs, and split-brain prevention before the partition occurs.
 
-### Treating Clocks As Authoritative For Ordering
+### Treating Clocks As Authoritative For Ordering and overgeneralizing From A Single Workload
 
 Using wall-clock timestamps for ordering or conflict resolution across nodes, ignoring clock skew, drift, leap seconds, and NTP inaccuracy. Clock skew across nodes can reverse the apparent order of events; use logical clocks, vector clocks, version vectors, hybrid clocks, or consensus-based ordering where ordering correctness matters.
-
-### Overgeneralizing From A Single Workload
 
 Assuming the consistency choice that worked for one service or dataset applies to all. A read-heavy catalog tolerates eventual consistency; a write-heavy ledger does not. Decide consistency per invariant, not per system.
 

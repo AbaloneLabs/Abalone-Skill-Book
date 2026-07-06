@@ -144,11 +144,9 @@ A review that initials without examining adds no assurance and may mask problems
 
 Identifying problems without tracking them to resolution performs only half the control function.
 
-### Monitoring Treated As Dashboarding
+### Monitoring Treated As Dashboarding and ignoring External Control Requirements
 
 Control monitoring is a core component of the control environment, not just operational reporting; confirm with professionals.
-
-### Ignoring External Control Requirements
 
 SOX, audit, and regulatory expectations may impose specific control design and testing requirements.
 

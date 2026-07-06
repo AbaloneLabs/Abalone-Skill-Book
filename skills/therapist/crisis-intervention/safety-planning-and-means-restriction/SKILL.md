@@ -76,6 +76,10 @@ A safety plan that amounts to "call me if you need to" places the entire burden 
 
 After a client experiences an escalation, the therapist may not review whether the safety plan was used, what worked, and what did not, treating the plan as written rather than as tested. The mechanism is that the plan's existence is treated as sufficient, so its actual use is not examined. The harm is that a plan that did not work, because a support was unreachable or a coping step was ineffective, continues unchanged, and the next crisis finds the client with the same inadequate plan. Reviewing the plan's use after any escalation, and revising based on what was learned, is what makes the plan improve over time.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I build the plan collaboratively, using the client's own warning signs, coping strategies, supports, and words?

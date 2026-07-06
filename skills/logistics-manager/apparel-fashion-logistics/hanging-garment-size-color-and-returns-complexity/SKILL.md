@@ -71,10 +71,8 @@ Aggressive fraud controls can harm good customers; weak controls can destroy mar
 - Tracking on-time delivery while ignoring garment condition and sellability.
 - Storing hanging garments without enough rails, cube, density control, or trailer capability.
 - Returning garments to sellable stock without inspection, grading, and hygiene controls.
-- Performing cleaning, steaming, retagging, or repair without standards and cost thresholds.
-- Underestimating reverse-logistics peaks after promotions and holidays.
-- Failing to analyze return reasons by variant, channel, supplier, and condition.
-- Blocking all suspicious returns harshly or allowing fraud to pass unchecked.
+- Performing cleaning, steaming, retagging, or repair without standards and cost thresholds; underestimating reverse-logistics peaks after promotions and holidays
+- Failing to analyze return reasons by variant, channel, supplier, and condition; blocking all suspicious returns harshly or allowing fraud to pass unchecked
 
 ## Self-Check
 

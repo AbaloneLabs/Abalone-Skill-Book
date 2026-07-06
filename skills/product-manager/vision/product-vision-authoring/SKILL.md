@@ -84,3 +84,4 @@ Treating the vision as sacred long after the market moved. The trap is a vision 
 - [ ] The vision is short, clear, and free of jargon, so it can be repeated from memory across functions.
 - [ ] The vision is reviewed on a slow strategy cadence, not rewritten every planning cycle.
 - [ ] The team can connect their daily work to the vision, or the vision has been flagged as stale.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -41,6 +41,10 @@ Public festivals need explicit density and stop/go authority. Identify who can p
 
 Include a pre-open site walk with operations, security, medical, production, accessibility, sanitation, and agency representatives. The walk should test whether the map matches physical barriers, signage, cable ramps, sightlines, radio coverage, and emergency routes.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Judging the layout by map aesthetics rather than peak crowd movement and service access.

@@ -54,8 +54,7 @@ Repeated returns for the same SKU, supplier, listing, carrier, or packaging type
 - Selling returned goods as new without clear standards and legal review.
 - Creating refurbishment grades that customer service, warehouse, and sales interpret differently.
 - Optimizing return freight cost while losing resale value through delay or damage.
-- Trusting customer-selected reason codes without inspection validation.
-- Failing to use return patterns to fix product, packaging, listing, or supplier issues.
+- Trusting customer-selected reason codes without inspection validation; failing to use return patterns to fix product, packaging, listing, or supplier issues
 
 ## Self-Check
 

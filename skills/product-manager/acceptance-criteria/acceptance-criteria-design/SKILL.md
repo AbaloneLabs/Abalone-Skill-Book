@@ -84,3 +84,4 @@ Criteria that cannot be turned into tests. The trap is verification that does no
 - [ ] Criteria are written before implementation and refined as understanding deepens.
 - [ ] Each criterion can be translated into a test, and criteria that resist testing are clarified.
 - [ ] Criteria include what must work, important alternatives, constraints, and what should not happen.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -29,6 +29,10 @@ Older adults are more sensitive to drug effects, have reduced clearance, and are
 
 The functional impact of medications — particularly on falls, cognition, and continence — is the outcome that matters most to older adults, more than any lab value. The pharmacist must assess each regimen for fall risk (sedatives, antihypertensives causing orthostasis, anticholinergics, opioids, drugs causing dizziness or hypoglycemia) and must counsel the patient and caregiver on fall prevention (stand slowly, report dizziness, ensure adequate lighting and footwear, consider physical therapy). The pharmacist must counsel on the cognitive effects to watch for (confusion, sedation, delirium — which may be attributed to "aging" or "dementia" but is drug-induced and reversible) and on continence effects (diuretics timing, anticholinergic urinary retention). A medication that controls a lab value but causes a fall that breaks a hip has harmed the patient far more than the lab value ever would have, and the pharmacist must weigh the functional impact alongside the disease control in every geriatric regimen.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The "Normal" Serum Creatinine in an Older Adult
@@ -51,6 +55,10 @@ The pharmacist refuses to fill or aggressively pushes to stop every Beers-flagge
 
 The pharmacist optimizes the regimen for disease control (blood pressure at target, A1c at target) without considering the functional cost (orthostatic hypotension causing a fall, hypoglycemia causing confusion, polypharmacy burden reducing adherence). The mechanism is that the disease targets are the explicit goals. The false signal is that the numbers are at target, so the regimen is successful. The harm is that the older adult's quality of life and function decline — a hip fracture from a fall is far worse for an 85-year-old than a blood pressure of 145 — and the "successful" regimen has harmed the patient. The pharmacist must weigh functional impact alongside disease control, often accepting less aggressive targets in older adults to preserve function and avoid harm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I apply the Beers Criteria to the older adult's regimen as a routine screen, raising flagged drugs with the prescriber with a documented rationale for continuation or substitution?
@@ -59,3 +67,5 @@ The pharmacist optimizes the regimen for disease control (blood pressure at targ
 - Did I verify the starting dose is geriatric-appropriate (lower than standard adult, "start low, go slow") for psychoactive, cardiovascular, anticoagulant, and opioid drugs, and review for deprescribing at each visit?
 - For every new symptom in an older adult, did I suspect a drug cause and recommend addressing the offending drug before adding another, to avoid the prescribing cascade?
 - Did I weigh the functional impact (fall risk, cognition, continence) alongside disease control, accepting less aggressive targets where the functional cost exceeds the disease benefit, and counsel on fall prevention?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

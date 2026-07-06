@@ -59,12 +59,9 @@ Create a method for product feedback to reach the right team with source, severi
 - Letting executives or VIP teams bypass sample allocation rules.
 - Shipping review units that are untested, incomplete, uncharged, or missing access credentials.
 - Exposing product names or features through packaging, labels, apps, or vendor instructions.
-- Forgetting regulated labeling, safety, allergen, expiration, or regional compliance.
-- Capturing leads at the event but not assigning follow-up owners.
-- Measuring launch success only by attendance, applause, or social impressions.
-- Having no triage channel for broken links, sample defects, support spikes, bad reviews, or embargo violations.
-- Forgetting sample return, wipe, destruction, secondary market, and regulated disposal obligations.
-- Letting anecdotal comments override structured launch feedback.
+- Forgetting regulated labeling, safety, allergen, expiration, or regional compliance; capturing leads at the event but not assigning follow-up owners
+- Measuring launch success only by attendance, applause, or social impressions; having no triage channel for broken links, sample defects, support spikes, bad reviews, or embargo violations
+- Forgetting sample return, wipe, destruction, secondary market, and regulated disposal obligations; letting anecdotal comments override structured launch feedback
 
 ## Self-Check
 
@@ -77,5 +74,4 @@ Create a method for product feedback to reach the right team with source, severi
 - Are press, sales, developer, influencer, customer, partner, and executive follow-ups assigned with response times?
 - Are sample performance, reviews, leads, trials, support issues, press, sentiment, and product feedback measured after launch?
 - Is a cross-functional post-launch triage channel ready with severity, owner, response time, and monitoring sources?
-- Are sample return, wiping, destruction, resale prevention, and disposal requirements controlled?
-- Does product feedback include source, severity, evidence, and routing rather than unstructured anecdotes?
+- Are sample return, wiping, destruction, resale prevention, and disposal requirements controlled?; does product feedback include source, severity, evidence, and routing rather than unstructured anecdotes?

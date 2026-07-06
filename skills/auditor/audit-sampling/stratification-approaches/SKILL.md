@@ -92,8 +92,7 @@ Populations often contain many zero, small, or negative items (dormant accounts,
 - **Aggregating stratum results incorrectly**, offsetting misstatements across strata or losing statistical precision in judgemental aggregation.
 - **Rolling forward last year's stratification** without re-examining whether the population's value and risk distribution has changed.
 - **Applying the same procedure to every stratum**, missing the efficiency of matching procedure to stratum characteristics.
-- **Silently excluding zero, small, or negative items**, leaving the tails of the distribution — where frauds and errors often hide — unexamined.
-- **Failing to document stratum boundaries and rationale**, making the design indefensible if challenged.
+- **Silently excluding zero, small, or negative items**, leaving the tails of the distribution — where frauds and errors often hide — unexamined; **Failing to document stratum boundaries and rationale**, making the design indefensible if challenged
 
 ## Self-Check
 

@@ -84,3 +84,4 @@ Investing uniformly regardless of likelihood and severity. The trap is over-engi
 - [ ] Edge cases are traced through the full workflow to identify propagated effects and downstream impacts.
 - [ ] Edge cases are prioritized by likelihood and severity, with handling decisions documented explicitly.
 - [ ] The design accounts for the unusual and extreme situations, not just the typical case.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

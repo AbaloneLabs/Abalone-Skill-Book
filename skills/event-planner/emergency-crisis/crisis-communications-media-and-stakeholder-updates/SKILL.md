@@ -54,8 +54,7 @@ Review communication performance after the event. Did messages reach people? Wer
 - Letting unauthorized staff answer media or post incident commentary.
 - Updating social media, website, email, app, and onsite signage inconsistently.
 - Relying on one communication channel that some attendees cannot access.
-- Forgetting sponsors, vendors, speakers, virtual attendees, or families as distinct audiences.
-- Apologizing or promising refunds, investigations, or safety changes without authority and follow-through.
+- Forgetting sponsors, vendors, speakers, virtual attendees, or families as distinct audiences; apologizing or promising refunds, investigations, or safety changes without authority and follow-through
 
 ## Self-Check
 

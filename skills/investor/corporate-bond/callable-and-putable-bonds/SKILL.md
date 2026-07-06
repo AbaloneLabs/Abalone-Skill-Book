@@ -116,3 +116,4 @@ A putable bond's lower yield is the premium the investor pays for downside prote
 - [ ] The instrument is matched to the investor's rate and credit view and to liquidity and known-maturity needs.
 - [ ] Specific call structure (fixed-schedule, make-whole, par call, sinking fund) is read from the indenture rather than assumed.
 - [ ] The conclusion avoids presenting a callable bond's higher yield as attractive without naming the option sold and the investor-specific rate view.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

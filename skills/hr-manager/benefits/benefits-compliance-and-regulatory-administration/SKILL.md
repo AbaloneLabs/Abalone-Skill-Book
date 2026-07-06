@@ -76,3 +76,4 @@ Benefits administration involves carriers, TPAs, and administrators who handle d
 - Am I managing disclosure obligations — SPDs, SBCs, notices — with accurate content, compliant distribution, and documentation?
 - Am I maintaining organized compliance documentation and conducting internal audits to prepare for regulatory inquiries?
 - Am I navigating leave, disability, and benefits interactions deliberately to maintain coverage and trigger elections correctly?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

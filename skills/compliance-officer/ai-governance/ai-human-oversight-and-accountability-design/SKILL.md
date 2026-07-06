@@ -57,6 +57,10 @@ Assigning the human reviewer accountability for systemic failures they could not
 
 Treating overrides as individual corrections rather than as a pattern-detection signal wastes the most valuable monitoring input the oversight process generates. Feed override analysis back into monitoring and provider feedback.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I audit the oversight design against all four conditions of meaningful review, competence, authority, information, and incentive or time?
@@ -66,3 +70,4 @@ Treating overrides as individual corrections rather than as a pattern-detection 
 - Did I build override, escalation, and complaint capture as a learning system that feeds pattern analysis back to monitoring and provider feedback?
 - Did I preserve the affected person's right to request human review, contest the decision, and receive a meaningful explanation?
 - Did I confirm the applicable oversight and accountability requirements for the jurisdiction and use case, and consult counsel for high-stakes deployments?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

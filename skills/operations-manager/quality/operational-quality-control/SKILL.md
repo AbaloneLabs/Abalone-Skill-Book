@@ -1,188 +1,90 @@
 ---
-name: operational_quality_control.md
-description: Use when the agent is designing or reviewing operational quality controls, audits, sampling, error reduction, standard work, defect tracking, rework prevention, or continuous improvement in a recurring operation.
+name: operational-quality-control.md
+description: Use when the agent is designing or reviewing operational quality controls, quality standards, quality review, defect prevention, quality gates, rework prevention, quality metrics, customer-impact review, or quality assurance for recurring operational work.
 ---
 
 # Operational Quality Control
 
-Operational quality is not only whether work gets done. It is whether work is done correctly, consistently, safely, on time, and in a way the recipient can trust. Quality control should prevent errors when possible, detect them early when they occur, and turn repeated defects into process improvement.
+Operational quality is whether work is correct, complete, timely, safe, compliant, and usable by the recipient. It is not only whether a ticket was closed, an order was processed, or a task was marked done. Agents often add a review step at the end and call that quality control, while missing prevention, early detection, rework loops, customer impact, and the incentives that caused the defect.
 
-Use this skill before designing audits, quality review, standard work, sampling plans, defect tracking, rework processes, compliance checks, or improvement loops for recurring operations. The goal is to prevent the agent from adding superficial checks while missing root causes and customer impact.
+Use this skill before designing quality checks, review gates, QA rubrics, sampling programs, defect tracking, rework controls, or operational quality metrics. The goal is to prevent superficial inspection and build quality into the operating system.
 
 ## Core Rules
 
-### Define Quality In Observable Terms
+### Define quality in observable terms
 
-Quality must be specific enough to evaluate. "Good work" is not a standard.
+Do not use vague standards like "accurate" or "good customer experience" without observable criteria. Define what correct work looks like for each work type: required fields, correct decision, policy fit, documentation, timeliness, customer communication, safety, compliance, handoff quality, and absence of preventable rework.
 
-Define:
+Quality standards should distinguish severity. A typo, missing internal note, wrong payment action, privacy breach, unsafe instruction, or incorrect customer promise should not receive the same treatment. Severity drives review depth, escalation, remediation, and reporting.
 
-- accuracy;
-- completeness;
-- timeliness;
-- compliance;
-- customer experience;
-- safety;
-- consistency;
-- documentation;
-- handoff quality;
-- absence of rework.
+### Separate prevention, detection, and correction
 
-For each work type, state what correct output looks like and what defects matter.
+Quality control has three different jobs. Prevention reduces the chance of errors through process design, templates, validation, training, tool constraints, clearer inputs, and workload management. Detection finds errors through review, sampling, reconciliation, monitoring, audits, and exception reports. Correction fixes the work, remediates affected customers or stakeholders, and changes the system that produced the defect.
 
-### Separate Prevention, Detection, And Correction
+Do not rely on end-of-line inspection as the primary control. It is usually more expensive and may discover harm after the recipient has already been affected.
 
-Quality control has three layers:
+### Match controls to risk and reversibility
 
-- prevention: design work so errors are less likely;
-- detection: find errors before harm spreads;
-- correction: fix errors and recover trust.
+High-risk work needs stronger controls: money movement, account changes, privacy requests, safety actions, legal or compliance decisions, public communications, high-value customers, irreversible fulfillment, vendor penalties, and regulated processes. Low-risk, high-volume work may be better controlled through automation, sampling, or targeted review.
 
-Prevention may include training, templates, validation, tool constraints, checklists, automation, and clearer inputs. Detection may include peer review, sampling, audits, reconciliation, monitoring, and exception reports. Correction includes rework, customer communication, refund or remediation, root-cause review, and process change.
+Control design should avoid two failures: under-controlling high-harm work and over-controlling low-risk work until staff create bypasses. The right control is proportional to harm, error likelihood, detectability, and reversibility.
 
-Do not rely only on after-the-fact inspection.
+### Build quality into upstream inputs
 
-### Match Review Depth To Risk
+Many defects are created before the worker starts. Missing data, unclear policies, bad customer intake, incorrect master data, confusing tools, unrealistic time pressure, or poor handoff can make errors likely. Quality control should inspect the source of defects, not only the person who touched the final task.
 
-Not every task needs the same quality review. High-risk work needs stronger control.
+If reviewers keep finding the same error, ask what upstream signal, validation, training, or tool constraint would prevent it. Repeated reminders are rarely enough.
 
-Higher review may be needed for:
+### Track defects as learning data
 
-- money movement;
-- customer data changes;
-- safety or health impact;
-- legal or compliance decisions;
-- account closure;
-- security-sensitive actions;
-- public communication;
-- VIP or high-value customers;
-- irreversible operations.
+Defect tracking should include defect type, severity, work type, process step, source, owner, detection method, customer impact, rework time, root cause, corrective action, and verification. Counting defects without classification creates noise.
 
-Low-risk, high-volume work may use sampling or automated checks. Match controls to potential harm.
+Use categories that help decide action. For example, "agent error" is often less useful than "policy ambiguity," "missing intake field," "tool validation gap," "training gap," "volume pressure," or "handoff missing evidence."
 
-### Track Defects By Type And Cause
+### Protect the recipient during quality failures
 
-Counting errors is not enough. Categorize defects so the operation can improve.
+When a defect affects a customer, employee, vendor, patient, member, account, shipment, or internal recipient, quality control must include remediation. Define who determines impact, whether notification is required, what correction is needed, whether compensation or apology applies, and how similar affected cases are found.
 
-Track:
+Internal scoring does not close the quality issue. The external harm must be corrected or consciously accepted by the right owner.
 
-- defect type;
-- severity;
-- source;
-- process step;
-- owner;
-- customer impact;
-- detection method;
-- rework time;
-- root cause;
-- prevention action.
+### Calibrate reviewers and standards
 
-Without categories, teams may punish individuals for systemic problems.
+Quality review is only useful if reviewers apply standards consistently. Use shared rubrics, examples of pass and fail, calibration sessions, dispute processes, reviewer notes, and updates when policy changes. Monitor reviewer variance.
 
-### Use Sampling Carefully
+Inconsistent review creates distrust and poor coaching. Staff should understand what standard they are being held to and why it matters operationally.
 
-Sampling can provide quality insight without reviewing every item, but the sample must match the risk.
+### Balance productivity and quality
 
-Consider:
+Quality can degrade when operations emphasize speed, backlog reduction, utilization, or handle time without a balancing measure. Pair productivity metrics with defect rate, severity, reopen rate, customer complaints, rework, audit findings, and staff workload.
 
-- random samples;
-- targeted samples for new hires or new processes;
-- high-risk item review;
-- post-incident review;
-- customer complaint samples;
-- edge-case sampling;
-- reviewer calibration.
+Do not let quality work become invisible. Reviews, coaching, rework, and improvement time are part of capacity planning, not optional extra work.
 
-A low error rate in a narrow sample does not prove the whole process is healthy.
+### Close the loop through process improvement
 
-### Calibrate Reviewers
+Quality findings should feed SOP updates, tool changes, training, staffing, routing, intake design, automation, policy clarification, and vendor management. Each material defect pattern needs an owner and follow-up date.
 
-Quality review can become inconsistent if reviewers apply standards differently.
-
-Use:
-
-- shared rubric;
-- examples of pass and fail;
-- reviewer calibration sessions;
-- dispute process;
-- coaching notes;
-- updates when policy changes.
-
-The goal is consistent improvement, not scoring theater.
-
-### Turn Quality Findings Into Process Improvement
-
-If the same defect repeats, the solution is rarely more reminders. Look for root causes:
-
-- unclear input;
-- confusing tool;
-- missing validation;
-- unrealistic workload;
-- policy ambiguity;
-- training gap;
-- poor handoff;
-- conflicting incentives;
-- missing automation.
-
-Quality control should feed process design, training, tooling, staffing, and policy updates.
-
-### Protect Customers During Quality Failures
-
-Quality control is not only internal scoring. When a defect affects a customer, supplier, patient, member, account, shipment, or internal recipient, the operation needs a remediation path.
-
-Define:
-
-- who determines customer impact;
-- whether the customer must be notified;
-- what correction is required;
-- whether compensation, replacement, reprocessing, or apology is appropriate;
-- whether downstream records must be corrected;
-- how similar affected cases are found;
-- how the fix is verified.
-
-This prevents teams from closing quality findings internally while the external harm remains unresolved.
+If the same defect appears month after month, the quality program is measuring failure rather than improving the operation.
 
 ## Common Traps
 
-### Inspecting Quality Only At The End
-
-Late detection is expensive. Add prevention or early detection where defects are created.
-
-### Blaming People Before Checking Process
-
-Human error often points to unclear process, bad tools, overload, or weak controls.
-
-### Measuring Only Error Count
-
-Severity, customer impact, rework time, and repeat pattern matter more than raw count alone.
-
-### Over-Auditing Low-Risk Work
-
-Review effort should be proportional to risk and learning value.
-
-### No Reviewer Calibration
-
-Different reviewers can create inconsistent feedback and mistrust.
-
-### Treating Rework As Normal
-
-Recurring rework is a signal that upstream process or training needs attention.
-
-### Reviewing Only The Easy Work
-
-Quality reviews can become biased toward visible, simple, or recently completed items. Include high-risk, old, escalated, and customer-complaint-driven samples where appropriate.
+- Defining quality as "no mistakes" without observable standards or severity levels.
+- Adding only final review while ignoring prevention and early detection.
+- Reviewing low-risk work heavily while high-risk exceptions rely on memory or informal approval.
+- Blaming individual workers before checking intake, tools, workload, policy clarity, and handoffs.
+- Treating internal QA scores as complete even when customers or downstream teams remain affected.
+- Using defect counts without severity, customer impact, or root cause.
+- Letting reviewers apply standards differently without calibration; measuring productivity separately from quality, causing staff to optimize speed at the expense of correctness
+- Treating rework as normal operating load instead of a quality signal; closing quality issues without verifying that corrective actions changed the process
 
 ## Self-Check
 
-- [ ] Quality is defined with observable standards for each work type.
-- [ ] Prevention, detection, and correction layers are all considered.
-- [ ] Review depth matches risk, reversibility, customer impact, compliance, safety, and financial exposure.
-- [ ] Defects are categorized by type, severity, step, owner, impact, detection method, and root cause.
-- [ ] Sampling strategy matches volume, risk, new processes, new staff, and known problem areas.
-- [ ] Reviewers use a shared rubric and calibration.
-- [ ] Quality findings lead to process, training, tooling, staffing, or policy improvement.
-- [ ] Customer remediation and communication are considered for harmful defects.
-- [ ] Similar affected cases can be found when one defect suggests a broader issue.
-- [ ] Review samples include high-risk, old, escalated, and complaint-driven work where appropriate.
-- [ ] Metrics include severity, rework, recurrence, and customer impact, not only error count.
-- [ ] The quality system improves work rather than only scoring workers.
+- Are quality standards observable by work type, including accuracy, completeness, timeliness, policy fit, communication, safety, compliance, and handoff quality?
+- Are defect severity levels defined and tied to review depth, escalation, remediation, and reporting?
+- Does the control design include prevention, detection, and correction rather than only final inspection?
+- Are controls proportional to risk, harm, likelihood, reversibility, and detectability?
+- Are upstream inputs, tools, policies, handoffs, and workload pressure reviewed as possible defect sources?
+- Are defects categorized by type, severity, source, step, detection method, impact, root cause, action, and verification?
+- Is customer or stakeholder remediation defined when defects cause external harm?
+- Are reviewers calibrated with rubrics, examples, dispute process, and policy updates?
+- Are productivity metrics balanced with quality, rework, complaints, reopenings, and staff workload?
+- Are recurring quality findings converted into process, tool, training, staffing, policy, or vendor improvements?

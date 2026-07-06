@@ -100,11 +100,9 @@ A variadic template reduced via head/tail recursion and a base-case specializati
 
 Attempting `template<typename T> void f<T*>(T*)` as a "partial specialization" of a function template; function templates cannot be partially specialized, and the syntax either fails or defines an overload with surprising resolution. Overload or use `if constexpr`.
 
-### Specializing A std:: Template That Is Not Customizable
+### Specializing A std:: Template That Is Not Customizable and cRTP Used For Performance Without Measuring The Virtual Alternative
 
 `template<> struct std::vector<MyType> { ... };` is undefined behavior; only specific standard templates (`std::hash`, `std::less` for the default comparator) permit user specialization. Add behavior via your own type or overload instead.
-
-### CRTP Used For Performance Without Measuring The Virtual Alternative
 
 Replacing a clear virtual interface with CRTP "for speed" without benchmarking, adding complexity and debug difficulty for an unmeasured gain.
 

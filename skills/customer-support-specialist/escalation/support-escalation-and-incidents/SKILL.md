@@ -1,147 +1,82 @@
 ---
-name: support_escalation_and_incidents.md
-description: Use when the agent is deciding whether to escalate a support case, communicating during an incident, handling outage reports, coordinating with engineering or operations, updating customers, or managing high-risk unresolved customer issues.
+name: support-escalation-and-incidents.md
+description: Use when the agent is deciding whether a support case may indicate an incident, outage, widespread defect, safety issue, data exposure, payment disruption, fulfillment breakdown, or other cross-customer problem; escalating incident signals; and communicating without over-confirming cause or scope.
 ---
 
 # Support Escalation And Incidents
 
-Escalation is not forwarding a difficult message. It is the act of bringing the right evidence, urgency, and decision need to the team that can act. Incident support is not only technical coordination; it is customer communication under uncertainty. The support specialist must avoid panic, avoid false certainty, protect customers, and keep internal teams focused on useful facts.
-
-Use this skill before escalating a case, summarizing an urgent customer issue, communicating during an outage, writing incident updates, or deciding whether a support pattern requires incident handling. The goal is to prevent vague escalation and unsafe customer promises.
+Support is often the first place incidents appear. A single ticket can be an early signal of an outage, broken release, payment processor failure, fulfillment issue, abuse pattern, or privacy risk. Agents may either treat every complaint as isolated or prematurely declare an incident. This skill helps the agent recognize patterns, escalate evidence, and communicate carefully while scope is still uncertain.
 
 ## Core Rules
 
-### Escalate For Impact, Risk, Or Missing Authority
+### Look for incident signals beyond volume
 
-Not every hard ticket needs escalation, and not every escalation is technical. Escalate when the case exceeds frontline authority, requires specialist diagnosis, affects many customers, involves data/security/privacy risk, threatens contractual commitments, or creates significant customer harm.
+High ticket volume is one signal, but early incidents may appear as a few similar reports. Check timing, product area, error message, region, platform, account type, release version, payment method, carrier, integration, device, and customer segment. Also check internal alerts, status pages, known issues, social reports, community posts, and peer observations.
 
-Escalation triggers may include:
+Do not wait for overwhelming volume if the potential harm is severe.
 
-- service outage or degradation;
-- suspected data loss or exposure;
-- payment or billing failure affecting many customers;
-- security or abuse concern;
-- VIP or contractual service commitment;
-- repeated unresolved contact;
-- customer unable to perform critical work;
-- legal, privacy, or compliance-sensitive request;
-- public or reputational risk.
+### Distinguish customer impact from root cause
 
-Do not escalate only because the customer is angry. Do escalate when anger is attached to real impact.
+At intake, support may know that customers cannot log in, payments fail, orders are delayed, data appears wrong, or messages are not sending. The root cause may still be unknown. Escalate impact and evidence without pretending cause is confirmed.
 
-### Provide An Escalation Packet
+Incident responders need accurate symptoms and scope more than agent guesses.
 
-The receiving team should not need to reconstruct the issue from a long ticket thread.
+### Escalate through the incident path when thresholds are met
 
-Include:
+Use approved incident, engineering, operations, trust and safety, security, billing, or fulfillment escalation paths. Include examples, timestamps, affected accounts, reproduction notes, screenshots, logs, regions, platforms, and any customer harm. If severity criteria are unclear, raise the signal to a lead rather than burying it.
 
-- concise summary;
-- customer and account context;
-- impact and severity;
-- timeline of events;
-- exact symptoms;
-- reproduction steps;
-- environment;
-- screenshots, logs, request ids, or examples where safe;
-- workaround tried;
-- customer expectation;
-- decision or help needed;
-- next update deadline.
+Do not send possible incidents into ordinary backlog queues.
 
-Good escalation reduces time to resolution and prevents customers from repeating themselves.
+### Avoid premature public confirmation
 
-### Communicate Uncertainty Honestly
+Until the incident owner confirms scope and messaging, avoid saying "known outage," "bug affecting everyone," "data breach," or "payment system is down" unless approved. Use careful wording: reports are being investigated, the team is checking related cases, or support has escalated the symptoms.
 
-During incidents or unresolved escalations, support often lacks the full cause. Customers still need useful updates.
+Customers need honesty, but unsupported certainty can create panic or legal risk.
 
-Separate:
+### Preserve affected-customer examples
 
-- what is confirmed;
-- what is being investigated;
-- what is not yet known;
-- what customers can do now;
-- when the next update will arrive.
+Incident teams need representative cases. Save links to tickets, account IDs where allowed, timestamps, error text, order or transaction references, environment, logs, and customer impact. Mark sensitive examples appropriately.
 
-Avoid speculation, blame, internal debate, or overly technical details before confirmation. Do not say "resolved" until the fix is verified from the customer-impact perspective.
+Do not close or merge away early examples so aggressively that responders lose evidence.
 
-### Keep Updates Timely Even Without Resolution
+### Coordinate customer messaging
 
-Silence increases anxiety. If the issue is still under investigation, say that and provide the next update time. A useful update does not require a complete fix.
+Once an incident is confirmed, align responses with the status page, incident commander, communications owner, or approved macro. Explain known impact, current status, workaround, customer action, update channel, and what support can or cannot do individually.
 
-Updates should include:
+Avoid improvising separate explanations that drift from the official message.
 
-- current status;
-- customer impact;
-- workaround if available;
-- progress since last update;
-- next update time;
-- what support needs from the customer, if anything.
+### Continue support-owned work
 
-Do not keep customers waiting because the internal team has no final answer.
+Not every issue during an incident is caused by the incident. Verify whether the customer's symptoms match confirmed scope. If they do not, continue normal troubleshooting or routing. If they do, avoid unnecessary duplicate diagnostics and focus on workaround, tracking, and updates.
 
-### Coordinate Internal And External Messages
+Do not use an incident as a reason to ignore individual exceptions such as refund eligibility, accessibility impact, or safety harm.
 
-Support, engineering, operations, customer success, account management, status page, and leadership should not send conflicting messages. Align on severity, customer impact, known facts, workaround, and public wording.
+### Close the loop after resolution
 
-When messages differ by audience, keep the facts consistent. Enterprise customers may receive account-specific guidance, but the underlying incident state should not contradict the public status.
+When the incident is resolved or ruled out, update affected customers according to policy, correct ticket categories, note any compensation or follow-up path, and preserve product or operations feedback. If a customer still has a residual issue, continue the individual case.
 
-### Track Customer Commitments
-
-Escalations create commitments: update times, callbacks, refunds to review, logs to send, fixes to verify, or follow-up after resolution. Track them explicitly.
-
-Do not rely on memory during high-pressure incidents. Missed follow-up can turn a solved technical issue into a trust problem.
-
-### Close With Resolution And Learning
-
-After resolution, customers need to know what changed and whether they need to act. Internally, support should capture lessons.
-
-Close with:
-
-- issue resolved or mitigated;
-- customer action needed;
-- affected period;
-- workaround removed or still needed;
-- follow-up owner;
-- any compensation or review path if applicable;
-- documentation or product feedback needed.
-
-For recurring issues, create or update known issue notes, macros, knowledge base articles, or product feedback.
+Resolution of the incident is not always resolution of every customer problem.
 
 ## Common Traps
 
-### Escalating Without A Clear Ask
-
-"Please look into this" is weak. State what decision, diagnosis, action, or approval is needed.
-
-### Promising Engineering Outcomes
-
-Support should not promise fixes, root causes, or timelines before the responsible team confirms.
-
-### Using Internal Jargon With Customers
-
-Incident communication should be understandable. Customers care about impact, workaround, and next update.
-
-### Declaring Resolution Too Early
-
-A technical fix is not enough if customers still experience the issue or need recovery steps.
-
-### Forgetting Affected Customers After Public Resolution
-
-Some customers may need data repair, retries, refunds, or reassurance even after the incident is marked resolved.
-
-### Not Capturing The Pattern
-
-If several escalations share a cause, support should turn that into known issue tracking, documentation, or product feedback.
+- Waiting for high ticket volume before escalating a severe early signal.
+- Declaring an outage, breach, or known bug before an incident owner confirms it.
+- Escalating guesses about root cause instead of concrete symptoms and examples.
+- Sending incident signals into a normal queue with no urgent owner.
+- Losing representative tickets, logs, screenshots, or timestamps during cleanup.
+- Creating customer messaging that conflicts with status page or incident command language.
+- Assuming every related-looking ticket is part of the same incident; using incident status to avoid support-owned refund, workaround, accessibility, or safety work
+- Forgetting to update tickets after an incident is resolved, downgraded, or ruled out; closing cases when the platform is fixed but the individual customer still has damage
 
 ## Self-Check
 
-- [ ] Escalation is justified by impact, risk, authority, severity, customer harm, or sensitive category.
-- [ ] The escalation packet includes summary, account context, impact, timeline, symptoms, evidence, workaround, expectation, and specific ask.
-- [ ] Customer communication separates confirmed facts, investigation, unknowns, workaround, and next update time.
-- [ ] Updates continue on a reliable cadence even before resolution.
-- [ ] Internal and external messages use consistent facts and severity.
-- [ ] Support does not promise fixes, causes, refunds, or timelines without the right owner confirming.
-- [ ] Customer commitments and follow-up deadlines are tracked.
-- [ ] Resolution is verified from the customer-impact perspective.
-- [ ] Post-resolution communication explains what changed and whether customer action is needed.
-- [ ] Lessons are converted into known issue notes, macros, documentation, product feedback, or prevention work.
+- Were timing, product area, error, region, platform, account type, release version, payment method, carrier, integration, device, and segment checked for pattern?
+- Were internal alerts, known issues, status pages, social reports, community posts, and peer observations considered?
+- Is the escalation based on customer impact and evidence rather than guessed root cause?
+- Were approved incident, engineering, operations, trust and safety, security, billing, or fulfillment paths used?
+- Does the escalation include representative examples, timestamps, affected accounts where allowed, logs, screenshots, and impact?
+- Does customer language avoid premature confirmation of outage, breach, widespread bug, or system failure?
+- If an incident is confirmed, is messaging aligned with the approved owner, status page, workaround, update path, and customer action?
+- Are individual cases checked against incident scope instead of assuming all similar tickets match?
+- Are support-owned issues such as refund, accessibility, safety, workaround, and residual damage still handled?
+- After resolution or downgrade, are tickets updated and customers given accurate closure or next steps?

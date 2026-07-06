@@ -61,6 +61,10 @@ A therapist may allow legal involvement to silently consume the therapy, with se
 
 A therapist may respond to a subpoena, records request, or demand for testimony on their own, without consulting counsel, their insurer, or experienced colleagues, because the demand seems straightforward or the timeline feels urgent. The mechanism of harm is that the response is made without understanding the legal issues, the privilege, or the proper process, and the therapist may breach confidentiality, lose privilege, or compromise the client's legal position. The harm is that the client's interests are damaged, the therapist incurs liability, and the error cannot be undone. Seeking consultation before responding to any legal demand is the standard of care.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I distinguish the treating role from the forensic evaluator role and refer forensic questions to a neutral evaluator?

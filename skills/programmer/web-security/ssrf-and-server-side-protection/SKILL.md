@@ -104,19 +104,15 @@ A fetcher with default network access reaching `169.254.169.254` and stealing in
 
 An internal service or debug/actuator endpoint deployed without authentication because "it's internal," then reached by an SSRF that now has admin power. Authenticate internal services; bind management interfaces to localhost or behind auth.
 
-### Forwarding Request Credentials Outward
+### Forwarding Request Credentials Outward and no Size Or Timeout Limit On The Fetch
 
 Passing the original request's cookies, Authorization header, or internal tokens to the fetched URL, leaking credentials to an attacker-controlled server. The fetcher must use its own minimal, scoped credentials, never the caller's.
 
-### No Size Or Timeout Limit On The Fetch
-
 A fetcher that will download an arbitrarily large file or wait indefinitely, turning the feature into a denial-of-service vector against the server's memory, disk, or connection pool. Cap response size and connection/read time.
 
-### Reflecting Fetched Internal Responses Back To The Attacker
+### Reflecting Fetched Internal Responses Back To The Attacker and headless Browser Or PDF Renderer With No Sandbox
 
 Returning the raw fetched response to the user, turning a blind SSRF (no response read) into a full read of internal endpoints. Do not reflect fetched content without sanitization, and limit what the fetcher returns.
-
-### Headless Browser Or PDF Renderer With No Sandbox
 
 Rendering an attacker-supplied URL in a headless browser or PDF generator that runs as the service user with full local access. Sandbox the renderer, restrict its network, and treat the URL as malicious.
 

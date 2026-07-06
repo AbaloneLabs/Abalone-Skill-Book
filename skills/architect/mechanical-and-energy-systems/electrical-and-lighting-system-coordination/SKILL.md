@@ -105,6 +105,10 @@ Lighting and energy controls are specified to meet code but are poorly matched t
 
 Light fixtures, air diffusers, sprinklers, speakers, cameras, and other ceiling elements are placed by separate disciplines without holistic coordination, producing a cluttered, incoherent overhead. The trap is that each discipline places its devices to suit its own logic, and absent architectural coordination the result is visual chaos that undermines the design. The harm is a ceiling that looks haphazard regardless of the quality of the individual elements, conflicts between devices, and a design that appears uncoordinated to occupants and clients. The false signal is that each system is designed, masking the absence of integration. Coordinating the reflected ceiling plan holistically, balancing all ceiling elements into a coherent layout, is what produces an overhead that supports rather than detracts from the architecture.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is adequate space allocated and located for main service, switchgear, distribution rooms, and panel closets, with code clearances and access provided?
@@ -113,3 +117,5 @@ Light fixtures, air diffusers, sprinklers, speakers, cameras, and other ceiling 
 - [ ] Are lighting and power control strategies matched to use patterns, with intuitive overrides and commissioning against real occupancy?
 - [ ] Are emergency, egress, and fire alarm electrical systems coordinated with the egress and fire protection design, with reliable power provided?
 - [ ] Is the reflected ceiling plan and device placement coordinated holistically across all disciplines for a coherent architectural integration?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

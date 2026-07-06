@@ -55,6 +55,10 @@ The trap is that delivery is the definitive treatment for preeclampsia, so the t
 
 The trap is that calcium gluconate is "on the unit somewhere" or in the code cart down the hall, so the nurse assumes it is accessible and does not verify its presence at the bedside before starting magnesium. The mechanism of harm is that magnesium toxicity can progress from hyporeflexia to respiratory arrest in minutes, and the antidote must be given promptly to reverse it. The harm is a patient who arrests while the nurse runs to find the antidote. Before initiating a magnesium infusion, physically confirm calcium gluconate is in the patient's room, know the dose and route, and ensure every nurse caring for the patient knows where it is.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For any blood pressure 160 systolic or higher or 110 diastolic or higher, did I confirm within fifteen minutes and escalate and treat within the protocol window rather than rechecking at the next routine interval?

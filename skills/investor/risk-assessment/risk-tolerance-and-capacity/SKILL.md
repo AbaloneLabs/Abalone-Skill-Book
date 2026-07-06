@@ -143,3 +143,4 @@ An investor may tolerate risk in principle but not understand what a 40% drawdow
 - [ ] A reassessment plan exists for life changes and post-drawdown revealed tolerance.
 - [ ] The risk level is translated into a concrete dollar drawdown and recovery time the investor can hold.
 - [ ] The recommendation does not push risk beyond the binding constraint to chase returns, and flags that capacity and tolerance are personal and that professional advice may be warranted for major allocation decisions.
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

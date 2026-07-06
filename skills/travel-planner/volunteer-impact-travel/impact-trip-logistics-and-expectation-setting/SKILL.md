@@ -41,6 +41,10 @@ Plan departure and follow-up without creating dependency. Travelers should not p
 
 Encourage reflection on what was learned, what was useful, and what should not be repeated. Impact travel should improve future decisions, not only produce personal fulfillment.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 - Selling the trip as transformation without explaining daily work, discomfort, limits, and uncertainty.

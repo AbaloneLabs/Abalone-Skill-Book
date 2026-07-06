@@ -105,11 +105,9 @@ In a streaming system, dropping the old schema version while a lagged consumer i
 
 A consumer that cannot parse new data crashing or silently dropping records, with no alert, so the schema mismatch goes unnoticed while data is lost. Route failures to a dead-letter, alert on failure rates.
 
-### Treating The Schema As The Producer's Internal Detail
+### Treating The Schema As The Producer's Internal Detail and new Enum Value That Crashes Old Consumers
 
 A producer changing "its" schema freely because it owns the data, breaking consumers it does not know about. Once a dataset has consumers, the schema is a contract; evolve it with the discipline of a public interface.
-
-### New Enum Value That Crashes Old Consumers
 
 Adding an enum value that old consumers do not handle (they crash or misbehave on the unknown value), when the consumers were not written to tolerate unknown enum values. Coordinate enum additions or ensure consumers handle unknowns gracefully.
 

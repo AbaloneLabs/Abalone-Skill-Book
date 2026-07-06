@@ -59,6 +59,10 @@ A spontaneous breathing trial (SBT) is the best predictor of readiness for extub
 
 The trap is that a sedated, intubated patient is treated as unconscious, so conversations happen over them, procedures are done without explanation, and the experience of being trapped in a body that cannot move or speak is ignored. ICU survivors describe terrifying experiences of awareness during paralysis, pain during procedures, and hallucinations fueled by delirium. The harm is psychological trauma (PTSD rates in ICU survivors are high) and a failure of basic human dignity. Talk to your ventilated patient. Explain what you are doing. Assess pain even if they cannot report it. Treat them as a person who is listening, because they often are.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Can I explain the ventilator mode, key settings, and the clinical rationale for each to a colleague right now?

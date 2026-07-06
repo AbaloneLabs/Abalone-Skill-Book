@@ -118,19 +118,15 @@ A response that differs by `Accept-Encoding` or `Accept-Language` but does not `
 
 The frontend and API are same-origin in dev (no CORS), but cross-origin in prod, and the preflight was never tested. The first prod deploy fails with a CORS error. Test cross-origin requests and preflights explicitly against a prod-like setup.
 
-### `Allow-Credentials: true` With `Allow-Origin: *`
+### `Allow-Credentials: true` With `Allow-Origin: *` and trusting The Browser Cache For Freshness
 
 The browser rejects this combination (credentials require a specific origin, not the wildcard), and authenticated cross-origin requests fail silently or with a confusing error. Echo the specific requesting origin when credentials are involved.
 
-### Trusting The Browser Cache For Freshness
-
 Relying on the browser cache to reflect the latest version of a resource. The client controls its cache and may serve stale content; for assets, use hashed names so new versions are new resources, and never depend on client-side freshness for correctness.
 
-### An Un-Sized Image Or Late Font Causing Layout Shift
+### An Un-Sized Image Or Late Font Causing Layout Shift and render-Blocking Scripts In The Head
 
 Loading an image without `width`/`height` or a web font that swaps in late, pushing content around after first paint and inflating CLS. Reserve dimensions for async media and use font-display strategies to avoid shift.
-
-### Render-Blocking Scripts In The Head
 
 Synchronous `<script>` tags in `<head>` that block HTML parsing and delay first paint. Use `defer` (or `async` for independent scripts) so parsing continues while scripts download.
 

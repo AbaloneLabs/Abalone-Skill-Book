@@ -99,6 +99,10 @@ When materials are selected on the strength of environmental claims that are sup
 
 When a design depends on a material available from a single supplier, often an exotic or custom product chosen for its distinctive qualities, the project is exposed to supply risk that materializes as delay, cost escalation, or forced substitution. The trap is that the material is available and priced at selection, so the team believes the risk is managed, while the supplier's viability, production capacity, or shipping reliability are unverified. The harm surfaces when the supplier fails, delays, or raises prices, forcing a substitution that compromises the design intent or a delay that breaks the schedule. Single-source dependencies must be identified, the risk assessed, and equivalents defined, so that the design does not collapse when a single supplier cannot deliver.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are performance requirements defined for each material location before aesthetic selection, with minimum thresholds established?

@@ -65,10 +65,8 @@ Overconfident dates create downstream costs. Under-communication makes receivers
 - Ignoring weather until pickup day rather than building weather decision points.
 - Using equipment with unsuitable prior loads, odors, pests, residues, or sanitation gaps.
 - Planning routes that move equipment between farms, fields, or facilities without biosecurity controls.
-- Missing inspection, grading, sampling, fumigation, or certificate timing before port or buyer cutoffs.
-- Letting rejected loads move without preserving evidence and approval authority.
-- Communicating fixed dates when harvest or weather makes timing conditional.
-- Failing to distinguish regulatory requirements from buyer quality preferences.
+- Missing inspection, grading, sampling, fumigation, or certificate timing before port or buyer cutoffs; letting rejected loads move without preserving evidence and approval authority
+- Communicating fixed dates when harvest or weather makes timing conditional; failing to distinguish regulatory requirements from buyer quality preferences
 
 ## Self-Check
 

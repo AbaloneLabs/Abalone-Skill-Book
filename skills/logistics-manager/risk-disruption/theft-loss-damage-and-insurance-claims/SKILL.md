@@ -54,8 +54,7 @@ Communicate status with care. Customers need next steps, evidence requests, repl
 - Assuming every damage event is a carrier failure when packaging, loading, or customer receiving may be involved.
 - Missing claim deadlines because ownership is split among customer service, warehouse, transportation, and finance.
 - Ignoring theft indicators such as seal mismatch, fictitious pickup, unusual routing, or suspicious carrier assignment.
-- Booking replacement freight without connecting cost, inventory, credit, and expected recovery.
-- Closing the case when money is recovered but root cause remains.
+- Booking replacement freight without connecting cost, inventory, credit, and expected recovery; closing the case when money is recovered but root cause remains
 
 ## Self-Check
 

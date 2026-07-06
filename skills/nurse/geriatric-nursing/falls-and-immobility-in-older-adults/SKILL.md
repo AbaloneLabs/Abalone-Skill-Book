@@ -59,6 +59,10 @@ The trap is that a patient with dementia repeatedly tries to get out of bed, the
 
 The trap is that the nurse focuses on the patient's gait and environment but does not flag the new benzodiazepine for sleep, the diuretic causing nocturia, or the antihypertensive causing orthostasis, all of which are driving the fall risk. The mechanism of harm is that sedating and hypotensive medications are among the strongest, most reversible fall risk factors in older adults, and they accumulate insidiously during a hospitalization. The harm is a patient who falls because of an iatrogenic medication effect that a pharmacist-nurse review could have caught. Advocate for a medication review in any fall-risk older adult, especially for sedatives, hypnotics, anticholinergics, and polypharmacy, and deprescribe where possible.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I perform a validated multifactorial fall risk assessment on admission and after any change in condition, and did I document the specific risk factors, not just the score?

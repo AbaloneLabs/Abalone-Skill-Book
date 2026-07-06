@@ -29,6 +29,10 @@ Antimicrobial stewardship in acute care depends on the operational decisions tha
 
 The transition of anticoagulation and antimicrobial therapy from the acute care setting to the next level (home, rehabilitation, long-term care) is the point where stewardship and monitoring are most often lost, and the pharmacist must manage the transition explicitly. For anticoagulation, the transition includes: the bridging plan (if switching from heparin to warfarin, or from a DOAC to warfarin), the discharge prescription with the correct drug, dose, and duration, the monitoring plan (the INR follow-up for warfarin, the renal function follow-up for DOACs), the patient education (the adherence, the bleeding signs, the drug and dietary interactions, the monitoring appointments), and the communication to the outpatient provider. For antimicrobials, the transition includes: the discharge prescription with the correct drug, dose, duration, and the indication, the plan for any remaining IV therapy (outpatient parenteral antimicrobial therapy [OPAT] if needed), the monitoring plan (the renal function, the drug levels if continued), and the communication to the outpatient provider. The pharmacist must not assume the transition will happen by itself; the explicit plan, the education, and the communication are the controls that prevent the transition failures (the patient who stops the anticoagulant because they did not understand, the patient who continues the antibiotic longer than prescribed, the outpatient provider who does not know the monitoring plan).
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### Continuing the Admission Dose of an Anticoagulant or Antimicrobial Without Reassessing Renal Function
@@ -51,6 +55,10 @@ Vancomycin dosing has shifted from trough-based to AUC-based monitoring for seri
 
 The discharge is the point where the acute care stewardship ends and the outpatient management begins, and the absence of an explicit transition plan leaves the patient to manage the therapy without the monitoring, the education, and the follow-up that the therapy requires. The trap is that the acute care team considers the therapy "done" when the patient is discharged, so the transition (the bridging, the monitoring, the education, the outpatient communication) is not planned, and the patient stops the anticoagulant, continues the antibiotic indefinitely, or misses the monitoring. The harm is the thrombosis or bleeding from the anticoagulation failure, the resistance or the C. difficile from the antimicrobial continuation, or the lost follow-up that the outpatient provider did not know to provide. The fix is to plan the transition explicitly at discharge — the drug, the dose, the duration, the monitoring, the education, the outpatient communication — and to verify the patient's understanding and the follow-up before the discharge.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Before each significant anticoagulant or antimicrobial dose decision, did I assess the current renal function (from the current creatinine, not a historical value) and the hepatic function, and did I adjust the dose to the current function?
@@ -60,3 +68,4 @@ The discharge is the point where the acute care stewardship ends and the outpati
 - Did I apply PK/PD monitoring for the drugs that require it (vancomycin, aminoglycosides, prolonged-infusion beta-lactams) and adjust to the effective and safe concentration range?
 - At discharge, did I create an explicit transition plan for the anticoagulation or antimicrobial therapy — the drug, dose, duration, bridging if needed, monitoring, patient education, and communication to the outpatient provider?
 - Did I avoid continuing the admission dose without reassessment, titrating by impression, continuing broad empiric therapy after cultures, and discharging without a transition plan?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

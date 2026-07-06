@@ -110,19 +110,15 @@ Running `apply` directly, or auto-approving, without reading what will be destro
 
 Putting the database password directly in a `.tfvars` or config file because wiring the secrets manager took longer. The secret is now in version control permanently. Reference secrets by pointer; never declare the value. If committed, rotate it — deleting it from history does not un-leak it.
 
-### Treating State As Non-Sensitive Because The Config Uses Secret Variables
+### Treating State As Non-Sensitive Because The Config Uses Secret Variables and forcing Every Dynamic Resource Into IaC
 
 The config reads the secret from a manager, so the engineer assumes state is clean. But state often captures resolved values, resource passwords, and connection strings regardless. Encrypt and restrict state access as if it contained the secrets, because it often does.
 
-### Forcing Every Dynamic Resource Into IaC
-
 Trying to govern per-user, per-tenant, or ephemeral runtime resources in the same IaC as the architecture. The config balloons, `apply` slows, and the declarative model fights the dynamic lifecycle. Govern the container in IaC; let the owning system create the dynamic instances.
 
-### Copy-Pasted Environments That Drift Independently
+### Copy-Pasted Environments That Drift Independently and a Force-Replace Change Treated As Non-Destructive
 
 Three near-identical config files for dev/staging/prod, each hand-edited over time, none matching the others. A fix applied to prod never reaches staging, and staging stops predicting prod. Use one parameterized module applied per environment; the differences should be variables, not separate codebases.
-
-### A Force-Replace Change Treated As Non-Destructive
 
 A config change that looks small but forces a resource to be replaced (e.g., changing an immutable attribute). The plan says "destroy then create," the engineer reads "change," and a stateful resource with data is destroyed. Read the plan's actions specifically, and treat force-replace of stateful resources as a destructive operation requiring migration planning.
 

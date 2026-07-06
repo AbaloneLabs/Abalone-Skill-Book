@@ -94,8 +94,7 @@ Build the file for the reviewer and for retention, not only for the current team
 - **Orphan workpapers** that support nothing, indicating either wasted effort or a broken reference.
 - **Unreferenced or unresolved adjustments and open items**, undermining the traceability of final amounts.
 - **Letting references go stale** as the file evolves, so they point to renamed or deleted workpapers.
-- **Inconsistent indexing across the file or across periods**, forcing reviewers to learn a new map each time.
-- **Building the file for the current team only**, so it cannot survive independent review or retention.
+- **Inconsistent indexing across the file or across periods**, forcing reviewers to learn a new map each time; **Building the file for the current team only**, so it cannot survive independent review or retention
 
 ## Self-Check
 

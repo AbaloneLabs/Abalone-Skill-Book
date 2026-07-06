@@ -65,10 +65,8 @@ Use lessons to refine qualification, destination, communication, and program des
 - Overprogramming the reward until it feels like a work conference.
 - Underprogramming so sponsor recognition and relationship goals disappear.
 - Making recognition awkward, overly public, or insensitive to performance privacy.
-- Treating guests as logistical extras rather than part of the reward experience.
-- Creating unexplained VIP tiers that breed resentment.
-- Selecting activities that conflict with sponsor values, participant needs, or local respect.
-- Measuring success only by smiles during the trip rather than motivation and relationship outcomes.
+- Treating guests as logistical extras rather than part of the reward experience; creating unexplained VIP tiers that breed resentment
+- Selecting activities that conflict with sponsor values, participant needs, or local respect; measuring success only by smiles during the trip rather than motivation and relationship outcomes
 
 ## Self-Check
 

@@ -71,10 +71,8 @@ A lookahead cadence prevents surprises from being discovered only at the daily h
 - Ignoring logistics cost in change-order pricing and responsibility.
 - Failing to update quantities, packaging, deliveries, and storage after scope changes.
 - Treating site access windows as informal instead of constrained project resources.
-- Using offsite staging without inventory control, pull signals, and custody clarity.
-- Losing evidence needed for delay claims, chargebacks, or supplier recovery.
-- Discovering material and access risk only when the trade is already waiting.
-- Communicating problems without decision deadlines and consequences.
+- Using offsite staging without inventory control, pull signals, and custody clarity; losing evidence needed for delay claims, chargebacks, or supplier recovery
+- Discovering material and access risk only when the trade is already waiting; communicating problems without decision deadlines and consequences
 
 ## Self-Check
 

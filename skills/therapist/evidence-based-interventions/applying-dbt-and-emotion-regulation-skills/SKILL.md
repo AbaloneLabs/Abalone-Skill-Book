@@ -68,6 +68,10 @@ A client who brings a crisis to every session can capture the session with crisi
 
 Treating clients with chronic dysregulation, self-harm, and crisis is demanding, and the therapist can become dysregulated in response, anxious, overwhelmed, reactive, or burnt out, which compromises the therapy. The mechanism is that the client's dysregulation is contagious, and the therapist, without support, begins to mirror it. The harm is a therapist whose reactivity shapes clinical decisions, whose burnout reduces the quality of care, and whose own dysregulation models the opposite of what the therapy teaches. Using consultation, recognizing one's own dysregulation, and sustaining self-care are what allow the therapist to do this work over time.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I holding the dialectic of acceptance and change, moving between validation and problem-solving?

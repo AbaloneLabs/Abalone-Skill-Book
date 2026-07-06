@@ -99,10 +99,8 @@ In commercial (non-M&A) contracts, coordinate the cap with the indemnity and the
 - **Confusing true deductible with tipping basket.** They produce very different recovery. State which structure applies.
 - **Carve-outs that swallow the cap.** If every significant category is carved out, the cap is cosmetic and the seller has uncapped exposure; either accept that or narrow the carve-outs.
 - **Leaving sandbagging to default law.** The default varies by jurisdiction and the outcome is significant; draft the position explicitly.
-- **Ignoring RWI interaction.** A seller indemnity that duplicates RWI coverage wastes negotiating leverage; align retention, survival, and exclusions with the policy.
-- **Setting mini-baskets that block all realistic claims.** Per-rep deductibles set too high prevent recovery for the very claims they are meant to cover.
-- **Forgetting fraud is typically non-waivable.** Attempting to cap or waive fraud indemnity is often unenforceable; do not rely on it.
-- **Mismatched special indemnity and escrow release dates.** If the escrow releases before the special indemnity survival expires, the buyer has an unfunded claim. Align the dates.
+- **Ignoring RWI interaction.** A seller indemnity that duplicates RWI coverage wastes negotiating leverage; align retention, survival, and exclusions with the policy; **Setting mini-baskets that block all realistic claims.** Per-rep deductibles set too high prevent recovery for the very claims they are meant to cover
+- **Forgetting fraud is typically non-waivable.** Attempting to cap or waive fraud indemnity is often unenforceable; do not rely on it; **Mismatched special indemnity and escrow release dates.** If the escrow releases before the special indemnity survival expires, the buyer has an unfunded claim. Align the dates
 
 ## Self-Check
 

@@ -126,3 +126,4 @@ Using the same key to sign tokens, sign webhooks, and encrypt data, so a flaw or
 - [ ] MAC tags and signatures are compared in constant time, and verification failures return generic errors that do not reveal how close a forgery was.
 - [ ] A single canonical byte representation is defined and used for both signing and verification; inputs that do not round-trip are rejected.
 - [ ] Keys are separated by purpose (distinct keys, or KDF-derived with distinct context labels) and not reused across algorithms or services.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

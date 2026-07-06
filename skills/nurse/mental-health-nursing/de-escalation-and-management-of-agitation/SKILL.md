@@ -49,6 +49,8 @@ After any behavioral emergency, attend to the patient (medical assessment, psych
 
 **Underestimating the medical causes of agitation and treating only behaviorally.** An agitated patient is managed with de-escalation and sedation while an underlying medical cause — hypoxia, hypoglycemia, infection, delirium, withdrawal, intracranial event — goes unrecognized. The mechanism of harm is that medical causes of agitation require medical treatment, and sedating the patient masks the underlying process while it progresses. The harm is a missed diagnosis (sepsis, hypoglycemia, stroke) with delayed treatment and potential deterioration. Always consider and screen for medical causes, especially in patients without a psychiatric history, in older adults, and in any new-onset agitation.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I recognize the stage of escalation and intervene at the earliest stage with verbal de-escalation?

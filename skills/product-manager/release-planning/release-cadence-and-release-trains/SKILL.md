@@ -84,3 +84,4 @@ Increasing frequency without automated quality, deployment, and rollback. The tr
 - [ ] Per-release coordination cost is weighed against batch size in choosing cadence.
 - [ ] Quality gates, deployment automation, monitoring, and rollback are built into the cadence.
 - [ ] The cadence ambition matches the maturity of release infrastructure.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

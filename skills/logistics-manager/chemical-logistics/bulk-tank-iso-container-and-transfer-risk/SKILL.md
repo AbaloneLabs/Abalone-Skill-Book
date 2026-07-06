@@ -52,8 +52,7 @@ Everyone involved in loading or unloading should know who can stop a transfer wh
 - Losing seal, sample, or temperature records that support quality and custody.
 - Using incompatible hoses, fittings, pumps, or transfer procedures.
 - Improvising transload, return, or disposal after rejection without EHS and regulatory review.
-- Letting drivers perform transfer tasks beyond their training or site authority.
-- Continuing a transfer after abnormal odor, pressure, leakage, grounding failure, or receiver uncertainty because the appointment window is tight.
+- Letting drivers perform transfer tasks beyond their training or site authority; continuing a transfer after abnormal odor, pressure, leakage, grounding failure, or receiver uncertainty because the appointment window is tight
 
 ## Self-Check
 

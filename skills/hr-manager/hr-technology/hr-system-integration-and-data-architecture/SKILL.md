@@ -59,6 +59,10 @@ Each integration adds complexity and failure surface. Resist the urge to integra
 
 When replacing any HR system, the integration rework is often the largest and most underestimated effort. Begin integration planning during selection, not after contract signing. Map every integration that touches the system being replaced, and budget time and expertise for rebuilding and testing each one.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Have I documented the system of record for every employee data element, with no overlaps or ambiguities?

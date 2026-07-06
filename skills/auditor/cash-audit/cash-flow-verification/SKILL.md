@@ -196,5 +196,4 @@ Free cash flow is a management-defined metric. Without checking the definition a
 - Have classification manipulation indicators been considered, and are suspicious patterns investigated?
 - Where free cash flow or user metrics are disclosed, is the definition stated, consistent, reconciled, and based on correctly classified operating cash flow?
 - Does each material component tie to the related income statement, balance sheet, or note?
-- Are classification elections for interest, dividends, and taxes consistent with the prior period, with changes disclosed?
-- Could another auditor reproduce the verification and reach the same conclusion from the workpapers?
+- Are classification elections for interest, dividends, and taxes consistent with the prior period, with changes disclosed?; could another auditor reproduce the verification and reach the same conclusion from the workpapers?

@@ -84,5 +84,4 @@ An assumption logged in isolation, with no link to the milestone or estimate it 
 - [ ] Is each assumption traced to the specific deliverable, milestone, estimate, or decision it supports?
 - [ ] Has the register been reviewed recently, with confirmed assumptions closed and invalidated ones converted to risks or issues?
 - [ ] Were politically uncomfortable assumptions (sponsorship, funding, key-person reliance) deliberately probed rather than omitted?
-- [ ] Does the register avoid vague entries that could never be proven true or false?
-- [ ] Are the premises behind optimistic estimates and critical dates logged rather than accepted as facts?
+- [ ] Does the register avoid vague entries that could never be proven true or false?; [ ] Are the premises behind optimistic estimates and critical dates logged rather than accepted as facts?

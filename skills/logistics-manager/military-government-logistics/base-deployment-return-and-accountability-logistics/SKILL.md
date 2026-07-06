@@ -55,13 +55,11 @@ Some assets require armed escort, secure routing, convoy rules, customs control,
 
 The fastest route may not be the acceptable route when accountability, security, or readiness is at stake.
 
-### Align with command and reporting cadence
+### Align with command and reporting cadence and maintain audit and after-action records
 
 Deployment and return logistics should match the command structure or incident management rhythm. Define who receives status, who can reprioritize assets, who approves diversion, and how exceptions are reported during each operating period.
 
 When logistics status is outside the command cadence, leaders make decisions from stale or incomplete information. Status reporting should include readiness impact, not only shipment location.
-
-### Maintain audit and after-action records
 
 Keep movement orders, load plans, manifests, hand receipts, inspection records, discrepancy reports, customs documents, disposal approvals, and after-action lessons. Use return data to improve future deployment kits and packing lists.
 
@@ -74,12 +72,9 @@ Government logistics is often reviewed after the mission. Records should be comp
 - Mixing ready, damaged, quarantined, unserviceable, and unaccounted items in one area.
 - Leaving staged assets in temporary storage without inspection, protection, and access control.
 - Loading by convenience rather than mission priority and unloading sequence.
-- Waiting too long to document damaged, missing, short, or unserviceable assets.
-- Planning outbound deployment while ignoring return, reset, repair, and reconciliation.
-- Choosing transport without considering sensitive item security and readiness priority.
-- Reporting shipment status without connecting exceptions to command decisions and readiness impact.
-- Treating consumables, transfers, disposals, and leftovers informally.
-- Failing to capture after-action data for future deployment improvement.
+- Waiting too long to document damaged, missing, short, or unserviceable assets; planning outbound deployment while ignoring return, reset, repair, and reconciliation
+- Choosing transport without considering sensitive item security and readiness priority; reporting shipment status without connecting exceptions to command decisions and readiness impact
+- Treating consumables, transfers, disposals, and leftovers informally; failing to capture after-action data for future deployment improvement
 
 ## Self-Check
 
@@ -92,5 +87,4 @@ Government logistics is often reviewed after the mission. Records should be comp
 - Is return logistics planned for cleaning, inspection, customs, quarantine, repair, disposal, transfer, and reconciliation?
 - Are transport mode, routing, escort, secure storage, blackout, and readiness priority aligned to asset risk?
 - Are status cadence, diversion authority, reprioritization, exception reporting, and readiness impact aligned to command structure?
-- Are movement orders, manifests, load plans, receipts, discrepancies, disposal approvals, and after-action records retained?
-- Can assets be reconciled physically, financially, and officially at mission close?
+- Are movement orders, manifests, load plans, receipts, discrepancies, disposal approvals, and after-action records retained?; can assets be reconciled physically, financially, and officially at mission close?

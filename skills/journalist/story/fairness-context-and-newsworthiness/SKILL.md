@@ -177,13 +177,8 @@ Before treating the story frame as complete, verify:
 - The headline direction does not overstate certainty, scale, causation, or blame.
 - The story includes enough history, scale, definitions, and data limits for readers to interpret the facts.
 - Powerful institutions and less powerful affected people are represented with appropriate scrutiny and dignity.
-- People facing criticism had a meaningful opportunity to respond.
-- Denials and counterclaims are included proportionally to their evidence value.
-- Unsupported claims are not framed as equal to verified facts.
-- Affected voices are included for knowledge and consequence, not just emotional color.
-- Identity details are relevant, necessary, and not gratuitously stigmatizing.
-- The story does not rely on stereotypes, loaded labels, or euphemisms.
-- Anecdotes are not used to prove trends without supporting evidence.
-- Uncertainty is stated clearly where facts remain incomplete.
-- Publication harm has been weighed against public value, especially for private people and vulnerable groups.
-- Captions, images, social copy, and summaries preserve the same fairness as the body text.
+- People facing criticism had a meaningful opportunity to respond; denials and counterclaims are included proportionally to their evidence value
+- Unsupported claims are not framed as equal to verified facts; affected voices are included for knowledge and consequence, not just emotional color
+- Identity details are relevant, necessary, and not gratuitously stigmatizing; the story does not rely on stereotypes, loaded labels, or euphemisms
+- Anecdotes are not used to prove trends without supporting evidence; uncertainty is stated clearly where facts remain incomplete
+- Publication harm has been weighed against public value, especially for private people and vulnerable groups; captions, images, social copy, and summaries preserve the same fairness as the body text

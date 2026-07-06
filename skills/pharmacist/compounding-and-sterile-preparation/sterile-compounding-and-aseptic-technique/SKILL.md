@@ -29,6 +29,10 @@ For sterile preparations, the beyond-use date must account for both chemical sta
 
 Before a sterile preparation is released, the pharmacist must perform an end-product check that includes: visual inspection for particulate matter, cloudiness, color change, or container defects; verification of the label against the order (drug, concentration, volume, rate, BUD, storage); confirmation that the calculation and ingredients were verified; and, where required by the risk level or policy, additional testing such as sterility or endotoxin testing for high-risk preparations or those with extended BUDs. For high-alert medications (chemotherapy, insulin, anticoagulants, concentrated electrolytes), the end-product check must include a second qualified verifier. The pharmacist must not release a preparation that fails any element of the check, and must investigate the cause — a visible precipitate may indicate an incompatibility that affects the entire batch, not just the one visible vial.
 
+### Document the Basis and the Reasoning
+
+Every conclusion should be traceable to its evidence, assumptions, and alternatives considered. Record not only the outcome but the reasoning path: what was checked, what was ruled out, what uncertainty remains, and what would change the conclusion. Documentation that captures the basis allows another practitioner to review, reproduce, or challenge the work, and it prevents confident conclusions from becoming unrepeatable assertions. A decision made without a recorded basis cannot be audited, improved, or safely handed off.
+
 ## Common Traps
 
 ### The Urgency Override of the Environment
@@ -51,6 +55,10 @@ The media-fill test is performed once during initial training and then treated a
 
 The pharmacist finds a published stability study supporting a 30-day BUD for a refrigerated admixture and assigns 30 days, without checking that the sterility BUD for the risk category is shorter. The mechanism is that the stability study feels like authoritative evidence. The false signal is that the literature supports the date, so the date is defensible. The harm is that a preparation stored for 30 days may remain chemically stable but may not remain sterile — depending on the risk category, the aseptic process, and the storage conditions — and a contaminant introduced at compounding can grow to dangerous levels over the extended storage. The assigned BUD must be the more conservative of the stability and sterility dates, not the more convenient.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I classify the preparation to the correct USP <797> category and prepare it only in an environment certified to that level, with current hood and cleanroom certification verified?
@@ -59,3 +67,5 @@ The pharmacist finds a published stability study supporting a 30-day BUD for a r
 - Did I assign the beyond-use date as the more conservative of the stability date and the sterility date for the risk category and storage condition, or did I extend it based on stability data alone?
 - Did I perform the end-product check (visual inspection, label verification, calculation confirmation) and, for high-alert preparations, a second qualified verifier, before release?
 - Did I refuse to bypass environmental or technique controls for an urgent order, recognizing that the contamination consequence is severe, invisible, and delayed?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

@@ -54,8 +54,7 @@ Avoid relying on one arrival speech after a long travel day. Send core rules bef
 - Putting chaperones too far from youth rooms to respond quickly.
 - Forgetting shared bathrooms, kitchens, balconies, pools, and common areas as risk zones.
 - Letting students roam the local area without sign-out, buddy, curfew, or emergency rules.
-- Treating fire alarms, missing youth, harassment, or intoxication as unlikely rather than plan-worthy.
-- Giving the same vague briefing to youth and chaperones, leaving adults without incident authority and students without simple rules.
+- Treating fire alarms, missing youth, harassment, or intoxication as unlikely rather than plan-worthy; giving the same vague briefing to youth and chaperones, leaving adults without incident authority and students without simple rules
 
 ## Self-Check
 

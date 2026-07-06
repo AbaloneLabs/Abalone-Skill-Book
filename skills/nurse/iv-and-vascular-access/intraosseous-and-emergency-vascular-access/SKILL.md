@@ -49,6 +49,8 @@ IO insertion may be within nursing scope in many settings (especially emergency 
 
 **Leaving the IO in too long.** Once the patient is stable and definitive access is established, the IO should be removed, but it is sometimes left in "just in case" because it is already placed and functioning. The mechanism of harm is that IO dwell time is the primary driver of osteomyelitis risk, and a line left for convenience converts a short-term rescue device into a long-term infection source in bone — an infection that is painful, difficult to treat, and can seed the bloodstream. The harm is a bone infection that requires weeks of antibiotics and sometimes surgical debridement. Establish definitive access and remove the IO as soon as clinically appropriate; document the dwell time.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I move to IO after one or two failed rapid PIVC attempts in a critical patient, rather than persisting with peripheral attempts?

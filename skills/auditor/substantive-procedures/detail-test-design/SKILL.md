@@ -103,8 +103,7 @@ For each detail test, document: the assertion and risk addressed, the procedure 
 - **Testing existence strongly but neglecting valuation** in areas (receivables, inventory, investments) where valuation is the real risk.
 - **Designing a single test to cover all assertions**, missing the assertion-specific risks.
 - **Defaulting to record-based sampling for completeness**, which tests existence instead.
-- **Failing to combine procedures**, expecting one procedure to carry a material assertion alone.
-- **Documenting the procedure without the design rationale**, leaving the test indefensible and hard to review.
+- **Failing to combine procedures**, expecting one procedure to carry a material assertion alone; **Documenting the procedure without the design rationale**, leaving the test indefensible and hard to review
 
 ## Self-Check
 

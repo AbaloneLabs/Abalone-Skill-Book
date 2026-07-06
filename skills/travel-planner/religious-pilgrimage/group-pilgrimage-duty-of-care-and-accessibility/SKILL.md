@@ -57,10 +57,8 @@ Pilgrimage groups often include donations, offerings, shopping, optional rituals
 - Treating headcounts and buddy systems as disrespectful rather than protective.
 - Ignoring safeguarding because the group is faith-based and familiar.
 - Sharing medical or mobility details too widely within the group.
-- Letting one participant's extra ritual time create unmanaged separation risk.
-- Failing to debrief repeated pilgrimage programs and improve duty-of-care practices.
-- Giving leaders only the public itinerary and leaving them without rosters, medical flags, escalation, and supplier contacts.
-- Letting offerings, tips, donations, or optional rituals create unexpected financial pressure.
+- Letting one participant's extra ritual time create unmanaged separation risk; failing to debrief repeated pilgrimage programs and improve duty-of-care practices
+- Giving leaders only the public itinerary and leaving them without rosters, medical flags, escalation, and supplier contacts; letting offerings, tips, donations, or optional rituals create unexpected financial pressure
 
 ## Self-Check
 

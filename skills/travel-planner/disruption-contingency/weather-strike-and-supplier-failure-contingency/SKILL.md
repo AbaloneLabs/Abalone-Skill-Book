@@ -54,8 +54,7 @@ Avoid overfitting contingency plans to rare scenarios. Prioritize likely or high
 - Booking nonrefundable elements immediately after fragile flights, ferries, or border crossings.
 - Ignoring weekly closures, holidays, maintenance schedules, and permit access rules.
 - Choosing suppliers for price while ignoring day-of contact, weather policy, safety practices, and recovery support.
-- Letting a single signature activity define the whole trip without alternative value.
-- Overloading travelers with unlikely scenarios while missing the few disruptions most likely to matter.
+- Letting a single signature activity define the whole trip without alternative value; overloading travelers with unlikely scenarios while missing the few disruptions most likely to matter
 
 ## Self-Check
 

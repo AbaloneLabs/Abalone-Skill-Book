@@ -188,5 +188,4 @@ Management may offer to draft or edit the committee letter. The auditor owns the
 - Are significant deficiencies and material weaknesses reported with severity and supporting evidence?
 - Is the communication reconciled against the audit opinion, risk assessments, and deficiency evaluations before issuance?
 - Are sensitive matters distributed through restricted channels with privilege and confidentiality preserved?
-- Does the auditor retain ownership of content and conclusions, with management limited to factual corrections?
-- Is the final communication retained in the audit file, consistent with any oral remarks made to the committee?
+- Does the auditor retain ownership of content and conclusions, with management limited to factual corrections?; is the final communication retained in the audit file, consistent with any oral remarks made to the committee?

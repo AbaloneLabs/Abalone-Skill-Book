@@ -65,10 +65,8 @@ If a guide is central to the trip purpose, such as ancestry research or expert a
 - Sending sensitive traveler history to a guide without privacy judgment.
 - Missing licensing or site access rules.
 - Allowing forced shopping or commission-driven stops to replace the promised experience.
-- Failing to define who can approve paid additions, route changes, or time extensions.
-- Providing no backup contact when the guide is late or hard to find.
-- Treating guide feedback as a star rating rather than operational learning.
-- Accepting substitute guides without checking language, expertise, and scope fit.
+- Failing to define who can approve paid additions, route changes, or time extensions; providing no backup contact when the guide is late or hard to find
+- Treating guide feedback as a star rating rather than operational learning; accepting substitute guides without checking language, expertise, and scope fit
 
 ## Self-Check
 

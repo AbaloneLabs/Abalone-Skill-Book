@@ -70,12 +70,9 @@ Do not let an approved calendar become untouchable. Portfolio management is acti
 - Letting executive urgency outrank strategic value and team capacity by default.
 - Counting event planner hours but ignoring design, legal, finance, AV, marketing, and executive capacity.
 - Ignoring onsite coverage, recovery time, and burnout as quality and safety risks.
-- Over-inviting the same audience and reducing attendance across all events.
-- Scheduling too many fixed, high-stakes events close together.
-- Having no criteria to stop, merge, shrink, or virtualize events.
-- Allowing small events to skip accessibility, privacy, safety, or financial controls.
-- Measuring every event differently so portfolio comparison is impossible.
-- Reviewing the calendar only after teams are already overloaded.
+- Over-inviting the same audience and reducing attendance across all events; scheduling too many fixed, high-stakes events close together
+- Having no criteria to stop, merge, shrink, or virtualize events; allowing small events to skip accessibility, privacy, safety, or financial controls
+- Measuring every event differently so portfolio comparison is impossible; reviewing the calendar only after teams are already overloaded
 
 ## Self-Check
 

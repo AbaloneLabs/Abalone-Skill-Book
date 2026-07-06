@@ -102,6 +102,10 @@ The architect objects to every VE proposal, treating each as an assault on the d
 
 The contractor proposes substitutions, the team accepts them because the contractor is the cost authority, without independent evaluation of the performance and design consequences. The trap is that the contractor's cost expertise is real but is not neutral, because the contractor may profit from substitution or prefer familiar systems, and their proposals reflect those interests. The false signal is the professional presentation of the proposal, which appears objective while serving the proposer's interest. The harm is substitutions accepted against the building's interest, value transferred to the contractor through change, and an architect who abdicated the evaluation role to the party whose interest is not aligned with the design.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the design intent documented and shared before VE begins, with intent-bearing elements distinguished from supporting elements?
@@ -111,3 +115,4 @@ The contractor proposes substitutions, the team accepts them because the contrac
 - [ ] Does a VE log document each proposal's saving, consequence, and acceptance, with owner acknowledgment of tradeoffs?
 - [ ] Has the cause of extensive VE been diagnosed, addressing the upstream budget or cost-tracking failure?
 - [ ] Are contractor proposals evaluated on merit rather than accepted on authority, recognizing their non-neutral interest?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

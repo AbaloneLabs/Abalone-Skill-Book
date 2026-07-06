@@ -70,12 +70,9 @@ The close is where attention converts into action, learning reinforcement, or re
 - Sending join links that are buried, inconsistent, expired, or time-zone confusing.
 - Using reminders that repeat the same sales copy instead of preparing attendees.
 - Letting introductions consume the strongest attention window.
-- Adding polls, chat, or Q&A without a reason or follow-up.
-- Leaving attendees unsure whether chat, names, screenshots, recording, and questions are public or moderated.
-- Expecting speakers to present, monitor chat, troubleshoot, and timekeep alone.
-- Having no backup for speaker disconnects, platform failure, or slide problems.
-- Ignoring captioning, interpretation, keyboard access, or low-bandwidth needs.
-- Ending without CTA, replay expectation, resources, survey, or unanswered-question plan.
+- Adding polls, chat, or Q&A without a reason or follow-up; leaving attendees unsure whether chat, names, screenshots, recording, and questions are public or moderated
+- Expecting speakers to present, monitor chat, troubleshoot, and timekeep alone; having no backup for speaker disconnects, platform failure, or slide problems
+- Ignoring captioning, interpretation, keyboard access, or low-bandwidth needs; ending without CTA, replay expectation, resources, survey, or unanswered-question plan
 
 ## Self-Check
 

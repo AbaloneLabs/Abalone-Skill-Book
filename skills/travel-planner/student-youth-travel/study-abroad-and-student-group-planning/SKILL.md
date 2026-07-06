@@ -54,8 +54,7 @@ After the trip, collect incident reports, student feedback, leader notes, vendor
 - Overloading the itinerary with academic content and leaving no recovery time.
 - Ignoring mental health, disability, allergies, medications, and confidential disclosure processes.
 - Allowing free time without boundaries, check-ins, or lost-student procedures.
-- Sharing student personal information casually with parents, peers, vendors, or host contacts.
-- Assuming faculty leaders can improvise travel emergencies without a practical authority and contact packet.
+- Sharing student personal information casually with parents, peers, vendors, or host contacts; assuming faculty leaders can improvise travel emergencies without a practical authority and contact packet
 
 ## Self-Check
 

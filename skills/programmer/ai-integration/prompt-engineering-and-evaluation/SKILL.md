@@ -59,6 +59,10 @@ There is a craft to prompt clarity, and it trends toward concision, not length:
 - **Few-shot examples are powerful but must be representative.** A few high-quality input/output examples teach the format and behavior more reliably than paragraphs of description — but biased examples (all easy, all one type) bias the model toward that slice. Curate examples across the input distribution.
 - **Avoid contradictory instructions.** "Be concise" plus "explain your reasoning" plus "output only JSON" can conflict; the model resolves the conflict unpredictably. Resolve contradictions in the prompt before the model resolves them in the output.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Editing The Production Prompt Live With No Version
@@ -89,11 +93,9 @@ Adding ever more instructions, prohibitions, and hedging until the prompt contra
 
 Curating examples that are all easy or all one type, biasing the model toward that slice and degrading performance elsewhere. Curate examples across the input distribution.
 
-### Unpinned Model Version Paired With A Pinned Prompt
+### Unpinned Model Version Paired With A Pinned Prompt and no Handling For The Rare Malformed Output
 
 Keeping the prompt fixed while the provider silently upgrades the model, changing behavior in production. Pin and version the (prompt, model, settings) tuple together.
-
-### No Handling For The Rare Malformed Output
 
 Assuming 100% structured-output compliance and crashing the pipeline on the rare invalid output. Define retry, fallback, or graceful-failure behavior for malformed outputs.
 

@@ -104,6 +104,10 @@ Using extensive clear glazing to deliver daylight and openness in healthcare, co
 
 Believing that an open-plan office can achieve acoustic privacy comparable to enclosed rooms, given enough ceiling absorption and sound masking, ignores the fundamental limits of open planning, where speech travels across the space regardless of surface treatment. The trap is that acoustic panels and a masking system appear in the documents, so the open plan feels acoustically designed, while in reality speech intelligibility across the room remains high, distraction persists, and occupants report that they cannot hold confidential conversations. The harm is dissatisfaction, perceived noise, and the eventual addition of enclosed focus rooms that the plan should have provided from the start. Recognizing the limits of open planning, providing enclosed focus and huddle rooms for confidential work, and using absorption and masking to mitigate rather than solve, is what sets honest expectations and delivers a workable environment.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Have noise-sensitive spaces been separated from noise-generating uses through adjacency planning and buffer zones?

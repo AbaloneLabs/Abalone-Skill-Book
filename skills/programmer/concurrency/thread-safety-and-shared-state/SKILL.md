@@ -131,11 +131,9 @@ An in-process mutex protects only threads within that process. Multiple containe
 
 A static field, module-level global, or singleton is shared across every thread by default. Code that looks single-threaded ("I just read and write this map") is concurrent when the map is global. Globals are the most common silent source of races because the sharing is not visible at the call site. Treat any mutable global as shared-by-default and synchronize or confine it.
 
-### Volatile / Atomic As A Substitute For Locking
+### Volatile / Atomic As A Substitute For Locking and optimistic Concurrency Without Handling The Conflict
 
 A volatile or atomic field guarantees visibility and per-operation atomicity. It does not make surrounding compound operations atomic, and in most languages it does not provide mutual exclusion. "I made it volatile so it's thread-safe" is a frequent and wrong conclusion. Volatile solves visibility; locks solve mutual exclusion; neither alone solves compound atomicity.
-
-### Optimistic Concurrency Without Handling The Conflict
 
 Compare-and-swap loops and optimistic version checks only work if the retry path is actually implemented and bounded. A CAS that fails and silently falls through, or that retries forever under contention (live-lock), is a bug. When using optimistic concurrency, handle the failure explicitly: retry with a bound, back off, or surface a conflict.
 

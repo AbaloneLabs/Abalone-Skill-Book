@@ -53,10 +53,8 @@ Hotel choice can affect comfort and safety. Consider neighborhood, transport aft
 - Scheduling as if Ramadan, Eid, prayer times, or weekend patterns do not affect operations.
 - Giving generic dress advice without destination and site specificity.
 - Treating desert excursions as low-risk sightseeing.
-- Ignoring identity-sensitive legal or social considerations.
-- Overreacting to regional headlines without checking current local and official information.
-- Ignoring public speech, social media, protest, and photography sensitivities.
-- Choosing hotels by star rating while missing neighborhood, transport, dress, alcohol, family, or gender-context fit.
+- Ignoring identity-sensitive legal or social considerations; overreacting to regional headlines without checking current local and official information
+- Ignoring public speech, social media, protest, and photography sensitivities; choosing hotels by star rating while missing neighborhood, transport, dress, alcohol, family, or gender-context fit
 
 ## Self-Check
 

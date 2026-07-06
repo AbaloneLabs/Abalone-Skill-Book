@@ -61,6 +61,10 @@ A therapist, demoralized by a long or severe course, may shift from active evide
 
 A therapist may treat the eating disorder as a purely individual problem, addressing the client's cognitions and family without addressing the cultural context of thin idealization, weight stigma, and appearance-based self-worth that maintains the disorder. The mechanism of harm is that the cultural maintenance factors continue unchallenged, the client returns daily to the messages that reinforce the disorder, and the individual treatment is undermined by the context. The harm is that recovery is fragile because the environment continues to support the disorder. Addressing the cultural context, helping the client critique internalized beliefs, and reducing exposure to maintenance factors strengthens the work.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I address body image disturbance and weight and shape overvaluation as a core cognitive target, not assume it would resolve with weight restoration?

@@ -70,12 +70,9 @@ Good standardization makes exceptions easier to notice and govern. It should not
 - Standardizing optional polish while leaving safety, privacy, and finance inconsistent.
 - Omitting examples that show what good looks like.
 - Copying old artifacts without explaining context and tradeoffs.
-- Letting templates fragment across folders with no version owner.
-- Assuming the playbook is used without checking for shadow spreadsheets, skipped approvals, and unofficial workarounds.
-- Updating the playbook only when a new event starts.
-- Assuming new staff can learn from documents without briefing or practice.
-- Making standards so rigid that teams hide necessary exceptions.
-- Failing to remove outdated vendor, policy, and platform assumptions.
+- Letting templates fragment across folders with no version owner; assuming the playbook is used without checking for shadow spreadsheets, skipped approvals, and unofficial workarounds
+- Updating the playbook only when a new event starts; assuming new staff can learn from documents without briefing or practice
+- Making standards so rigid that teams hide necessary exceptions; failing to remove outdated vendor, policy, and platform assumptions
 
 ## Self-Check
 

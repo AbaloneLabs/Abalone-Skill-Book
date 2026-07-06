@@ -114,8 +114,7 @@ The aggregate documentation is what supports the conclusion. A conclusion that r
 - **Ignoring qualitative implications** — fraud, override, clustering — that are serious regardless of projected magnitude.
 - **Maintaining reliance on a control with a high deviation rate** without explanation or adjustment to the substantive approach.
 - **Treating a details sample with errors as clean** because the projected amount is below tolerable, without considering qualitative implications or sampling allowance.
-- **Missing the control-deficiency reporting implication** of systemic or serious deviations.
-- **Failing to aggregate** the deviation evaluation across the sample and related procedures, so the conclusion lacks a basis.
+- **Missing the control-deficiency reporting implication** of systemic or serious deviations; **Failing to aggregate** the deviation evaluation across the sample and related procedures, so the conclusion lacks a basis
 
 ## Self-Check
 

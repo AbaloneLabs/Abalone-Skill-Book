@@ -29,6 +29,10 @@ Organ function is not static, and a dose that was correctly adjusted at one poin
 
 The creatinine clearance estimate and the hepatic function score are approximations with limitations, and the dose adjustment references are generalizations that may not fit the individual patient. The pharmacist must recognize that the Cockcroft-Gault equation is unreliable in rapidly changing function, in extremes of body size, and in advanced renal failure; that the eGFR may differ from the Cockcroft-Gault creatinine clearance in ways that matter for dosing; that the Child-Pugh score is a coarse classification; and that the dosing recommendations are often based on pharmacokinetic studies in small populations, not outcome trials. When the estimate is uncertain, when the patient is at a threshold, or when the reference is silent or conflicting, the pharmacist must use clinical judgment: lower starting doses, slower titration, closer monitoring of drug effect and adverse effects (drug levels where available, INR for warfarin, symptom assessment), and consultation with the prescriber or a specialist. The adjustment is a clinical decision informed by the reference, not a mechanical application of it.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Normal Serum Creatinine Assumption
@@ -51,6 +55,10 @@ A patient with cirrhosis has normal or near-normal liver enzymes (because the li
 
 The pharmacist identifies the need for a renal or hepatic adjustment and documents it in the pharmacy record, but does not communicate it to the prescriber, does not obtain the order change, and does not set up monitoring. The mechanism is that documenting the recommendation feels like completing the task. The false signal is that the adjustment is identified, so it will be applied. The harm is that without the prescriber's order change, the standard dose continues to be dispensed, and the patient accumulates the drug; and without monitoring, the toxicity is detected only when it causes harm. The adjustment must be communicated, the order changed, and the effect monitored (drug levels, organ function, adverse effects), or the identification provides no protection.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I estimate creatinine clearance (using Cockcroft-Gault with actual or adjusted body weight, age, and sex) for every patient on renally cleared drugs, rather than relying on the serum creatinine alone?
@@ -59,3 +67,5 @@ The pharmacist identifies the need for a renal or hepatic adjustment and documen
 - Did I reassess organ function at care transitions, after acute illness or nephrotoxic drug exposure, and with chronic disease progression, requesting current labs rather than relying on a stale estimate?
 - Near dosing thresholds, did I make a conservative choice (lower-clearance recommendation or closer monitoring), especially for narrow-therapeutic-index drugs where estimate uncertainty matters most?
 - Did I communicate the adjustment to the prescriber, obtain the order change, document the rationale, and set up monitoring of drug effect, organ function, and adverse effects, rather than treating identification as completion?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

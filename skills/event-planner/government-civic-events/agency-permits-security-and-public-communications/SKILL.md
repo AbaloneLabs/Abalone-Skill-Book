@@ -57,10 +57,8 @@ Because public funds or public space may be involved, track procurement decision
 - Designing security that blocks lawful public access or protest without review.
 - Publishing road closure or access information before operations confirms it.
 - Letting departments issue conflicting messages.
-- Ignoring media and political sensitivity until the event is live.
-- Failing to preserve approvals and communications for later review.
-- Running the event without a multi-agency command structure and pre-event briefing.
-- Ignoring public record, procurement, equity, and complaint documentation because the event feels ceremonial.
+- Ignoring media and political sensitivity until the event is live; failing to preserve approvals and communications for later review
+- Running the event without a multi-agency command structure and pre-event briefing; ignoring public record, procurement, equity, and complaint documentation because the event feels ceremonial
 
 ## Self-Check
 

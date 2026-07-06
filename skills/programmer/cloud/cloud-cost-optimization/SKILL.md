@@ -129,19 +129,15 @@ Putting everything on hot/premium storage with no transition or expiration polic
 
 Architecting for simplicity (cross-region replication, cross-AZ reads, large outbound payloads) without considering transfer pricing, then discovering egress is a top-line cost. Design with the transfer model in mind and keep data co-located with its consumers.
 
-### Cost-Cutting Under Pressure That Hits Reliability
+### Cost-Cutting Under Pressure That Hits Reliability and untagged Resources That Cannot Be Attributed
 
 A mandate to cut X% leads to dropping redundancy, shrinking below the SLO, or turning off backups — trading a bill reduction for future incidents. Define the performance/reliability floor first and optimize cost above it, not through it.
 
-### Untagged Resources That Cannot Be Attributed
-
 Resources provisioned without tags, so spend cannot be attributed to a team or purpose, and waste cannot be distinguished from productive use. Enforce tagging at provisioning time; an untagged resource is unmanageable cost.
 
-### Optimizing Small Recurring Costs While Ignoring Large Structural Waste
+### Optimizing Small Recurring Costs While Ignoring Large Structural Waste and treating Cost As Finance's Problem
 
 Spending effort on micro-optimizations (a few dollars of small instances) while a multi-region architecture or an oversized database quietly bills thousands. Prioritize by impact: delete idle resources, right-size top spenders, and fix structural waste before micro-tuning.
-
-### Treating Cost As Finance's Problem
 
 Engineering provisions, finance receives the bill, and the feedback loop never closes — so engineers never see the cost consequences of their choices and waste accumulates. Cost is an engineering property decided at design time; surface it to the teams that drive it and make them accountable for unit economics.
 

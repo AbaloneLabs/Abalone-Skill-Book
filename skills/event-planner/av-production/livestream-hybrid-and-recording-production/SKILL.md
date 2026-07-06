@@ -54,8 +54,7 @@ Moderation rules matter. Decide how questions are selected, how inappropriate ch
 - Scheduling remote speaker tech checks too late to fix lighting, audio, login, or slide issues.
 - Forgetting releases, music rights, privacy notice, attendee consent, or sensitive Q&A controls.
 - Recording everything without defining who can access it, how long it will remain available, or how it may be reused.
-- Failing to assign chat, Q&A, platform support, and stream monitoring roles.
-- Treating captions or interpretation as optional add-ons after the platform and production plan are already fixed.
+- Failing to assign chat, Q&A, platform support, and stream monitoring roles; treating captions or interpretation as optional add-ons after the platform and production plan are already fixed
 
 ## Self-Check
 

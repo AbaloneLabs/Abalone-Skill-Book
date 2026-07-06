@@ -29,6 +29,10 @@ Every significant ADR must be documented in the patient's record (so the reactio
 
 An ADR that is identified, assessed, and managed but not recorded in a way that prevents re-exposure will recur at the next prescription, often from a different prescriber who does not know about the prior reaction. The pharmacist must ensure the reaction and the causative drug (with cross-reactive drugs noted — the cephalosporin reaction flags the beta-lactam class, the sulfa reaction flags sulfonamides) are documented in the patient's allergy and ADR record, with the reaction type and severity, so that the pharmacy system and the prescriber are alerted at the next prescription event. The pharmacist must counsel the patient on the reaction (what drug caused it, what symptom to watch for, what to do if prescribed a related drug) so the patient can advocate for themselves, because the patient is often the last check before a re-exposure. The pharmacist must distinguish a true allergy (which requires avoidance) from an intolerance (which may be manageable) in the record, because an inaccurate "allergy" label deprives the patient of first-line drugs for years.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Disease Attribution Default
@@ -51,6 +55,10 @@ A patient reports nausea from a drug decades ago, recorded as an "allergy," and 
 
 The pharmacist suspects a drug caused a serious reaction but does not report it because they are not certain. The mechanism is that reporting feels appropriate only for confirmed reactions. The false signal is that uncertainty disqualifies the report. The harm is that post-marketing surveillance depends on reports of suspected reactions, and the requirement of certainty suppresses the reports that the system needs to detect signals — particularly for new drugs and rare reactions where individual certainty is rarely achievable. The pharmacist must report suspected serious reactions even at possible causality, because the system aggregates reports to detect patterns no individual could confirm.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For every new or worsening symptom in a patient on medications, did I ask whether a drug could be the cause before accepting the disease or a new condition as the explanation?
@@ -59,3 +67,5 @@ The pharmacist suspects a drug caused a serious reaction but does not report it 
 - Did I document the reaction in the patient's record, communicate it to the prescriber, and report serious or unexpected reactions to the pharmacovigilance system (FDA MedWatch or equivalent) even at possible causality?
 - Did I record the reaction with the causative drug and cross-reactive class, the reaction type, and the severity, distinguishing true allergy from intolerance so the patient is not deprived of first-line drugs based on an inaccurate label?
 - Did I counsel the patient on the reaction (the causative drug, the symptom to watch for, what to do if prescribed a related drug) so they can advocate for themselves at future encounters?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

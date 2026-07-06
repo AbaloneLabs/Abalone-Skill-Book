@@ -71,10 +71,8 @@ The review should cover what logistics learned before the issue becomes institut
 - Substituting new and old SKUs without checking customer approval, compatibility, regulatory status, pricing, and warranty.
 - Running down old inventory so far that service parts, warranty, or contractual support cannot be met.
 - Treating packaging version changes as cosmetic rather than receiving, compliance, traceability, and customer-acceptance risks.
-- Forgetting return, rework, quarantine, and disposition capacity during launch defects or EOL pullbacks.
-- Communicating launch, substitution, last-buy, or label-change dates inconsistently across customers, distributors, brokers, and service teams.
-- Measuring launch logistics only by first ship date instead of fill rate, expedites, returns, and customer experience.
-- Leaving obsolete inventory decisions until carrying cost and markdown pressure are already high.
+- Forgetting return, rework, quarantine, and disposition capacity during launch defects or EOL pullbacks; communicating launch, substitution, last-buy, or label-change dates inconsistently across customers, distributors, brokers, and service teams
+- Measuring launch logistics only by first ship date instead of fill rate, expedites, returns, and customer experience; leaving obsolete inventory decisions until carrying cost and markdown pressure are already high
 
 ## Self-Check
 

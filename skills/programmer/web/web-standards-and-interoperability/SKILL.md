@@ -109,19 +109,15 @@ Configuring Babel/SWC and assuming that gives you `structuredClone` or `Intersec
 
 Shipping code that relies on a feature behind a flag or origin trial, which then changes or is removed, breaking production. Depend only on unprefixed, unflagged, multi-engine features; treat experiments as enhancement-only with a fallback.
 
-### Treating "It's In The Spec" As Sufficient
+### Treating "It's In The Spec" As Sufficient and uA-Sniffing To Branch Around A Quirk
 
 Depending on a feature because it appears in a spec, when the spec is at an early stage or implemented by only one engine, and hitting rework or interop gaps when it changes. Check spec stage and multi-engine implementation breadth before load-bearing use.
 
-### UA-Sniffing To Branch Around A Quirk
-
 Adding `if (isSafari)` branches that rot as UA strings change and that no one removes after the bug is fixed. Detect the symptom where possible, document the workaround, and add a removal trigger; reserve UA logic for confirmed engine bugs with no detectable symptom.
 
-### Letting Vendor-Prefixed CSS Become The Primary Path
+### Letting Vendor-Prefixed CSS Become The Primary Path and accumulating Workarounds Without Removal Triggers
 
 Writing `-webkit-` properties as the main styling and never adding the standard unprefixed form, locking behavior to WebKit and diverging from the eventual standard. Write standard properties and let Autoprefixer add prefixes where still required.
-
-### Accumulating Workarounds Without Removal Triggers
 
 Adding engine-specific branches over time with no documentation or expiration, until the code is a tangle no one will touch. Every workaround gets a reason, a symptom-based gate where possible, and a date or version to re-evaluate.
 
@@ -134,3 +130,4 @@ Adding engine-specific branches over time with no documentation or expiration, u
 - [ ] No production code depends on flag-gated, origin-trial, or vendor-prefixed features as a primary path; experiments are enhancement-only behind detection with a fallback, and prefixed CSS has the standard unprefixed form as the base.
 - [ ] Each load-bearing feature was checked for spec maturity (TC39 stage, CSSWG/W3C/WHATWG status) and multi-engine implementation breadth before dependence, and single-engine or pre-stability features are treated as enhancement-only rather than relied upon.
 - [ ] Every browser-specific workaround is documented (engine, version, bug, reason), gated on the detectable symptom where possible rather than UA sniffing, and has a removal trigger (linked bug, version cutoff, or re-evaluation date) so it is deleted when no longer needed rather than accumulating as unmaintainable debt.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

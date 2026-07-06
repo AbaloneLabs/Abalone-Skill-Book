@@ -61,6 +61,10 @@ A client who describes a recurring relational pattern, always feeling criticized
 
 A therapist whose countertransference makes certain topics uncomfortable, sexuality, anger, money, termination, may avoid those topics with clients, steering the therapy away from material that provokes the therapist's anxiety. The mechanism is that the avoidance feels like following the client's lead or like clinical pacing, when it is actually the therapist's affect regulation. The harm is that central material is excluded from the therapy, the client's goals are not fully addressed, and the therapy is shaped by the therapist's comfort rather than the client's needs. Noticing which topics you avoid, examining why, and using supervision to address the avoidance are what keep the therapy directed at the client's actual concerns.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I noticing my emotional reactions to the client during and after sessions, and treating them as data?

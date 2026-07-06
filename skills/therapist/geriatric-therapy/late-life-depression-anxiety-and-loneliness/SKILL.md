@@ -61,6 +61,10 @@ A therapist may apply standard cognitive-behavioral or insight-oriented protocol
 
 A therapist may treat an older client's depression or anxiety entirely within the therapy hour, without coordinating with the physician, addressing medical contributors, or connecting to social supports, when the client's mental health is tightly coupled to their medical and social context. The mechanism of harm is that the treatment addresses one thread of a woven problem, and the medical and social drivers of the distress continue unchecked. The harm is that gains are partial and fragile, the client's medical conditions worsen the mood, and the isolation that drove the depression persists. Coordinating with medical and social care, with authorization, addresses the whole picture.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I assess late-life mood and anxiety with age-appropriate tools, including direct questions about mood, anhedonia, hopelessness, and suicidal ideation?

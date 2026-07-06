@@ -107,11 +107,9 @@ Rendering the persisted theme or locale on the client immediately, producing mar
 
 Applying the optimistic change, firing the request, and not handling the failure case — so the first network error leaves the UI showing a state the server never accepted. Always keep the snapshot to restore on failure.
 
-### Cross-Tab Sync Of Raw State Instead Of Revalidating
+### Cross-Tab Sync Of Raw State Instead Of Revalidating and undo Implemented As Direct Mutation
 
 Broadcasting the raw client store to other tabs for server-owned data, so two tabs converge on a stale copy instead of re-fetching. Use the server as the sync channel for server state; reserve client broadcast for client-owned state.
-
-### Undo Implemented As Direct Mutation
 
 Allowing in-place mutation of state and then trying to add undo after the fact. Without transitions or snapshots, undo is impossible to reconstruct. Model changes as transitions from the start if undo is on the roadmap.
 

@@ -65,10 +65,8 @@ Close the loop internally: update preferred supplier notes, adjust briefing ques
 - Storing sensitive client details as casual CRM notes without privacy discipline.
 - Sending the same future-trip promotion to all clients regardless of trip style, budget, or life stage.
 - Asking for referrals in a way that pressures the client to disclose private trip details.
-- Recording only whether the client was happy and missing operational information that would improve future recommendations.
-- Letting supplier failures disappear after the client is appeased, which preserves a weak product in the planning pool.
-- Assuming one trip's budget, pace, or companion mix defines the client's permanent preference.
-- Using photos, testimonials, or names in marketing without explicit consent.
+- Recording only whether the client was happy and missing operational information that would improve future recommendations; letting supplier failures disappear after the client is appeased, which preserves a weak product in the planning pool
+- Assuming one trip's budget, pace, or companion mix defines the client's permanent preference; using photos, testimonials, or names in marketing without explicit consent
 
 ## Self-Check
 

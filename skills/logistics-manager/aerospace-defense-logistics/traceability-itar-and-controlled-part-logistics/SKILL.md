@@ -53,10 +53,8 @@ Denied party, sanctions, embargo, and end-use screening should be documented wit
 - Separating parts from certificates, serial records, airworthiness releases, or repair documentation.
 - Putting sensitive technical data on labels, emails, or broker instructions unnecessarily.
 - Allowing forwarders or carriers to subcontract without control of data, custody, and country exposure.
-- Ignoring ESD, FOD, shelf life, shock, humidity, or clean packaging requirements.
-- Letting urgency override export compliance, quality release, or discrepancy quarantine.
-- Treating export screening as permanent even after routing, consignee, end use, or repair location changes.
-- Failing to document manual screening or temporary controls used during urgent moves.
+- Ignoring ESD, FOD, shelf life, shock, humidity, or clean packaging requirements; letting urgency override export compliance, quality release, or discrepancy quarantine
+- Treating export screening as permanent even after routing, consignee, end use, or repair location changes; failing to document manual screening or temporary controls used during urgent moves
 
 ## Self-Check
 

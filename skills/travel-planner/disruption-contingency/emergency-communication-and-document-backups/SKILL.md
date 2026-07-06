@@ -52,8 +52,7 @@ A weekend domestic city break needs a lighter plan than a remote trek, multi-cou
 - Forgetting two-factor authentication and account recovery when the trusted device is lost.
 - Providing emergency contacts without explaining which one to use for which problem.
 - Treating document copies as legal substitutes for originals.
-- Ignoring lost passport implications for multi-country routes, cruises, visas, and onward flights.
-- Creating a plan so detailed that travelers will not read or use it.
+- Ignoring lost passport implications for multi-country routes, cruises, visas, and onward flights; creating a plan so detailed that travelers will not read or use it
 
 ## Self-Check
 

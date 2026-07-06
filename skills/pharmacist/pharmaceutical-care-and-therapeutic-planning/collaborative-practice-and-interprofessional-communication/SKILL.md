@@ -29,6 +29,10 @@ Some clinical concerns exceed the routine communication and require escalation �
 
 The communication — the recommendation, the coordination, the escalation — must be documented for continuity (the next provider can see what was communicated and what the response was), for accountability (the pharmacist's clinical judgment and actions are recorded), and for quality (the communication patterns and the outcomes can be reviewed and improved). The pharmacist must document the recommendation (the issue, the evidence, the recommendation, the rationale, the follow-up), the response (the prescriber's acceptance, modification, or refusal, with the rationale), the coordination (the team communication, the handoff, the shared plan), and the escalation (the concern, the channel, the response). The documentation must be in the patient's record (the clinical communication) and in the pharmacy's record (the intervention log), must be timely (at the point of the communication, not deferred), and must be accurate (the actual communication, not the intended). The pharmacist must recognize that the undocumented communication is, for practical purposes, a communication that did not occur (because it cannot be demonstrated, retrieved, or continued), and the documentation is the completion of the communication.
 
+### State Uncertainty and Confidence Honestly
+
+Distinguish what is known, what is inferred, and what is assumed. A conclusion presented without its uncertainty hides the risk that the decision-maker carries unknowingly. State the confidence level, name the assumptions that would change the outcome if wrong, and flag the conditions under which the conclusion should be revisited. Honest uncertainty is not weakness; it is the precondition for sound judgment, because it lets the recipient weigh the risk rather than act on a false certainty.
+
 ## Common Traps
 
 ### Burying the Recommendation in a Long Note or Message
@@ -51,6 +55,10 @@ The recommendation is communicated (the message sent, the note written), and the
 
 The pharmacist documents the recommendation, the intervention, and the follow-up in the pharmacy record, but does not communicate it to the patient's care team (the prescriber, the specialist, the nurse), and the team is unaware of the pharmacist's assessment and actions. The trap is that the pharmacy documentation feels like the completion (the work is recorded), so the team communication is skipped, and the care plan is fragmented (the team's plan does not include the pharmacist's recommendation, the monitoring is duplicated or missed, the patient receives conflicting information). The harm is the uncoordinated care that the communication was meant to prevent, and the patient who is caught between the uncoordinated providers. The fix is to communicate the pharmacist's assessment, recommendation, and actions to the care team (the prescriber, the relevant specialists, the care manager), to document the communication, and to integrate the pharmacist's plan with the team's plan, treating the team communication as the implementation of the pharmacist's work rather than an optional notification.
 
+### Treating a confident conclusion as a substitute for evidence
+
+A well-written, confident-sounding conclusion is accepted as proof. The trap is that the tone of certainty masks unstated assumptions, missing verification, or unresolved uncertainty, and the confident framing prevents anyone from asking the question that would expose the gap.
+
 ## Self-Check
 
 - For each therapeutic recommendation, did I structure it for clarity and action (the issue, the evidence, the specific recommendation, the rationale, the follow-up), lead with the action, and match the channel and urgency to the significance?
@@ -60,3 +68,4 @@ The pharmacist documents the recommendation, the intervention, and the follow-up
 - Did I close the loop on each recommendation (the confirmation of the receipt, the response, the action), and did I follow up or escalate when the response was not received?
 - Did I document the communication (the recommendation, the response, the coordination, the escalation) in the patient's record and the pharmacy's intervention log, timely and accurately?
 - Did I communicate the pharmacist's assessment and actions to the patient's care team, not only to the pharmacy record, so the care plan is integrated rather than fragmented?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

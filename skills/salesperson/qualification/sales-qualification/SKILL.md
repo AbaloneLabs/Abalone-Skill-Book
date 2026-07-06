@@ -1,170 +1,98 @@
 ---
-name: sales_qualification.md
-description: Use when the agent is qualifying a sales opportunity, deciding whether a prospect is a good fit, reviewing pipeline quality, preparing discovery criteria, or checking whether a deal should advance before more sales effort is spent.
+name: sales-qualification.md
+description: Use when the agent is qualifying sales opportunities, separating interest from fit, reviewing pain, urgency, authority, budget, timing, decision process, implementation readiness, value potential, or whether an opportunity should advance, nurture, narrow, or be disqualified.
 ---
 
 # Sales Qualification
 
-Sales qualification is not a script for rejecting people. It is the discipline of deciding whether a prospect has a real problem, a reason to act, the authority or path to decide, a budget or value exchange, a plausible timeline, and a fit with what the seller can responsibly deliver. Poor qualification wastes seller time, buyer time, implementation effort, and customer trust.
-
-Use this skill before answering broad questions such as "what should be considered before qualifying a lead", "is this sales opportunity real", "what should a salesperson check before advancing a deal", or "how should pipeline quality be reviewed". The goal is to prevent the agent from mistaking interest, politeness, or activity for a qualified opportunity.
+Sales qualification is not a form filled after a good conversation. It is the judgment of whether the buyer has a real problem, a reason to act, a path to decide, and a realistic chance of success after purchase. Weak qualification creates inflated pipeline, wasted demos, bad forecasts, discount pressure, and poor customer outcomes. This skill helps the agent advance deals based on evidence rather than enthusiasm.
 
 ## Core Rules
 
-### Separate Interest From Fit
+### Separate interest from qualified evidence
 
-A prospect can be interested and still not be a good fit. They may like the idea, enjoy the conversation, or want information, but lack a real pain, decision process, budget, urgency, or ability to implement.
+Polite engagement, a demo request, or a positive call is not qualification. Look for pain, urgency, business impact, authority path, buying process, timing, budget reality, and implementation fit.
 
-Check:
+Interest earns discovery. Evidence earns advancement.
 
-- problem severity;
-- current workaround;
-- business or personal impact;
-- urgency;
-- buyer authority;
-- decision process;
-- budget or economic value;
-- technical or operational fit;
-- timing;
-- risk of poor implementation.
+### Identify the business problem
 
-Do not move a deal forward only because the prospect responded positively. Sales activity should follow qualified evidence.
+Qualification should name the current state, pain, trigger, affected team, cost of inaction, and desired outcome. If the buyer cannot explain why change matters, the deal may be education or nurture rather than active opportunity.
 
-### Define The Customer Problem In Their Words
+Do not qualify only on feature curiosity.
 
-Qualification should capture the prospect's own description of the problem. If the seller must keep rephrasing the pain for them, the pain may not be strong enough.
+### Map decision process and authority
 
-Ask:
+Know who evaluates, who uses, who approves, who pays, who blocks, and who signs. Understand procurement, legal, security, finance, executive, and technical review where relevant.
 
-- what triggered the conversation;
-- what happens if nothing changes;
-- how the problem affects cost, revenue, risk, time, morale, quality, or customer experience;
-- who else feels the impact;
-- how they handle it today;
-- why the current workaround is insufficient now.
+A champion without decision access is not enough.
 
-Avoid qualifying based only on demographic or firmographic fit. A company can match the ideal profile and still lack a real problem.
+### Test urgency and timing
 
-### Understand Decision Authority And Process
+Ask why now, what happens if nothing changes, and what external deadline exists. Budget cycle, renewal, launch, compliance date, leadership goal, or operational pain can create real urgency.
 
-Sales deals stall when the seller talks to an interested person who cannot decide. Qualification should identify how decisions are made, who influences them, and what evidence each stakeholder needs.
+Seller-created urgency should not be mistaken for buyer urgency.
 
-Clarify:
+### Check budget and value alignment
 
-- economic buyer;
-- daily user;
-- technical evaluator;
-- legal, procurement, finance, security, or compliance reviewers;
-- executive sponsor;
-- approval steps;
-- timing constraints;
-- previous purchase process;
-- criteria for choosing.
+Budget may be approved, planned, flexible, hidden, or absent. Qualification should compare likely value with expected price, procurement friction, discount expectations, and whether the buyer can fund the change.
 
-Do not disrespect the current contact. Help them map the buying process honestly.
+Avoid turning every budget objection into a discount path.
 
-### Qualify Timing And Consequence
+### Assess implementation readiness
 
-Timeline matters because urgency drives action. A prospect may have a real need but no reason to act this quarter.
+Can the buyer deploy, integrate, migrate data, train users, assign an owner, and sustain the change? If implementation readiness is weak, qualify the risk or narrow the scope.
 
-Ask:
+Closed-won is not success if the customer cannot realize value.
 
-- why now;
-- deadline or event driving change;
-- cost of delay;
-- renewal date;
-- budget cycle;
-- implementation window;
-- internal project dependency;
-- risk if decision slips.
+### Decide the right disposition and record gaps honestly
 
-If the timeline is vague, qualify the next concrete step rather than assuming close date.
+The result may be advance, nurture, disqualify, refer to partner, route to self-serve, schedule deeper discovery, or require technical validation. Do not force every lead into the same sales motion.
 
-### Evaluate Mutual Fit
+Disposition should match evidence.
 
-Good sales qualification protects both sides. The seller should consider whether the product, service, support model, pricing, implementation effort, and customer expectations fit.
+Qualification gaps should be visible in CRM: unknown budget, missing economic buyer, unclear timing, unproven pain, weak champion, implementation risk, or unsupported use case. Hidden gaps become forecast errors.
 
-Check:
+### Calibrate qualification depth to deal motion and requalify when facts change
 
-- use case fit;
-- required integrations;
-- unsupported requirements;
-- service level expectations;
-- compliance needs;
-- customer resources for implementation;
-- expected outcome realism;
-- pricing fit;
-- long-term success potential.
+A transactional SMB lead should not require the same evidence as a complex enterprise opportunity, but every motion still needs minimum fit, need, and next step. Define the evidence threshold by segment, deal size, risk, and sales cost.
 
-Do not sell into a bad-fit account just to close. Bad-fit sales become churn, complaints, support burden, and reputation damage.
+Over-qualifying slows good small deals. Under-qualifying creates bad enterprise pipeline.
 
-### Use Qualification Frameworks As Prompts, Not Cages
+Qualification is not permanent. Reassess when stakeholders change, timeline slips, budget changes, new requirements appear, competitor enters, product fit changes, or the buyer stops taking action.
 
-Frameworks like BANT, MEDDICC, SPICED, CHAMP, or GPCT can help structure thinking. They should not become mechanical checkboxes.
+Old qualification evidence can become stale quickly.
 
-The useful questions are:
+### Require buyer action for stage movement and identify the disconfirming evidence
 
-- Is there a meaningful problem?
-- Can the prospect act?
-- Is the value worth the cost?
-- Is the solution fit real?
-- Is there a decision path?
-- Is there a next step that advances mutual understanding?
+A deal should not advance only because the seller sent a follow-up, delivered a demo, or updated a proposal. Look for buyer action: sharing data, bringing stakeholders, confirming criteria, scheduling technical review, securing budget, or agreeing to a mutual plan.
 
-If a framework score is high but the story is weak, the opportunity is not truly qualified.
+Buyer movement is stronger evidence than seller activity.
 
-### Define The Next Test
+Qualification should include what would prove the opportunity is not real: no business impact, no owner, no budget path, no timeline, no stakeholder access, no implementation capacity, or requirements the product cannot meet. Naming disconfirming evidence prevents the seller from only collecting positive signals.
 
-Qualification is not static. Each stage should have the next evidence-gathering step.
-
-Examples:
-
-- confirm pain with economic buyer;
-- run technical fit review;
-- quantify impact;
-- review implementation constraints;
-- map procurement;
-- validate budget owner;
-- schedule decision meeting;
-- agree on mutual action plan.
-
-Advance deals based on evidence, not optimism.
+Good qualification actively tests fit.
 
 ## Common Traps
 
-### Confusing Responsiveness With Intent
-
-Fast replies and friendly calls are positive signals, but they do not prove buying intent.
-
-### Letting The Seller Create Urgency
-
-Discount deadlines and artificial urgency may pressure action, but real qualification should identify the buyer's own reason to move.
-
-### Avoiding Disqualification
-
-Keeping weak deals in pipeline makes forecasts worse and distracts from better opportunities. Disqualification can be a professional outcome.
-
-### Ignoring Implementation Fit
-
-A deal can close and still fail if the customer cannot implement or support the change.
-
-### Single-Threading The Deal
-
-Relying on one contact creates risk when that person lacks authority, leaves, changes priorities, or cannot persuade others.
-
-### Treating Budget As The Only Qualification
-
-Budget matters, but a prospect with budget and no urgent problem may still not buy. A prospect without assigned budget may still create one if the pain is severe.
+- Treating a demo request as qualified pipeline.
+- Qualifying based on title or company fit without pain evidence.
+- Skipping decision process because the first contact is enthusiastic; accepting seller-created urgency as buyer urgency
+- Treating budget as solved because the buyer did not object; ignoring implementation readiness and customer success risk
+- Advancing bad-fit opportunities to preserve pipeline volume; recording only positive notes and hiding gaps
+- Using one qualification model for all segments and deal sizes; disqualifying too early without checking whether a different motion fits
+- Applying enterprise-level qualification burden to simple transactional deals; treating a deal as qualified forever after one good conversation
+- Moving stages based on seller activity without buyer commitment; searching only for evidence that supports advancement and ignoring disqualifying signals
 
 ## Self-Check
 
-- [ ] Interest is separated from qualified fit.
-- [ ] The customer problem is stated in the prospect's own words.
-- [ ] Impact, urgency, current workaround, and cost of doing nothing are clear.
-- [ ] Decision authority, influencers, reviewers, approval steps, and buying criteria are mapped.
-- [ ] Timeline is tied to a real event, deadline, budget cycle, renewal, or consequence.
-- [ ] Solution fit, implementation fit, support expectations, and long-term customer success are reviewed.
-- [ ] Qualification framework output is backed by a coherent opportunity story.
-- [ ] Bad-fit or low-evidence opportunities can be disqualified without treating that as failure.
-- [ ] The next step is designed to test a specific unknown.
-- [ ] The opportunity is advanced based on evidence rather than optimism, politeness, or activity volume.
+- Is interest separated from qualified evidence?
+- Are pain, trigger, current state, business impact, and desired outcome known?
+- Is the decision process mapped across users, champion, economic buyer, technical, finance, legal, procurement, and executive roles?
+- Is urgency tied to a buyer-owned reason and deadline?
+- Is budget reality compared with value and price?
+- Are discount pressure and procurement friction considered?
+- Is implementation readiness assessed?; is the opportunity disposition evidence-based?
+- Are qualification gaps recorded honestly?; would advancing this deal improve pipeline quality rather than just pipeline size?
+- Is qualification depth appropriate for segment, deal size, risk, and sales cost?; is requalification triggered when stakeholders, timing, budget, requirements, competition, product fit, or buyer action changes?
+- Is stage movement supported by buyer action rather than seller activity alone?; has the seller named what evidence would disqualify, pause, or narrow the opportunity?

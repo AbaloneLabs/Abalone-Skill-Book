@@ -181,5 +181,4 @@ Banking and insurance rules change frequently, with transition periods and phase
 - Is regulatory reporting integrated into the audit, with call report or statutory schedules reconciled to the audited financials?
 - Has the most recent examination report and any MRAs or enforcement actions been obtained and assessed for audit implications?
 - Are related-party and insider transactions identified, tested against lending limits, and evaluated for terms, fairness, and disclosure?
-- Has the impact of any rule change or transition provision been correctly applied to both capital and disclosures?
-- Are communications with regulators handled within legal and professional limits, with the auditor's independent judgment preserved?
+- Has the impact of any rule change or transition provision been correctly applied to both capital and disclosures?; are communications with regulators handled within legal and professional limits, with the auditor's independent judgment preserved?

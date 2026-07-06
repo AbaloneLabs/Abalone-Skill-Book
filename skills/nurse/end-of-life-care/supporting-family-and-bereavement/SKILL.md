@@ -53,6 +53,10 @@ Caring for the dying and their families is emotionally demanding. Recognize your
 
 **Missing complicated grief and bereavement needs.** The nurse focuses on the immediate death and, once the body is cared for, moves on without assessing the family's bereavement risk. The mechanism of harm is that families at risk for complicated grief — sudden death, death of a child, conflicted relationships, isolation — benefit enormously from early referral to counseling or support, and missing this window leaves them to navigate alone a grief that may become chronic and disabling. The harm is prolonged, complicated bereavement that might have been prevented. Assess bereavement risk, provide written bereavement resources, and make warm referrals to counseling or support groups before the family leaves.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
+**Treating a confident conclusion as a substitute for evidence.** The mechanism of harm is that a well-written, confident-sounding conclusion is accepted as proof. The false signal is the tone of certainty; in reality it masks unstated assumptions, missing verification, or unresolved uncertainty. The harm is that the confident framing prevents anyone from asking the question that would expose the gap. The fix is to treat every conclusion as a claim that must be backed by stated evidence, not by its phrasing.
+
 ## Self-Check
 
 - Did I treat the family as part of the patient unit and assess their coping, information needs, and practices?

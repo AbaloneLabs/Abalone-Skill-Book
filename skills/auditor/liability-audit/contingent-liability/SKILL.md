@@ -180,5 +180,4 @@ Deciding to accrue is not the end of the work; disclosure of the nature, range, 
 - Did the subsequent events review identify settlements, judgments, and new claims affecting year-end contingencies?
 - Were unasserted claims with probable assertion specifically identified and evaluated?
 - Is disclosure of the nature, estimate, range, and uncertainty of each material contingency specific and adequate?
-- Were insurance and indemnity recoveries assessed for realizability and disclosed where appropriate?
-- Are contingency conclusions documented with the threshold analysis and supporting evidence for each matter?
+- Were insurance and indemnity recoveries assessed for realizability and disclosed where appropriate?; are contingency conclusions documented with the threshold analysis and supporting evidence for each matter?

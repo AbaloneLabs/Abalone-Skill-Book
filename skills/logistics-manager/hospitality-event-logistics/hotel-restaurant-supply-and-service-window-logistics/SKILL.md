@@ -71,10 +71,8 @@ The logistics process should not become visible in a way that undermines hospita
 - Treating linen, carts, kegs, and returnables as low-priority when they constrain service.
 - Allowing alcohol or premium inventory to be received and stored without access controls.
 - Letting substitutions happen without allergen, menu, event, and cost review.
-- Ordering without reconciling covers, guarantees, occupancy, consumption, waste, and shortages.
-- Routing vendors through guest areas during peak arrival, meal, or event periods.
-- Failing to count returns, empties, dirty linen, and reusable assets.
-- Letting front desk or service staff absorb supplier logistics confusion.
+- Ordering without reconciling covers, guarantees, occupancy, consumption, waste, and shortages; routing vendors through guest areas during peak arrival, meal, or event periods
+- Failing to count returns, empties, dirty linen, and reusable assets; letting front desk or service staff absorb supplier logistics confusion
 
 ## Self-Check
 

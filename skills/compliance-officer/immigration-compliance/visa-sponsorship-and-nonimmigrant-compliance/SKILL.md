@@ -147,6 +147,10 @@ Unwithdrawn petitions can create ongoing wage obligations.
 
 Several categories require return transportation offers upon involuntary termination.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Are category-specific obligations identified and applied to each sponsored worker based on visa category?

@@ -70,12 +70,9 @@ Memory capture should support presence. Do not turn the celebration into a conte
 - Overusing surprises for people who dislike public attention.
 - Mixing guest groups without pacing or connection points.
 - Adding personalization that embarrasses, excludes, or exposes private details.
-- Asking for guest contributions without prompts, deadlines, format, consent, or editing judgment.
-- Forgetting parking, dress code, dietary needs, restrooms, weather, and end time.
-- Letting budget or home logistics expand beyond what the host can sustain.
-- Understaffing food, bar, cleanup, or vendor coordination at private parties.
-- Making photography, speeches, or video capture interrupt the event too often.
-- Ending without a plan for gifts, leftovers, rentals, cleanup, and guest departures.
+- Asking for guest contributions without prompts, deadlines, format, consent, or editing judgment; forgetting parking, dress code, dietary needs, restrooms, weather, and end time
+- Letting budget or home logistics expand beyond what the host can sustain; understaffing food, bar, cleanup, or vendor coordination at private parties
+- Making photography, speeches, or video capture interrupt the event too often; ending without a plan for gifts, leftovers, rentals, cleanup, and guest departures
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Use evaluation methods that fit the community. A long digital survey may miss pe
 - Ignoring access barriers such as transport, childcare, language, cost, safety, and disability needs.
 - Using participant stories, photos, or hardships without meaningful consent.
 - Letting sponsor or donor visibility conflict with community trust.
-- Spending too little on safety, access, food, interpretation, or dignity.
-- Spending visibly on prestige without a mission-based explanation.
-- Allowing coalition partners to share credit while avoiding responsibility.
-- Collecting attendee data without clear purpose, consent, or protection.
-- Ending without feedback, reporting, gratitude, and next-step follow-through.
-- Measuring success only by attendance or fundraising when mission impact requires different evidence.
+- Spending too little on safety, access, food, interpretation, or dignity; spending visibly on prestige without a mission-based explanation
+- Allowing coalition partners to share credit while avoiding responsibility; collecting attendee data without clear purpose, consent, or protection
+- Ending without feedback, reporting, gratitude, and next-step follow-through; measuring success only by attendance or fundraising when mission impact requires different evidence
 
 ## Self-Check
 

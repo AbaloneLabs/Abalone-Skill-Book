@@ -57,6 +57,8 @@ Individual resilience matters, but burnout is often driven by systemic factors (
 
 **Failing to step back when unfit to practice.** A nurse is acutely ill, profoundly fatigued, or in personal crisis but comes to work and practices because "they need me" or out of guilt. The mechanism of harm is that an unfit nurse is an impaired nurse, and practicing while impaired (by illness, fatigue, medication, or crisis) directly risks patient harm. The harm is errors, missed deterioration, and potentially catastrophic adverse events. Disclose, delegate, and remove yourself from practice when you are unfit; this is professionalism, not failure.
 
+**Overlooking the edge case or exception.** The mechanism of harm is that the agent analyzes the typical scenario thoroughly but skips the unusual case. The false signal is that the common path is well-handled; in reality the exception silently produces the wrong outcome because the boundary was never tested. The harm is a failure that only appears in the case nobody checked. The fix is to always ask what the edge case is and whether the conclusion still holds there.
+
 ## Self-Check
 
 - Did I recognize fatigue, stress, and burnout as patient-safety risks and occupational hazards, not personal weakness?

@@ -70,12 +70,9 @@ Outdated documents can be worse than no document because travelers trust them un
 - Depending entirely on live apps and email search.
 - Providing meeting points without landmarks, local-language addresses, or delay instructions.
 - Relying on platform confirmations when supplier-side locators or vouchers are needed.
-- Omitting local payments, deposits, cash needs, and documents required on specific days.
-- Giving travelers a long contact list without telling them who to call first.
-- Sharing sensitive health or identity details more broadly than needed.
-- Forgetting ticket numbers, supplier locators, vouchers, and mobile barcode requirements.
-- Failing to update the final document after schedule changes.
-- Leaving only one traveler with all confirmations.
+- Omitting local payments, deposits, cash needs, and documents required on specific days; giving travelers a long contact list without telling them who to call first
+- Sharing sensitive health or identity details more broadly than needed; forgetting ticket numbers, supplier locators, vouchers, and mobile barcode requirements
+- Failing to update the final document after schedule changes; leaving only one traveler with all confirmations
 
 ## Self-Check
 

@@ -70,12 +70,9 @@ Remote audience experience is part of modern ceremony access, not a bonus.
 - Underplanning graduate lineup, name cards, pronunciation, and stage cues.
 - Rehearsing speakers but not marshal, diploma, photography, accessibility, AV, and emergency handoffs.
 - Making families navigate parking, security, seating, and exits with vague instructions.
-- Providing accessible seating without accessible route, parking, restrooms, and companion planning.
-- Assuming outdoor weather decisions can be made informally.
-- Forgetting heat, hydration, medical, and lost-child response.
-- Ignoring post-ceremony dispersal and photo congestion.
-- Letting livestream be untested or missing captions.
-- Publishing programs with unproofed names, honors, or degree details.
+- Providing accessible seating without accessible route, parking, restrooms, and companion planning; assuming outdoor weather decisions can be made informally
+- Forgetting heat, hydration, medical, and lost-child response; ignoring post-ceremony dispersal and photo congestion
+- Letting livestream be untested or missing captions; publishing programs with unproofed names, honors, or degree details
 
 ## Self-Check
 

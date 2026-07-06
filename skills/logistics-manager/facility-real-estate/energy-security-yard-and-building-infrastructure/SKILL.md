@@ -71,10 +71,8 @@ Infrastructure that works during a walkthrough may fail during shift change, pea
 - Adding security controls that slow operations or leaving high-risk inventory underprotected.
 - Discovering dock height, leveler, apron, floor, or racking incompatibility after lease signing.
 - Assuming Wi-Fi and cellular coverage without testing docks, racks, yards, and secure areas.
-- Ignoring fire, battery, chemical, stormwater, egress, and occupancy code constraints.
-- Failing to assign landlord versus tenant responsibility for infrastructure upgrades.
-- Budgeting rent while omitting capital, permits, utility lead time, and downtime.
-- Accepting infrastructure after a walkthrough without testing realistic operating load and conditions.
+- Ignoring fire, battery, chemical, stormwater, egress, and occupancy code constraints; failing to assign landlord versus tenant responsibility for infrastructure upgrades
+- Budgeting rent while omitting capital, permits, utility lead time, and downtime; accepting infrastructure after a walkthrough without testing realistic operating load and conditions
 
 ## Self-Check
 

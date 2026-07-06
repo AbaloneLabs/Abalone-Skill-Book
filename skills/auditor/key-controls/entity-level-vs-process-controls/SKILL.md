@@ -76,8 +76,7 @@ The relationship runs in both directions. A weak control environment, an absent 
 - **Ignoring entity-level controls that genuinely could reduce scope**, leading to unnecessary process testing and an inefficient audit.
 - **Assuming entity-level strength from structures and language** (committees, dashboards, policies) without examining outcomes.
 - **Treating entity-level weaknesses as narrative-only findings**, missing their effect in raising process-level risk and scope.
-- **Over-relying on ITGCs to support all automated controls** without testing whether the specific automated controls depend on the specific ITGCs tested.
-- **Letting entity-level and process-level testing sit in separate silos**, rather than explicitly linking each entity-level conclusion to its effect on the process plan.
+- **Over-relying on ITGCs to support all automated controls** without testing whether the specific automated controls depend on the specific ITGCs tested; **Letting entity-level and process-level testing sit in separate silos**, rather than explicitly linking each entity-level conclusion to its effect on the process plan
 
 ## Self-Check
 

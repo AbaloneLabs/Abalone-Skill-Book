@@ -108,6 +108,10 @@ When a conflict arises, the discipline that asserts its preference most forceful
 
 When consultants are managed at arm's length, given scope and left to execute, they optimize for their own discipline without understanding the project. The trap is that this feels efficient, less meeting time, fewer conversations, cleaner deliverables, but it produces a set of well-engineered systems that do not integrate into a coherent building. The false signal is each discipline's deliverable meeting its own standard, which conceals that the parts do not make a whole. The harm is a building where the systems work individually but fight each other, where opportunities for integration were missed because no one created the conditions for them, and where the architect, having treated consultants as vendors, cannot achieve the integration that only collaboration produces.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Are scope boundaries for every system and interface documented in each consultant's contract rather than assumed?
@@ -117,3 +121,4 @@ When consultants are managed at arm's length, given scope and left to execute, t
 - [ ] Are consultants engaged early and treated as collaborators who understand the design intent?
 - [ ] Are interdisciplinary conflicts resolved against project priorities and documented, rather than conceded to the loudest voice?
 - [ ] Is the design intent protected against disciplinary optimization that would erode the building's experiential goals?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

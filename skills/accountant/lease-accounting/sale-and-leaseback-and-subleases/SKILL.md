@@ -98,5 +98,4 @@ If the leaseback payments are not at market rate, the transaction likely contain
 - Does the head-lease liability and any retained right-of-use asset remain on the intermediate lessor's books after the sublease?
 - Have related-party or special-purpose-entity transactions been assessed for substance and consolidation before recognizing gain?
 - Are off-market leaseback payments separated into a financing or additional-consideration element rather than included in the sale price?
-- Are sale-and-leaseback outcomes, gains recognized or deferred, failed sale financings, and sublease income disclosed in line with the applicable standard?
-- Has a qualified accountant or auditor reviewed material sale-and-leaseback or sublease transactions where the sale assessment or classification is judgmental?
+- Are sale-and-leaseback outcomes, gains recognized or deferred, failed sale financings, and sublease income disclosed in line with the applicable standard?; has a qualified accountant or auditor reviewed material sale-and-leaseback or sublease transactions where the sale assessment or classification is judgmental?

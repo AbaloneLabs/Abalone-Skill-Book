@@ -54,8 +54,7 @@ Keep animal health and emergency information available: vet records, microchip, 
 - Forgetting animal import, vaccination, transit, quarantine, and airline form deadlines.
 - Booking tight connections without relief, screening, and animal care time.
 - Planning long, hot, crowded, or high-stimulation days without considering the working animal's welfare.
-- Sharing disability-related details in group documents or supplier notes unnecessarily.
-- Providing confident legal claims across jurisdictions without qualified review.
+- Sharing disability-related details in group documents or supplier notes unnecessarily; providing confident legal claims across jurisdictions without qualified review
 
 ## Self-Check
 

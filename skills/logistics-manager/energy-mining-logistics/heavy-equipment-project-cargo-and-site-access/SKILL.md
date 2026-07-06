@@ -71,10 +71,8 @@ If logistics declares success at delivery while commissioning lacks parts, vendo
 - Shipping before crane pad, rigging, ground bearing, permits, and site labor are ready.
 - Underestimating stakeholder, community, landowner, road authority, and environmental approvals.
 - Leaving equipment exposed during long staging without preservation inspection.
-- Having no safe holding location when weather, permit, escort, or mechanical failures occur.
-- Failing to capture condition and tie-down evidence at each handoff.
-- Ending logistics handoff before assembly, preservation release, vendor support, and commissioning needs are ready.
-- Treating project cargo as transport-only rather than transport plus installation readiness.
+- Having no safe holding location when weather, permit, escort, or mechanical failures occur; failing to capture condition and tie-down evidence at each handoff
+- Ending logistics handoff before assembly, preservation release, vendor support, and commissioning needs are ready; treating project cargo as transport-only rather than transport plus installation readiness
 
 ## Self-Check
 

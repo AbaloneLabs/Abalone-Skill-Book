@@ -116,19 +116,15 @@ A pipeline loading multiple datasets fails partway, leaving the target in a half
 
 Grouping records by when they were ingested rather than when they occurred, so late-arriving data lands in the wrong period and aggregates are wrong. Define a late-arrival window and update records into their correct period by event time.
 
-### No Freshness Monitoring, So Stale Data Looks Current
+### No Freshness Monitoring, So Stale Data Looks Current and transformations That Depend On "Now"
 
 A pipeline that has not run (or has failed silently) leaves downstream dashboards showing old data with no indication it is stale. Monitor freshness and alert when data exceeds its expected age, separately from job-status alerts.
 
-### Transformations That Depend On "Now"
-
 A transform using the current wall-clock time so that backfilling history produces different output than the original run, causing historical drift. Capture relevant times (event time, batch time) as data and derive deterministically; never let "now" drive a historical re-derivation.
 
-### No Lineage, So Debugging Is Archaeology
+### No Lineage, So Debugging Is Archaeology and assuming The Source Is Clean And Unique
 
 An output number is wrong and no one can trace which source field, transformation, or run produced it, so debugging starts from scratch each time. Record lineage (source → transform → output → consumers) so the path is queryable, not reconstructed.
-
-### Assuming The Source Is Clean And Unique
 
 Designing the pipeline for idealized source data and being surprised by duplicates, nulls, late arrivals, and schema changes in production. Assume sources are messy; deduplicate, validate, handle lateness, and detect drift as core pipeline behavior.
 

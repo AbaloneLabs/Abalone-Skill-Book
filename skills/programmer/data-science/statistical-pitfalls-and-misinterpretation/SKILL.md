@@ -105,19 +105,15 @@ Slicing and transforming the same data until a significant result appears, then 
 
 Trusting a model's fit to its training data as evidence it will work on new data, when flexible models overfit. Evaluate on held-out data; reserve a once-used test set.
 
-### Regression To The Mean Read As An Intervention Effect
+### Regression To The Mean Read As An Intervention Effect and base-Rate Neglect In Detection Or Classification
 
 Attributing the natural regression of extreme groups to a punishment or reward, without a control. Use a control group when judging interventions on selected-extreme subjects.
 
-### Base-Rate Neglect In Detection Or Classification
-
 Treating a precise test's positive result as high-probability-of-the-condition without accounting for a low base rate, producing mostly false positives reported as true. Combine likelihood with prior; report positive predictive value.
 
-### Equating Significance With Importance
+### Equating Significance With Importance and reading A Non-Significant Result As "No Effect"
 
 Acting on a statistically significant but practically tiny effect (or dismissing a large effect as "not significant" in an underpowered study). Report effect sizes and confidence intervals; distinguish significance from magnitude.
-
-### Reading A Non-Significant Result As "No Effect"
 
 Interpreting failure to detect as evidence of absence, when a wide confidence interval means the study was inconclusive. Read the interval: tight around zero is "no effect"; wide is "we don't know."
 

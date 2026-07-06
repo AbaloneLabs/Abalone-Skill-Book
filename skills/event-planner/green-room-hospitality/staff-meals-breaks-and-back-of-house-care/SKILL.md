@@ -70,12 +70,9 @@ Back-of-house care is not successful because food was ordered; it is successful 
 - Providing no relief coverage for fixed posts.
 - Underestimating dietary needs and allergen labeling.
 - Feeding staff with leftover attendee food that arrives too late.
-- Forgetting water, electrolytes, warm drinks, and weather-appropriate care.
-- Providing no secure storage, seating, restrooms, or charging for staff.
-- Ignoring union meal penalties, overtime, and turnaround rules.
-- Failing to monitor missed breaks, heat stress, dehydration, unsafe lifting, harassment, and inability to leave posts.
-- Taking care of show-day staff but not load-in and strike teams.
-- Assuming food delivery equals usable breaks.
+- Forgetting water, electrolytes, warm drinks, and weather-appropriate care; providing no secure storage, seating, restrooms, or charging for staff
+- Ignoring union meal penalties, overtime, and turnaround rules; failing to monitor missed breaks, heat stress, dehydration, unsafe lifting, harassment, and inability to leave posts
+- Taking care of show-day staff but not load-in and strike teams; assuming food delivery equals usable breaks
 
 ## Self-Check
 

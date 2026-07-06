@@ -70,8 +70,7 @@ If the entity has no process to identify and respond to financial reporting risk
 - **Accepting risks with no response, owner, or follow-up as "managed."** Listing is not managing.
 - **Failing to trace identified risks through to the controls that respond to them**, missing the integration that makes COSO coherent.
 - **Leveraging management's risk views without corroboration**, especially for risks management has incentive to understate (estimation, override, aggressive accounting).
-- **Treating an absent or weak risk assessment as neutral** rather than as both a deficiency and a reason to raise assessed risk.
-- **Over-weighting sophistication of risk quantification** (heat maps, scoring models) over whether the process actually changes behaviour and controls.
+- **Treating an absent or weak risk assessment as neutral** rather than as both a deficiency and a reason to raise assessed risk; **Over-weighting sophistication of risk quantification** (heat maps, scoring models) over whether the process actually changes behaviour and controls
 
 ## Self-Check
 

@@ -114,6 +114,10 @@ When an owner wants a faster schedule, the architect compresses durations to mee
 
 A schedule produced for the proposal or the contract kickoff is filed and never revisited, treated as a one-time deliverable rather than a living instrument. The trap is that the project immediately diverges from the plan, through owner changes, consultant delays, or design discoveries, but because the schedule is not updated, no one sees the divergence until a milestone is missed. The false signal is the original schedule's continued existence in the project file, which creates an illusion of control. The harm is that corrective action, which could recover a slip if taken early, is never taken because the slip is invisible, and the team arrives at the deadline having lost time they could have saved.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Is the schedule built from an identified critical path of dependent tasks rather than from phase labels with standard durations?
@@ -123,3 +127,4 @@ A schedule produced for the proposal or the contract kickoff is filed and never 
 - [ ] Is the schedule reviewed and updated at regular intervals, with critical-path slippage flagged and acted upon?
 - [ ] Does the schedule align with the contracted scope of services and the fee, with additional services identified where acceleration is demanded?
 - [ ] Are causes of delay documented when they occur, so responsibility and time extensions are clear?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

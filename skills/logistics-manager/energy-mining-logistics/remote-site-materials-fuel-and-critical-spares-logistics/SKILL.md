@@ -71,10 +71,8 @@ Remote logistics fails when assumptions travel faster than information. Status d
 - Counting critical spares that are damaged, expired, cannibalized, unpreserved, or reserved.
 - Leaving min-max settings unchanged after failures, access changes, shutdowns, or repeated expedites.
 - Shipping to a site without unloading, storage, inspection, and put-away readiness.
-- Using charter or hotshot expediting without approval rules and root-cause review.
-- Forgetting backhaul for cores, hazardous waste, packaging, scrap, and empty containers.
-- Assuming normal communications will work on remote roads, airstrips, or camps.
-- Letting recurring emergency shipments hide weak planning or master data.
+- Using charter or hotshot expediting without approval rules and root-cause review; forgetting backhaul for cores, hazardous waste, packaging, scrap, and empty containers
+- Assuming normal communications will work on remote roads, airstrips, or camps; letting recurring emergency shipments hide weak planning or master data
 
 ## Self-Check
 

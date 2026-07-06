@@ -61,6 +61,10 @@ A therapist may accept the parents' framing that the child is the problem and th
 
 A therapist may avoid asking children and adolescents directly about suicidal ideation, self-harm, abuse, substance use, and sexual behavior, because the questions feel inappropriate for the age or because the therapist assumes young clients do not experience these. The mechanism of harm is that discomfort is mistaken for clinical judgment, and the assessment omits the very information most consequential to safety. The harm is concrete and severe: children die by suicide, adolescents engage in serious self-harm, and abuse goes undetected, because the therapist did not ask. Asking directly, with age-appropriate language and without moralizing, is the standard of care, and discomfort is never a justification for omission.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I clarify who the client is, who consented, custody arrangements, and the confidentiality frame, and explain it to the child in age-appropriate language?

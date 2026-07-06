@@ -1,6 +1,6 @@
 ---
 name: closed-loop-medication-administration-and-barcode-verification.md
-description: Use when the nurse is administering medications using barcode medication administration, responding to barcode scan failures or mismatches, managing workarounds, verifying high-alert medications, or troubleshooting smart pump and BCMA integration at the bedside.
+description: Use when the agent is administering medications using barcode medication administration, responding to barcode scan failures or mismatches, managing workarounds, verifying high-alert medications, or troubleshooting smart pump and BCMA integration at the bedside.
 ---
 
 # Closed-Loop Medication Administration and Barcode Verification

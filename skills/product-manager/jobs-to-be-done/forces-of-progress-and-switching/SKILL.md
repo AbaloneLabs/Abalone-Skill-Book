@@ -84,3 +84,4 @@ Insisting a better product will eventually win in a market with durable lock-in.
 - [ ] Trigger events that amplify push and weaken habit are identified and monitored.
 - [ ] Markets with structural resistance are recognized, and strategy adapts rather than assuming quality will prevail.
 - [ ] Force estimates are grounded in switching evidence such as churn and win-loss data, not only assumption.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

@@ -70,12 +70,9 @@ Do not let polite language hide uncertainty. If a transfer is requested but not 
 - Leaving departure-day arrival time, bag cutoff, mobility assistance, parking, and rideshare assumptions vague.
 - Ignoring app logins and two-factor authentication until the airport.
 - Forgetting local cash, physical credit card requirements, deposits, and incidental holds.
-- Providing generic packing lists instead of trip-critical items.
-- Assuming one group member will manage everything without assigning roles.
-- Overpromising support while leaving traveler responsibilities unstated.
-- Treating disruption plans as optional because the itinerary looks confirmed.
-- Failing to distinguish confirmed services from requests and waitlists.
-- Leaving open questions unresolved because departure is close.
+- Providing generic packing lists instead of trip-critical items; assuming one group member will manage everything without assigning roles
+- Overpromising support while leaving traveler responsibilities unstated; treating disruption plans as optional because the itinerary looks confirmed
+- Failing to distinguish confirmed services from requests and waitlists; leaving open questions unresolved because departure is close
 
 ## Self-Check
 

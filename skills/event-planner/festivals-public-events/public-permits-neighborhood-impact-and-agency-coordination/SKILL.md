@@ -54,8 +54,7 @@ Assign one person to manage agency-facing updates during the event and another t
 - Promising neighbors unrealistic absence of noise, traffic, or disruption.
 - Designing road closures without rideshare, accessibility, transit, delivery, and emergency access details.
 - Forgetting inspections and onsite proof of compliance.
-- Failing to log complaints and corrective actions, making future permit defense weaker.
-- Publishing traffic, gate, sound, or closure information that conflicts with permit conditions or agency instructions.
+- Failing to log complaints and corrective actions, making future permit defense weaker; publishing traffic, gate, sound, or closure information that conflicts with permit conditions or agency instructions
 
 ## Self-Check
 

@@ -29,6 +29,10 @@ Discharge reconciliation is incomplete without patient counseling, because the p
 
 The reconciliation does not end at discharge. The pharmacist must ensure the reconciled list reaches the next care setting — the primary care provider, the skilled nursing facility, the home health agency — and, where possible, the community pharmacy that will fill the discharge prescriptions. The common failure is that the hospital reconciles internally, discharges the patient with a paper list, and the community pharmacy and primary care provider never receive the updated regimen, so the next refill cycle reproduces the pre-admission list and the in-hospital changes are lost. The pharmacist must transmit the reconciled list and the rationale for key changes to the receiving team, and must confirm receipt rather than assume transmission equals delivery.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### The Copy-Forward Trap
@@ -51,6 +55,10 @@ The pharmacist hands the patient a printed discharge medication list, reads the 
 
 The hospital pharmacist reconciles, discharges the patient, and assumes the community pharmacy will sort out any discrepancies when the discharge prescriptions arrive. The mechanism is that the downstream pharmacy is treated as a safety net. The false signal is that the prescriptions are "in the system." The harm is that the community pharmacy sees only the new prescriptions, not the reconciled list or the rationale, so it cannot distinguish an intentional discontinuation from an omission — and a conscientious pharmacist may call the prescriber to "fix" a deliberate stop, or worse, fill a duplicate alongside the patient's remaining home supply. The reconciliation must be transmitted with context, not just as a stream of new prescriptions.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I collect the best possible medication history from at least two sources, including a structured patient interview, before attempting any comparison?
@@ -59,3 +67,5 @@ The hospital pharmacist reconciles, discharges the patient, and assumes the comm
 - Did I provide the patient with a reconciled discharge list that explicitly marks each drug as continued, changed, started, or stopped, and did I verbally walk through every change?
 - Did I transmit the reconciled list and the rationale for key changes to the receiving care team (primary care, SNF, home health) and the community pharmacy, and did I confirm receipt?
 - For every medication held during the stay, did I explicitly resolve its status at discharge (restart, discontinue with rationale, or change) rather than letting its absence pass as intentional?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?
+- Has the edge case or exception been considered, not only the typical or textbook scenario?

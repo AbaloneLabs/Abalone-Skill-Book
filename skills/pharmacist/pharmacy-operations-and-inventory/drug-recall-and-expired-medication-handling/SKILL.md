@@ -29,6 +29,10 @@ Expired medications, returned medications (from patients and from facilities), a
 
 Every recall response and every disposal must be documented completely, both for regulatory compliance and for continuity (so the next recall, or a later inquiry, can be traced). The recall documentation must include the recall notice, the affected lots, the stock removed and its disposition, the patients identified and notified, the prescribers notified, the replacement supply arranged, and the closure of the recall. The disposal documentation must include the product, the quantity, the lot, the reason for disposal, the method, the date, and the witnesses. The documentation must be retained for the required period and must be retrievable, because a recall response or a disposal that is not documented cannot be demonstrated to have occurred, and the assumption in its absence is that it did not. The pharmacist must treat documentation as the completion of the recall or disposal, not as an afterthought.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Recall Treated as Logistics Without Clinical Follow-Through
@@ -51,6 +55,10 @@ A Class I recall is handled with the urgency of a Class III (stock removal witho
 
 Expired or returned medications are disposed of through standard trash or the sewer, or controlled substances are disposed of without the required documentation, because the compliant methods (reverse distributor, authorized waste stream) are slower or more expensive. The mechanism is that the convenient method removes the product. The false signal is that the product is gone, so the disposal is handled. The harm is environmental contamination (pharmaceuticals in water and soil), regulatory violation (with enforcement consequences), and — for controlled substances — an unaccounted-for quantity that may indicate diversion. Disposal must be compliant and documented, with the convenience of the pharmacy subordinated to the safety and legal requirements.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - Did I identify every affected lot in every location (active stock, automated cabinets, workflow, compounded preparations), segregate it in quarantine, and document the removal?
@@ -59,3 +67,5 @@ Expired or returned medications are disposed of through standard trash or the se
 - For expired, returned, and unusable medications, did I dispose of them through a compliant method (reverse distributor, authorized waste stream, drug deactivation system), never standard trash or sewer, with controlled substances handled per their specific requirements?
 - Did I document the recall response (notice, lots, stock removed, patients and prescribers notified, replacement arranged, closure) and every disposal (product, quantity, lot, method, date, witnesses), retaining the records for the required period?
 - For Class I recalls, did I confirm patient notification was received and understood, with direct contact rather than a generic mailing, given the seriousness of the risk?
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?
+- Is the reasoning documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

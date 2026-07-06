@@ -84,3 +84,4 @@ Delivering a list of insights with no connection to decisions. The trap is resea
 - [ ] The strongest case against each leading insight was actively sought and reconciled.
 - [ ] Each insight is connected to a specific decision it informs, or explicitly labeled as non-actionable.
 - [ ] The synthesis distinguishes what the data proves from what it merely suggests.
+- Does the output stay within the agent's scope, deferring final authority, licensed judgment, or specialist sign-off to the qualified person where the question exceeds the agent's competence?

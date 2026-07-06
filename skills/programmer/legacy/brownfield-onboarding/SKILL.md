@@ -51,6 +51,10 @@ The temptation in legacy code is the grand rewrite — to replace the messy syst
 - **Make each change small, reversible, and independently valuable.** A change you can revert in minutes is a change you can safely make; a change that requires a flag-day cutover is a change that can sink a quarter.
 - **Let value, not aesthetics, drive the change.** Improve the parts that block real work (the bug-prone module, the slow query, the untestable component) rather than the parts that are merely ugly.
 
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
 ## Common Traps
 
 ### Changing Code You Do Not Understand
@@ -90,3 +94,4 @@ Treating onboarding as complete when you can find your way around, before you kn
 - [ ] A safety net is built before modifying: characterization tests capture current behavior (including quirks), observability is added to paths about to change, and the net is grown incrementally focused on soonest-changed areas.
 - [ ] Improvement is incremental (strangler pattern, small reversible independently-valuable changes) rather than a grand rewrite, and is driven by value (what blocks real work) rather than aesthetics.
 - [ ] The highest-risk cases were verified — changing a module whose history was understood, modifying fragile code only after characterization tests existed, capturing tribal knowledge before the maintainer who holds it leaves, and resisting a rewrite that underestimated accumulated behavior — not only the clean well-documented path.
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

@@ -65,10 +65,8 @@ Gratuity expectations should be clear enough to avoid awkwardness. If tipping is
 - Hiring prestigious suppliers without checking discretion and backup capability.
 - Letting guests arrive before provisioning, Wi-Fi, keys, cribs, or first meal are ready.
 - Failing to name who coordinates multi-supplier days.
-- Sharing sensitive itineraries, addresses, and guest details too widely.
-- Having no backup for villa maintenance, guide illness, or driver failure.
-- Surprising travelers with deposits, staff tips, overtime, fuel, groceries, or local taxes.
-- Over-servicing guests who value privacy and independence.
+- Sharing sensitive itineraries, addresses, and guest details too widely; having no backup for villa maintenance, guide illness, or driver failure
+- Surprising travelers with deposits, staff tips, overtime, fuel, groceries, or local taxes; over-servicing guests who value privacy and independence
 
 ## Self-Check
 

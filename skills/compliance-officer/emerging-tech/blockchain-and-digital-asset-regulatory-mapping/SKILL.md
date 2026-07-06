@@ -70,3 +70,4 @@ Regulators assert jurisdiction based on customer location and other factors. Ser
 - Where the organization holds customer assets, did I ensure segregation, per-customer tracking, controlled storage, and insolvency protection supported by the technical architecture?
 - Did I map the jurisdictional reach for each activity, implement effective measures to avoid serving restricted jurisdictions, and recognize the customer's jurisdiction law applies?
 - Did I confirm the classification outcomes and applicable obligations with specialist digital-asset counsel in every operating jurisdiction before any launch?
+- Are assumptions, uncertainties, and confidence levels stated explicitly rather than buried in a confident-sounding conclusion?

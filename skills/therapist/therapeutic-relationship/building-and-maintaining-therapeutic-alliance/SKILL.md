@@ -68,6 +68,10 @@ A therapist who builds alliance through a particular style, high warmth, self-di
 
 A therapist who believes warmth and flexibility build alliance may erode the frame, extending sessions, waiving fees, allowing extra contact, in the belief that accommodation strengthens the relationship. The mechanism is that flexibility feels caring, so it reads as alliance-building, when it actually introduces unpredictability and ambiguity that undermine trust. The harm is that the client must navigate inconsistent boundaries, relational material leaks outside the session where it cannot be worked with, and the alliance becomes confused with accommodation. A consistent frame is what allows the client to trust the relationship and to bring difficult material into the room.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Am I building alliance through empathy, collaboration, consistency, and genuineness, not only through friendliness?

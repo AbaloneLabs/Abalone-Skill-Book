@@ -145,11 +145,9 @@ A sequence whose intermediate states do not compile or do not pass tests cannot 
 
 Refactoring indefinitely because the code "could be cleaner" adds risk and review burden without unblocking anything. Define what the refactor is in service of and stop when that is achieved; speculative cleanup is a separate decision with its own justification.
 
-### Trusting Tests That Do Not Cover The Changed Behavior
+### Trusting Tests That Do Not Cover The Changed Behavior and refactoring Under Deadline Pressure Without Reversibility
 
 A green suite is meaningless if the tests do not exercise the behavior being refactored. Before relying on a test run as proof of behavior preservation, confirm the tests actually cover the paths and edge cases touched by the refactor. Coverage of unrelated code does not protect the code you changed.
-
-### Refactoring Under Deadline Pressure Without Reversibility
 
 When time is short, the temptation is to make one large change to finish faster. This is precisely when reversibility matters most, because a problem late in the cycle leaves no time for a safe recovery. Under pressure, prefer smaller steps and a shippable state at every commit, not fewer larger ones.
 

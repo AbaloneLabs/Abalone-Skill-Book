@@ -104,11 +104,9 @@ Choosing CDC for its low latency and ignoring that the log is the source of trut
 
 An ingestion transform using the current wall-clock time so that backfilling history produces different output than the original run, causing historical drift. Capture relevant times (event time, batch time) as data and derive deterministically.
 
-### Source Strain During Batch Extracts
+### Source Strain During Batch Extracts and ignoring Late-Arriving Data In Batch
 
 A batch extract that runs heavy queries against a transactional source during business hours, degrading the source system. Schedule extracts off-peak, use CDC to avoid source queries, or replicate the source for extraction.
-
-### Ignoring Late-Arriving Data In Batch
 
 Batch ingestion that buckets data by extract time rather than event time, so late-arriving records land in the wrong period. Define the late-arrival window and upsert records into their correct period by event time.
 

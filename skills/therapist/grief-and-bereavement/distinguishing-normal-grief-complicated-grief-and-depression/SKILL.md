@@ -61,6 +61,10 @@ A therapist may impose the stage-based model of grief, telling the client what s
 
 A therapist may treat grief without assessing for the traumatic components of the loss, when sudden, violent, or witnessed deaths, deaths the client feels responsible for, or deaths under stigmatized circumstances produce traumatic grief that requires trauma-focused work alongside grief work. The mechanism of harm is that the traumatic component is folded into the grief and treated with grief interventions alone, which do not address the trauma, and the client remains stuck in the traumatic imagery, avoidance, and arousal. The harm is that the grief does not resolve, because its traumatic driver was never addressed. Assessing for traumatic circumstances and symptoms, and integrating trauma-focused work when indicated, addresses the whole condition.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - [ ] Did I recognize the wide range of normal grief before considering pathology, and avoid pathologizing acute bereavement?

@@ -178,5 +178,4 @@ Community benefit reporting on Form 990 Schedule H and bond disclosures is scrut
 - Are provider compensation arrangements tested for Stark and Anti-Kickback compliance, fair market value, and commercial reasonableness?
 - Are HIPAA, 340B, and other regulatory compliance matters assessed for contingent liability and disclosure, with reserves for known investigations?
 - Have healthcare estimates been challenged for management bias, with retrospective look-back and corroboration from external payer data?
-- Is the clinical-to-financial link, documentation to charges to coding to billing, tested for completeness and accuracy?
-- Are disclosures of estimation uncertainty adequate for the most sensitive areas, such as settlements, contractual allowances, and charity care?
+- Is the clinical-to-financial link, documentation to charges to coding to billing, tested for completeness and accuracy?; are disclosures of estimation uncertainty adequate for the most sensitive areas, such as settlements, contractual allowances, and charity care?

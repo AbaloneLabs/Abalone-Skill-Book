@@ -59,6 +59,10 @@ The trap is that the patient or staff misses one or more voids during the 24-hou
 
 The trap is that the nurse reads the dipstick at a convenient moment rather than the specified time for each pad, or treats the dipstick as diagnostic for infection. The mechanism of harm is that each pad on the dipstick has a specified read time (commonly 30 to 120 seconds), and reading too early or too late gives a false result; and treating a positive leukocyte esterase or nitrite as a confirmed infection leads to unnecessary antibiotics, because both are screening tests with false positives and negatives. The harm is incorrect results and antibiotic overuse. Read each pad at the specified time, and use the dipstick as a screen to be confirmed by culture where the clinical picture warrants.
 
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
 ## Self-Check
 
 - For a urine culture, did I use the clean-catch midstream technique with perineal cleaning, or a fresh catheter specimen aspirated from the port — never the bag and never a disconnected system?

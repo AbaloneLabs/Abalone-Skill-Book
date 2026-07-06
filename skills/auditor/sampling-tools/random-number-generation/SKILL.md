@@ -156,11 +156,9 @@ In monetary-unit sampling, zero and negative items get no selection probability 
 
 A random sample is unbiased in expectation, but any single draw can over- or under-represent a segment by chance. Do not claim the sample is representative; claim it is unbiased and evaluate accordingly.
 
-### Losing The Link Between Numbers And Population Items
+### Losing The Link Between Numbers And Population Items and editing The Population After The Sample Is Drawn
 
 If the mapping from random numbers to population rows is not recorded, the selected items cannot be verified. Keep the mapping explicit and tied to a stable key.
-
-### Editing The Population After The Sample Is Drawn
 
 Sorting, filtering, or re-extracting the population after selection breaks the correspondence between the random numbers and the items they selected. Lock the population before generating numbers and never edit it afterward without regenerating the sample.
 
@@ -174,7 +172,5 @@ Sorting, filtering, or re-extracting the population after selection breaks the c
 - Are selected items treated as mandatory, with no convenience substitutions?
 - Was the selection run once and accepted, without re-running for a favorable result?
 - Are zero, negative, or edge-case items handled deliberately and documented?
-- Does the documentation allow another auditor to regenerate the identical sample?
-- Has the selected sample been reconciled to the population for existence, duplicates, and size?
-- Was the population locked and hashed before the random numbers were generated?
-- Are selected items that cannot be tested handled through a documented rule rather than ad hoc substitution?
+- Does the documentation allow another auditor to regenerate the identical sample?; has the selected sample been reconciled to the population for existence, duplicates, and size?
+- Was the population locked and hashed before the random numbers were generated?; are selected items that cannot be tested handled through a documented rule rather than ad hoc substitution?
