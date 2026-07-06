@@ -1,0 +1,65 @@
+---
+name: zoning-rewrite-and-form-based-codes.md
+description: Use when the agent is undertaking a full zoning rewrite or modernization, converting a use-based ordinance to a form-based or hybrid code, restructuring district frameworks, or managing the political and legal transition from an old code to a new one.
+---
+
+# Zoning Rewrite and Form-Based Codes
+
+A zoning rewrite is not a large amendment; it is a change of operating system. The existing code, however flawed, has generated a set of vested rights, nonconformities, administrative interpretations, and applicant expectations that the rewrite will disturb. The new code, however well-drafted, will be read by every stakeholder as a redistribution of value — who gains entitlements, who loses them, whose property becomes nonconforming, whose project becomes feasible or infeasible. The judgment problem is that a rewrite must simultaneously fix the documented failures of the old code, avoid breaking what the old code did well, survive legal scrutiny on every parcel, and win adoption from a body that will hear from every party whose interests shift. A rewrite that is technically excellent but politically un-adoptable accomplishes nothing, and a rewrite that is adoptable but internally inconsistent creates a decade of litigation and interpretation. This skill covers the decisions that determine whether a zoning rewrite delivers its intended outcomes or generates a new set of problems larger than the ones it solved.
+
+## Core Rules
+
+### Diagnose the Old Code Before Designing the New One
+
+A rewrite must begin from a documented diagnosis of what the existing code does wrong, grounded in evidence rather than impression. Collect the data: which uses are applied for most often, which require variances, which districts see development and which sit dormant, which standards generate the most enforcement complaints, which sections generate the most interpretation requests, which provisions have been litigated. The diagnosis should distinguish between provisions that are broken (they produce the wrong outcome), provisions that are unclear (they produce inconsistent interpretation), and provisions that are working (they should be preserved). A rewrite that does not start from diagnosis tends to reproduce the old code's structure with new language, because the drafting team defaults to the familiar, and it may dismantle provisions that were quietly doing important work. The diagnosis also builds the rational-basis record: every change in the new code should be traceable to a documented problem in the old code, which is the evidentiary foundation that defends the rewrite against challenge.
+
+### Manage Nonconformities and Vested Rights Explicitly
+
+The most legally dangerous moment in a rewrite is the transition from the old code to the new one, because every property that complied under the old code and does not comply under the new code becomes nonconforming, and every application in process raises vesting questions. The rewrite must address nonconformities explicitly: which become legal nonconforming with the right to continue, which are amortized, which must be brought into compliance, and what rights attach to expansion, reconstruction after damage, and resumption after abandonment. The treatment of in-process applications — those submitted before the new code takes effect — must be stated, typically through a vesting or transition provision that specifies which code version governs. Failing to address these transitions produces litigation, because property owners will assert vested rights under the old code, and the absence of a clear transition rule leaves the outcome to courts. The transition provisions should be drafted as carefully as the substantive standards, because they are where the rewrite meets individual property rights.
+
+### Choose the Regulatory Framework Deliberately
+
+A rewrite is an opportunity to choose among regulatory frameworks — Euclidean use-based zoning, form-based coding, hybrid approaches, performance zoning, or incentive-based systems — and the choice should be deliberate, matched to the community's goals and capacity. Form-based codes are powerful for shaping physical character but require calibration to specific urban form and assume a development market that will respond to form standards; they are poorly suited to contexts with little development pressure or where use conflicts are the primary concern. Use-based codes are familiar and administrable but regulate the wrong variable when physical form is the goal. Hybrid codes combine elements but can become internally inconsistent if the use and form layers conflict. The rule is to match the framework to the documented problem: if the diagnosis is that the old code produces bad form, a form-based approach is indicated; if the diagnosis is that the old code misclassifies uses, a use-table restructure is indicated; if both, a hybrid is indicated. The framework choice should be stated with its rationale, so that future amendments respect the underlying logic rather than eroding it.
+
+### Test the New Code Against Real Parcels Before Adoption
+
+A zoning code is a set of rules applied to a continuous physical reality, and the only way to know whether it works is to apply it to actual parcels. Before adoption, the new code should be tested against a sample of real properties representing the range of conditions: typical lots, irregular lots, corner lots, lots with existing nonconforming features, lots in transition areas, lots where development is desired, and lots where it is not. For each test parcel, work through what could be built under the new code and compare it to what could be built under the old code. This testing reveals standards that are infeasible, unintended entitlements, gaps where the code is silent, and provisions that produce absurd results on specific parcels. Testing also generates the development scenarios that make the code's effects legible to the public and the adopting body, which is essential for informed adoption. A code adopted without parcel testing will contain errors that surface only when the first application is filed under it.
+
+### Sequence the Political and Legal Process
+
+A zoning rewrite is a political project as much as a technical one, and the sequencing of the process determines whether it is adopted. Stakeholders must be engaged early enough to shape the framework choice (not merely react to a finished draft), the diagnosis must be shared publicly to build the case for change, the draft must be tested and revised with input from developers, neighbors, and reviewing bodies, and the adoption process must comply with every procedural requirement — notice, referral, hearing, consistency finding, vote margins. A rewrite that is technically perfect but rushed through adoption without stakeholder engagement will face opposition that may defeat it, and a rewrite that is adopted with procedural defects is vulnerable to legal challenge regardless of its substance. The process should be designed to build the coalition that will defend the code after adoption, because the real test of a rewrite is whether it survives the first wave of amendment requests and challenges.
+
+## Common Traps
+
+### Rewriting the Code Without Diagnosing the Old One
+
+The drafting team begins with a vision for the new code and writes toward it, without systematically documenting what the old code does wrong. The trap is that the new code is designed against an abstraction rather than against evidence. The mechanism is that the team's assumptions about the old code's failures substitute for analysis, and provisions that were working get dismantled while real failures go unaddressed. The false signal is that the new code is "modern" and "comprehensive." The harm is that the rewrite fails to solve the documented problems, introduces new ones, and lacks the rational-basis record needed to defend its changes, because no evidence connects each change to a documented failure.
+
+### Ignoring the Transition and Creating Mass Nonconformity
+
+The new code is adopted with standards that render a large number of existing properties nonconforming, and the transition provisions are silent or inadequate. The trap is that the rewrite has inadvertently downzoned or reclassified properties without addressing the legal consequences. The mechanism is that the drafting team focused on the new standards without mapping them against existing conditions. The false signal is that "the new code is now in effect." The harm is that affected property owners assert vested rights, challenge the code, or demand variances that overwhelm the review system, and the political backlash forces amendments that erode the code's coherence within the first years of its life.
+
+### Choosing Form-Based Coding for the Wrong Reasons
+
+The community adopts a form-based code because it is perceived as best practice or because another city's code is celebrated, without confirming that the local development market, urban form, and administrative capacity support it. The trap is that the framework was chosen for its reputation rather than its fit. The mechanism is that form-based codes assume a development market that will respond to form standards and an administrative capacity to apply form standards consistently. The false signal is that "we have a modern form-based code." The harm is that the code produces no development (because the market does not respond), produces forms that do not fit (because the standards were not calibrated), or is administered inconsistently (because staff lack form-based expertise), and the form-based approach is discredited locally.
+
+### Parcel Testing Skipped to Meet a Deadline
+
+The adoption deadline pressures the team to skip or curtail the parcel testing phase, and the code is adopted without being applied to real properties. The trap is that untested standards contain errors that only surface under application. The mechanism is that drafting under time pressure produces standards that work in the abstract but fail on specific parcels — infeasible setbacks, conflicting standards, undefined terms that govern real outcomes. The false signal is that the code is adopted on schedule. The harm is that the first applications under the new code reveal the errors, generating variances, interpretations, and amendments that consume the capacity the deadline was meant to preserve, and undermining confidence in the rewrite.
+
+### Political Process That Produces a Compromised Code
+
+The engagement process is structured to minimize conflict, resulting in a code that accommodates every objection by weakening its standards, and the adopted code is a compromise that satisfies no one and accomplishes none of its goals. The trap is that conflict avoidance produces a code with no substantive effect. The mechanism is that each stakeholder objection removes a provision that would have produced change, and the cumulative effect is a code that preserves the status quo under new language. The false signal is that the code was "adopted unanimously." The harm is that the documented problems remain unsolved, the investment in the rewrite is wasted, and the community concludes that planning cannot produce change, when the actual failure was a process designed to avoid the conflict that change requires.
+
+## Self-Check
+
+- Does every substantive change in the new code trace to a documented problem in the old code, with evidence in the diagnostic record?
+- Have the transition provisions been drafted to address nonconformities, vested rights, and in-process applications explicitly, rather than leaving them to be resolved by litigation?
+- Was the regulatory framework (form-based, use-based, hybrid) chosen deliberately to match the documented problem, with the rationale stated, rather than adopted for its reputation?
+- Has the new code been tested against a representative sample of real parcels, and were the standards revised based on what the testing revealed?
+- Does the political and adoption process build the coalition that will defend the code, and does it comply with every procedural requirement?
+- Have I mapped the new standards against existing conditions to identify properties that become nonconforming, and addressed their treatment explicitly?
+- Did stakeholder engagement shape the framework and standards, rather than merely react to a finished draft?
+- Is the rational-basis record documented — connecting each change to evidence — so that the rewrite can survive legal challenge?
+- Has the code been reviewed for internal consistency, with no conflicting standards between the use and form layers if a hybrid approach was chosen?
+- If the first application under the new code were filed tomorrow, would the code produce the intended outcome, and is there capacity to administer it correctly?

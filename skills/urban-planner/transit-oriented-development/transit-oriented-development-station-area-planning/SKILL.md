@@ -1,0 +1,65 @@
+---
+name: transit-oriented-development-station-area-planning.md
+description: Use when the agent is planning the station area around a transit station, defining the station area boundary and the land use mix, managing the density transitions and the height, designing the pedestrian and bicycle access to the station, or aligning the station area plan with the transit service and the community character.
+---
+
+# Transit-Oriented Development Station Area Planning
+
+The station area — the half-mile around the transit station — is the place where the transit investment delivers the land use and the development benefits, and the planning of the station area determines whether the transit investment catalyzes the walkable, the mixed-use, the transit-supportive development or squanders the opportunity. The judgment problem is that the station area planning requires the integration of the land use (the density, the mix, the height), the transportation (the pedestrian and the bicycle access, the parking, the bus connections), the urban design (the street network, the building form, the public space), and the community (the existing residents, the character, the equity), and the planner must integrate these dimensions to produce the station area that maximizes the transit benefit. A station area that is planned well (the transit-supportive density, the walkable access, the mixed use) delivers the ridership and the development, while a station area that is planned poorly (the low density, the auto orientation, the single use) wastes the transit investment. This skill covers the station area planning decisions that determine whether the TOD delivers the transit benefit. It complements the broader TOD skill by focusing on the station area planning dimensions.
+
+## Core Rules
+
+### Define the Station Area Boundary and the Land Use Mix
+
+The station area boundary and the land use mix define the geography and the content of the TOD, and the boundary should reflect the walking distance (the half-mile or the 10-minute walk), and the mix should provide the residential, the employment, the retail, and the civic uses that create the all-day activity and the transit ridership. The rule is to define the station area boundary and the land use mix, using the walking-distance boundary (the half-mile, adjusted for the barriers and the street network), the land use mix (the residential, the employment, the retail, the civic, the open space), and the intensity gradient (the highest intensity at the station, the decreasing intensity with the distance). The boundary should reflect the actual walking distance, because the straight-line half-mile overstates the area (the barriers, the circuitous streets), and the network-based half-mile is the accurate measure. The land use mix should include the employment and the residential, because the bidirectional ridership (the inbound and the outbound) is the strong ridership, and the unidirectional (the bedroom community or the office park) is the weak. The retail should be at the ground floor, because the ground-floor retail activates the street and serves the riders and the residents. The intensity gradient should place the highest intensity at the station, because the proximity to the transit warrants the highest intensity, and the distance decreases the intensity.
+
+### Manage the Density Transitions and the Height
+
+The density and the height should be highest at the station and should transition down to the surrounding neighborhood, because the abrupt transition (the high-rise next to the single-family) generates the opposition, and the gradual transition (the step-down) accommodates the change. The rule is to manage the density transitions and the height, using the form-based approach (the building form, the height, the setback that transitions from the station to the edge), the context-sensitive design (the transition that respects the existing character), and the community engagement (the involvement of the existing residents in the transition design). The form-based approach should define the height and the form by the distance from the station, because the height should step down from the station to the edge, and the form-based approach creates the predictable transition. The context-sensitive design should respect the existing character, because the TOD that ignores the character generates the opposition, and the sensitive TOD builds the support. The transition should address the shadow and the privacy, because the high-rise next to the low-scale neighborhood casts the shadow and the invades the privacy, and the transition addresses the impacts. The community engagement should involve the existing residents, because the transition affects them, and the involvement builds the ownership.
+
+### Design the Pedestrian and Bicycle Access to the Station
+
+The pedestrian and the bicycle access to the station is the critical determinant of the ridership, because the transit trip begins and ends with the walk or the bike, and the poor access (the missing sidewalks, the unsafe crossings, the long distance) deters the rider, and the good access attracts. The rule is to design the pedestrian and the bicycle access to the station, using the complete streets (the sidewalks, the crossings, the bike facilities on the station-area streets), the direct routes (the connections that minimize the walking distance), the safe crossings (the protected crossings of the major streets), and the bike parking and the bike share at the station. The complete streets should provide the continuous sidewalks and the safe crossings, because the discontinuous sidewalk and the unsafe crossing deter the walker, and the complete street attracts. The direct routes should minimize the walking distance, because the circuitous route adds the time, and the direct route saves it. The safe crossings should protect the pedestrian, because the major street is the barrier, and the protected crossing removes the barrier. The bike parking and the bike share should be at the station, because the bike extends the station's reach, and the parking and the share facilitate the bike-and-ride.
+
+### Coordinate the Parking and the Bus Connections
+
+The parking and the bus connections should be coordinated with the transit, because the park-and-ride and the bus feed the station, and the coordination determines whether the access modes support or conflict with the walkable TOD. The rule is to coordinate the parking and the bus connections, using the parking management (the reduced parking, the shared parking, the priced parking), the bus integration (the bus routes feeding the station, the bus bays, the timed transfers), and the access management (the vehicle access that does not conflict with the pedestrian). The parking should be managed (the reduced minimums, the shared use, the pricing), because the abundant free parking undermines the TOD (the auto orientation, the degraded walkability), and the managed parking supports it. The park-and-ride should be evaluated carefully, because the park-and-ride serves the regional riders but consumes the land and the walkable development potential, and the structured park-and-ride (the vertical, the ground-floor active use) is the better than the surface. The bus integration should provide the feeder routes and the timed transfers, because the bus extends the station's reach, and the integration serves the bus-and-ride. The access management should route the vehicles to avoid the pedestrian conflicts, because the vehicle access that cuts through the pedestrian zone endangers the walker, and the managed access protects.
+
+### Align the Station Area Plan With the Transit Service and the Community
+
+The station area plan should be aligned with the transit service (the mode, the frequency, the capacity) and the community (the existing character, the residents, the equity), because the TOD that exceeds the transit capacity or ignores the community generates the problems, and the aligned TOD avoids them. The rule is to align the station area plan with the transit service and the community, matching the density to the transit capacity (the high density for the high-capacity transit, the moderate density for the moderate), addressing the community character (the transition, the scale), and ensuring the equity (the affordable housing, the anti-displacement, the community benefits). The density should match the transit capacity, because the high density without the high-capacity transit overwhelms the transit, and the low density with the high-capacity transit underutilizes it. The community character should be addressed, because the TOD that ignores the character generates the opposition, and the addressed character builds the support. The equity should be ensured, because the TOD often raises the property values and displaces the existing residents, and the affordable housing and the anti-displacement strategies protect them. The alignment should include the phasing, because the TOD occurs over the years, and the phasing matches the development to the transit and the community readiness.
+
+## Common Traps
+
+### Boundary Too Large, Mix Not Defined
+
+The station area boundary is too large (the one-mile or the arbitrary), and the land use mix is not defined, because the walking-distance boundary and the mix were not established. The trap is that the large boundary and the undefined mix dilute the TOD. The mechanism is that the boundary was set arbitrarily, and the mix was left vague. The false signal is that "we have the station area plan." The harm is that the TOD is diluted, the intensity is spread too thin, the walkable core is not created, and the boundary and the mix that should focus the TOD dilute it.
+
+### Transition Abrupt, Opposition Generated
+
+The density transition is abrupt (the high-rise next to the single-family), and the opposition is generated, because the gradual transition was not designed. The trap is that the abrupt transition generates the opposition. The mechanism is that the transition was not designed, and the high density was placed at the edge. The false signal is that "the density is at the station." The harm is that the opposition arises, the TOD is scaled back, the community trust is eroded, and the transition that should accommodate the change generates the conflict.
+
+### Pedestrian Access Poor, Riders Deterred
+
+The pedestrian access is poor (the missing sidewalks, the unsafe crossings), and the riders are deterred, because the complete streets and the direct routes were not implemented. The trap is that the poor access deters the riders. The mechanism is that the pedestrian improvements were not made, and the auto-oriented streets persisted. The false signal is that "the station is accessible." The harm is that the walking is difficult, the ridership is low, the transit investment is underutilized, and the access that should attract the riders deters them.
+
+### Parking Abundant, TOD Undermined
+
+The parking is abundant (the high minimums, the free parking), and the TOD is undermined, because the parking management was not implemented. The trap is that the abundant parking undermines the TOD. The mechanism is that the minimums were not reduced, and the parking was oversupplied. The false signal is that "the parking is convenient." The harm is that the TOD is auto-oriented, the walkability is degraded, the land is wasted on the parking, and the parking that should support the TOD undermines it.
+
+### Community and Equity Not Aligned, Displacement Results
+
+The community and the equity are not aligned, and the displacement results, because the affordable housing and the anti-displacement were not implemented. The trap is that the unaligned equity causes the displacement. The mechanism is that the equity strategies were not implemented, and the TOD raised the values. The false signal is that "the TOD is built." The harm is that the existing residents are displaced, the community is disrupted, the equity is not advanced, and the TOD that should benefit the community displaces it.
+
+## Self-Check
+
+- Is the station area boundary defined by the walking distance, and is the land use mix defined with the residential, the employment, the retail, and the civic?
+- Are the density transitions and the height managed, with the form-based approach, the context sensitivity, and the community engagement?
+- Is the pedestrian and bicycle access designed, with the complete streets, the direct routes, the safe crossings, and the bike parking?
+- Are the parking and the bus connections coordinated, with the managed parking, the bus integration, and the access management?
+- Is the station area plan aligned with the transit service and the community, with the density-capacity match, the character, the equity, and the phasing?
+- Is the boundary appropriate, or is it too large?
+- Is the transition gradual, or is it abrupt?
+- Is the access good, or are the riders deterred?
+- Is the parking managed, or is the TOD undermined?
+- Is the community aligned, or does the displacement result?

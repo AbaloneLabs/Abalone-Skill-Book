@@ -1,0 +1,65 @@
+---
+name: plan-amendment-and-consistency-review.md
+description: Use when the agent is processing a comprehensive plan amendment, evaluating the consistency of the zoning and the development decisions with the plan, managing the frequency and the scope of the plan amendments, or maintaining the plan's authority and integrity against the piecemeal amendments that erode it.
+---
+
+# Plan Amendment and Consistency Review
+
+The comprehensive plan is the adopted vision and the policy framework, and the amendments (the changes to the plan's goals, the land use map, the policies) and the consistency review (the determination that the zoning and the development decisions align with the plan) are the mechanisms that keep the plan current and authoritative, or that erode its integrity. The judgment problem is that the plan should be amendable (to reflect the changing conditions and the community priorities) but not so easily amended that it becomes the document of convenience (amended whenever the development proposal does not conform), and the consistency review should be the gatekeeper (the zoning and the decisions follow the plan) but not the obstacle (the plan that cannot be amended when it should). The planner must navigate the tension between the plan's stability (the authority that comes from the consistency) and the plan's adaptability (the relevance that comes from the amendment), and the management of this tension determines whether the plan guides the community or rationalizes the decisions. This skill covers the amendment and the consistency review decisions that determine whether the plan maintains its authority or erodes it. It complements the broader plan-implementation skill by focusing on the amendment and the consistency dimensions.
+
+## Core Rules
+
+### Establish the Clear Amendment Process and the Criteria
+
+The plan amendment should follow the clear process and the criteria, because the clear process ensures the transparency and the consistency, and the unclear process enables the ad hoc and the political amendments. The rule is to establish the clear amendment process and the criteria, defining the types of the amendments (the major and the minor, the map and the text), the frequency (the annual cycle, the off-cycle exceptions), the criteria (the consistency with the plan goals, the change in conditions, the public benefit), and the process (the application, the review, the hearing, the adoption). The types should distinguish the major amendments (the land use map changes, the goal changes) from the minor amendments (the corrections, the clarifications), because the major amendments warrant the fuller review, and the minor amendments can be streamlined. The frequency should be limited (the annual cycle), because the frequent amendments erode the plan's stability, and the annual cycle consolidates the review and reduces the piecemeal amendments. The criteria should be specific, because the specific criteria guide the decisions, and the vague criteria enable the ad hoc decisions. The process should be public and the adoption should be by the governing body, because the plan is the adopted document, and the amendment requires the adoption.
+
+### Evaluate the Amendments Against the Plan Goals and the Changed Conditions
+
+The plan amendments should be evaluated against the plan goals (the amendment should advance, not undermine, the goals) and the changed conditions (the amendment should reflect the conditions that changed since the plan adoption), because the amendment that undermines the goals or that does not reflect the changed conditions is the amendment that erodes the plan. The rule is to evaluate the amendments against the plan goals and the changed conditions, requiring the applicant to demonstrate the consistency with the goals and the changed conditions, and reviewing the demonstration with the rigor. The goal consistency should be evaluated holistically, because the amendment may advance one goal while undermining another, and the holistic evaluation identifies the tradeoffs. The changed conditions should be documented, because the amendment without the changed conditions is the amendment without the justification, and the documented conditions provide the basis. The evaluation should consider the cumulative impact, because the individual amendments that each seem minor may collectively erode the plan, and the cumulative tracking identifies the erosion. The evaluation should include the alternatives, because the amendment may not be the only way to address the issue, and the alternatives (the variance, the special use, the plan interpretation) may be more appropriate.
+
+### Enforce the Consistency Between the Plan and the Zoning
+
+The consistency between the plan and the zoning should be enforced, because the zoning that is not consistent with the plan undermines the plan's authority, and the plan that does not guide the zoning is the plan that does not guide the community. The rule is to enforce the consistency between the plan and the zoning, requiring the zoning amendments (the map changes, the text changes) to be consistent with the plan, and reviewing the consistency with the rigor. The consistency review should be the prerequisite for the zoning, because the zoning that proceeds without the plan consistency is the zoning that undermines the plan, and the prerequisite ensures the consistency. The consistency review should be substantive, not merely formal, because the formal consistency (the zoning category that nominally matches the plan designation) may not be the substantive consistency (the density, the use, the character that the plan envisions), and the substantive review identifies the gap. The consistency should be maintained as the plan is amended, because the plan amendment may require the zoning update, and the unupdated zoning is the inconsistent zoning. The consistency should be enforced for the development decisions (the subdivisions, the site plans), because the decisions should follow the plan, and the decisions that do not follow the plan erode it.
+
+### Limit the Piecemeal Amendments That Erode the Plan
+
+The piecemeal amendments (the frequent, the ad hoc amendments that respond to the individual proposals) erode the plan's integrity, because the plan that is amended for each proposal becomes the rationalization rather than the guide, and the accumulation of the piecemeal amendments transforms the plan into the document the developers shaped rather than the community adopted. The rule is to limit the piecemeal amendments that erode the plan, using the annual cycle (the consolidation of the amendments), the criteria (the high bar for the amendment), the cumulative impact analysis (the tracking of the erosion), and the plan update (the comprehensive review that replaces the piecemeal amendments). The annual cycle should consolidate the amendments, because the consolidated review evaluates the cumulative impact, and the piecemeal review does not. The criteria should set the high bar, because the easy amendment is the frequent amendment, and the high bar reduces the frequency. The cumulative impact analysis should track the amendments over time, because the individual amendments may seem minor but the cumulative effect may be significant, and the tracking identifies the erosion. The plan update (the comprehensive review every five to ten years) should replace the piecemeal amendments, because the update provides the opportunity for the comprehensive reassessment, and the update maintains the plan's relevance without the piecemeal erosion.
+
+### Maintain the Plan's Authority and the Integrity
+
+The plan's authority (the weight the community and the decisions give to the plan) and the integrity (the internal consistency and the coherence) should be maintained, because the plan that loses the authority or the integrity is the plan that does not guide, and the plan that does not guide is the plan that is not used. The rule is to maintain the plan's authority and the integrity, using the consistency enforcement (the zoning and the decisions follow the plan), the amendment discipline (the limited and the criteria-based amendments), the internal consistency (the goals, the policies, and the map that align), and the community support (the plan that the community owns and defends). The authority should be maintained through the consistency enforcement, because the enforced consistency establishes the plan as the guide, and the unenforced consistency reduces the plan to the suggestion. The integrity should be maintained through the internal consistency, because the plan with the contradictory goals and the policies is the plan that cannot guide, and the consistent plan can. The community support should be maintained through the engagement, because the community that owns the plan defends it against the eroding amendments, and the community that does not own the plan does not defend it. The authority and the integrity should be evaluated, because the evaluation identifies the erosion, and the evaluation drives the correction.
+
+## Common Traps
+
+### Amendment Process Unclear, Ad Hoc Amendments
+
+The amendment process is unclear, and the ad hoc amendments proceed, because the clear process and the criteria were not established. The trap is that the unclear process enables the ad hoc amendments. The mechanism is that the process was not defined, and the amendments proceeded case-by-case. The false signal is that "the plan can be amended." The harm is that the ad hoc amendments erode the plan, the transparency is absent, the consistency is not ensured, and the process that should be clear is opaque.
+
+### Amendment Undermines the Goals, Plan Eroded
+
+The amendment undermines the plan goals, and the plan is eroded, because the goal consistency was not evaluated. The trap is that the goal-undermining amendment erodes the plan. The mechanism is that the goal consistency was not evaluated, and the amendment was approved. The false signal is that "the amendment is consistent." The harm is that the goals are undermined, the plan's coherence is lost, the cumulative erosion occurs, and the amendment that should advance the goals undermines them.
+
+### Consistency Not Enforced, Zoning Undermines the Plan
+
+The consistency between the plan and the zoning is not enforced, and the zoning undermines the plan, because the consistency review was not the prerequisite. The trap is that the unenforced consistency undermines the plan. The mechanism is that the consistency review was not required, and the zoning proceeded independently. The false signal is that "the zoning is adopted." The harm is that the zoning does not follow the plan, the plan's authority is eroded, the decisions do not align with the vision, and the consistency that should guide the zoning does not.
+
+### Piecemeal Amendments Accumulate, Plan Transformed
+
+The piecemeal amendments accumulate, and the plan is transformed into the document the developers shaped, because the annual cycle and the cumulative analysis were not implemented. The trap is that the accumulating piecemeal amendments transform the plan. The mechanism is that the annual cycle was not adopted, and the amendments proceeded individually. The false signal is that "each amendment is minor." The harm is that the plan is transformed, the community's vision is eroded, the developers shape the plan, and the piecemeal amendments that should be limited accumulate.
+
+### Plan Loses the Authority, Becomes the Suggestion
+
+The plan loses the authority, and it becomes the suggestion rather than the guide, because the consistency enforcement and the community support were not maintained. The trap is that the plan that loses the authority does not guide. The mechanism is that the consistency was not enforced, and the community did not defend the plan. The false signal is that "the plan is adopted." The harm is that the plan does not guide, the decisions do not follow the vision, the community's input is wasted, and the plan that should be the authority becomes the suggestion.
+
+## Self-Check
+
+- Is the amendment process clear, with the types, the frequency, the criteria, and the public process?
+- Are the amendments evaluated against the plan goals and the changed conditions, with the holistic and the cumulative analysis?
+- Is the consistency between the plan and the zoning enforced, with the substantive review and the prerequisite?
+- Are the piecemeal amendments limited, with the annual cycle, the high bar, the cumulative tracking, and the plan update?
+- Is the plan's authority and the integrity maintained, with the consistency enforcement, the internal consistency, and the community support?
+- Is the process clear, or are the amendments ad hoc?
+- Do the amendments advance the goals, or do they undermine them?
+- Is the consistency enforced, or does the zoning undermine the plan?
+- Are the piecemeal amendments limited, or do they accumulate?
+- Does the plan maintain the authority, or does it become the suggestion?

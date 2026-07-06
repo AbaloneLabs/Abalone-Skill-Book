@@ -1,0 +1,65 @@
+---
+name: main-street-and-commercial-revitalization.md
+description: Use when the agent is preparing a main street or commercial district revitalization strategy, calibrating the mix of uses and tenants, structuring organizational and financing vehicles, or addressing the displacement, parking, and design dimensions of commercial corridor renewal.
+---
+
+# Main Street and Commercial Revitalization
+
+A main street or commercial corridor is the economic and social heart of a district — the place where businesses locate, where residents shop and gather, and where the community's identity is most visible. When these corridors decline — through disinvestment, competition from regional retail, changing consumer behavior, or neglect — the decline is visible, contagious, and demoralizing, and it signals to residents and investors that the district is failing. Revitalization is the effort to reverse that decline, and it is governed by a paradox: the corridor declined for specific reasons (market shifts, disinvestment, auto-orientation, crime, competition), and revitalization succeeds only when it addresses those reasons, not when it applies cosmetic improvements. A streetscape project that beautifies a corridor whose businesses are failing produces a beautiful empty street; a marketing campaign for a district whose buildings are vacant produces visitors who find nothing to visit. The judgment problem is that revitalization requires coordinated action across economic development, physical improvement, business support, organizational capacity, and regulatory reform, and that the sequencing and calibration of these actions determines whether the corridor recovers or consumes investment without results. This skill covers the decisions that determine whether revitalization produces a thriving district or produces improvements that mask ongoing decline.
+
+## Core Rules
+
+### Diagnose the Causes of Decline Before Designing the Strategy
+
+Revitalization must begin from a diagnosis of why the corridor declined, because the strategy must address the causes, not the symptoms. The diagnosis should examine the market (what is the trade area, what is the demand, what is the competition from other retail and online), the physical conditions (are the buildings viable, is the streetscape hostile to pedestrians, is parking a problem), the business mix (is it a healthy mix or a concentration of marginal businesses), the ownership (are buildings owner-occupied or absentee-owned, are rents sustainable), the organizational capacity (is there a business association or main street program), and the regulatory environment (does zoning allow the uses and density the market supports). The diagnosis reveals whether the decline is a market problem (insufficient demand), a physical problem (the environment repels customers), a management problem (no organization to coordinate), a regulatory problem (zoning prevents viable use), or a combination. A strategy that does not start from diagnosis applies generic revitalization tools that may not address the actual causes, and the investment produces no recovery because the causes persist.
+
+### Build Organizational Capacity as the Foundation
+
+Commercial revitalization is sustained by an organization — a main street program, business improvement district, merchants association, or community development corporation — that provides the continuous management, advocacy, marketing, and coordination that corridors require, because corridors decline when no one is minding them and recover when someone is. The rule is to build or strengthen the organizational capacity as the foundation of the strategy: identify the appropriate organizational vehicle (main street program for a traditional downtown, BID for a larger corridor, merchants association for a smaller district), ensure it has sustainable funding (self-assessment, membership, municipal support), and define its role (clean and safe, marketing, business recruitment, events, advocacy, facade improvement). A revitalization strategy that relies on municipal staff or ad hoc committees, without a dedicated organization, loses momentum when staff turn over or priorities shift, because no one is continuously responsible for the corridor's health. The organization is the institutional memory and the sustained effort that revitalization requires.
+
+### Calibrate the Business Mix and Recruitment to Market Demand
+
+A healthy commercial corridor has a mix of businesses that matches the trade area's demand — goods and services that residents need, destinations that attract visitors, and businesses that complement rather than duplicate each other — and revitalization must work to shape that mix through recruitment, retention, and business support. The rule is to analyze the market demand (what the trade area spends, what it buys elsewhere, what gaps exist), assess the current business mix (what is healthy, what is marginal, what is missing), and develop a recruitment and retention strategy that fills the gaps and supports the viable businesses. The strategy should address the barriers to business success (high rents, lack of capital, regulatory burden, crime, parking), because recruiting new businesses into a corridor where existing businesses are failing produces turnover without recovery. The mix should balance the goods and services that serve the neighborhood (which may be lower-margin but essential) with the destinations that draw visitors (which may be higher-profile), because a corridor of only destinations displaces the neighborhood-serving businesses residents depend on, and a corridor of only neighborhood-serving businesses lacks the draw that builds vitality.
+
+### Sequence Physical Improvements to Support, Not Lead, the Strategy
+
+Physical improvements — streetscapes, facade programs, public realm, parking — are visible and politically attractive, and there is a strong temptation to lead with them, but improvements that precede the economic and organizational foundation produce beautiful corridors that remain empty. The rule is to sequence physical improvements to support the economic and organizational strategy: stabilize the businesses and build the organization first, make targeted improvements that address specific barriers (lighting for safety, sidewalk repair for access, facade improvements for viability), and reserve the major streetscape investment for when the corridor has the business base and organizational capacity to benefit from it. A streetscape project on a corridor with vacant storefronts and no organization produces a improved street that remains vacant, and the investment is cited as a failure of revitalization, when the actual failure was sequencing — leading with the physical before the economic foundation existed.
+
+### Address Displacement of Existing Businesses and Residents
+
+Revitalization raises property values and rents, which can displace the existing businesses and residents the revitalization was meant to serve, particularly in lower-income and minority neighborhoods where the corridor is both an amenity and a vulnerability. The rule is to assess displacement risk as part of the strategy, and to pair revitalization with anti-displacement measures: commercial rent stabilization or small business support where feasible, technical assistance and capital for existing businesses to survive the transition, property acquisition or community ownership that insulates key businesses from rent increases, and residential anti-displacement strategies (affordable housing, tenant protections) for the residents who depend on the corridor. Revitalization that produces a corridor of new businesses serving new residents, having displaced the existing businesses and residents, is not revitalization but replacement, and it generates the opposition and the equity harm that increasingly challenge revitalization projects. The existing businesses and residents should benefit from the revitalization, not be displaced by it.
+
+## Common Traps
+
+### Physical Improvements Before Economic Foundation
+
+A streetscape project is built on a corridor with vacant storefronts and no organizational capacity, and the improved street remains empty. The trap is that the physical led the economic. The mechanism is that the improvements did not address the causes of decline (market, business mix, management), and the beautification produced no recovery. The false signal is that "we invested in the corridor." The harm is that the investment is wasted, the corridor remains vacant, the revitalization is cited as a failure, and the political support for future investment erodes because the visible project produced no visible results.
+
+### Generic Revitalization Without Diagnosis
+
+The strategy applies standard revitalization tools — streetscape, marketing, events, facade program — without diagnosing why the corridor declined, and the tools do not address the actual causes. The trap is that generic tools address symptoms, not causes. The mechanism is that the decline has specific causes (market shift, competition, disinvestment, regulation), and the generic tools do not engage them. The false signal is that "we have a revitalization strategy." The harm is that the investment produces no recovery, the causes persist, and the strategy is cited as evidence that revitalization does not work, when the actual failure was that the strategy did not address the diagnosis.
+
+### No Organization to Sustain the Effort
+
+The revitalization relies on municipal staff or ad hoc committees, with no dedicated organization, and the effort lapses when staff turn over or priorities shift. The trap is that revitalization without an organization is unsustainable. The mechanism is that corridors require continuous management, and without a dedicated organization, no one is responsible. The false signal is that "the city is handling it." The harm is that the corridor declines again after the initial effort, the investment is lost, and the community learns that revitalization is a cycle of effort and decline rather than sustained recovery.
+
+### Recruitment Into a Failing Corridor
+
+New businesses are recruited into a corridor where existing businesses are failing, and the new businesses fail too, because the barriers to success were not addressed. The trap is that recruitment without addressing barriers produces turnover, not recovery. The mechanism is that the corridor's problems (rents, demand, safety, regulation) affect all businesses, and recruiting new ones into the same conditions produces the same outcome. The false signal is that "we are bringing new businesses to the corridor." The harm is that the new businesses fail, the corridor's reputation worsens, the vacancy rate does not improve, and the recruitment effort is wasted because the conditions that defeat businesses were not changed.
+
+### Revitalization That Displaces the Existing Community
+
+Revitalization raises rents and property values, the existing businesses and residents are displaced, and the corridor serves a new population while the original community is pushed out. The trap is that revitalization becomes replacement. The mechanism is that rising values raise costs, and without protection, the existing businesses and residents cannot afford to stay. The false signal is that "the corridor is thriving." The harm is that the community the revitalization was meant to serve is displaced, the equity harm generates opposition and litigation, the corridor loses the character that made it distinctive, and the revitalization is judged a failure by the community it displaced even as it succeeds by market metrics.
+
+## Self-Check
+
+- Does the strategy begin from a diagnosis of why the corridor declined, with the tools addressing the specific causes?
+- Is there a dedicated organization — main street program, BID, merchants association — with sustainable funding and a defined role, to sustain the effort?
+- Is the business mix calibrated to market demand, with recruitment filling gaps and retention supporting viable businesses?
+- Are physical improvements sequenced to support the economic and organizational foundation, rather than leading it?
+- Has displacement risk been assessed, and are anti-displacement measures paired with revitalization to protect existing businesses and residents?
+- Did I diagnose the causes before selecting the tools, or am I applying generic revitalization regardless of the diagnosis?
+- Is there an organization that will still be managing the corridor in five years, or does the effort depend on current staff?
+- Are the barriers to business success (rents, demand, regulation, safety) addressed, or am I recruiting into the conditions that defeat businesses?
+- Did the streetscape precede or follow the economic foundation, and will the improved street have businesses to benefit from it?
+- Will the existing businesses and residents benefit from the revitalization, or will they be displaced by the rising values it produces?

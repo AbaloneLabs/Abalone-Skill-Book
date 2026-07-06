@@ -1,0 +1,65 @@
+---
+name: bicycle-and-pedestrian-planning.md
+description: Use when the agent is planning a bicycle or pedestrian network, selecting facility types and design treatments, prioritizing corridors and gap closures, or evaluating the safety, connectivity, and equity of active transportation infrastructure.
+---
+
+# Bicycle and Pedestrian Planning
+
+Walking and biking are the modes that make a city humane, healthy, and equitable — they are accessible to those who cannot drive, they require no fuel, they generate no emissions, they support public health, and they animate the public realm. Yet active transportation has been systematically designed out of most streets, which were built for vehicle speed and throughput, producing environments that are hostile, dangerous, or impossible for people outside cars. Bicycle and pedestrian planning is the effort to rebuild the networks that walking and biking require, and it is governed by a deceptively simple principle: people walk and bike when it is safe, convenient, and comfortable, and they do not when it is not. The judgment problem is that "safe, convenient, and comfortable" requires a connected network of appropriate facilities, not isolated projects, and that the facility type must match the user population and the street context. A bike lane that is painted but unprotected does not serve the interested-but-concerned riders who are the majority of potential cyclists; a sidewalk that exists but leads to a gap does not serve the pedestrian who cannot cross it; a network built project-by-project without connectivity produces low use that is misread as low demand. This skill covers the decisions that determine whether active transportation planning produces networks people use or infrastructure that sits empty.
+
+## Core Rules
+
+### Plan at the Network Level and Prioritize Connectivity Over Coverage
+
+Active transportation works only as a network, because a trip is only as safe and comfortable as its weakest link, and a facility that terminates at a hostile segment is unusable for the trip that requires crossing it. The rule is to plan at the network level: map the existing facilities, identify the gaps that break connectivity, and prioritize closing the gaps that have the highest value — those that connect destinations, complete continuous routes, and serve the most users. Coverage — spreading facilities across the geography — is less important than connectivity, because a disconnected network with broad coverage is less useful than a connected network that serves the key destinations. The network plan should identify the spine corridors (the main routes that carry the most cyclists), the connectors (the local routes that feed the spine), and the barriers (the highways, arterials, rivers, and intersections that fragment the network), with gap closure at barriers as the highest priority, because a single barrier can render an otherwise complete network unusable for the trips that require crossing it.
+
+### Select Facility Type Based on User Population and Stress Level
+
+The facility that serves confident, experienced cyclists — a painted bike lane on an arterial — does not serve the interested-but-concerned riders who represent the majority of potential cyclists and who will only ride where the facility is protected from traffic. The rule is to select the facility type based on the target user population and the level of traffic stress they will tolerate: protected bike lanes (separated from traffic by a physical barrier) on streets with high speeds or volumes; buffered or conventional lanes on lower-stress streets; and neighborhood greenways (traffic-calmed local streets) where through-traffic is diverted and speeds are low. The facility selection should be driven by the goal of serving the broadest population, not just the confident riders who will ride in any facility, because the mode-share potential lies in the interested-but-concerned majority who are currently not riding. A network of painted lanes on busy streets serves only the confident few and produces low ridership that is misread as low demand, when the actual constraint was facility type.
+
+### Design Pedestrian Infrastructure for Universal Access and Comfort
+
+Pedestrian planning is governed by the requirement that the infrastructure serve all users — including children, older adults, and people with disabilities — which means the design must meet accessibility standards (ADA) and exceed them where comfort and usability demand. The rule is to design pedestrian infrastructure for universal access and comfort: continuous, wide, unobstructed sidewalks; curb ramps with detectable warnings at every crossing; crossing distances minimized through curb extensions and median refuges; crossing times calibrated to the slowest pedestrians; and intersection designs (protected intersections, leading pedestrian intervals, no right-turn-on-red) that reduce conflict with vehicles. The pedestrian network must be continuous, because a sidewalk that ends forces the pedestrian into the roadway, and the crossings must be safe, because most pedestrian fatalities occur at intersections. A pedestrian plan that adds sidewalk miles without addressing the crossing safety and continuity produces infrastructure that does not serve the users who need it most.
+
+### Address the Barriers That Fragment the Network
+
+The barriers that fragment active transportation networks — highways, arterials, rivers, rail lines, and superblocks — are the single highest-leverage points for investment, because closing a gap at a barrier can connect large areas of the network that are otherwise inaccessible to each other. The rule is to identify the barriers, assess their impact on network connectivity, and prioritize crossings — bridges, underpasses, at-grade crossings with traffic calming, or complete streets retrofits — that reconnect the network across them. A barrier that separates a residential area from a school, a commercial district, or a transit station suppresses walking and biking for all the trips that would cross it, and a single crossing investment can unlock those trips. Barrier removal is often more expensive and complex than on-street facilities, but its network value is disproportionately high, because it reconnects what was severed. The network plan should treat barrier crossings as priority projects, not as aspirational long-term investments, because their absence is the binding constraint on network utility.
+
+### Integrate With Transit, Land Use, and Development Review
+
+Active transportation does not function in isolation; it depends on the land use that generates trips, the transit that extends the bike or walk trip, and the development review that shapes the street frontage and the internal connectivity of new projects. The rule is to integrate active transportation with transit (bike parking and access at stations, bike-on-transit, first-mile-last-mile connections), with land use (the mix and density that generate walk and bike trips, and the site design that connects buildings to the street), and with development review (requiring street frontages, internal connectivity, sidewalk construction, and bike facilities as conditions of approval). A bike network that does not connect to transit misses the trips that combine modes; a pedestrian network in a land use pattern that separates uses and cul-de-sacs the streets produces low walking despite good sidewalks, because the destinations are unreachable; a development that turns its back on the street defeats the pedestrian infrastructure in front of it. Integration ensures the active transportation investment is supported by the systems that determine whether it will be used.
+
+## Common Traps
+
+### Isolated Project Without Network Connectivity
+
+A bike lane or sidewalk is built, but it does not connect to the broader network, terminating at a barrier or a hostile segment, and use is low. The trap is that an isolated facility produces low use that is misread as low demand. The mechanism is that users cannot complete trips because the network is fragmented. The false signal is that "there is no demand for biking or walking here." The harm is that the low use is cited as evidence against future investment, the network remains fragmented, and the political support for active transportation erodes based on a misreading of a connectivity failure as a demand failure.
+
+### Facility Type That Serves Only Confident Users
+
+A painted bike lane is installed on a busy arterial, and only confident cyclists use it, while the interested-but-concerned majority — the potential ridership — stays away because the facility is not protected from traffic. The trap is that the facility type limits the user population. The mechanism is that most potential cyclists will only ride where they feel safe from traffic, and painted lanes do not provide that safety. The false signal is that "bike lanes don't increase ridership." The harm is that the low ridership is misread as low demand, the facility is cited as a failure, and the protected facilities that would serve the broader population are not built, because the evidence from the wrong facility type was used to judge the concept.
+
+### Sidewalk Miles Without Crossing Safety or Continuity
+
+A pedestrian plan focuses on adding sidewalk miles but does not address intersection crossing safety or network continuity, and pedestrians continue to be injured or killed at the crossings the plan did not address. The trap is that the plan addressed the visible gap (missing sidewalk) but not the lethal gap (unsafe crossing). The mechanism is that most pedestrian fatalities occur at intersections, and adding sidewalks without improving crossings does not address the location of the risk. The false signal is that "we are investing in pedestrian infrastructure." The harm is that pedestrians continue to be killed or injured at the crossings, the safety goal is not achieved, and the investment in sidewalks does not deliver the safety benefit that justified it.
+
+### Barrier Left Uncrossed, Suppressing All Cross-Trips
+
+A barrier — a highway, an arterial, a river — separates a residential area from its destinations, and the network plan does not prioritize a crossing, so all the trips that would cross the barrier remain car trips. The trap is that the binding constraint on network utility was not addressed. The mechanism is that the barrier severs the network, and without a crossing, no facility on either side can serve cross-trips. The false signal is that "we are building the network where we can." The harm is that the highest-value investment (the crossing) is deferred, the cross-trips remain car trips, and the network's potential is unrealized because the connection that would unlock it was not made.
+
+### Active Transportation Planned Without Land Use Integration
+
+A bike and pedestrian network is planned, but the land use continues to separate uses, cul-de-sac the streets, and turn buildings away from the street, and the network produces low use despite good facilities. The trap is that the land use defeats the network. The mechanism is that walking and biking require destinations within reach and a connected street pattern, and land use that separates uses and fragments the street grid suppresses the trips regardless of facility quality. The false signal is that "people just prefer to drive." The harm is that the active transportation investment is wasted, the mode share does not increase, and the network is cited as a failure when the actual failure was the land use pattern the plan did not address.
+
+## Self-Check
+
+- Is the plan built at the network level, with gaps identified and prioritized by connectivity value, rather than as isolated projects spread for coverage?
+- Is the facility type selected based on the target user population and traffic stress, with protected facilities where the interested-but-concerned majority will ride?
+- Does the pedestrian infrastructure meet universal access standards and address crossing safety and continuity, not just sidewalk miles?
+- Are the barriers that fragment the network identified, and are crossings prioritized as high-value investments that reconnect severed areas?
+- Is active transportation integrated with transit, land use, and development review, so the network is supported by the systems that determine its use?
+- Does each facility connect to the broader network, or does it terminate at a barrier that renders it unusable for the trips that require crossing?
+- Would the intended user population — including children, older adults, and the interested-but-concerned — actually use the facility, or only confident users?
+- Are the intersections and crossings — where most pedestrian fatalities occur — addressed, not just the sidewalk segments?
+- Is the highest-value investment (the barrier crossing) prioritized, or is it deferred while lower-value projects proceed?
+- Does the land use pattern support walking and biking, or does it defeat the network through separated uses and fragmented streets?

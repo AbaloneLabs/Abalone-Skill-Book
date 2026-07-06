@@ -1,0 +1,58 @@
+---
+name: hybrid-and-ev-regenerative-braking.md
+description: Use when the agent is diagnosing regenerative braking faults, blended brake feel or grabbiness, brake actuator or stroke simulator faults, hybrid or EV stopping distance concerns, or evaluating high-voltage motor-generator braking, friction blend coordination, and electronic brake control on electrified vehicles.
+---
+
+# Hybrid and EV Regenerative Braking
+
+Regenerative braking on hybrids and EVs uses the electric motor-generator as a brake to recover energy, and it blends that regenerative force with the conventional friction brakes through an electronic brake system that is fundamentally different from a conventional hydraulic system. The judgment problem is that regen-brake symptoms (odd brake feel, a grab or a surge, reduced regen, a stopping-distance concern, a brake-related warning) overlap across the regen system, the friction blend control, the brake actuator, the stroke simulator, and the high-voltage system, and because the system is high-voltage and electronic, the diagnosis requires specific safety and specific procedures. A technician who bleeds the friction brakes for a regen-control fault, or who condemns the brake actuator for a stroke-simulator fault, hands back a vehicle with the same odd feel. This skill covers the disciplined diagnosis of regenerative and blended braking on electrified vehicles.
+
+## Core Rules
+
+### Understand the Blended Brake System: Regen, Friction, and the Control Coordination
+
+The blended brake system coordinates regenerative braking (the motor-generator slows the vehicle and charges the battery) with friction braking (the conventional pads and rotors) to provide a consistent pedal feel and stopping force while maximizing energy recovery. At low speeds and low brake demand, regen does most of the work; at higher demand, at very low speed (where regen cannot fully stop the vehicle), and during emergency stops, the friction brakes blend in. The electronic brake control unit (often integrated with the stability system) manages the blend seamlessly, and a stroke simulator provides the conventional pedal feel while the actuator applies the friction brakes. The disciplined diagnosis understands this coordination: a brake-feel fault can be in the regen side (the motor-generator not providing the expected torque), the friction side (the actuator or the hydraulic system), the blend control (the coordination logic), or the stroke simulator (the feel feedback).
+
+### Diagnose Brake-Feel Faults by the Blend Coordination, Not Just the Hydraulics
+
+A brake-feel fault (a grab, a surge, a soft pedal, a hard pedal, an inconsistent feel) on a hybrid or EV is diagnosed through the blend coordination, not just the friction hydraulics, because the feel is a product of the regen and the friction working together. A grab or a surge at the transition from regen to friction (often around the low-speed cutoff where regen hands off to friction) points to the blend coordination or the actuator; a soft pedal points to the stroke simulator or the actuator; a hard pedal with reduced braking points to the actuator or the regen system failing to blend. The disciplined diagnosis reads the brake data on the scan tool (the commanded regen torque, the commanded friction pressure, the pedal stroke), road-tests to reproduce the feel and identify the transition point, and isolates the fault to the regen, the friction, or the blend. The tradeoff is that this is more complex than a conventional brake diagnosis, but bleeding the friction brakes for a blend fault does not fix the feel.
+
+### Evaluate the Stroke Simulator and the Brake Actuator
+
+The stroke simulator provides the conventional pedal feel (a spring and a hydraulic chamber that mimics the feel of a conventional master cylinder) while the electronic actuator applies the actual friction brake pressure, and both are common sources of brake-feel faults on hybrids and EVs. The stroke simulator can fail internally (a degraded feel, a soft or spongy pedal) and is diagnosed by the scan tool data and the OEM isolation test (some systems allow the simulator to be bypassed for diagnosis). The brake actuator (the pump and the valves that apply the friction pressure) can fail (a noisy pump, a slow response, an inconsistent pressure), and its failure often sets a code and a warning. The tradeoff is that the actuator is expensive and the simulator is less so, but both are electronic and diagnosed through the scan tool and the OEM procedure before replacement.
+
+### Diagnose Reduced or Absent Regeneration Through the HV System and the Battery State
+
+Reduced or absent regenerative braking (the vehicle coasts more, the battery does not charge on decel, the friction brakes do more of the work) is often a high-voltage system or a battery state issue, not a brake system fault. The regen is limited or disabled when the battery is full (a fully charged battery cannot accept more charge, so regen is reduced — common at the top of a downhill with a full battery), when the battery is cold (a cold battery accepts less charge, so regen is limited — common in winter), when the motor-generator or the inverter has a fault, or when the high-voltage system is in a derate. The disciplined diagnosis reads the battery state of charge and temperature, the regen command and the actual regen torque, and the HV system codes, and distinguishes a normal regen limit (full battery, cold battery) from a fault (a motor-generator or inverter issue). The tradeoff is that the regen system is tied to the HV system, and a regen complaint may require HV diagnosis, not brake diagnosis.
+
+### Maintain the Friction Brakes on a Hybrid or EV to Prevent Caliper and Rotor Seizure
+
+Because regenerative braking does most of the low-demand braking, the friction brakes on a hybrid or EV are used less than on a conventional vehicle, and they are prone to seizure and corrosion from underuse — the calipers seize from lack of sliding, the rotors rust from lack of friction cleaning them, and the pads glaze. The disciplined friction brake service on a hybrid or EV inspects and services the calipers (clean and lubricate the slides, check the piston retraction), the rotors (check for rust and scoring), and the pads (check for glazing and cracking) more frequently than on a conventional vehicle, and road-tests with deliberate friction brake use to clean the rotors. The tradeoff is that the friction brakes last longer in pad material but fail more often in caliper seizure, and a seized caliper causes a pull, a drag, and a fire risk.
+
+### Follow High-Voltage Safety When Diagnosing the Regen and the Brake Actuator
+
+The regenerative braking system and the brake actuator interact with the high-voltage system (the motor-generator is an HV component), and the disciplined diagnosis follows the HV safety procedures: verify the HV system is disabled (the service disconnect removed, the system confirmed de-energized) before any work on the motor-generator, the inverter, or the HV wiring; use insulated tools and HV-rated gloves for any HV-adjacent work; and do not assume the system is safe because the ignition is off. The tradeoff is that the HV safety adds time and procedure, but an HV incident is lethal. The disciplined technician is HV-trained and follows the procedures on every regen and actuator job that touches the HV system.
+
+## Common Traps
+
+### Bleeding the Friction Brakes for a Regen Blend or Stroke Simulator Fault — The brake feel is odd, the technician bleeds the friction brakes, and the feel is unchanged because the cause was the blend coordination or the stroke simulator. The trap mechanism is that the feel is a product of the regen and the friction blend, and a feel fault is often in the electronic control or the simulator, not the hydraulics. The false signal is the odd feel pointing at the friction brakes; the harm is wasted bleeding and an unresolved feel fault. The disciplined technician reads the blend data and tests the simulator before bleeding.
+
+### Condemning the Brake Actuator for a Stroke Simulator Fault — The pedal feel is soft or inconsistent, the technician condemns the brake actuator, and the cause was the stroke simulator. The trap mechanism is that the stroke simulator provides the feel and the actuator provides the pressure, and a feel fault is often the simulator, not the actuator. The false signal is the feel pointing at the actuator; the harm is an expensive, unnecessary actuator. The disciplined technician isolates the simulator before the actuator.
+
+### Diagnosing Reduced Regen as a Brake Fault When It Is a Battery State Limit — The regen is reduced, the technician diagnoses a brake system fault, and the cause is a full or cold battery that limits regen normally. The trap mechanism is that regen is limited by the battery's ability to accept charge, and a full or cold battery reduces regen as designed, not as a fault. The false signal is the reduced regen pointing at the brake system; the harm is an unnecessary brake diagnosis. The disciplined technician checks the battery state of charge and temperature first.
+
+### Ignoring Friction Brake Seizure From Underuse on a Hybrid or EV — The friction brakes are inspected and "look fine" because the pads are thick, but the calipers are seized from underuse, and the vehicle pulls or drags. The trap mechanism is that the regen does most of the braking, so the friction pads wear slowly but the calipers seize from lack of use, and a pad-thickness check misses the seizure. The false signal is the thick pads looking serviceable; the harm is a seized caliper, a pull, a drag, and a fire risk. The disciplined technician inspects and services the caliper slides and pistons on hybrids and EVs.
+
+### Working on the Regen or Actuator Without HV Safety — The technician diagnoses a regen or actuator fault that touches the HV motor-generator, without disabling the HV system, and is exposed to high voltage. The trap mechanism is that the regen system is integrated with the HV system, and the motor-generator is an HV component; working on it without the disable risks lethal shock. The false signal is the ignition "being off"; the harm is an HV injury. The disciplined technician follows the HV disable and safety procedures.
+
+## Self-Check
+
+- Do I understand the blended brake system (regen, friction, blend coordination, stroke simulator) and did I diagnose the feel fault through the blend, not just the hydraulics?
+- For a brake-feel fault, did I read the brake data (commanded regen torque, commanded friction pressure, pedal stroke) and road-test to reproduce the feel and find the transition point?
+- Did I evaluate the stroke simulator (OEM isolation test) before condemning the brake actuator?
+- For reduced or absent regen, did I check the battery state of charge and temperature and the HV system codes before diagnosing a brake fault?
+- Did I inspect and service the friction brake calipers (slides, pistons), rotors (rust, scoring), and pads (glazing) for seizure from underuse, beyond a pad-thickness check?
+- For any work touching the HV system (motor-generator, inverter, HV wiring), did I disable the HV system, verify de-energization, and use insulated tools and HV gloves?
+- Did I follow the OEM bleeding procedure for the electronic brake system (some require a scan-tool-actuated bleed, not a conventional pedal pump)?
+- Did I road-test after the repair and verify a consistent brake feel, correct stopping distance, and no warnings under regen and friction braking?
+- Did I verify the regen and the friction blend operate correctly across speeds and brake demands, including the low-speed handoff?
