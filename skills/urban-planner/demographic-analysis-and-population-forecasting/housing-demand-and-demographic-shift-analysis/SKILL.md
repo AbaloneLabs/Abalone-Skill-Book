@@ -1,0 +1,71 @@
+---
+name: housing-demand-and-demographic-shift-analysis.md
+description: Use when the agent is translating population projections into housing unit demand, analyzing headship rates and household formation, assessing aging-in-place and generational shifts, forecasting housing type demand, or diagnosing mismatch between existing housing stock and demographic demand.
+---
+
+# Housing Demand and Demographic Shift Analysis
+
+Translating a population projection into housing demand is where demographic analysis becomes consequential for the built environment, and it is where planners most often go wrong by treating population growth as a simple proxy for housing need. The judgment problem is that housing demand is driven not by headcount alone but by households — how many people form independent households, what types of households they form, what they can afford, and what housing stock matches their stage of life. A population can grow while household growth lags because household sizes are rising, or shrink while housing demand rises because household sizes are falling and more small households form. Aging populations, delayed household formation among younger generations, declining household sizes, and aging-in-place all reshape demand in ways that total-population projections obscure. The mismatch between the existing housing stock and the demographic demand actually arriving is where housing policy earns or loses its relevance, because a market left to its defaults keeps producing the easiest-to-finance type rather than the type the demographics require. The planner's task is to convert demographic composition into specific housing demand — by type, tenure, size, and affordability level — and to identify where the existing stock is mismatched with who is actually coming. Done well, this translation turns a population number into a defensible diagnosis of what to zone for, subsidize, and build, so that housing policy responds to real demographic pressure rather than to an undifferentiated growth number.
+
+## Core Rules
+
+### Convert Population to Households Through Headship Rates, Not Headcount
+
+Housing demand is a function of households, not people, and the conversion runs through headship rates — the share of a given age group that heads its own household. A population projection must be converted to a household projection by applying age-specific headship rates to each cohort, because headship varies dramatically by age: young adults form households as they leave parental homes, middle-aged adults have high headship, and older adults may maintain or lose households depending on living arrangements. Critically, headship rates are not fixed; they have declined among younger cohorts who delay independence due to housing costs, student debt, and later family formation, and assuming historical headship rates will over-project household formation. Test headship assumptions against recent trends and against affordability, because if housing is expensive, headship falls (more doubling-up) and a growing population can produce flat or declining household growth. Always report the household projection and the assumed headship rates that produced it, not just the population total, because the household figure is what drives unit demand.
+
+### Model Demand by Housing Type, Tenure, Size, and Affordability
+
+Aggregate housing demand is nearly useless for policy; what matters is the decomposition into types that the market and the plan must actually provide. Decompose projected households into tenure (owner versus renter), size (single-person, couple, family with children, multigenerational), affordability level (cost relative to area median income), and structure type (single-family detached, attached, small multifamily, large multifamily, accessory units). Each demographic segment demands a different housing profile: aging singles need accessible small units, families with children need larger units near schools, low-income households need units priced below market. A demand analysis that reports only total units needed provides no guidance for zoning, affordability set-asides, or infrastructure sizing. Build the demand profile from the demographic composition — age structure, income distribution, household size, tenure preference — and present the gap between projected demand by type and the existing stock by type, because the mismatch, not the total, is what drives housing policy.
+
+### Treat Aging-in-Place as a Structural Force on Housing Stock
+
+The aging of the population is one of the most reliable demographic shifts, and aging-in-place — older residents remaining in their long-term homes rather than moving to smaller units or care facilities — has structural consequences for housing supply that projections often miss. When large cohorts age in place, their homes do not turn over to younger families, which suppresses the effective supply of family-sized units even as the population of younger households grows. This creates a paradox: an aging population may need smaller, accessible units, but the existing stock is locked in larger single-family homes whose occupants will not move. Model aging-in-place explicitly by tracking the age of householders relative to their housing, projecting turnover rates, and identifying where the stock will remain occupied by aging owners rather than filtering to new families. The implication for policy is often that new construction of right-sized, accessible units must fill the gap that turnover cannot, and that the existing single-family stock will not naturally rebalance to family demand.
+
+### Account for Declining Household Size and Generational Shifts
+
+Household size has declined for decades as more people live alone, families have fewer children, and multi-generational living fell in many regions (though it has risen again in some high-cost areas as an affordability response). A declining household size means that even a stable population generates more households and thus more housing units needed, while a rising household size (doubling-up) means fewer units needed for the same population. Generational shifts compound this: younger cohorts are forming households later, having children later, and showing different tenure preferences (more renting, longer, in some markets) than the generations before them. Do not assume that historical household-size and tenure patterns will persist; test the projection against recent cohort behavior and against affordability, because cost pressure itself changes formation and tenure. The direction and magnitude of household-size change is often the single largest swing factor between a population projection and a housing-unit projection, and it must be made explicit.
+
+### Diagnose Mismatch Between Housing Stock and Demographic Demand
+
+The most policy-relevant output of a housing-demand analysis is the mismatch between what the existing stock offers and what the projected demographics demand. Map the existing stock by type, size, age, tenure, and cost against the projected demand profile, and identify the gaps: a surplus of large single-family homes where the demand is for small accessible units, a shortage of family-sized rentals where young families are forming, an absence of middle-density housing (the so-called missing middle — duplexes, triplexes, small multifamily, townhomes) where the demand falls between single-family and high-rise. The mismatch is what justifies zoning reform, missing-middle legalization, accessibility requirements, and targeted production incentives, because a market left to its defaults will keep producing the housing type that is easiest to finance and build, not the type the demographics demand. Make the mismatch quantified and geographic, because the gap between stock and demand is rarely uniform across a jurisdiction.
+
+### Connect Demand Segments to Specific Policy and Infrastructure Responses
+
+Each demand segment implies a different policy and infrastructure response, and the analysis is incomplete until those linkages are drawn. Demand for family-sized units near schools implies school-capacity planning and family-oriented zoning; demand for accessible senior units implies universal design standards, location near services and transit, and senior housing incentives; demand for affordable units below market implies inclusionary requirements, subsidies, and preservation of existing affordable stock; demand for missing-middle housing implies zoning reform to legalize the types. Trace each demand finding to the specific tools — zoning, capital improvements, code requirements, funding programs — that would respond to it, so that the housing-demand analysis visibly drives the plan rather than sitting in a background chapter. A demand analysis that identifies gaps but does not connect them to actionable tools is diagnosis without prescription.
+
+## Common Traps
+
+### Equating Population Growth Directly With Housing Unit Demand
+
+Multiplying projected population growth by an average household size to get units needed ignores headship, household-size trends, tenure, and type, and produces a single number that conceals the real demand structure. The mechanism is that population is the available number and the conversion looks simple. The false signal is a clean units-needed figure that appears rigorous. The harm is that policy targets the wrong quantity and type of housing, over-producing one segment while shortages persist in others. Always route population through age-specific headship rates and decompose the result by type before reporting unit demand.
+
+### Assuming Historical Headship and Household-Size Patterns Will Hold
+
+Applying headship rates and household sizes from a decade ago to today's cohorts ignores that younger generations form households later, have fewer children, and respond to affordability by doubling up. The mechanism is that historical rates are convenient defaults embedded in standard models. The false signal is a forecast that looks consistent with the past. The harm is systematic over-projection of household formation when affordability is suppressing headship, or under-projection when declining household size is generating more units than expected. Test rates against recent cohort behavior and current cost conditions.
+
+### Ignoring Aging-in-Place and Its Lock-In of Existing Stock
+
+Projecting senior housing demand as if older residents will move to appropriate units ignores that most aging owners stay put, locking larger homes out of the family market. The mechanism is that turnover assumptions are optimistic or unstated. The false signal is that the existing stock will naturally rebalance to meet demand. The harm is over-reliance on filtering and turnover to deliver family and accessible units, when in reality the stock stays frozen and shortages deepen. Model aging-in-place explicitly and plan new construction to fill the turnover gap.
+
+### Reporting Aggregate Unit Demand Without Type Decomposition
+
+A total units-needed number gives no guidance on what to zone for, subsidize, or build. The mechanism is that aggregation is easier and less politically charged than decomposition. The false signal is a comprehensive-seeming housing goal. The harm is that the market builds the easiest type — often large single-family or luxury multifamily — while the segments in real shortage (missing middle, affordable, accessible, family-sized rentals) go unmet. Decompose demand by type, tenure, size, and affordability and target policy to the specific gaps.
+
+### Overlooking the Missing Middle and Default Single-Family Production
+
+Where zoning permits only single-family and high-density multifamily, the market produces those poles and skips the middle housing that much of the demographic demand actually seeks. The mechanism is that zoning and financing defaults channel production to the extremes. The false signal is that the market is responding to demand. The harm is a persistent shortage of duplexes, triplexes, townhomes, and small multifamily that would match the demand of smaller households, moderate incomes, and aging residents. Identify the missing middle explicitly and connect it to zoning reform.
+
+### Treating Affordability as Separate From Demographic Demand
+
+Analyzing demographic demand and affordable-housing need as separate exercises misses that affordability itself changes household formation, tenure, and type. The mechanism is that affordability is siloed into an equity chapter while demographics are treated as a neutral forecast. The false signal is a demand analysis that ignores cost. The harm is that projections assume headship and tenure patterns that high costs have already broken, producing forecasts disconnected from the actual behavior of cost-burdened households. Integrate affordability into the demand model so that cost pressure visibly reshapes formation and tenure.
+
+## Self-Check
+
+- Did you convert the population projection to a household projection using age-specific headship rates, and report those rates, rather than treating population growth as direct unit demand?
+- Did you decompose housing demand by tenure, size, affordability level, and structure type, and present the gap between projected demand and existing stock by type?
+- Did you model aging-in-place explicitly, including turnover assumptions, rather than assuming the existing stock will naturally rebalance to family or accessible demand?
+- Did you test household-size and headship assumptions against recent cohort behavior and current affordability, rather than defaulting to historical patterns?
+- Did you identify the missing middle and other stock-demand mismatches geographically and quantitatively, and connect them to specific zoning and production responses?
+- Did you integrate affordability into the demand model so that cost pressure's effect on household formation and tenure is visible?
+- Did you trace each demand segment to specific policy and infrastructure tools (zoning, capital, code, funding) rather than leaving the analysis as diagnosis without prescription?
+- Could a reviewer follow the chain from demographic composition, through headship and household-size assumptions, to typed housing demand, to the specific stock mismatches the plan addresses?

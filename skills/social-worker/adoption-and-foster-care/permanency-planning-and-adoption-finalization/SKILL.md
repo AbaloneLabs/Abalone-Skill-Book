@@ -1,0 +1,79 @@
+---
+name: permanency-planning-and-adoption-finalization.md
+description: Use when the agent is developing a child's permanency plan, pursuing reunification with concurrent planning, preparing or litigating termination of parental rights, finalizing an adoption, applying the Indian Child Welfare Act for Native children, or arranging post-adoption services and future search and contact.
+---
+
+# Permanency Planning and Adoption Finalization
+
+Permanency planning is the work of securing for every child an enduring, legally protected family relationship, because impermanence — drifting in temporary placement with no resolution — is itself a developmental harm that damages attachment, identity, and the capacity to trust. The permanency hierarchy places reunification with the family of origin first, then placement with kin, then guardianship, then adoption, with planned permanent living arrangements as a last resort for youth for whom those are not viable. Agents err because reunification feels like the morally preferred outcome and workers may extend it beyond realism or safety, because shifting to termination of parental rights (TPR) feels like punishing the family, because the legal and procedural requirements of TPR and adoption finalization are exacting and easy to mishandle, and because the Indian Child Welfare Act (ICWA) imposes distinct protections that are frequently misapplied. This skill covers how to navigate the permanency hierarchy, how to use concurrent planning honestly, how to pursue TPR on legally sound grounds, how to finalize adoption, how to honor ICWA, and how to build post-adoption supports and future contact. The overriding rule is that a child's need for timely, safe permanency is itself a developmental and safety imperative, and delay is harm. When the permanency path involves TPR or contested ICWA placements, consult a supervisor and agency counsel before acting.
+
+## Core Rules
+
+### Honor the Permanency Hierarchy and Pursue Reunification First
+
+In nearly every jurisdiction the law requires that reunification be pursued as the first permanency goal, with reasonable efforts made and documented from the moment of removal, because preserving the family of origin — when it can be made safe — is generally best for the child's identity and belonging. Pursue reunification actively: identify what must change for the child to return safely, build a specific and measurable case plan, arrange the services, and support the family's engagement. Do not let the case drift; the legal and developmental clocks begin at removal. The hierarchy is not a suggestion, and each tier should be reached only when the prior one has been genuinely and honestly pursued and found not viable within the time the child can tolerate. Document the reasonable efforts at every stage, because the court will require evidence of them and their absence can invalidate later steps. Reunification is the goal until the evidence shows it cannot be achieved safely and in time — not a formality to be skipped, and not an open-ended commitment that outruns the child's developmental window.
+
+### Use Concurrent Planning Honestly, Not as a Hidden Track
+
+Concurrent planning means pursuing reunification as the primary goal while simultaneously preparing an alternative permanency plan (typically with the current kin or foster placement) so that if reunification fails, the child does not start over from zero. It is appropriate when reunification is uncertain, and it must be conducted honestly with all parties. The danger is the hidden track: the worker tells the family they are working toward reunification while quietly building the adoption case with the foster family, so the family is blindsided and the agency's honesty is compromised. Be transparent: the family should know that an alternative is being prepared, the foster family should understand their role, and the child's situation should be explained at a developmentally appropriate level. Concurrent planning is not a lack of commitment to reunification; it is a protection for the child against the cost of starting over if reunification does not succeed. Document both tracks and the basis for the uncertainty that justifies concurrent planning.
+
+### Pursue TPR Only on Legally Sound, Evidentiary Grounds
+
+Termination of parental rights is among the most severe actions the state can take, severing the legal relationship between parent and child permanently, and it must be pursued only on grounds the law recognizes and the evidence supports. Grounds typically include abandonment, neglect or abuse that threatens the child's health or safety, failure to remedy the conditions that led to removal despite reasonable efforts, parental incapacity, or the child having been in care for 15 of the most recent 22 months (with exceptions). The evidence must be specific, documented, and current — not impressionistic. Before pursuing TPR, consult a supervisor and agency counsel, confirm the grounds, confirm that reasonable efforts were made and documented (or that an exception applies), and confirm that the alternative permanency placement is identified and committed. TPR pursued on weak grounds, or without the required efforts findings, can be reversed on appeal, sending the case back to the beginning and extending the child's impermanence. TPR is also not the end of the relationship; consider whether open adoption or post-adoption contact with birth family serves the child.
+
+### Apply ICWA Protections Affirmatively for Native Children
+
+The Indian Child Welfare Act (ICWA) is federal law that establishes distinct, heightened protections for children who are members of, or eligible for membership in, a federally recognized tribe, and it must be applied affirmatively, not treated as optional or procedural. Early in every case, inquire whether the child may be an "Indian child" as defined by ICWA, and if so, notify the relevant tribe(s) promptly so they can participate and, where they choose, intervene. ICWA sets higher evidentiary standards for TPR (clear and convincing evidence, and beyond a reasonable doubt for some placements), preferences for placement with extended family and within the tribal community, and active efforts requirements that are distinct from reasonable efforts. Failure to apply ICWA — missed notice, wrong evidentiary standard, failure to make active efforts — can invalidate the entire proceeding years later, devastating a child and an adoptive family who have built their lives together. When there is any indication the child may have Native heritage, consult a supervisor and agency counsel and verify the ICWA analysis before proceeding; do not assume ICWA does not apply based on appearance or the family's self-report alone.
+
+### Finalize Adoption With Procedural Rigor and Child-Centered Timing
+
+Adoption finalization is a legal proceeding that converts a placement into a permanent legal family, and it must be prepared and executed with procedural rigor. Confirm that TPR is complete or that consents are valid and irrevocable, that the child has been in the adoptive placement for the required period, that the required reports (social history, home study update, child-specific assessment) are complete and current, and that any subsidies or assistance agreements are in place. Prepare the child developmentally for what finalization means — that it is permanent, that the adoptive family is their legal family, and that they can ask questions about their story. Time the finalization to the child's readiness and the stability of the placement, not to the agency's calendar; a placement that is not yet secure should not be finalized, and a secure placement should not be delayed. Support the adoptive family through the transition from foster status to permanency, which shifts their role and their access to supports.
+
+### Maintain Birth Family and Cultural Connections Into Permanency
+
+Permanency through adoption or guardianship does not erase a child's identity, history, or relationships; the child carries their family of origin, their culture, and their questions into their permanent family. Where safe and appropriate, build openness into the permanency plan — post-adoption contact agreements, exchange of information and photos, and preserved relationships with siblings, extended family, and community. Openness serves the child's identity and reduces the fantasized, often distorted, search for origins later. Where direct contact is not safe, preserve access to information and cultural connection so the child's story is not lost. For cross-cultural and transracial placements, build explicit plans to maintain the child's cultural, linguistic, and religious connections. An adoption that severs all ties to a child's origins may be legally complete but leaves the child with an identity wound that surfaces across the lifespan.
+
+### Build Post-Adoption Services and Plan for Future Search
+
+Adoption is not a finish line after which the family no longer needs support; adoptive families, particularly those parenting children with significant trauma histories, often need ongoing services, and the need can intensify at developmental transitions — adolescence, identity formation, young adulthood. Ensure families know about and can access post-adoption services: counseling, trauma-informed mental health care, respite, support groups, educational advocacy, and crisis support, as well as any adoption assistance or subsidy for which they are eligible. Plan for the likelihood that the adopted person will, at some point, want to search for or contact birth family; preserve records honestly and accessibly, support the person's right to their own story, and facilitate contact where it is safe and desired. Post-adoption support is part of the permanency commitment, not an afterthought; an adoption that destabilizes in adolescence for lack of support is a permanency outcome at risk.
+
+## Common Traps
+
+### Endless Reunification Beyond the Child's Developmental Window
+
+The worker, committed to the family and reluctant to "give up," continues pursuing reunification long after the evidence shows it is not progressing, hoping for a breakthrough. The trap mechanism is that persistence feels like dedication and shifting the goal feels like betrayal. The false signal is an active case plan and ongoing services. The harm is that the child drifts in temporary placement past the developmental window for stable attachment, the legal timeline is missed, and the eventual shift — if it comes — leaves too little time to finalize an alternative permanency. Honesty about progress, measured against the child's timeline, is the child's right.
+
+### The Hidden Concurrent Track
+
+The worker tells the family they are working toward reunification while quietly preparing the foster family for adoption, so the family is blindsided when the goal shifts. The trap is that the hidden track avoids conflict in the moment and protects the alternative plan. The false signal is a reunification case that appears active. The harm is that the family's trust is violated, the agency's credibility is damaged, and the family may pursue legal challenge that delays the child's permanency. Concurrent planning must be transparent to all parties.
+
+### TPR on Weak or Stale Evidence
+
+The worker pursues TPR based on impressions, outdated findings, or grounds the evidence does not clearly support, assuming the court will agree. The trap is that the case feels strong in narrative and the worker wants resolution. The false signal is a TPR petition filed. The harm is that TPR pursued on weak grounds can be reversed on appeal, sending the case back to the beginning, extending the child's impermanence, and sometimes destabilizing an adoptive placement already in progress. TPR requires specific, current, documented evidence and legal consultation.
+
+### Misapplying or Missing ICWA
+
+The worker assumes ICWA does not apply based on appearance or self-report, fails to inquire or notify the tribe, applies the reasonable-efforts standard instead of active efforts, or uses the wrong evidentiary threshold. The trap is that ICWA's requirements feel procedural and the case appears to proceed normally without them. The false signal is a case moving toward TPR and adoption. The harm is that an ICWA error can invalidate the entire proceeding years later, devastating the child and the adoptive family and reopening old wounds. ICWA must be applied affirmatively and verified with counsel whenever Native heritage is possible.
+
+### Finalizing on the Agency Calendar Rather Than the Child's Readiness
+
+The worker pushes finalization to meet an internal target or close the case, before the placement is genuinely stable or the child is prepared. The trap is that the date is concrete and the closure is satisfying. The false signal is a finalized adoption. The harm is that a placement finalized before it is secure can disrupt after finalization — one of the most damaging outcomes — and a child rushed through finalization without preparation can experience it as confusing or frightening. Finalization timing must follow the child's readiness and the placement's stability.
+
+### Permanency That Erases Origins
+
+The adoption severs all contact with and information about the child's family of origin, culture, and history, treating permanency as a clean break. The trap is that a clean break feels simpler and protects the new family's claim. The false signal is a settled, closed adoption. The harm is that the child loses access to their own identity, and the unaddressed questions surface later, often in adolescence, as distress, identity confusion, or a destabilizing search. Permanency must carry the child's history with them.
+
+### Treating Adoption as the End of the Family's Needs
+
+The adoption is finalized, the case is closed, and the family is assumed to be self-sufficient, so post-adoption services are not built or offered. The trap is that finalization feels like completion. The false signal is a closed case. The harm is that adoptive families parenting children with trauma histories encounter predictable challenges — often intensifying in adolescence — without support, and placements that could have been sustained with services destabilize. Post-adoption support is part of the permanency commitment.
+
+## Self-Check
+
+- Did I honor the permanency hierarchy, pursuing reunification first with documented reasonable efforts, and reaching each subsequent tier only when the prior was genuinely found not viable within the child's timeline?
+- Where reunification was uncertain, did I use concurrent planning transparently with all parties, rather than running a hidden alternative track?
+- Before pursuing TPR, did I confirm legally sound and current evidentiary grounds, consult a supervisor and agency counsel, and verify the reasonable-efforts or exception findings?
+- For any child who may be Native, did I inquire, notify the tribe, apply active efforts and the correct evidentiary standards, and verify the ICWA analysis with counsel before proceeding?
+- Did I prepare and time the adoption finalization to the child's readiness and the placement's stability, with all required reports, consents, and subsidies in place, rather than to the agency's calendar?
+- Did I build openness and preserved connections to birth family, siblings, and culture into the permanency plan where safe and appropriate, rather than treating permanency as a clean break?
+- Did I ensure the adoptive family knows about and can access post-adoption services and subsidies, and did I plan for the likelihood of future search and contact?
+- Did I escalate TPR, contested ICWA, and any uncertainty about the permanency path to supervisory and legal consultation before acting?

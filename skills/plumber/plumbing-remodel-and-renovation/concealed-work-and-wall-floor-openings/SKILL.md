@@ -1,0 +1,73 @@
+---
+name: concealed-work-and-wall-floor-openings.md
+description: Use when the agent is opening walls or floors for plumbing, notching or boring studs and joists, restoring fire-blocking, protecting structural members from plumbing penetrations, or defining patch-back responsibilities after concealed plumbing work in a finished building.
+---
+
+# Concealed Work and Wall Floor Openings
+
+Plumbing work in a finished building requires opening walls and floors, modifying the framing that supports them, and then restoring what was opened — and the structural, fire-safety, and finish consequences of those openings are the plumber's responsibility whether acknowledged or not. The judgment problem is that a wall or floor is not an empty cavity; it is a structural and fire-rated assembly, and every notch, bore, and opening changes its strength, its fire resistance, and its finish. A plumber who cuts studs and joists freely, fails to restore fire-blocking, and leaves patch-back undefined creates structural risk, fire-spread paths, and disputes over who repairs the drywall. This skill covers the decisions that keep concealed work structurally sound, fire-safe, and clearly scoped.
+
+## Core Rules
+
+### Know and Respect the Boring and Notching Limits for Studs and Joists
+
+Framing members have code-defined limits on how much material can be removed for plumbing, and exceeding them weakens the wall or floor structurally. For solid wood studs, the IPC and IRC allow a hole up to 40 percent of the stud depth (bored in the center where practical) and a notch up to 25 percent of the depth (not in the middle third), with doubling of the stud where the bore exceeds 40 percent or the notch exceeds 25 percent in load-bearing walls. For joists, notches are limited to one-sixth of the depth and only in the top third, holes to one-third of the depth and not within 2 inches of a notch, and the tension edge (bottom) of a joist must never be notched. For manufactured I-joists and trusses, the manufacturer's rules govern and typically prohibit any field cutting of flanges or webs except at designated knockouts. The disciplined rule is to know the limits for the member type, to keep penetrations within them, and to coordinate any unavoidable structural impact with the framer and building official.
+
+### Protect Structural Members and Coordinate Engineered Solutions Where Limits Are Exceeded
+
+Where a plumbing run cannot avoid exceeding the boring or notching limits — a long drain that needs a deep notch, a stack that must pass through a critical joist — the work cannot simply proceed; the structural impact must be addressed. The disciplined approach is to coordinate with the framer or a structural engineer to reinforce the member (sister a stud, add a squash block, header off the opening), to document the solution, and to obtain approval where the building official requires it. For manufactured members (I-joists, LVL, trusses), follow the manufacturer's published allowable penetrations and use the manufacturer's reinforcement details; never field-cut a truss or an I-joist flange without engineering. The trap is cutting structure freely and assuming "it will hold," which may be true until the next wind load or the next floor load reveals the weakness.
+
+### Restore Fire-Blocking and Draft-Stop at Every Penetration and Opening
+
+Concealed wall and floor cavities are fire- and draft-blocked to prevent fire and smoke from spreading through the framing, and any opening made for plumbing must be restored. Fire-blocking is required at every wall plate level, at every soffit and drop, at every stud bay crossing a floor, and around every penetration through a top or bottom plate. The disciplined rule is to restore fire-blocking at every opening and penetration using approved materials (2x lumber, 3/4-inch plywood, or listed firestop putty, sealant, or collars for pipe penetrations), and to use listed firestop assemblies at penetrations of fire-rated walls and floors. The trap is running a pipe through a top plate and leaving the annular space open, creating a path for fire and smoke to spread from one floor to the next. The disciplined approach is to seal every penetration with the appropriate firestop material and to document the firestop listing for rated assemblies.
+
+### Define Patch-Back Responsibility Before the Work Begins
+
+Opening a wall or floor creates a finish repair, and the question of who patches the drywall, replaces the tile, and matches the texture is a common source of dispute. The disciplined approach is to define patch-back scope in the contract before demolition: whether the plumber patches the drywall to a "tape and mud ready" state, to a fully finished and textured state, or not at all (turning the repair over to a drywall contractor), and whether tile, trim, and finish matching are included or excluded. The trap is leaving patch-back undefined, doing the plumbing, and then discovering the owner expected a fully finished wall while the plumber expected to leave it open for a drywaller. The disciplined rule is to state the patch-back scope explicitly, in writing, and to price it accordingly.
+
+### Open Walls and Floors Surgically and Minimize Collateral Damage
+
+The size and shape of an opening affect the cost of the patch-back and the integrity of the structure, and the disciplined approach is to open surgically — the minimum access needed, centered on studs where possible so the patch has backing, and avoiding damage to adjacent finishes, wiring, and ductwork. Use a dust-controlling method (zip wall, HEPA vac on the cutter), cut cleanly along stud faces so the patch can be re-installed or a new piece set with backing, and avoid breaking out plaster or drywall beyond the opening. The trap is breaking out a large irregular hole because it is faster, which leaves no backing for the patch, weakens the wall, and multiplies the finish repair cost. The disciplined rule is to plan the opening for both access and repairability.
+
+### Sequence Concealed Work to Allow Inspection Before Closure
+
+Concealed plumbing work must be inspected before it is closed, and the sequence must allow the inspector to see the work, the structural modifications, and the fire-blocking. The disciplined approach is to complete the plumbing, leave the structural modifications exposed for the framer's and plumber's inspection, install and inspect the fire-blocking, and only then close the wall. The trap is closing the wall immediately after the plumbing to "get ahead," concealing uninspected work and uninspected fire-blocking, which fails inspection and requires re-opening. The disciplined rule is to sequence concealment after inspection, and to coordinate with the inspector and the general contractor on the timing.
+
+## Common Traps
+
+### Notching or Boring Beyond Code Limits Without Reinforcement
+
+A plumber notches a 2x10 floor joist 3 inches deep to fit a drain, exceeding the one-sixth-depth notch limit and removing material from the tension zone, and the joist sags or splits under load. The trap is that the notch "fits the pipe" and the joist "still holds the floor," so the over-limit cut feels acceptable, but the code limit exists to preserve the joist's strength under design load. The mechanism is that removing material from the tension edge reduces the joist's bending strength disproportionately, and a deep notch creates a stress riser that can initiate a split. The false signal is that the floor "hasn't fallen." The harm is a sagging or bouncy floor, a structural deficiency that may fail under future load, and a liability if the deficiency is discovered in a sale inspection. The defense is to know the notch and bore limits, to keep penetrations within them, and to coordinate reinforcement (sistering, headering) where a limit must be exceeded.
+
+### Leaving Fire-Blocking Out at Pipe Penetrations
+
+A plumber runs a vent stack through a top plate and leaves the annular space open, creating a continuous path from the basement to the attic through which fire and smoke can spread unimpeded, defeating the fire-resistance of the floor assembly. The trap is that the annular space is small and invisible, and fire-blocking is easy to omit when the focus is on the pipe. The mechanism is that concealed cavities act as chimneys during a fire, and an unblocked penetration allows fire and smoke to bypass the floor's fire-resistance. The false signal is that the wall "looks closed." The harm is a code violation, a failed inspection, and a real fire-spread risk in the finished building. The defense is to seal every penetration through a top or bottom plate and every concealed cavity crossing with approved fire-blocking materials, and to use listed firestop assemblies at rated penetrations.
+
+### Cutting a Manufactured Joist or Truss Flange Without Engineering
+
+A plumber drills through the bottom flange of an I-joist or cuts a truss web to route a drain, assuming the member can "take a small hole," and the engineered member loses its rated capacity and may fail under design load. The trap is that engineered members look like dimensional lumber and seem tolerant of holes, but their capacity is precisely engineered and the flanges and webs are not field-modifiable except at designated locations. The mechanism is that the flange carries the tension or compression and a cut removes the load path; the web of an I-joist has designated knockout zones but the flange does not. The false signal is that the joist "hasn't sagged yet." The harm is a structural deficiency, a failed framing inspection, and an expensive engineering remediation. The defense is to follow the manufacturer's published allowable penetrations for I-joists and trusses, to use only the designated knockouts, and to obtain engineering for any deviation.
+
+### Breaking Out a Large Irregular Hole With No Backing for the Patch
+
+A plumber needs access behind a wall and breaks out a large irregular section of drywall beyond the studs, leaving no backing for the patch, and the patch-back becomes a drywall reconstruction with new backing rather than a simple piece replacement. The trap is that breaking out is faster than cutting cleanly, and the access feels generous, but the patch-back cost multiplies because the opening has no edge support. The mechanism is that a drywall patch needs backing (a stud, a backer block, or the original piece) to be secured, and an oversized irregular hole has none. The false signal is that the access "made the work easier." The harm is a higher patch-back cost, a weaker wall, and a visible patch that does not match the surrounding finish. The defense is to plan openings for both access and repairability — center on studs, cut cleanly, keep the opening to the minimum needed — and to price the patch-back to match the actual opening.
+
+### Leaving Patch-Back Scope Undefined Until After the Work
+
+A plumber opens a tiled bathroom wall, does the plumbing, and leaves the opening, assuming the owner will hire a drywaller and tile setter; the owner assumed the plumber would restore the wall to a finished, tiled state, and the dispute erupts at project close-out. The trap is that patch-back scope is easy to leave implicit because both parties assume the obvious, but the obvious differs between trades and owners. The mechanism is that "fix the wall" can mean anything from "leave it open" to "fully tiled and textured," and the price difference is large. The false signal is that both parties "agreed to fix the wall." The harm is a billing dispute, an unhappy owner, and possible small-claims conflict. The defense is to define patch-back scope in writing before demolition — what is included (drywall to tape-ready, fully finished, tile, trim, texture) and what is excluded — and to price it accordingly.
+
+### Closing the Wall Before Inspection and Fire-Blocking Are Complete
+
+A plumber finishes the concealed plumbing and immediately closes the wall to keep the project moving, concealing the work and the fire-blocking from the inspector, and the inspector fails the job and requires the wall re-opened. The trap is that schedule pressure rewards closure and the inspection feels like a formality, but concealment before inspection is a code violation and a re-work trigger. The mechanism is that concealed work cannot be visually inspected once covered, and the inspector must see the plumbing, the structural modifications, and the fire-blocking before closure. The false signal is that the work "is done and tested." The harm is a failed inspection, mandatory re-opening of a finished wall, and a schedule and credibility loss. The defense is to sequence concealment strictly after inspection, to install and inspect fire-blocking before closure, and to coordinate the timing with the inspector and general contractor.
+
+## Self-Check
+
+- Did I keep every notch and bore within the code limits for the member type (40 percent bore, 25 percent notch for solid studs; one-sixth-depth notch and one-third-depth hole for joists), and coordinate reinforcement where a limit was exceeded?
+- Did I avoid cutting the flange of any manufactured I-joist, LVL, or truss, using only designated knockouts and following the manufacturer's allowable penetration rules, with engineering for any deviation?
+- Did I restore fire-blocking at every wall plate level, soffit, and stud bay crossing, and seal every pipe penetration through a top or bottom plate with approved fire-blocking or a listed firestop assembly?
+- For fire-rated walls and floors, did I use listed firestop assemblies at every penetration and document the listing for the inspector?
+- Did I define patch-back scope in writing before demolition, specifying what is included (drywall to tape-ready, fully finished, tile, trim, texture) and what is excluded, and price it accordingly?
+- Did I open walls and floors surgically — minimum access, centered on studs where possible, clean cuts — to minimize collateral damage and keep the patch repairable with backing?
+- Did I sequence concealment strictly after the plumbing inspection passed and the fire-blocking was inspected, rather than closing the wall to save schedule?
+- Did I coordinate any structural reinforcement (sistered studs, headers, squash blocks) with the framer or engineer and document the solution?
+- Did I use dust control (zip wall, HEPA vac) and protect adjacent finishes, wiring, and ductwork during the opening?
+- Did I document the openings, structural modifications, fire-blocking materials, and patch-back scope so the as-built concealed work is traceable and the finish responsibility is clear?

@@ -1,0 +1,75 @@
+---
+name: excavation-and-trench-safety.md
+description: Use when the agent is planning or supervising an excavation or trench, classifying soil (Type A/B/C), selecting sloping, benching, shoring, or shielding, managing spoil placement and surcharge, providing access and egress, controlling water and hazardous atmospheres, or verifying OSHA 29 CFR 1926 Subpart P compliance and competent-person daily inspections before workers enter an excavation.
+---
+
+# Excavation and Trench Safety
+
+Excavation and trenching are among the deadliest work in civil construction, and the distinguishing fact is that a trench collapse is not a slow, observable failure — it is a wall of soil that releases in seconds and buries a worker under thousands of pounds, killing by compression asphyxia within minutes, often before rescue can begin. The judgment problem is that the correct protective system depends on variables an untrained eye cannot read: soil type, depth, water, vibration, adjacent loads, and prior disturbance, and the system must be selected, installed, and inspected by a competent person before any person steps into the excavation. Agents tend to treat a trench as "just a hole" and to enter it "for just a minute" without protection, trusting that the walls look solid; the harm this skill prevents is the fatality that follows that single unprotected entry. This skill covers the trench-versus-excavation distinction, the 5-foot protective-system trigger, sloping and benching angles by soil type, shoring and shielding, soil classification by visual and manual analysis, the competent person's daily inspection, spoil setback, access and egress, and water and atmosphere control. It is a high-stakes domain: errors kill, and the agent must defer to a trained, designated competent person with stop-work authority, to a professional engineer for protective systems outside published OSHA tables, and to confined-space rules where an excavation meets that definition.
+
+## Core Rules
+
+### Distinguish Trench From Excavation and Apply the 5-Foot Trigger
+
+OSHA defines an excavation as any man-made cut, cavity, trench, or depression in the earth surface formed by earth removal, and a trench as a narrow excavation (the depth greater than the width) that is no more than 15 feet wide at the bottom. The protective-system rule of 29 CFR 1926 Subpart P is triggered at 5 feet: every excavation 5 feet or deeper must have a protective system (sloping, benching, shoring, or shielding) unless the excavation is in stable rock. Trenches less than 5 feet deep require protection when a competent person identifies a potential cave-in. The disciplined habit is to measure the depth before any entry, to treat the 5-foot mark as a hard trigger, and to install protection even on shallow trenches when the soil shows fissures, water, or vibration. The trap is reading "5 feet" as a license to enter shallow trenches unprotected when the competent person has flagged instability.
+
+### Classify Soil by Visual and Manual Analysis Before Selecting a System
+
+The protective system depends on soil type, and OSHA recognizes three classes: Type A (cohesive soils with an unconfined compressive strength of 1.5 ton per square foot or greater, e.g., clay, silty clay, hardpan — but never previously disturbed, fissured, or subject to vibration), Type B (cohesive soils below 1.5 tsf, granular cohesionless soils, previously disturbed soils, or Type A that is fissured or subject to vibration), and Type C (cohesive soil below 0.5 tsf, granular soils including gravel, sand, and loamy sand, submerged or water-bearing soil, and rock that is not stable). Classification requires both visual tests (observing the excavated material, the spoil pile, the sides for fissures and layering, and the presence of water) and at least one manual test (thumb penetration, plasticity/wet thread, dry strength, or a pocket penetrometer / shear vane). The trap is classifying by appearance alone, or classifying previously disturbed or water-bearing soil as Type A to permit steeper slopes. When in doubt, default to the less stable type, and re-classify when conditions change.
+
+### Select Sloping or Benching Angles to Match the Soil Type
+
+Sloping cuts the excavation walls back to a safe angle, and benching cuts a series of steps. The maximum allowable slopes in OSHA's Appendix B are 0.75H:1V (53 degrees) for Type A, 1H:1V (45 degrees) for Type B, and 1.5H:1V (34 degrees) for Type C, applied to each layer in layered systems. Simple slope configurations for short-term (under 24 hours) excavations 20 feet or less deep are tabulated, but anything deeper, anything in mixed or layered soils, or anything with surcharge or vibration must be designed by a professional engineer. The trap is over-steepening a slope by misclassifying the soil, or applying a tabulated slope to a condition (vibration, adjacent foundation, layered soil) that the table does not cover. The disciplined approach is to slope conservatively, to document the configuration, and to engage a PE for any non-tabulated condition.
+
+### Choose Shoring or Shielding Where Sloping Is Not Feasible
+
+Where space, depth, or adjacent structures make sloping infeasible, the alternatives are shoring (hydraulic, pneumatic, or timber supports that hold the walls in place) and shielding (a trench box or shield that protects workers if the walls collapse — it does not prevent collapse, it protects the occupant). Shoring and shielding must be installed, used, and removed per the manufacturer's tabulated data or a PE design, with the top of the shield extending at least 18 inches above the level of any material that could roll or fall into the trench. The trap is using a shield rated for a shallower depth or a different soil than the actual condition, or allowing workers outside the shield (in the unprotected portion of the trench) to set pipe. The disciplined rule is to keep workers inside the shield at all times, to match the shield's tabulated data to the actual depth and soil, and to never let anyone work between the shield and an unprotected face.
+
+### Conduct Competent-Person Daily and As-Conditions-Change Inspections
+
+A competent person must inspect the excavation, the adjacent areas, and the protective system daily before entry, after every rainstorm or hazard-increasing event, and as workers are exposed. The inspection looks for evidence of potential cave-ins (fissures, tension cracks, bulging, sloughing, trickling water), indications of protective-system failure, and hazardous atmospheres. The competent person must have authority to remove workers from the excavation when a hazard is observed. The trap is treating the daily inspection as a sign-off formality, or skipping it after a rain because "it looks fine." The disciplined approach is a documented, conditions-based inspection by a person who can and will stop work, with re-inspection after any change.
+
+### Keep Spoil, Equipment, and Surcharge at Least 2 Feet Back
+
+Excavated material (spoil), equipment, and stored materials impose a surcharge load on the trench walls. OSHA requires spoil and equipment to be kept at least 2 feet from the edge, or the protective system must be designed for the additional load. The trap is piling spoil and parking the excavator at the lip, adding hundreds of pounds per foot that the wall was not designed for, so the wall collapses under combined soil and surcharge load — often onto a worker. The disciplined rule is to keep all spoil, equipment, and materials at least 2 feet back (measured from the closest point), and to account for any surcharge within 2 feet in the protective-system design. Also manage surface water (divert away from the excavation), vibration (traffic, adjacent equipment), and adjacent structures and utility poles that could undermine or be undermined.
+
+### Provide Access and Egress Every 25 Feet and Control Water and Atmosphere
+
+A safe means of egress — ladder, ramp, or steps — must be within 25 feet of lateral travel for every worker in any trench 4 feet or deeper, with ladders extending at least 3 feet above the edge and secured. Water is a major destabilizer: OSHA prohibits workers in excavations where water is accumulating unless a competent person has evaluated the situation and adequate protection (dewatering, special shoring) is in place. For excavations 4 feet or deeper where a hazardous atmosphere could exist (near sewers, gas lines, landfills, contaminated soil, or in enclosed trench-box configurations), the atmosphere must be tested for oxygen, flammables, and toxics before and during entry. The trap is a single ladder at one end of a long trench, or entering a wet trench without dewatering, or entering a deep trench near a gas line without atmospheric testing. Deep or complex excavations may meet the confined-space definition and require permit entry.
+
+## Common Traps
+
+### Entering an Unprotected Trench "For Just a Minute"
+
+A worker jumps into an unshored, unsloped 6-foot trench to tie a pipe joint "real quick," trusting that the walls look solid. The trap is that a trench collapse is sudden and gives no useful warning; the wall can fail in seconds under a load the worker could not have seen developing. The mechanism is that soil weight is enormous and the failure is instantaneous. The false signal is "the walls look stable." The harm is a burial that kills by compression asphyxia within minutes, often before rescue. The defense is to never enter a trench 5 feet or deeper (or a shallower unstable trench) without the protective system installed and inspected, with no exceptions for brief tasks.
+
+### Misclassifying Disturbed or Granular Soil as Type A
+
+The competent person labels a previously disturbed or sandy soil as Type A to allow a steeper slope and less excavation volume, when it is actually Type B or C. The trap is that Type A permits the steepest slopes and the savings are tempting, but disturbed and granular soils fail at much flatter angles. The mechanism is that the actual soil's shear strength is far below the Type A assumption, and a steep slope fails. The false signal is "it looks like clay." The harm is a wall collapse. The defense is to classify conservatively using both visual and manual tests, to never classify previously disturbed, fissured, or water-bearing soil as Type A, and to default to the less stable type when in doubt.
+
+### Spoil Pile and Equipment at the Trench Lip
+
+The crew piles the excavated soil and stages the new pipe at the lip, adding surcharge the wall was not designed for. The trap is that the spoil and equipment load combines with the soil load to exceed the wall's capacity, and the wall collapses under the combined load, often onto a worker in the trench. The mechanism is that surcharge within 2 feet is an unaccounted load. The false signal is "the spoil is out of the way." The harm is a collapse. The defense is to keep all spoil, equipment, and materials at least 2 feet back from the edge, or to design the protective system for the surcharge.
+
+### Working Outside the Shield or Removing It Too Early
+
+Workers step out of the trench box to set pipe in the unprotected portion of the trench, or the shield is pulled forward before the work is complete, leaving workers exposed. The trap is that a shield protects only the space inside it, and any time spent between the shield and an unprotected face is unprotected exposure. The mechanism is that the unprotected face can collapse onto a worker outside the box. The false signal is "the box is right there." The harm is a burial. The defense is to keep workers inside the shield at all times and to advance the shield with the work so no one works ahead of it.
+
+### Skipping the Inspection After Rain or a Condition Change
+
+The crew enters the trench the morning after a rainstorm without a competent-person re-inspection, because "it looks the same." The trap is that water infiltrates fissures and reduces soil strength dramatically, and a wall that was stable yesterday can fail today with no visible warning. The mechanism is that water is the single largest destabilizer of soil. The false signal is "it looks fine." The harm is a collapse that the inspection would have caught. The defense is a documented, conditions-based re-inspection by the competent person after every rainstorm, freeze-thaw, or hazard-increasing event before any re-entry.
+
+### Entering a Wet or Deep Trench Without Atmosphere Testing
+
+The crew enters a trench accumulating water without dewatering or evaluation, or a deep trench near a sewer or gas line without atmospheric testing. The trap is that water destabilizes the walls and that heavier-than-air gases (sewer gas, gasoline vapor, displaced oxygen) settle in deep excavations. The mechanism is that water reduces shear strength and invisible gases disable without warning. The false signal is "it is an open trench, so it is ventilated." The harm is a collapse or a gas-overcome worker, with rescue often becoming a multi-victim event. The defense is dewatering and competent-person evaluation of water, and atmospheric testing before and during entry in any trench 4 feet or deeper where a hazard could exist.
+
+## Self-Check
+
+- Did a trained, designated competent person with stop-work authority classify the soil (Type A, B, or C) using both OSHA visual and manual tests before selecting the protective system, document the classification, and re-classify when conditions changed?
+- Is a protective system (sloping, benching, shoring, or shielding) installed and inspected before any person enters any trench 5 feet or deeper, and for any shallower trench the competent person has identified as unstable?
+- Are sloping or benching angles matched to the actual soil type (0.75H:1V Type A, 1H:1V Type B, 1.5H:1V Type C), and has a professional engineer designed any system outside the OSHA tabulated configurations or beyond 20 feet?
+- If shoring or shielding is used, does it match the manufacturer's tabulated data for the actual depth and soil, is the top of the shield at least 18 inches above any material that could roll in, and are workers kept inside the shield at all times?
+- Did the competent person conduct a documented daily inspection before entry and after every rainstorm, freeze-thaw, vibration event, or other hazard-increasing change, with authority to remove workers?
+- Are all spoil piles, equipment, and materials kept at least 2 feet back from the edge, or is the protective system designed for the surcharge; and are adjacent structures, utility poles, and vibration sources evaluated?
+- Is a safe means of egress (ladder, ramp, steps) provided within 25 feet of every worker in any trench 4 feet or deeper, with ladders extending at least 3 feet above the edge and secured?
+- Is water controlled (diverted, dewatered) with competent-person evaluation before entry, and for any trench 4 feet or deeper where a hazardous atmosphere could exist, is the atmosphere tested before and during entry — with confined-space permit procedures applied where the excavation meets that definition?

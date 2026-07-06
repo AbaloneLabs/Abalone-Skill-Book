@@ -1,0 +1,79 @@
+---
+name: frozen-dessert-storage-and-service.md
+description: Use when the agent is storing, displaying, or serving ice cream, gelato, sorbet, or other frozen desserts, managing cabinet and display case temperature, preventing ice crystal growth and refreezing damage, or maintaining scoop-ability and quality through service.
+---
+
+# Frozen Dessert Storage and Service
+
+A well-formulated frozen dessert can be ruined entirely in the storage and service phase, because its texture depends on small ice crystals that are fragile and grow irreversibly whenever the product warms and refreezes. The harm this skill prevents is the common pattern of treating the freezer and the display cabinet as passive holding boxes, when in fact they are active environments where temperature fluctuation, air exposure, and serving technique determine whether the guest receives a smooth, scoopable product or a coarse, icy, separated one. The recurring failures are familiar: ice cream that develops a crust of frost and goes gummy, gelato that melts into soup in the display case because the cabinet is too warm, sorbet that refreezes into a solid block after a service of opening and closing, and product that loses its texture over days because no one managed the cabinet temperature. The agent's job is to reason about temperature stability, ice crystal physics, refreezing damage, scoop-ability, and display case management, because the quality built into the base is only realized if the storage and service protect it.
+
+## Core Rules
+
+### Hold frozen desserts at a stable temperature appropriate to the style
+
+Different frozen desserts have different ideal holding temperatures, and stability matters as much as the absolute temperature. Ice cream is typically held and served between -14 and -18 degrees Celsius (about 7 to 0 Fahrenheit) for scoop-ability; gelato is held warmer, around -11 to -13 degrees Celsius (about 12 to 9 Fahrenheit), because its lower fat and overrun require a warmer serving temperature for the right texture; sorbet falls in a similar range to gelato. The critical factor is stability: a cabinet that swings several degrees through a service cycle causes partial melting and refreezing that grows ice crystals and destroys texture. Use a cabinet with accurate, stable temperature control, verify it with an independent thermometer, and avoid loading it with warm product or overfilling it past its capacity, both of which destabilize the temperature.
+
+### Prevent temperature fluctuation and refreezing damage
+
+Ice crystal growth is irreversible: once small crystals melt and refreeze, they combine into larger crystals, and the texture becomes permanently coarser. Every temperature swing, every partial thaw and refreeze, degrades the product. The most common causes are cabinet doors opened repeatedly during service, product moved between freezer and cabinet repeatedly, warm product loaded into the cabinet, and cabinets defrosting on a cycle. Minimize fluctuation by keeping cabinet openings brief, by not shuttling product between temperatures, by tempering product correctly once before service rather than repeatedly, and by using a cabinet that does not require defrost cycles that warm the interior. Once a product has been abused by fluctuation, it cannot be recovered; it must be discarded or repurposed.
+
+### Protect product surface from air and frost
+
+Exposure to air causes freezer burn and frost formation on the surface of frozen desserts: the moisture sublimates from the product and refreezes as frost, leaving a dry, crusted, gummy surface layer that is unpleasant to eat. In a display cabinet, protect the surface by pressing a layer of plastic film directly onto the surface of product in pans, by using lids or covers overnight, and by minimizing the time product sits exposed. Rotate product so older surfaces are served first. Frost that forms on the surface is not just cosmetic; it indicates that the texture beneath has been damaged by moisture migration. Train staff to cover and protect surfaces as a routine step, not an occasional one.
+
+### Temper product correctly for scoop-ability
+
+Frozen desserts must be tempered, brought to the correct serving temperature, before service so they are scoopable and have the right mouthfeel. Tempering is done once: move the product from deep storage (below -18 degrees Celsius) to the serving cabinet (warmer) and allow it to equilibrate, which can take 30 minutes to several hours depending on the size of the container. Tempering once and then holding at the serving temperature preserves texture; repeatedly moving product between deep cold and serving temperature causes fluctuation damage. Plan the tempering schedule so product is ready when service begins, and avoid the temptation to speed-temper by warming, which causes partial melt. A correctly tempered product scoops cleanly and has the intended texture; an under- or over-tempered product is either too hard or too soft.
+
+### Manage the display case for both temperature and presentation
+
+A gelato or ice cream display case is a working piece of equipment, not just a showcase. It must hold a stable temperature, it must allow staff to serve efficiently without long openings, and it must present the product attractively without exposing it to unnecessary air or warmth. Do not overfill pans past the intended level, because product above the refrigerated well is not held at temperature. Do not underfill to the point that the surface area is excessive relative to the volume, which accelerates surface drying. Rotate product so the oldest is served first, and refresh pans rather than topping off, because topping off mixes old and new and obscures the age of the product. Clean the case regularly so frost buildup does not compromise the refrigeration.
+
+### Use proper scoops and serving technique
+
+The serving tool and technique affect both the product quality and the guest experience. Use a dedicated scoop (a disher or a gelato spade) sized to the portion, and keep it in a running water dipper at a sanitary temperature between uses for ice cream, or dry for gelato where the spade technique is used. Do not use a scoop that has been in raw protein or other allergens. Scoop cleanly to minimize product disturbance, and do not pack the product down, which compresses the overrun and changes the texture. For gelato, the spade technique produces the characteristic quenelle shape and a denser serve. Train staff on the correct tool and technique for the product, because sloppy serving degrades the product and the presentation.
+
+### Rotate stock and discard product past its quality window
+
+Frozen desserts have a finite quality life even under ideal storage, because stabilizers slowly lose effectiveness and flavors fade or carry. Track the production or delivery date of each batch, rotate stock first-in-first-out, and establish a maximum storage time for each product type, after which the product is discarded or repurposed even if it looks acceptable. Ice cream typically holds quality for a few weeks; sorbet, with less fat to protect it, may have a shorter window. Do not rely on appearance alone, because the early stages of quality loss (subtle iciness, flavor dulling) are not obvious but are perceptible to the guest. Date-label every container and enforce the rotation.
+
+## Common Traps
+
+### Holding product in a cabinet that swings in temperature through service
+
+This is a trap because the cabinet looks like it is holding temperature, but repeated door openings and the cycling of an underpowered compressor cause the interior to swing several degrees, and each swing damages the product irreversibly. The mechanism is that as the cabinet warms slightly during a busy service, the surface and edges of the product partially melt, and when the compressor recovers, that melted portion refreezes into larger crystals, so over a service the texture becomes progressively coarser and the product develops a grainy mouthfeel that cannot be recovered. The false signal is that the cabinet thermostat reads a target temperature, which the cook treats as proof of stability. The harm is a product that degrades through service, disappointing later guests, and the cook blames the formula. The correct response is to use a cabinet with sufficient capacity for the service volume, to verify stability with an independent data-logging thermometer, to keep openings brief, and to avoid loading warm product.
+
+### Refreezing melted product and turning it icy
+
+This trap operates because when product softens or melts, the instinct is to put it back in the freezer to firm up, but refreezing grows the ice crystals and ruins the texture. The mechanism is that melting breaks the small crystal structure into liquid, and refreezing forms new, larger crystals because the conditions are no longer the rapid, agitated freezing of the original production, so the re-frozen product is coarser, icier, and often separated, with a texture fundamentally different from the original. The false signal is that the product is solid again after refreezing, which the cook reads as recovered. The harm is a product served at a degraded texture that guests notice, and the cook does not connect it to the refreeze. The correct response is to hold product at a stable temperature so it does not melt, to temper once rather than cycling, and to discard or repurpose any product that has melted rather than refreezing it.
+
+### Leaving product uncovered and developing frost and freezer burn
+
+This is a trap because the surface of uncovered frozen dessert looks fine initially, but moisture migration causes frost formation and surface drying that damages texture and appearance. The mechanism is that moisture sublimates from the cold product surface into the cold dry air of the cabinet or freezer, then refreezes as frost on the surface and on the cabinet walls, leaving the product surface dried out, crusted, and gummy, with a layer of frost that signals underlying texture damage. The false signal is that the product is frozen and looks intact, which the cook reads as properly stored. The harm is an unappealing surface texture and flavor degradation that the guest perceives, and product that must be discarded. The correct response is to press plastic film directly onto the surface of product in pans, to use lids or covers overnight, to minimize exposed surface time, and to serve older product first.
+
+### Topping off display pans and mixing old and new product
+
+This trap exists because topping off a half-empty pan with fresh product feels efficient and keeps the display full, but it obscures the age of the product and mixes textures. The mechanism is that the fresh product is added on top of older product that has already begun to degrade, so the pan appears fresh while containing older material at the bottom, and the age of the combined pan is unknown, leading to product being held well past its quality window; additionally, the textures of the two batches may differ slightly, producing an inconsistent serve. The false signal is a full, fresh-looking pan, which the cook reads as well-managed. The harm is product served past its quality window and inconsistent texture, and the rotation discipline is lost. The correct response is to serve out a pan to a low level, then clean the pan and refill with fresh product, date-labeling the new batch, rather than topping off and obscuring the age.
+
+### Speed-tempering by warming the product and partially melting it
+
+This trap operates because tempering takes time, and a cook under pressure warms the product to speed it up, but warming causes partial melting that damages the texture even after the product re-equilibrates. The mechanism is that warming the product above its holding temperature melts a portion of the ice crystals, and even though the product is then moved to the correct cabinet and re-equilibrates, the melted portion has refrozen into larger crystals, so the texture is coarser than if the product had been tempered slowly and gently. The false signal is that the product reaches scoopable temperature quickly, which the cook reads as efficient tempering. The harm is a product with subtly degraded texture that the cook cannot trace to the tempering shortcut. The correct response is to plan the tempering schedule so product is ready when needed, to temper slowly by moving from deep storage to the serving cabinet well in advance, and never to warm the product to speed tempering.
+
+### Using a dirty or cross-used scoop and contaminating the product
+
+This is a trap because the scoop contacts every serve, and a scoop that is contaminated or used across allergens becomes a vector that contaminates the entire pan. The mechanism is that a scoop used for one flavor then dipped into another transfers flavor and allergens, a scoop that contacts a raw protein or other contaminant then enters the pan introduces bacteria, and a scoop stored in stagnant un-sanitary water grows bacteria that transfer to each serve. The false signal is that the scoop looks clean or the water looks clear, which the cook reads as sanitary. The harm is cross-contamination of allergens, off-flavors between flavors, or foodborne illness, any of which can affect many guests from a single pan. The correct response is to use dedicated scoops per flavor where allergens are a concern, to store scoops in running water dipper at a sanitary temperature, to change the water regularly, and to never use a scoop that has contacted raw protein or other contaminants.
+
+### Keeping product past its quality window based on appearance alone
+
+This trap operates because frozen dessert looks acceptable well past the point where its texture and flavor have degraded, so a cook keeps it in service based on appearance and wastes the guest experience. The mechanism is that the early stages of quality loss, subtle iciness, stabilizer breakdown, flavor fading, are not visible to the eye but are perceptible in the mouth, so a product that looks fine in the pan is already past its best when served, and the guest receives a substandard dessert. The false signal is that the product looks intact and frozen, which the cook reads as good. The harm is guests served degraded product who do not return, and a reputation for inconsistent quality. The correct response is to date-label every container, to enforce a maximum storage time per product type, and to discard or repurpose product at the limit regardless of appearance.
+
+## Self-Check
+
+- Is product held at a stable temperature appropriate to the style (ice cream colder, gelato and sorbet warmer), verified with an independent thermometer and protected from service-cycle fluctuation?
+- Is temperature fluctuation minimized through brief cabinet openings, no shuttling between temperatures, and correct one-time tempering rather than repeated cycling?
+- Are product surfaces protected from air and frost with plastic film, lids, or covers, with older surfaces served first and overnight storage covered?
+- Is product tempered once and gently, well in advance of service, rather than speed-tempered by warming?
+- Is the display case managed for temperature and presentation, with pans filled to the correct level, product rotated first-in-first-out, and the case cleaned to prevent frost buildup?
+- Are dedicated, sanitary scoops used per flavor where allergens matter, stored in running water at a sanitary temperature, with clean serving technique that does not pack the product?
+- Is every container date-labeled, rotated first-in-first-out, and discarded or repurposed at the maximum storage time regardless of appearance?
+- Does the output respect the agent's limits, deferring final food-safety and allergen-control authority to qualified inspectors and regulators?

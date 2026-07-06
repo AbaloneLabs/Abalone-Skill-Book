@@ -1,0 +1,79 @@
+---
+name: brunch-timing-and-volume-service.md
+description: Use when the agent is planning or running a high-volume brunch service, balancing simultaneous sweet and savory demand, choosing between buffet and a la carte formats, or staffing and sequencing the kitchen and front-of-house for peak brunch volume.
+---
+
+# Brunch Timing and Volume Service
+
+Brunch is the most punishing service format in many kitchens because it compresses an enormous volume of disparate orders into a short window, with simultaneous demand for sweet items (pancakes, waffles, French toast, pastries) and savory items (eggs, breakfast meats, burgers, salads), each requiring different stations, equipment, and timing. Unlike dinner, where covers spread across several hours, brunch often hits a wall of orders between 11:00 and 13:00, and the kitchen that is not structured for that spike collapses: tickets back up, eggs overcook on the pass, sweet and savory stations block each other, and the guest experience degrades across the entire room at once. The harm this skill prevents is the common pattern of staffing and sequencing brunch as if it were a gentle breakfast service, which produces a kitchen that survives the first hour and drowns in the second, with long ticket times, cold food, and exhausted staff. The agent's job is to reason about demand forecasting, format choice, station design, staffing, and the choreography of sweet and savory production, because brunch success is an operations problem as much as a cooking problem.
+
+## Core Rules
+
+### Forecast the peak and staff to the spike, not the average
+
+Brunch volume is not flat; it spikes sharply in a two-hour window, typically late morning to early afternoon, and the kitchen must be staffed and stocked for the peak, not for the hourly average. Pull historical cover data, identify the peak hour, and calculate the tickets-per-minute the kitchen must sustain at peak. Staff every station for that peak, with enough cooks that no single station becomes the bottleneck, and enough support (dish, runners, expeditor) that the line is not interrupted. Over-staffing for the peak is cheaper than under-staffing, because a brunch that drowns loses guests permanently, while a smoothly run brunch builds the regular base. Build the schedule around the spike, with staff arriving early enough to prep and set up before the rush hits.
+
+### Separate sweet and savory production into independent stations
+
+Sweet and savory brunch items require different equipment, ingredients, and timing, and combining them on one station guarantees conflict. A cook making pancakes cannot also manage eggs Benedict without one waiting for the other, and shared flat-top space forces compromises on both. Designate a dedicated griddle or pan for sweet items (pancakes, French toast) away from savory proteins and eggs, dedicate an egg station with its own pans and poaching setup, and separate the pastry and baking finish from the hot line. Cross-utilize staff where possible but keep the physical stations distinct so production flows in parallel rather than serially. The sweet-savory separation is the single most effective brunch design decision.
+
+### Choose between buffet and a la carte based on volume and concept
+
+Buffet and a la carte are different operational models with different economics and guest experiences, and the choice should be deliberate. Buffet handles very high volume with lower per-cover labor, because one batch serves many guests and the kitchen produces continuously rather than to order, but it sacrifices freshness and customization, requires constant replenishment and holding management, and carries food-safety risk from extended holding. A la carte produces fresher, higher-quality food and a more premium experience, but it requires more skilled labor per cover and breaks down under volume if the kitchen is not structured for it. Match the format to the concept and the expected volume: buffet for sheer throughput at lower price points, a la carte for quality at moderate volume, and consider a hybrid where a buffet base absorbs volume while a limited a la carte menu handles premium items.
+
+### Build a prep-ahead strategy that protects cook-to-order quality
+
+Brunch cannot be cooked entirely to order at volume, so a prep-ahead strategy is essential, but it must be designed so that prepped components finish quickly on the line without degrading. Components that hold well include batters (mixed in batches through service), breakfast meats (pre-cooked or par-cooked and finished to order), sauces (hollandaise, gravies held warm and stable), chopped garnishes, and par-baked pastries. Components that do not hold well, like eggs and final-plated dishes, must be finished to order. Map each menu item into its prep-ahead and cook-to-order components, prep the make-ahead parts fully before service, and structure the line so the cook-to-order finish is fast. The goal is that every plate is finished in a few minutes even though much of it was prepped hours earlier.
+
+### Sequence the line and the pass for plate synchronization
+
+A brunch plate often combines items from multiple stations: eggs from the egg cook, bacon from the protein station, a pancake from the griddle, and a garnish from cold prep. These must come together at the pass at the same time, hot and at the right doneness, which requires explicit sequencing. The expeditor calls the order with timing cues ("fire table 12, drop eggs in two minutes"), the stations stage their components, and everything finishes together. Build the timing into the menu: if the pancake takes four minutes and the egg takes one, the pancake starts first. An unsynchronized line produces plates where the egg sits and overcooks while the pancake finishes, or where components are held separately and combined cold. Train the expeditor to control the rhythm and empower them to hold or re-fire items that miss the window.
+
+### Manage cross-utilization without creating a confusing menu
+
+Cross-utilization, using the same components across multiple dishes, reduces prep load and inventory, which is valuable in a high-volume brunch. A hollandaise used on Eggs Benedict and on a brunch burger, a bacon that appears in three dishes, a biscuit used for sandwiches and as a side: these reduce the number of unique components the kitchen must produce. The trap is over-doing cross-utilization until the menu feels repetitive or the dishes lose their identity. Cross-utilize strategically on components that make sense together, and preserve distinctive elements that give each dish its character. The menu should read as a coherent set of appealing dishes, not as a matrix of the same five components rearranged.
+
+### Plan the front-of-house flow to match kitchen capacity
+
+Brunch failure is often a seating problem as much as a kitchen problem: if the host seats the entire room at once, the kitchen receives a wall of simultaneous orders it cannot process, and every table gets slow food. Pace the seating to the kitchen's sustainable ticket-per-minute rate, even if it means a short wait at the door, because a paced seating produces good food for everyone while a rushed seating produces bad food for everyone. Coordinate with the host stand, agree on a seating cadence, and adjust in real time based on ticket times. Communicate wait times honestly rather than over-promising. The front-of-house and kitchen are one system, and brunch succeeds only when they are synchronized.
+
+## Common Traps
+
+### Staffing to the average cover count rather than the peak hour
+
+This is a trap because average covers understate the peak, and a kitchen staffed to the average is overwhelmed exactly when volume is highest. The mechanism is that brunch volume concentrates in a two-hour spike, so the hourly average across the whole service is much lower than the peak hour, and staffing to the average leaves the kitchen short-handed precisely when the orders pour in, causing tickets to back up, food to degrade on the pass, and staff to burn out. The false signal is that the schedule looks balanced across the shift, which the manager reads as adequate. The harm is a service that collapses at peak, disappointing the majority of guests who arrive during the spike. The correct response is to forecast from historical peak-hour data, to staff every station for the peak ticket-per-minute rate, and to accept that some staff will be underutilized at the edges of service, which is the cost of surviving the peak.
+
+### Combining sweet and savory on one station and creating a bottleneck
+
+This trap operates because space and labor are limited, so a manager assigns one cook to handle pancakes and eggs, or shares a flat top between French toast and bacon, and the result is serial production where nothing flows. The mechanism is that sweet and savory items need different temperatures, different tools, and different attention, and a cook switching between them produces each more slowly than two dedicated cooks would, while the shared equipment forces compromises (the sweet batter contaminates the savory space, the temperature suited to eggs is wrong for pancakes). The false signal is that the station is "covered," which the manager reads as sufficient. The harm is a station that cannot keep up with demand, dragging down the entire ticket time. The correct response is to separate sweet and savory into independent stations with dedicated equipment and cooks, even at the cost of space, because parallel production is the only way to handle brunch volume.
+
+### Choosing buffet to handle volume and neglecting holding and food safety
+
+This is a trap because buffet seems to solve the volume problem by moving production off the line, but it transfers the risk to holding, which is often managed casually. The mechanism is that buffet items sit in hot holding for extended periods, and if the holding temperature is below 60 degrees Celsius, or if items are not refreshed on a first-in-first-out basis, or if cross-contamination occurs between serving utensils, the buffet becomes a food-safety hazard even as it efficiently serves guests. The false signal is that the buffet looks full and the guests are served quickly, which the manager reads as success. The harm is foodborne illness, quality degradation as items dry out or overcook in holding, and waste from over-production. The correct response is to manage buffet holding with the same temperature and time discipline as a la carte, to verify temperatures with a probe, to refresh in small batches, and to discard at hold-time limits.
+
+### Prepping everything to order and drowning under the first rush
+
+This trap exists because cooking everything to order feels like the quality choice, but at brunch volume it guarantees failure. The mechanism is that a kitchen with no prep-ahead strategy receives a wall of orders at peak and tries to execute each from scratch, so the line immediately falls behind, ticket times balloon to an hour, and food that was started fresh overcooks while waiting for slow components, producing worse quality than a prepped-ahead kitchen would have served. The false signal is the commitment to freshness, which the cook reads as integrity. The harm is a service meltdown that disappoints every guest and exhausts the staff. The correct response is to map each dish into prep-ahead and cook-to-order components, to fully prep the make-ahead parts before service, and to structure the line so the final cook is fast, preserving quality while handling volume.
+
+### Failing to synchronize plates and serving components at different temperatures
+
+This is a trap because brunch plates draw from multiple stations, and without explicit synchronization the components arrive at the pass at different times and temperatures. The mechanism is that the egg cook finishes in a minute, the pancake takes four, and the bacon is somewhere in between; without an expeditor calling the timing, the egg sits on the pass while the pancake finishes, so by plating the egg is overcooked and cold, the bacon has cooled, and only the pancake is right. The false signal is that each station produced its component, which the cook reads as success. The harm is a plate that is inconsistent in temperature and doneness, reflecting poorly on the kitchen even though each station did its job. The correct response is to have an expeditor control the rhythm with timing cues, to sequence the longest-cooking item first, and to empower the expeditor to hold or re-fire items that miss the window.
+
+### Seating the entire room at once and overwhelming the kitchen
+
+This trap operates because a full room looks like success to the host, but seating everyone simultaneously delivers a wall of orders the kitchen cannot process, degrading every table's experience. The mechanism is that the kitchen has a finite sustainable ticket-per-minute rate, and seating beyond that rate causes orders to queue, ticket times to extend, and food quality to decline as items wait on the pass, so a room that was seated quickly is served slowly and poorly. The false signal is a full dining room and no wait at the door, which the host reads as efficient seating. The harm is uniformly slow, degraded food across the entire room, and guests who leave unhappy. The correct response is to pace seating to the kitchen's capacity, to maintain a short wait at the door if necessary, and to coordinate real-time between the host stand and the kitchen based on actual ticket times.
+
+### Over-cross-utilizing components until the menu feels repetitive
+
+This is a trap because cross-utilization reduces prep and inventory, which is genuinely valuable, but pushed too far it makes the menu feel like the same components rearranged, which bores guests and undermines the concept. The mechanism is that a kitchen under pressure to simplify cross-utilizes aggressively, so hollandaise, bacon, biscuits, and eggs appear in nearly every dish in different configurations, and the menu loses the distinctive elements that make each dish appealing on its own. The false signal is reduced prep load and inventory, which the manager reads as efficiency. The harm is a menu that reads as monotonous, disappointing guests seeking variety and weakening the restaurant's identity. The correct response is to cross-utilize strategically on components that make culinary sense together, while preserving the distinctive elements that give each dish its character and the menu its range.
+
+## Self-Check
+
+- Has the peak hour been forecast from historical cover data, and is every station staffed to sustain the peak ticket-per-minute rate rather than the shift average?
+- Are sweet and savory production separated into independent stations with dedicated equipment, so they flow in parallel rather than competing for one cook or one flat top?
+- Has the buffet-versus-a la carte choice been made deliberately based on volume and concept, with buffet holding managed to the same temperature and time standards as a la carte?
+- Has each menu item been mapped into prep-ahead and cook-to-order components, with make-ahead parts fully prepped before service and the line structured for a fast final cook?
+- Is there an expeditor controlling plate synchronization with timing cues, sequencing the longest-cooking items first and empowered to hold or re-fire missed components?
+- Is cross-utilization applied strategically to reduce prep while preserving the distinctive elements that give each dish its identity and the menu its range?
+- Is seating paced to the kitchen's sustainable capacity, with real-time coordination between the host stand and the kitchen based on actual ticket times?
+- Does the output respect the agent's limits, deferring final operational and labor decisions to the qualified manager on site?
