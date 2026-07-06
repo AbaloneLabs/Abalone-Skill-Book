@@ -1,0 +1,58 @@
+---
+name: dispute-resolution-and-mediation-arbitration.md
+description: Use when the agent is advising on construction dispute resolution, selecting between negotiation mediation dispute review boards arbitration or litigation, administering AAA or ICC arbitration, interpreting AIA or EJCDC dispute resolution clauses, choosing governing law and forum, or preparing expert testimony and evidence for a construction tribunal.
+---
+
+# Dispute Resolution and Mediation Arbitration
+
+Construction dispute resolution is the selection and administration of the process by which an unresolved construction claim is decided, ranging from direct negotiation through mediation and dispute review boards to binding arbitration and litigation. It is governed by the contract's dispute resolution clause (AIA A201 Article 15, EJCDC C-700 Article 12, FIDIC Red Book Clause 20), by the rules of the chosen forum (the American Arbitration Association Construction Industry Rules, the ICC, JAMS, or the courts), by the governing law and its statute of limitations and repose, and by the rules of evidence and expert testimony that apply to construction disputes. The harm this skill prevents is the selection of a forum or a procedure that fits the contract and the dispute poorly, or the mishandling of a process once chosen: an arbitration clause invoked where mediation was a mandatory precedent, a claim filed past the contractual or statutory limitation period, an expert report that opines on legal conclusions the tribunal must decide, or a mediation entered without the settlement authority and the cost-benefit analysis that makes it productive. Because the choice of forum and the conduct of the process often determine the outcome as much as the merits, and because procedural errors are frequently irreversible, dispute resolution must be approached as a strategic and contractual matter, not merely as a last resort. Agents must treat this work as decision support for a project manager, contract administrator, or counsel of record, and must never advise a final forum selection, settlement, or procedural position without the contract clauses, the governing law, and the merits analysis.
+
+## Core Rules
+
+### Follow the Contractual Dispute Resolution Ladder in Order
+
+Most modern construction contracts prescribe a ladder of dispute resolution, and the parties are generally required to ascend it in order before invoking the next rung. The typical ladder runs from direct negotiation between project representatives, to a senior executive or claims-consultant negotiation, to non-binding mediation or a dispute review board (DRB) standing during construction, to binding arbitration or litigation, with each rung conditioned on the exhaustion or failure of the one below. Identify the exact clause, the exact sequence, and the time limits at each rung, because invoking arbitration or litigation without completing a contractually required mediation, or without giving the required notice and cooling-off period, can result in a stay, a dismissal, or a waiver of the right to recover fees. Document compliance with each rung (the notice, the meeting, the impasse), because the tribunal will require proof that the precondition was met, and a party that skipped a rung may be sent back to complete it at significant cost and delay.
+
+### Select the Forum to Match the Dispute, the Contract, and the Parties
+
+The choice between mediation, DRB, arbitration, and litigation should be a deliberate one, matched to the nature of the dispute and the relationship, not a default. Mediation is non-binding and consensual, best used early, when the parties still have a working relationship and the dispute is susceptible to a business compromise; it succeeds in proportion to the authority and preparation the parties bring, and it fails when treated as a box to check before arbitration. A dispute review board, standing or ad hoc, resolves disputes during construction through a panel of experienced neutrals who are familiar with the project, and it is especially effective on large, long-duration, complex works where continuity matters. Arbitration is binding and private, with limited discovery and limited grounds for appeal, faster and often cheaper than litigation but with a restricted ability to challenge a wrong result; it is favored in construction for the expertise of the arbitrators and the confidentiality, but it forfeits the procedural protections and the appeal rights of the courts. Litigation in the courts offers full procedure, precedent, appeal, and the ability to join third parties, but it is public, slow, and often before a judge without construction expertise. Match the forum to the size, complexity, desired confidentiality, need for expertise, and tolerance for finality.
+
+### Administer the Arbitration or Litigation to the Forum's Rules and the Governing Law
+
+Once a binding forum is invoked, administer it strictly to its rules and to the governing law, because procedural defaults are costly and sometimes fatal. Confirm the governing rules (AAA Construction Industry Arbitration Rules, ICC, JAMS, or the civil procedure of the chosen court), the number and qualification of arbitrators, the seat and the venue, the language, and the scope of discovery and motion practice permitted, because these vary widely and shape the cost and the outcome. Verify the governing law and contract choice-of-law and choice-of-forum provisions, and confirm that the statute of limitations and the longer statute of repose for construction and design defects have not run, because a meritorious claim filed late is barred regardless of its strength. Manage the pre-hearing exchange (document production, witness lists, expert reports, depositions where permitted) to the schedule the forum sets, because construction arbitrations are won by the party whose documentary and expert record is complete and well-organized, and the contemporaneous project record is the foundation of that case.
+
+### Prepare Expert Testimony and Evidence to the Standard the Tribunal Applies
+
+Construction disputes are decided on technical evidence, and the expert testimony that explains that evidence must be prepared to the standard the forum requires, distinguishing the technical expert from the legal advocate. Engage experts whose qualifications match the issue (a scheduler for delay, a cost or quantity surveyor for damages, a design professional for defect and standard of care), and ensure their methodology is reliable, their bases are documented, and their opinions address the elements of liability, causation, and damages that the tribunal must decide. Direct the experts to opine on technical and factual matters (the cause of the delay, the reasonableness of the costs, the adequacy of the design), not on legal conclusions (whether the contract was breached, who is liable), because tribunals decide the law and an expert who trespasses on legal conclusions loses credibility and may be excluded. Reconcile the expert's opinions with the contemporaneous record and with the party's own pleadings, because contradictions between the expert and the project documents are the most effective cross-examination, and prepare the experts to defend their methodology and their assumptions under challenge.
+
+### Manage Settlement, Cost-Benefit, and the Preservation of the Relationship
+
+Dispute resolution is a business decision as much as a legal one, and every rung of the ladder should be evaluated against the cost-benefit of continuing versus settling. At each stage, estimate the likely range of outcomes, the cost and duration of the next rung, the impact on cash flow and on the ongoing or future relationship with the other party, and the reputational and confidentiality considerations, and use that analysis to set a settlement position and authority. Enter mediation and negotiation with realistic authority and a documented settlement range, because a mediation conducted without authority to settle wastes the opportunity and entrenches positions; and treat the DRB's non-binding recommendations as serious guidance for settlement even when not binding. Preserve the relationship where the parties must continue to work together (an ongoing construction project, a repeat-owner or repeat-contractor), because a win-at-all-costs posture on one dispute can destroy a relationship worth more than the dispute, and conversely recognize when the relationship is irretrievable and a binding forum is the only path to closure.
+
+## Common Traps
+
+### Skipping a Contractually Required Rung
+
+The party invokes arbitration or litigation without completing the contractually required negotiation or mediation, so the tribunal stays or dismisses the proceeding and sends the parties back. The mechanism is that the ladder is a condition precedent, so the false signal of an initiated forum hides an unmet precondition; the harm is lost time, duplicated cost, and sometimes a limitations problem if the stay runs long.
+
+### The Wrong Forum for the Dispute
+
+A party defaults to litigation because it is familiar, on a dispute that needs construction expertise and confidentiality, or defaults to arbitration without recognizing the limited appeal rights. The mechanism is that each forum has structural biases, so the false signal of a chosen forum hides a mismatch with the dispute; the harm is a more expensive, slower, or less expert process and a result that cannot be corrected.
+
+### The Expert Who Opines on Legal Conclusions
+
+The technical expert testifies that the owner "breached the contract" or that the contractor "is entitled to" recovery, trespassing on the tribunal's legal role. The mechanism is that experts are limited to their field, so the false signal of a confident opinion hides an overreach; the harm is that the opinion is struck or discounted and the expert's credibility on their actual technical opinions is undermined.
+
+### Mediation Without Settlement Authority
+
+The party attends mediation with a representative who lacks authority to settle, so the session becomes a posture exercise rather than a negotiation. The mechanism is that mediation requires decision-makers, so the false signal of a completed rung hides an empty process; the harm is that the dispute escalates to binding forum when an early business compromise was achievable.
+
+## Self-Check
+
+- Is the dispute resolution ladder identified from the contract clause, and has each rung (negotiation, mediation, DRB, arbitration, litigation) been completed or properly exhausted with documented compliance before the next is invoked?
+- Is the forum selected deliberately to match the dispute's size, complexity, need for expertise, confidentiality, and tolerance for finality, rather than defaulted to the familiar?
+- Are the governing rules (AAA, ICC, JAMS, or court procedure), the number and qualifications of arbitrators, the seat and venue, and the scope of discovery confirmed and administered to schedule?
+- Has the governing law, choice-of-law and choice-of-forum, and the statute of limitations and repose been verified so that the claim is timely and the correct law applies?
+- Are the experts qualified to the issue, their methodology reliable and documented, and their opinions confined to technical and factual matters rather than legal conclusions?
+- Are the expert opinions reconciled with the contemporaneous project record and with the party's own pleadings, with contradictions resolved before hearing?
+- Is a cost-benefit and settlement analysis maintained at each rung, with realistic settlement authority brought to mediation and the ongoing relationship weighed against the value of the dispute?

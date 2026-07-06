@@ -1,0 +1,57 @@
+---
+name: gis-data-quality-and-metadata-management.md
+description: Use when the agent is managing GIS data quality, writing FGDC or ISO metadata, assessing positional and attribute accuracy and completeness, documenting lineage and source history, enforcing topology rules and geodatabase validation, or managing versioning and QA/QC for civil and surveying geospatial datasets.
+---
+
+# GIS Data Quality and Metadata Management
+
+GIS data quality and metadata are what make a geospatial dataset trustworthy and usable by anyone other than its creator, and the judgment problem is that a dataset looks complete and authoritative on screen but its quality is knowable only through documented accuracy, completeness, lineage, and validation that are easy to omit and impossible to reconstruct later. Agents tend to treat metadata as paperwork done at the end and quality as something the software guarantees, and miss that positional accuracy must be tested against independent control, that attribute accuracy fails when codes are miscoded or dropped, that completeness means every feature that should be present is present, and that without lineage the dataset cannot be trusted or updated. The harm this skill prevents is a dataset used beyond its accuracy, an analysis built on miscoded or incomplete attributes, a versioning conflict that overwrites work, and a dataset so poorly documented that no one can determine whether it is fit for the decision at hand. This skill covers FGDC and ISO metadata, positional and attribute accuracy, completeness, lineage, topology rules, and versioning and QA/QC. It is a data-stewardship discipline, and the agent must treat quality as tested and documented, not assumed, and metadata as contemporaneous, not retrospective.
+
+## Core Rules
+
+### Write FGDC or ISO Metadata Contemporaneously and Completely
+
+Metadata is the documentation that allows a user to determine a dataset's source, accuracy, currency, limitations, and appropriate use, and the principal standards are the FGDC Content Standard for Digital Geospatial Metadata (and its CSDGM profile) and the international ISO 19115 series. Complete the metadata as the dataset is built, not at the end, because the details of source, processing, and accuracy are known at creation and are unrecoverable later. Populate the required sections: identification (title, abstract, purpose, extent, scale), data quality (lineage, positional and attribute accuracy, completeness, logical consistency), spatial reference (datum, projection, coordinate system), distribution, and the entity and attribute definitions that explain every field and code. The disciplined rule is to write metadata to the standard's required elements, to define every attribute and code value so a user can interpret the data without asking the author, and to keep the metadata current as the dataset is revised, because stale metadata is as misleading as no metadata. The trap is a dataset delivered with empty or boilerplate metadata, leaving users to guess its accuracy and provenance and inevitably to misuse it.
+
+### Assess and Document Positional and Attribute Accuracy
+
+Positional accuracy is how close the dataset's features are to their true positions, and attribute accuracy is how correctly the attributes describe the features, and both must be assessed and documented, not assumed. Test positional accuracy against independent, higher-order control (such as survey-grade points or orthoimagery of known accuracy) using a sample, and report the accuracy by an established method such as the National Standard for Spatial Data Accuracy (NSSDA), which reports the root mean square error at 95-percent confidence. Test attribute accuracy by checking a sample of records against source documents or field verification, and report the error rate, because a dataset with correct positions but miscoded attributes (a storm sewer coded as sanitary, a parcel coded with the wrong land use) produces wrong analysis. The disciplined rule is to test a representative sample, to report the accuracy quantitatively in the metadata, and to state the method, because "accurate" without a tested value and a method is an assertion, not a quality statement. The trap is claiming a dataset is "survey-grade" or "accurate" without a tested NSSDA value, so users rely on it for a tolerance it cannot meet.
+
+### Verify Completeness and Logical Consistency Through Validation
+
+Completeness is whether the dataset contains all the features and attributes it should, with no omissions and no extraneous features, and logical consistency is whether the data obeys its rules (topology, valid attribute domains, range checks). Verify completeness against an independent source (a list of all parcels, an inventory of all structures, a stream network compared to imagery) and document what was checked and any discrepancies, because a dataset missing features produces undercounts and gaps in analysis. Verify logical consistency through topology validation (no gaps, overlaps, dangles, or multipart errors in a fabric), through domain and range checks on attributes (no negative pipe diameters, valid material codes), and through relationship checks (every valve connected to a pipe, every parcel assigned an owner). The disciplined rule is to run validation as part of QA/QC, to log and resolve every error, and to document the validation performed and the residual known issues, because an unvalidated dataset carries hidden defects that surface in analysis. The trap is a dataset that displays cleanly but has missing features and topology errors that a validation would have caught, producing gaps and double-counts in downstream work.
+
+### Document Lineage So the Dataset Is Traceable and Updateable
+
+Lineage is the history of the dataset's creation: the source materials (imagery, surveys, GPS collection, digitizing), the processing steps (transformation, generalization, edge-matching, attribution), the dates, and the persons or organizations responsible. Document the lineage in the metadata so that a future user can trace any feature back to its source, judge whether a source is current enough, and reproduce or update the dataset, because without lineage a dataset is an orphan whose reliability cannot be judged. Capture the source scale and date for each input, the software and processing steps with their parameters, and the version of any controlled source (such as a specific edition of a base map or a coordinate transformation), because these determine the dataset's fitness and its compatibility with other data. The disciplined rule is to record the lineage as processing occurs, to cite the specific sources and versions, and to update the lineage at each revision, because reconstructed lineage is incomplete and undermines trust. The trap is a dataset whose sources and steps were never recorded, so no one can tell whether it is current, accurate, or compatible with newer data.
+
+### Manage Versioning and QA/QC for Multi-User Editing
+
+In a multi-user geodatabase, versioning allows several editors to work concurrently on the same dataset, and the versioning model (traditional or branch versioning) must be managed to prevent conflicts and to maintain a clean lineage of edits. Establish an editing workflow with QA/QC gates: edits are made in a version, validated against topology and attribute rules, reviewed, and posted to the default version only after passing, so that the published dataset carries only checked edits. Manage conflicts explicitly when reconciling versions (which version wins on a spatial or attribute conflict), and document the resolution, because an unmanaged conflict can silently overwrite another editor's work or introduce an inconsistency. The disciplined rule is to use versioning for any multi-user dataset, to enforce validation before posting, and to maintain an audit trail of who edited what and when, because uncontrolled editing produces a dataset whose history and quality cannot be verified. The trap is concurrent editing without versioning or conflict management, where edits overwrite each other and the published dataset contains unreviewed, inconsistent, or lost features.
+
+## Common Traps
+
+### The Empty or Boilerplate Metadata
+
+A dataset is delivered with metadata that is empty, copied from another dataset, or filled with placeholder text, leaving its accuracy and provenance undocumented. The mechanism is that metadata is deferred to the end and then skipped. The false signal is a metadata file present with the dataset. The harm is users who cannot judge fitness and who misuse the data beyond its accuracy or currency.
+
+### The Accuracy Claim Without a Tested Value
+
+A dataset is labeled "accurate" or "survey-grade" without a tested NSSDA or equivalent value, and users rely on it for a tolerance it cannot meet. The mechanism is that positional accuracy must be tested against independent control to be known. The false signal is the accuracy label. The harm is design or construction placed to a precision the data does not support, with mislocation and rework.
+
+### The Clean-Looking Dataset With Hidden Topology and Completeness Errors
+
+A dataset displays cleanly but has missing features, gaps, overlaps, and miscoded attributes that a validation would have caught. The mechanism is that visual appearance does not reveal logical-consistency and completeness defects. The false signal is a clean map. The harm is undercounts, gaps, and wrong analysis downstream, discovered only when a result fails to reconcile.
+
+### Concurrent Editing Without Versioning or Conflict Management
+
+Multiple editors work on a dataset without versioning, and edits overwrite each other or introduce inconsistencies in the published version. The mechanism is that unmanaged concurrent editing produces conflicts that are silently resolved or lost. The false signal is a dataset that keeps updating. The harm is lost work, unreviewed edits in the published data, and a dataset whose history and quality cannot be verified.
+
+## Self-Check
+
+- Is the metadata written to the FGDC CSDGM or ISO 19115 standard, completed contemporaneously with the dataset's creation, with all required sections including identification, data quality, spatial reference, and entity and attribute definitions?
+- Is positional accuracy tested against independent higher-order control and reported by a stated method such as NSSDA at 95-percent confidence, and is attribute accuracy tested by a sample check with the error rate documented?
+- Has completeness been verified against an independent source (all parcels, all structures, the full stream network), and has logical consistency been validated through topology, domain and range, and relationship checks, with errors logged and resolved?
+- Is the lineage documented with specific sources (imagery, surveys, GPS), their scale and date, the processing steps and parameters, the software, and the responsible parties, and is it updated at each revision?
+- For multi-user datasets, is versioning (traditional or branch) in place, with an editing workflow that validates in a version and posts to default only after QA/QC, explicit conflict resolution, and an audit trail of edits?
+- Have I communicated the dataset's accuracy, completeness, currency, and limitations in the metadata so that every user can judge its fitness for the intended decision, and avoided using or delivering the data beyond its documented quality?

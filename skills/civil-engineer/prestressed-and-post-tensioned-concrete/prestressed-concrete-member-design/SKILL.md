@@ -1,0 +1,54 @@
+---
+name: prestressed-concrete-member-design.md
+description: Use when the agent is designing pretensioned or post-tensioned concrete members, establishing jacking force and strand stress limits at transfer and service stages, checking stress limits per ACI 318 Chapter 20, evaluating strand stress-strain behavior, or detailing debonding, harping, and deflected strands for precast prestressed beams and double tees.
+---
+
+# Prestressed Concrete Member Design
+
+Prestressed concrete member design is the work of introducing a permanent compressive force into a concrete member through high-strength strands so that the member carries load in compression where plain concrete would crack in tension, and it requires judgment that ordinary reinforced concrete design does not. The difficulty is not computing a stress from the prestress force; it is the judgment that the stresses must be satisfied at multiple stages, that the prestress force changes over time through losses, that the strand stress-strain behavior differs from mild steel, and that the transfer of force at release can crack or burst the member before it ever sees service load. A beam that satisfies service stresses can still crack or burst at transfer, a strand jacked to its ultimate can relax and lose force, and a member designed for the final prestress without accounting for the higher initial force can be overstressed at transfer. ACI 318 Chapter 20 and the PCI Handbook govern, and the engineer cannot treat prestress as a constant force applied to an ordinary reinforced section. This skill covers the judgment exercised while designing pretensioned and post-tensioned prestressed members, with the understanding that final design, sealing of drawings, and code interpretations require a licensed professional engineer, and that prestressed design is a specialty that may require a structural specialist.
+
+## Core Rules
+
+### Check Stresses At Transfer, Service, And Final Stages Separately
+
+Begin every prestressed design by recognizing that the stresses must be checked at distinct stages, each with its own loads and prestress force. At transfer, the prestress force is at its highest because losses have not yet occurred, the only load is usually the member self-weight, and the concrete is at its release strength, which is lower than the final strength, so the section can be overstressed in compression at the strands or in tension at the opposite face, leading to cracking or bursting at release. At service, under full dead and live load with effective prestress after losses, the stresses must satisfy the ACI 318 limits for the class of member, whether uncracked, transitional, or cracked, because the class determines the serviceability and the design approach. At final, under sustained load with all long-term losses, the deflection and crack control must be acceptable, because prestressed members creep and the long-term camber and deflection can be objectionable. Do not check only the service stage, because the transfer stage with its high initial force and low concrete strength is often the governing condition, and a member that passes service can fail at transfer.
+
+### Establish Jacking Force And Strand Stress Limits Correctly
+
+The jacking force and the strand stress limits are the foundation of the prestress design, and they must be established within the ACI 318 and the strand manufacturer limits. The jacking stress is limited to a fraction of the ultimate tensile strength of the strand, and the initial prestress after seating and the effective prestress after losses are progressively lower, so the design must use the correct force at each stage. Use the actual stress-strain curve of the low-relaxation or stress-relieved strand, because the strand does not have a yield plateau like mild steel and its behavior at high stress is nonlinear, and the design must account for the actual strand properties. Do not jack strands beyond the code limit to compensate for losses, because over-jacking can exceed the strand ultimate and create a safety hazard during stressing, and the losses must be estimated and accounted for rather than compensated by over-stressing. Recognize that the strand force at transfer is the jacking force minus the immediate losses, and the force at service is the transfer force minus the time-dependent losses, and each stage must use the correct force.
+
+### Design Strand Profiles Including Harping, Debonding, And Deflecting
+
+The strand profile determines how the prestress force interacts with the loads, and the design must select the profile that balances the load and satisfies the stresses at all sections. In straight-strand pretensioned members, the eccentricity is constant, and the prestress creates a uniform secondary moment that can cause tensile stresses at the ends where the self-weight moment is small, leading to the need for harping or debonding to reduce the end eccentricity. Harping, or deflecting, holds the strands down at midspan and up at the ends to create a draped profile that reduces end eccentricity and balances the load, and it requires hold-down devices and careful stressing. Debonding, or blanketing, sheaths selected strands in plastic at the ends to prevent bond and reduce the effective prestress at the ends, and it is used where harping is impractical, with the debonding pattern designed to avoid concentrated stress changes. Select the profile based on the load, the span, and the production method, and verify the stresses at the transfer length and at the points where debonding or harping changes the force, because abrupt changes in effective prestress create stress concentrations that can crack the member.
+
+### Evaluate Strength, Ductility, And Detailing At Nominal Capacity
+
+Prestressed members must be checked for nominal flexural and shear strength at ultimate, not only for service stresses, because the member must carry the factored loads with adequate strength and ductility. Compute the nominal flexural strength from the strain compatibility or the approximate ACI method, using the actual strand stress at nominal which may be above the yield and approaching the ultimate for bonded strands, because the high-strength strand develops a higher stress at nominal than mild steel. Confirm the section is tension-controlled with adequate ductility, so the phi factor and the assumed behavior are valid, and provide confinement and detailing for ductile failure. Check shear capacity including the contribution of the prestress to the concrete shear capacity, because prestress increases the shear capacity through the compressive stress, but the design must still provide stirrups where the demand exceeds the concrete capacity. Detail the anchorage zones for the transfer of the prestress force, because the force is introduced as a concentrated load that can burst the end of the member, and the confinement reinforcement in the anchorage zone is essential to prevent bursting and splitting failures at transfer.
+
+## Common Traps
+
+### Checking Only Service Stresses And Ignoring Transfer
+
+The engineer designs the member for the service stresses under effective prestress and does not check the transfer stage with the higher initial force and lower concrete strength. The mechanism is that at transfer the prestress force is highest and the concrete is weakest, and the section can be overstressed in compression at the strands or in tension at the opposite face. The false signal is that the service stresses pass. The harm is cracking, spalling, or bursting at release, because the transfer stage was the governing condition. Stresses must be checked at transfer with the initial force and the release concrete strength, in addition to service and final.
+
+### Using A Constant Prestress Force Instead Of Losses
+
+The engineer designs with the jacking force as the prestress force throughout, ignoring the immediate and time-dependent losses. The mechanism is that the prestress force decreases over time through elastic shortening, creep, shrinkage, relaxation, and seating losses, and the service and final forces are well below the jacking force. The false signal is that the design passes with the high force. The harm is a member with lower prestress than designed, leading to excessive deflection, cracking, or inadequate capacity at service, because the losses were never deducted. The losses must be estimated and the effective prestress used at service and final.
+
+### Jacking Beyond Limits To Compensate For Losses
+
+The engineer increases the jacking force beyond the code limit to offset the estimated losses and achieve the desired effective prestress. The mechanism is that over-jacking can exceed the strand ultimate, creating a breakage hazard during stressing, and the code limits exist to prevent strand failure and equipment overload. The false signal is that the higher jacking force gives the desired effective prestress. The harm is strand breakage during stressing, a safety hazard, because the limit was exceeded. The jacking stress must remain within the code limit, and losses must be estimated and accepted, not compensated by over-jacking.
+
+### Neglecting Anchorage Zone Bursting At Transfer
+
+The engineer designs the member stresses and the strand profile but does not detail the confinement reinforcement in the anchorage or transfer zone. The mechanism is that the prestress force is introduced as a concentrated load at the ends, and without confinement the concrete can burst or split ahead of the anchorage. The false signal is that the member stresses pass. The harm is bursting or splitting failure at transfer, a sudden and dangerous failure, because the anchorage zone was not confined. Confinement reinforcement must be detailed in the anchorage and transfer zones to distribute the concentrated force and prevent bursting.
+
+## Self-Check
+
+- Are stresses checked at transfer with the initial force and release concrete strength, at service with effective prestress and full loads, and at final with all long-term losses?
+- Is the jacking force within the ACI 318 strand stress limit, and are the initial, transfer, and effective forces used correctly at each stage?
+- Is the strand profile, straight, harped, or debonded, selected to balance the load and satisfy stresses, with stress concentrations at profile changes checked?
+- Is the nominal flexural strength computed with the actual strand stress at nominal, and is the section tension-controlled with adequate ductility and phi?
+- Is shear capacity checked including the prestress contribution, with stirrups provided where the demand exceeds the concrete capacity?
+- Is the anchorage or transfer zone detailed with confinement reinforcement to prevent bursting and splitting at transfer?
+- Is the design sealed and reviewed by a licensed professional engineer, with specialist involvement for prestressed design?

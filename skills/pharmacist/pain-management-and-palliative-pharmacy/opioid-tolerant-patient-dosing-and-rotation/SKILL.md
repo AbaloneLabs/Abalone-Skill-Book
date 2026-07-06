@@ -1,0 +1,71 @@
+---
+name: opioid-tolerant-patient-dosing-and-rotation.md
+description: Use when the agent is calculating an opioid dose for an opioid-tolerant patient, performing an opioid rotation or conversion using equianalgesic tables, switching between morphine, oxycodone, hydromorphone, fentanyl, or methadone, applying cross-tolerance reductions, or verifying safety of high-dose opioid regimens and transdermal patches.
+---
+
+# Opioid-Tolerant Patient Dosing and Rotation
+
+Opioid dosing for the opioid-tolerant patient is the most error-prone calculation in pharmacy, because the doses involved are large enough to be lethal to a naive patient, the conversion tables are approximations rather than exact equivalencies, and the cross-tolerance reduction is a judgment that varies by patient and by drug. The danger is twofold: the opioid-naive dose applied to an opioid-tolerant patient produces undertreatment and withdrawal, and the equianalgesic conversion applied without a cross-tolerance reduction produces overdose and respiratory depression. The pharmacist's discipline is to confirm opioid tolerance explicitly before dispensing a tolerant-patient dose, to perform the rotation through a documented equianalgesic calculation with a deliberate cross-tolerance reduction, and to recognize the drugs whose conversions are nonlinear and dangerous (methadone, fentanyl) where the standard tables fail.
+
+## Core Rules
+
+### Confirm Opioid Tolerance Explicitly Before Dispensing a Tolerant-Patient Dose
+
+Opioid tolerance is a clinical fact, not an assumption, and a dose that is safe for a tolerant patient (for example, a fentanyl patch at 50 micrograms per hour, or an extended-release opioid at high daily doses) is lethal for a patient who is not tolerant. The pharmacist must confirm opioid tolerance against explicit criteria before dispensing any formulation that requires it. The commonly used threshold is at least one week of around-the-clock opioid exposure at a defined daily dose (commonly 60 mg oral morphine equivalents per day, or 25 micrograms per hour transdermal fentanyl, or 30 mg oral oxycodone per day, or 8 mg oral hydromorphone per day, or an equianalgesic dose of another opioid). The pharmacist must verify the current regimen, the duration, and the route, and must not rely on a prior tolerance that has lapsed (the patient who was tolerant last year but has not taken opioids for a month is no longer tolerant). When tolerance cannot be confirmed, the pharmacist must treat the patient as opioid-naive and must hold the dose for clarification, because dispensing a tolerant-patient dose to a naive patient is a fatal error.
+
+### Perform Every Rotation Through a Documented Equianalgesic Calculation
+
+An opioid rotation is a conversion from one opioid to another, and it must be performed through an explicit, documented calculation rather than by estimation or by copying the prior dose. The pharmacist must convert the current total daily opioid dose to a common reference (oral morphine equivalents), using an equianalgesic table, then convert from the reference to the target opioid, then apply a cross-tolerance reduction. The pharmacist must use the current total daily dose across all opioids (the long-acting and the short-acting, the oral and the transdermal), not a single component, because omitting a component underestimates the tolerance and produces underdosing. The pharmacist must document the source opioid, the dose, the conversion factor, the calculated equivalent, the cross-tolerance reduction, and the final recommended dose, so that the calculation can be reviewed and reproduced. The calculation is the protection against the arithmetic error and the omission, and the undocumented rotation is the error waiting to occur.
+
+### Apply a Cross-Tolerance Reduction for Every Rotation
+
+The equianalgesic tables are derived from single-dose studies in opioid-naive patients, and they overestimate the dose needed when switching between opioids in a tolerant patient, because of incomplete cross-tolerance. The pharmacist must apply a cross-tolerance reduction to the calculated equianalgesic dose, commonly 25 to 50 percent for most rotations, and higher (75 percent or more) when rotating to methadone. The reduction must be larger when the patient is elderly, debilitated, or has organ impairment, when the current dose is very high, or when rotating to a drug with higher receptor affinity or accumulation risk. The pharmacist must communicate to the prescriber that the reduced dose is intentional and will require titration back up to adequate pain control, and must arrange for breakthrough medication and for reassessment. The rotation without a cross-tolerance reduction is the most common cause of the post-rotation overdose, and the reduction is the deliberate, conservative step that prevents it.
+
+### Treat Methadone and Fentanyl Conversions as Nonlinear and Dangerous
+
+The standard equianalgesic tables do not apply to methadone and fentanyl, and the pharmacist who applies a linear conversion to either drug produces a dangerous error. Methadone's potency increases with the prior opioid dose (the conversion ratio from morphine to methadone rises as the morphine dose rises, from roughly 4:1 at low doses to 20:1 or higher at high doses), its half-life is long and variable (8 to 59 hours), and it prolongs the QT interval and can cause fatal arrhythmia. A methadone rotation must be performed by or with a specialist, must use a published dose-dependent conversion table, must start low and titrate slowly, and must include baseline and follow-up ECG monitoring. Fentanyl is potent, lipophilic, and accumulates in fat, so the transdermal patch has a delayed onset (12 to 24 hours to effect, up to 72 hours to steady state) and a prolonged offset after removal (the respiratory depression can persist for hours after the patch is removed). The pharmacist must not use a transdermal fentanyl patch as an opioid-naive dose or as a prn analgesic, must not convert from fentanyl to another opioid without accounting for the residual depot, and must recognize that the heat (fever, heating pad, hot bath) increases the fentanyl release and can cause overdose.
+
+### Verify the High-Dose Regimen and Arrange Monitoring and Risk Mitigation
+
+Opioid-tolerant patients are often on high-dose regimens (above 50, and especially above 90, oral morphine equivalents per day), and the high dose raises the risks of respiratory depression, sedation, falls, endocrine dysfunction, opioid-induced hyperalgesia, and overdose. The pharmacist must verify the indication and the rationale for the high dose, must confirm that non-opioid and adjuvant therapies have been optimized, must ensure the naloxone is available (the overdose reversal agent, now recommended for any patient on opioids, and especially for high-dose regimens), and must arrange for monitoring (the sedation and respiratory assessment, the function, the pain control, the adverse effects). The pharmacist must identify and address the drug interactions that increase the opioid risk (the benzodiazepines, the sedating antidepressants, the gabapentinoids, the sedating antihistamines, the alcohol), because the combination is a primary driver of the opioid overdose. The pharmacist must also address the constipation (the near-universal opioid adverse effect, which must be prophesied and treated, not waited for), the nausea, and the sedation.
+
+### Respect Scope and Escalation Boundaries
+
+Know where the agent's authority and competence end. Opioid rotation, methadone initiation, and high-dose management often require a pain or palliative specialist, a collaborative practice agreement, or prescriber confirmation. When the question requires a license, a specialist's judgment, a final approval, or expertise the agent does not hold, the correct action is to escalate rather than to produce a confident answer that overreaches. Scope discipline protects the recipient from harm caused by an unqualified conclusion and protects the agent from liability. State explicitly when the output is advisory and must be confirmed by the qualified person.
+
+## Common Traps
+
+### Applying an Opioid-Naive Conversion Table to a Tolerant Patient
+
+The pharmacist uses a standard equianalgesic table without accounting for the patient's tolerance, and converts directly without a cross-tolerance reduction. The mechanism is that the table gives a number, and the number feels authoritative. The false signal is that the equianalgesic dose is the correct dose. The harm is that the tables overestimate the dose needed in a tolerant patient due to incomplete cross-tolerance, and the unreduced dose produces sedation, respiratory depression, and overdose, which can be fatal in the elderly, the debilitated, or the patient with organ impairment. The pharmacist must apply a 25 to 50 percent cross-tolerance reduction (more for methadone) and must titrate back up with monitoring.
+
+### Dispensing a Tolerant-Patient Dose Without Confirming Tolerance
+
+The pharmacist dispenses a high-dose extended-release opioid or a transdermal fentanyl patch based on the prescription alone, without verifying that the patient meets the opioid-tolerance criteria. The mechanism is that the prescription exists, so the prescriber must have confirmed the tolerance. The false signal is that the order is valid, so the patient must be tolerant. The harm is that the prescriber may have erred, the patient may be naive or may have lost tolerance after a gap, and the tolerant-patient dose (a 50 microgram per hour fentanyl patch, a high-dose extended-release tablet) causes fatal respiratory depression in a naive patient. The pharmacist must verify tolerance against the explicit criteria and must hold the dose when tolerance is unconfirmed.
+
+### Treating Methadone as a Linear Conversion
+
+The pharmacist converts morphine to methadone using a single fixed ratio (for example, 10:1) regardless of the prior morphine dose. The mechanism is that the equianalgesic table lists a ratio, and the ratio feels constant. The false signal is that the ratio is the conversion. The harm is that methadone's conversion ratio is dose-dependent and rises sharply at higher morphine doses, so a fixed ratio massively overestimates the methadone dose, and combined with methadone's long and variable half-life, the result is accumulation, sedation, respiratory depression, and QT prolongation that can be fatal. The pharmacist must use a dose-dependent methadone conversion table, start low, titrate slowly, and arrange ECG monitoring.
+
+### Ignoring the Delayed Onset and Offset of Transdermal Fentanyl
+
+The pharmacist starts a transdermal fentanyl patch and discontinues the prior short-acting opioid immediately, or removes a patch and expects the opioid effect to end at once. The mechanism is that the patch is on the skin, so the drug delivery feels immediate. The false signal is that the patch is applied, so the analgesia and the offset are immediate. The harm is that fentanyl takes 12 to 24 hours to reach effect after the first patch and continues to be absorbed from the skin depot for many hours after removal, so the immediate discontinuation of the prior opioid produces a pain crisis, and the immediate start of the next opioid after removal produces overdose. The pharmacist must overlap the prior opioid for the first 12 hours and must monitor for respiratory depression after removal.
+
+### Underestimating the Total Daily Dose by Omitting a Component
+
+The pharmacist performs a rotation using only the long-acting opioid and omits the short-acting breakthrough doses the patient was taking. The mechanism is that the long-acting opioid is the "main" regimen, and the breakthrough doses feel incidental. The false signal is that the long-acting dose represents the patient's tolerance. The harm is that the breakthrough doses are often a substantial fraction of the total daily dose, and omitting them underestimates the tolerance, so the rotated dose is too low, the patient experiences withdrawal and uncontrolled pain, and the rotation appears to fail. The pharmacist must sum the long-acting and the breakthrough doses over the prior several days to determine the true total daily dose.
+
+### Overlooking the edge case or exception
+
+The typical or textbook scenario is analyzed thoroughly, but the unusual case is skipped. The trap is that the standard path is well-handled while the exception silently produces the wrong outcome, because the agent stopped at the common case and never tested the boundary.
+
+## Self-Check
+
+- Did I confirm opioid tolerance against explicit criteria (at least one week of around-the-clock opioid at the threshold dose) before dispensing any formulation that requires it, and did I hold the dose when tolerance was unconfirmed or had lapsed?
+- For every rotation, did I convert the total daily dose (including long-acting and short-acting components across all routes) to oral morphine equivalents, then to the target opioid, and document the source, the conversion factors, and the final dose?
+- Did I apply a cross-tolerance reduction (25 to 50 percent for most rotations, higher for methadone, larger in the elderly and the debilitated) and communicate to the prescriber that the dose is intentionally reduced and will require titration?
+- For methadone, did I use a dose-dependent conversion table, start low, titrate slowly, and arrange baseline and follow-up ECG monitoring for QT prolongation?
+- For transdermal fentanyl, did I confirm opioid tolerance, overlap the prior opioid for the first 12 hours, counsel on heat and the delayed onset and offset, and avoid using the patch as a prn or opioid-naive analgesic?
+- Did I verify the indication and rationale for high-dose regimens, ensure naloxone is available, address the sedating drug interactions, and prophesy and treat the opioid-induced constipation?
+- Does the output stay within the agent's scope, deferring methadone initiation, complex rotations, and final prescriber authority to the qualified specialist where the question exceeds the agent's competence?
+- Is the calculation documented clearly enough that another practitioner could review the basis and reproduce the conclusion?

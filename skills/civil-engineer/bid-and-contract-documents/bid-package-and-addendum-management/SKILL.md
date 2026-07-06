@@ -1,0 +1,57 @@
+---
+name: bid-package-and-addendum-management.md
+description: Use when the agent is assembling a bid package for a civil or structural project, preparing invitation to bid documents and bid forms, managing bid security and bid bonds, defining additive and deductive alternates and unit prices, issuing addenda during the bidding period, conducting a public or private bid opening, or evaluating bidder responsiveness and responsibility.
+---
+
+# Bid Package and Addendum Management
+
+A bid package is the instrument by which a defined scope of work is put into the market for competitive pricing, and the judgment problem is that the package looks like a collection of forms but is a tightly governed procedure whose every requirement, deadline, and form field is a legal condition that determines whether a bid is responsive and whether a bidder is responsible. Agents tend to treat the bid forms as administrative paperwork and miss that a missing bid bond voids the bid, that an alternate priced inconsistently across bidders cannot be compared, that an addendum issued after the deadline changes the contract, and that a public bid opening governed by statute has procedural rules a private opening does not. The harm this skill prevents is a bid thrown out for a technical defect, an award challenged because the evaluation was not uniform, an addendum that fails to reach all bidders and skews the competition, and a contract formed on bids that were never properly compared. This skill covers the invitation to bid, the bid forms and bid security, alternates and unit prices, addenda, the bid opening, and the responsiveness and responsibility determination, across both public and private procurement. It is a procedural and legal discipline, and the agent must treat the bid package and the bidding timeline as governed instruments, not as informal requests for quotes.
+
+## Core Rules
+
+### Assemble a Complete and Internally Consistent Bid Package
+
+A complete bid package comprises the invitation to bid (or advertisement), the instructions to bidders, the bid form, the proposed contract documents (agreement, general and supplementary conditions, specifications, drawings), the bid security form, and any appendices such as the schedule of values or the list of subcontractors. Assemble the package so that every item a bidder needs to price the work is included or referenced, and so that the bid form's structure matches the contract documents' structure, because a bidder prices from the form and the documents together. Define the scope boundaries clearly in the instructions to bidders, including what is excluded, what is the bidder's responsibility to verify, and what site access is provided for pre-bid investigation. The disciplined rule is to issue the package as a controlled set with a document list, so that bidders confirm receipt of every component, because a bidder who missed an addendum or a sheet prices a different scope than the others. The trap is a package assembled in haste where the bid form references a specification section that was renamed, or omits a drawing, and bidders price inconsistent scopes.
+
+### Structure Bid Forms, Bid Security, and the Basis of Award
+
+The bid form is the instrument on which the bidder states the price, and it must be structured so that bids are comparable and the basis of award is unambiguous. Include the lump-sum base bid, the additive and deductive alternates (each separately priced, with a clear description of the scope change), the unit prices for anticipated quantity variations (with the quantity basis stated), and the bid security amount, typically five to ten percent of the bid, in the form of a bid bond, certified check, or cashier's check. State the basis of award explicitly, such as the lowest responsive and responsible base bid, or the lowest combination of base bid plus a defined set of alternates, because the basis of award determines how alternates are evaluated and in what order they are applied. Require the bid security to be from a surety acceptable to the owner and on the form provided, because a bid security on the wrong form or from an unlisted surety may be non-responsive. The trap is a bid form that leaves the order of alternate evaluation ambiguous, allowing the owner to assemble different combinations and produce different low bidders, which invites a protest.
+
+### Define Alternates and Unit Prices So They Are Comparable
+
+Alternates (additive or deductive) allow the owner to adjust scope based on bid prices, and unit prices allow adjustment for quantity variations in items whose final quantity is uncertain, such as rock excavation, piling lengths, or trench depths. Define each alternate with a precise scope description tied to the drawings and specifications, so that every bidder prices the same work, and sequence the alternates in the order they will be applied for award. Define each unit price with the basis quantity (the estimated quantity the unit price is applied to), the units, and whether the unit price is additive or deductive relative to the base, and state whether unit prices are balanced or subject to a balancing test. The disciplined rule is to review the unit prices for unbalanced bidding, where a bidder front-loads high-quantity items to improve cash flow, because an unbalanced bid can inflate the total contract cost if quantities vary. The trap is accepting unbalanced unit prices that look competitive on the base bid but produce a far higher total when actual quantities exceed the estimates.
+
+### Manage Addenda to Reach All Bidders and Modify the Contract
+
+An addendum is a formal modification to the bid package issued during the bidding period, and it becomes part of the contract documents if a contract is formed. Issue addenda to answer bidder questions, correct errors, clarify the scope, or add or change documents, and number them sequentially with a clear subject and a list of the documents affected. Distribute every addendum to every recorded plan holder, and require bidders to acknowledge receipt of all addenda on the bid form, because an unacknowledged addendum may make a bid non-responsive or may mean the bidder priced a different scope. Issue addenda with enough time before the bid deadline for bidders to incorporate them, and where an addendum materially changes the scope, consider extending the deadline per the instructions to bidders. The trap is issuing an addendum verbally or to only some bidders, which destroys the equality of the competition and is grounds for voiding the bid, or issuing a material addendum too late for bidders to reprice, which pressures incomplete pricing.
+
+### Conduct the Bid Opening and Determine Responsiveness and Responsibility
+
+The bid opening, whether public or private, is the point at which bids are received, logged, and (in a public opening) read aloud, and the procedure is governed by the instructions to bidders and, for public work, by statute. Receive bids sealed until the deadline, record the receipt time, and reject late bids per the instructions, because a late bid accepted in a public procurement can void the award. After opening, determine responsiveness, which is whether each bid conforms to the bid requirements in form and content (signed, sealed, bid security included, alternates priced, addenda acknowledged), and responsibility, which is whether the bidder has the capability, financial capacity, licensing, and record to perform. Evaluate responsiveness objectively against the bid requirements, and responsibility based on documented evidence such as references, financial statements, licenses, and bonding capacity. The trap is confusing responsiveness with responsibility, rejecting a bid as non-responsive for a capability concern that is really a responsibility issue, or awarding to a bidder whose bonding or licensing was never verified.
+
+## Common Traps
+
+### The Missing or Non-Conforming Bid Security
+
+A bidder submits a bid without the bid bond, or with a bond on a different form or from a surety not on the owner's list, and the team must decide whether to accept it. The mechanism is that bid security is a material bid requirement, and non-conformance makes the bid non-responsive. The false signal is a complete-looking bid package. The harm is either an invalid award or a protest from other bidders if the defect is waived inconsistently.
+
+### The Ambiguous Order of Alternate Evaluation
+
+The bid form lists several alternates but does not state the order in which they will be applied for award, so the owner can assemble combinations that produce different low bidders. The mechanism is that the basis of award drives the evaluation, and ambiguity lets the owner choose the combination. The false signal is a complete bid form with all alternates priced. The harm is a protest or an award that does not reflect the intended lowest responsible price.
+
+### The Unbalanced Unit Price Accepted Unchecked
+
+A bidder submits very high unit prices for early, high-quantity items like excavation and very low prices for later items, improving cash flow while keeping the base bid competitive. The mechanism is that unit prices multiply by actual quantities, and overpayment on high-quantity items inflates the total. The false signal is a competitive-looking base bid. The harm is a contract whose final cost far exceeds the bid when quantities vary, eroding the value of competition.
+
+### The Addendum That Did Not Reach All Bidders
+
+An addendum is issued to clarify the scope but is sent only to the bidders who asked questions, or is posted but not confirmed received, so some bidders price the original scope and others the modified scope. The mechanism is that an addendum changes the scope, and unequal distribution destroys the equality of competition. The false signal is that all bids came in on time. The harm is a skewed competition and an award vulnerable to challenge, or a contract formed on unequal information.
+
+## Self-Check
+
+- Does the bid package include the invitation to bid, instructions to bidders, bid form, contract documents, and bid security form, with a controlled document list that bidders acknowledge, and does the bid form structure match the contract documents?
+- Does the bid form include the base bid, alternates (each with a precise scope and a stated order of evaluation for award), unit prices (with basis quantities and a balancing check), and bid security (amount, acceptable sureties, and the required form)?
+- Is the basis of award stated unambiguously, such as the lowest responsive and responsible base bid plus a defined sequence of alternates, so that the evaluation cannot be assembled to favor one bidder?
+- Has every addendum been issued sequentially, distributed to all recorded plan holders, acknowledged on each bid form, and issued with adequate time before the deadline, with the deadline extended where the change is material?
+- At the bid opening, were bids received sealed until the deadline, late bids rejected per the instructions, and each bid evaluated for responsiveness (form, signature, seal, security, alternates, addenda) separately from responsibility (capability, bonding, licensing, references)?
+- For public work, did I follow the statutory bidding procedure for advertisement, opening, and award, and did I distinguish public-bid procedural requirements from the more flexible private-procurement rules?

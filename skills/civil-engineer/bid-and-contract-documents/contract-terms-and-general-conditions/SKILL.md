@@ -1,0 +1,57 @@
+---
+name: contract-terms-and-general-conditions.md
+description: Use when the agent is drafting or reviewing construction contract terms and general conditions, applying AIA A201 or EJCDC general conditions, structuring payment and retainage provisions, administering changes and differing site conditions clauses, evaluating termination and liquidated damages, or reviewing insurance, bonds, and risk allocation for civil and structural projects.
+---
+
+# Contract Terms and General Conditions
+
+The general conditions are the operating manual of the construction contract, and the judgment problem is that they read like boilerplate but are the instrument that allocates risk, money, time, and authority among the owner, the contractor, and the engineer, and every clause becomes decisive only when something goes wrong. Agents tend to skim the general conditions as standard language and miss that retainage and payment terms govern cash flow, that the changes clause controls whether a field directive is a cost or a gift, that the differing site conditions clause decides who bears subsurface risk, and that liquidated damages must be a reasonable estimate or they are an unenforceable penalty. The harm this skill prevents is a contract that silently shifts risk to the party who did not read it, a payment structure that starves the contractor or overexposes the owner, a change processed under the wrong clause, and a damages provision struck down as a penalty after the fact. This skill covers the general conditions (AIA A201, EJCDC), payment and retainage, changes and differing site conditions, termination and liquidated damages, and insurance and bonds. It is a legal-engineering discipline, and the agent must read every clause as a risk allocation that will be tested by the project's problems, and must defer to counsel for legal interpretation and drafting.
+
+## Core Rules
+
+### Read the General Conditions as Risk Allocation, Not Boilerplate
+
+The general conditions, whether AIA A201, EJCDC C-700 series, or an owner-developed set, define the roles, authorities, and obligations of the parties, and they allocate the risks that recur on every project: who owns the design documents, who verifies site conditions, who carries the risk of unforeseen conditions, who controls the schedule, who certifies payment, and who decides disputes. Read the general conditions as a risk map, clause by clause, and confirm that the supplementary conditions modify only what the project requires, because over-modification creates inconsistencies and disputes. Pay attention to the engineer's role, which in AIA A201 is the initial decision-maker for claims and the interpreter of the documents, and which carries liability if the role is accepted without understanding its scope. The disciplined rule is to never accept a general conditions role or modification without reading the actual text, because the same clause numbers carry different language across AIA, EJCDC, and owner forms. The trap is treating the general conditions as a fixed template and signing or administering a contract whose risk allocation was never understood.
+
+### Structure Payment, Schedule of Values, and Retainage
+
+Payment under the contract flows through the schedule of values, the application for payment, the engineer's certification, and the retainage, and the structure governs the contractor's cash flow and the owner's exposure. The schedule of values breaks the contract sum into line items whose completed and stored percentages drive each payment application, and it must be reviewed for front-loading, where a contractor over-values early items to accelerate payment. Retainage, typically five to ten percent withheld from each payment, protects the owner against non-completion and lien claims, and the contract states whether it is held throughout or released in stages, and whether it is reduced after substantial completion. Confirm the timing of payment (monthly, upon application, within a stated period after certification), the interest on late payment, and the procedures for disputed amounts, because payment disputes are a leading source of claims. The trap is a schedule of values accepted without review that front-loads payment, leaving the owner overpaying for incomplete work, or a retainage provision so onerous it starves the contractor and triggers claims.
+
+### Administer Changes, Differing Site Conditions, and Notice Clauses
+
+The changes clause (AIA A201 Article 7, EJCDC Article 10) authorizes changes by change order, construction change directive, or minor change, and defines how the cost and time are determined, by agreement, by unit prices, or by the cost of the work plus a fee. Differing site conditions clauses (Type I, differing from the contract's indication; Type II, differing from conditions ordinary for the locality) allocate subsurface risk to the owner when the conditions differ, and they are conditioned on strict and timely notice, often within a stated number of days. Read the notice requirements for both changes and differing conditions, because notice is a condition precedent in many contracts, and a claim barred for late notice is lost regardless of merit. Document every differing condition contemporaneously, with photographs, logs, and the contract indication it differs from, because the contemporaneous record is the evidence. The trap is treating a differing condition as a field problem resolved by direction, without the notice and documentation the clause requires, so the contractor's later claim is unsupported or time-barred.
+
+### Evaluate Termination, Liquidated Damages, and Time Extensions
+
+Termination clauses define the grounds (contractor default, owner convenience, termination for cause), the notice and cure periods, and the consequences for payment, demobilization, and completion by others, and they are invoked only with strict adherence to the procedural steps. Liquidated damages are a per-day amount for delay beyond the contract completion date, and to be enforceable they must be a reasonable estimate of the owner's actual anticipated loss, not a penalty, and the contract should state the basis for the amount. Time extensions excuse delay under the excusable-delay clause, which defines whether delays are compensable (owner-caused, with cost and time) or non-compensable (force majeure, with time only), and the notice and documentation requirements parallel those for differing conditions. Evaluate concurrent delay, where owner-caused and contractor-caused delays overlap, because concurrent delay can bar recovery of delay damages even when an excusable delay exists. The trap is a liquidated damages clause struck down as a penalty because it bore no relation to actual anticipated loss, or a time extension denied for late notice when the delay was genuine.
+
+### Review Insurance, Bonds, and the Risk Allocation Envelope
+
+The contract requires the contractor to carry insurance (commercial general liability, workers' compensation, automobile, and often professional liability and builders risk) and to provide performance and payment bonds, typically from a surety on a stated form and in the contract amount. Read the insurance requirements for the coverage types, limits, additional insureds, and waivers of subrogation, because gaps in coverage leave the owner exposed, and confirm that the additional insured endorsement actually extends to the owner and the engineer. Review the performance bond for the surety's obligations on default and the payment bond for the protection of subcontractors and suppliers, because the bonds are the owner's recourse if the contractor fails. Confirm the contractual limitations of liability, indemnification obligations, and the waiver of consequential damages, which together define the risk envelope, and flag any clause that shifts risk in a way the party did not intend. The trap is accepting a certificate of insurance that does not match the contract requirements, or a bond from a surety without the capacity to perform, leaving the owner without recourse at the moment of default.
+
+## Common Traps
+
+### The General Conditions Signed Without Reading the Risk Allocation
+
+A party signs or administers a contract built on AIA A201 or EJCDC general conditions without reading the actual clauses, assuming they are standard. The mechanism is that the same documents carry different risk allocations across versions and supplementary conditions. The false signal is a familiar-looking form. The harm is a risk the party did not know it accepted, surfaced only when a problem tests the clause.
+
+### The Front-Loaded Schedule of Values
+
+A contractor's schedule of values over-values early items like mobilization and excavation, so the owner pays disproportionately for incomplete work. The mechanism is that payment flows from the schedule percentages, and front-loading accelerates cash to the contractor. The false signal is a schedule that totals the contract sum. The harm is the owner overpaying if the contractor defaults mid-project, with no leverage to recover.
+
+### The Differing Condition Resolved Without Notice
+
+A differing site condition is encountered and resolved by field direction, without the written notice the contract requires within the stated period. The mechanism is that notice is a condition precedent, and late or missing notice bars the claim. The false signal is that the work proceeded. The harm is a meritorious cost or time claim lost because the notice was not given, or a dispute over what was communicated.
+
+### The Liquidated Damages Struck Down as a Penalty
+
+A liquidated damages clause sets a per-day amount far above any realistic estimate of the owner's loss, and a court later voids it as a penalty. The mechanism is that enforceable liquidated damages must be a reasonable pre-estimate of actual loss, not punitive. The false signal is a high number that looks protective. The harm is the owner recovering nothing for delay because the clause was unenforceable, losing the protection it appeared to provide.
+
+## Self-Check
+
+- Have I read the actual general conditions (AIA A201, EJCDC, or owner form) clause by clause as a risk allocation, and do the supplementary conditions modify only what the project requires without creating inconsistencies?
+- Is the payment structure (schedule of values, application timing, retainage, interest on late payment, dispute procedures) reviewed for front-loading, and is the retainage consistent with the intended cash-flow and protection balance?
+- For any change or differing site condition, did I apply the correct clause (change order, construction change directive, Type I or II differing condition), meet the notice deadlines, and document the condition contemporaneously?
+- Are the termination, liquidated damages, and time-extension clauses internally consistent, with liquidated damages tied to a reasonable estimate of actual loss and excusable-delay provisions distinguishing compensable from non-compensable delay?
+- Do the insurance requirements (types, limits, additional insureds, waivers) and the performance and payment bonds (surety capacity, form, amount) match the contract, and have I flagged indemnification and limitation-of-liability clauses that shift risk?
+- Where legal interpretation or drafting is required, have I deferred to counsel rather than opining on enforceability, and have I documented the risk-allocation decisions in the contract record?

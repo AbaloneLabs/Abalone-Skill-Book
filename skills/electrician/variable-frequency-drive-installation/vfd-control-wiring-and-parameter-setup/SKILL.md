@@ -1,0 +1,75 @@
+---
+name: vfd-control-wiring-and-parameter-setup.md
+description: Use when the agent is wiring VFD control circuits, programming drive parameters, commissioning motor control, selecting 4-20mA versus 0-10V speed reference, configuring start-stop and safety inputs including Safe Torque Off, setting V/Hz versus vector control modes, performing auto-tune, or integrating Modbus, BACnet, or Ethernet communication with variable-frequency drives.
+---
+
+# VFD Control Wiring and Parameter Setup
+
+A variable-frequency drive that is wired for power but left at factory default parameters is a motor controller that does not yet know what motor it is driving, what speed reference it should follow, how it should start and stop, or how it should protect itself and its operators. The judgment problem is that the control wiring and the parameter setup are where a VFD installation succeeds or fails in operation, and they are also where electricians most often default to "it works" rather than "it is correct." A drive that runs the motor is not a drive that runs it well, runs it safely, or runs it reliably. The speed reference may be noisy, the start-stop logic may ignore a safety input, the control mode may be wrong for the load, the auto-tune may be skipped, and the communication may be wired but non-functional. This skill covers the control wiring discipline, the parameter decisions that define the drive's behavior, the safety integration that protects people, and the commissioning that proves the system works as intended.
+
+## Core Rules
+
+### Separate Control Wiring From Power Wiring to Prevent Noise Coupling
+
+VFD control wiring (the speed reference, the start-stop inputs, the status outputs, the communication) carries low-voltage signals that are easily corrupted by the drive's high-frequency PWM noise and the power wiring's electromagnetic fields. Control wiring must be run in separate conduits or separated from power wiring by the distance the manufacturer specifies (commonly 12 inches or more), and analog signals must use shielded twisted pair with the shield grounded at one end. The trap is bundling the control wires with the motor and line power wires for convenience, so the PWM noise couples into the speed reference and the drive hunts or oscillates. The defense is to route control wiring in separate raceways, use shielded twisted pair for analog signals, ground the shield at one end only to avoid ground loops, and cross power wiring at 90 degrees where crossing is unavoidable.
+
+### Choose the Speed Reference Type for Noise Immunity and Distance
+
+The speed reference is typically 4-20mA (current loop), 0-10V (voltage), or a digital value over a communication network. A 4-20mA current loop is highly immune to noise and voltage drop over long runs, because the current is the signal and is not affected by lead resistance, and a broken wire produces a readable under-range (below 4mA) rather than a silent zero. A 0-10V voltage reference is simpler but susceptible to noise and voltage drop over distance. A digital reference over Modbus, BACnet, or Ethernet is the most robust and carries the actual commanded value without analog drift. The trap is defaulting to 0-10V for a long run in a noisy environment, so the reference picks up noise and the motor speed wanders. The defense is to prefer 4-20mA or a digital network for noisy or long runs, reserving 0-10V for short clean runs, and to scale the analog values correctly in both the controller and the drive.
+
+### Wire the Start-Stop and Safety Inputs Per the Required Logic and Safety Level
+
+The start-stop logic and the safety inputs must be wired to match the operational and safety requirements. The start input may be a maintained two-wire control (the drive runs when the input is present) or a momentary three-wire control (start and stop buttons with a seal-in), and the choice depends on the control system. The safety input, typically Safe Torque Off (STO), removes the drive's torque without removing power, and for a safety-rated application it must be wired through a safety relay or safety PLC to the drive's STO terminals, with the wiring meeting the safety integrity level required. The trap is wiring a standard stop input in place of the STO for a safety application, or wiring the STO without the safety relay, so the safety function does not meet its required level. The defense is to identify the safety requirement, wire the STO through a certified safety device to the dedicated STO terminals, and use the correct start-stop logic for the control scheme.
+
+### Select V/Hz or Vector Control Mode for the Load Characteristic
+
+The drive's control mode must match the load. Volts-per-Hertz (V/Hz, also called scalar) control maintains a constant voltage-to-frequency ratio and is simple, stable, and adequate for variable-torque loads like centrifugal pumps and fans where high torque precision is not needed. Sensorless vector control estimates the motor's flux and torque and produces high starting torque and precise speed regulation, suitable for constant-torque loads like conveyors and positive-displacement pumps. Closed-loop vector control uses a motor-mounted encoder for precise speed and torque control, used for positioning and high-precision applications. The trap is leaving the drive in V/Hz mode for a constant-torque load that needs high starting torque, so the motor stalls or trips on overload, or using vector mode unnecessarily for a fan where V/Hz would be simpler and more stable. The defense is to identify the load's torque and speed-regulation requirements and select V/Hz for variable-torque loads, sensorless vector for constant-torque loads, and closed-loop vector only where positioning or precision demands it.
+
+### Enter Exact Motor Nameplate Data and Perform the Auto-Tune
+
+A vector control mode depends on an accurate model of the motor's electrical characteristics, which the drive builds from the nameplate data (voltage, current, frequency, speed, power) and an auto-tune (rotating or static) that measures the motor's inductance and resistance. The trap is entering the nameplate data approximately and skipping the auto-tune, so the drive's model does not match the motor, the current regulation is poor, and the drive hunts, trips, or fails to produce rated torque. The defense is to enter the exact nameplate data, perform the auto-tune per the manufacturer's procedure (rotating, with the motor uncoupled, where possible, or static if the load cannot be uncoupled), and re-tune whenever the motor is replaced.
+
+### Configure the Protection Parameters to Protect the Motor and the Load
+
+The drive's protection parameters (motor overload, overcurrent, overvoltage, undervoltage, stall detection, input and output phase loss) must be set to protect the specific motor and load. The motor overload parameter must match the motor's full-load current and service factor. The overcurrent and stall limits must be set to allow normal operation but trip on a real fault. The trap is leaving the protection at defaults that do not match the motor, so the drive either nuisance-trips on a normal load or fails to trip on an overload that damages the motor. The defense is to set the motor overload to the nameplate full-load current, set the current limits to the load's normal operating envelope, and verify the protection trips correctly during commissioning.
+
+### Integrate Communication via Modbus, BACnet, or Ethernet With Verified Points
+
+Modern VFDs often integrate with a building automation system or a PLC via Modbus, BACnet, EtherNet/IP, or another network. The integration requires the correct protocol option card, the correct wiring (RS-485 for Modbus, twisted pair for BACnet MS/TP, Ethernet cabling for IP), the correct addressing, and a verified points list that maps the drive's speed, status, faults, and alarms to the controller. The trap is wiring the communication and assuming it works, then discovering that the points are mis-mapped, the baud rate is wrong, or the termination is missing, so the controller reads garbage or nothing. The defense is to install the correct protocol card, wire and terminate the network per the standard, configure the addressing and baud rate, and verify each point end to end during commissioning.
+
+## Common Traps
+
+### Bundling Control Wiring With Power Wiring and Inducing Noise
+
+The speed reference and control wires are bundled in the same conduit with the VFD's input and output power wires for convenience, and a 0-10V voltage reference is chosen for a 200-foot run across the plant. The mechanism of the failure is twofold: the PWM output and line current induce noise into the low-voltage control circuits, and the long voltage reference is both attenuated by lead resistance and corrupted by the induced noise, so the drive receives a noisy, scaled-down reference and the motor speed drifts, wanders, or oscillates, especially at low speeds where the reference signal is small. The false signal is that the control wires are connected and the reference produces a speed change when adjusted, which proves conductivity and an open path but not signal integrity, accuracy, or stability. The harm is unstable motor speed, nuisance trips, process variation, and a system that cannot hold a setpoint. The defense is to route control wiring in separate raceways, use shielded twisted pair for analog signals, and prefer a 4-20mA current loop or a digital network for long or noisy runs.
+
+### Wiring a Standard Stop Input in Place of STO for a Safety Function
+
+A safety function is required, but the installer wires a standard stop input instead of the dedicated STO terminals, or wires the STO without a safety relay. The mechanism of the failure is that a standard stop input is not safety-rated; it depends on the drive's firmware to remove torque, and a single fault in the drive could leave torque present, so the safety function does not meet its required integrity level. The false signal is that the motor stops when the input is triggered, which proves the function works in the normal case but not under a fault. The harm is a safety function that fails to danger under a drive fault, risking injury. The defense is to wire the STO through a certified safety device to the dedicated STO terminals.
+
+### Leaving the Drive in V/Hz Mode for a Constant-Torque Load
+
+A conveyor (constant-torque load) is driven by a VFD left in the default V/Hz mode. The mechanism of the failure is that V/Hz control does not estimate or regulate torque, so at low speed or under high load the motor cannot produce the torque the load demands, the motor slips, stalls, or trips on overload. The false signal is that the motor runs at full speed under light load, which proves the drive works but not that it can produce torque at low speed. The harm is stalling, tripping, and an inability to control the load across the speed range. The defense is to select sensorless or closed-loop vector mode for constant-torque loads.
+
+### Skipping the Auto-Tune and Running on Default Motor Parameters
+
+The drive is installed, the nameplate data is entered approximately, and the system starts without an auto-tune. The mechanism of the failure is that the drive's motor model is based on generic parameters rather than the actual motor's measured inductance and resistance, so the current regulation and torque estimation are wrong, the drive produces poor low-speed torque, hunts, or nuisance-trips on overcurrent. The false signal is that the motor turns and produces some torque, which proves operation but not correct regulation. The harm is chronic nuisance trips and poor performance that may lead to unnecessary drive or motor replacement. The defense is to enter exact nameplate data and perform the auto-tune per the manufacturer.
+
+### Leaving Protection Parameters at Defaults That Do Not Match the Motor
+
+The motor overload and current limit parameters are left at factory defaults that do not match the installed motor. The mechanism of the failure is that the default overload may be set for a larger motor (failing to protect the actual motor) or a smaller motor (nuisance-tripping on normal load), and the current limit may allow a stall to persist or trip on a normal acceleration. The false signal is that the drive runs the motor, which proves operation but not protection. The harm is either unprotected motor overheating or chronic nuisance trips. The defense is to set the overload to the nameplate full-load current and the current limit to the load's normal envelope, and to verify the protection trips during commissioning.
+
+### Wiring Communication Without Verifying the Points End to End
+
+The Modbus or BACnet wiring is landed, the addresses are set, and the integration is declared complete without verifying each point. The mechanism of the failure is that a baud rate mismatch, a missing termination resistor, a mis-mapped register, or a reversed polarity produces garbage data or no data at the controller, and the error is discovered only when the operator tries to use the system. The false signal is that the communication LED is active, which proves traffic but not correct data. The harm is a non-functional integration that requires a return visit and may mislead the operator. The defense is to verify each point end to end during commissioning.
+
+## Self-Check
+
+- Did I route the control wiring in separate raceways from the power wiring, use shielded twisted pair for analog signals, ground the shield at one end only, and cross power wiring at 90 degrees where crossing is unavoidable?
+- Did I choose the speed reference type (4-20mA, 0-10V, or digital network) based on noise immunity and run length, preferring current loop or digital for long or noisy runs, and scale the values correctly in both controller and drive?
+- Did I wire the start-stop logic for the control scheme, and for any safety function did I wire the STO through a certified safety device to the dedicated STO terminals to meet the required safety integrity level?
+- Did I select V/Hz mode for variable-torque loads (fans, pumps), sensorless vector for constant-torque loads (conveyors, positive-displacement pumps), and closed-loop vector only where positioning or precision demands it?
+- Did I enter the exact motor nameplate data and perform the auto-tune (rotating, with the motor uncoupled, where possible), and re-tune whenever the motor is replaced?
+- Did I set the motor overload to the nameplate full-load current, set the current and stall limits to the load's normal envelope, and verify the protection trips correctly during commissioning?
+- For communication integration, did I install the correct protocol card, wire and terminate the network per the standard, configure the addressing and baud rate, and verify each point end to end?
+- Is the control wiring, parameter setup, safety integration, and commissioning data documented so another practitioner can review, maintain, and reproduce the configuration?
