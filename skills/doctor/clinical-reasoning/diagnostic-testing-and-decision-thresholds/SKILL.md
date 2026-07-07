@@ -72,3 +72,4 @@ Telling patients a condition is definitively excluded when probability is merely
 - Where pre-test probability is high and treatment is low-harm and time-sensitive, am I treating empirically rather than delaying for confirmation?
 - Have I communicated residual uncertainty honestly — what is ruled out, what remains likely, and the warning signs that should prompt return?
 - When the workup is unrevealing, am I reassessing the differential rather than repeating the same tests?
+- This guidance is educational and does not substitute for professional clinical judgment; when in doubt or when red flags appear, seek immediate specialist consultation and follow institutional protocols.

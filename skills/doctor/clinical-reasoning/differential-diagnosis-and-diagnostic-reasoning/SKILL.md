@@ -81,3 +81,4 @@ Relying on intuitive Type 1 reasoning when the presentation is atypical or high-
 - Have I named the cognitive biases that threaten this reasoning and countered them?
 - Have I used Type 2 analytical reasoning rather than Type 1 intuition for atypical, complex, or high-stakes presentations?
 - Does my documentation capture the differential, the reasoning, and the plan if the working diagnosis is wrong, not just the conclusion?
+- This guidance is educational and does not substitute for professional clinical judgment; when in doubt or when red flags appear, seek immediate specialist consultation and follow institutional protocols.
